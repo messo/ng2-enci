@@ -29,10 +29,9 @@ export class AssociationCard {
   @Input() set task(value: Association) {
     this._task = value;
     if (this._chosen == null) {
-      this.options = Array.apply(null, Array(value.legends.length)).map(function () {
+      this.options = Array.apply(null, Array(value.items.length)).map(function () {
       });
     }
-    console.log(this.task.items);
   }
 
 

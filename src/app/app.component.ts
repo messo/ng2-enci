@@ -5,12 +5,13 @@ import {RouterActive} from './router-active';
 import {Database} from './database';
 import {Quiz} from './quiz';
 import {LocalStorageService} from 'angular2-localstorage/LocalStorageEmitter';
+import {History, Recent} from "./history";
 
 @Component({
   selector: 'app',
   pipes: [],
   providers: [Database, LocalStorageService],
-  directives: [RouterActive],
+  directives: [],
   encapsulation: ViewEncapsulation.None,
   styles: [
     require('normalize.css'),
@@ -19,7 +20,9 @@ import {LocalStorageService} from 'angular2-localstorage/LocalStorageEmitter';
   template: require('./app.html')
 })
 @RouteConfig([
-  {path: '/', name: 'Quiz', component: Quiz, useAsDefault: true}
+  {path: '/', name: 'Quiz', component: Quiz, useAsDefault: true},
+  {path: '/history', name: 'History', component: History},
+  {path: '/recent', name: 'Recent', component: Recent}
 ])
 export class App {
   angularclassLogo = 'assets/img/angularclass-avatar.png';
@@ -30,12 +33,12 @@ export class App {
   }
 
   ngOnInit() {
-    if (this.appState.currentTaskIndex == -1) {
+    if (this.appState.currentTask == null) {
       this.database.getData()
         .subscribe(
           data => {
-            this.appState.tasks = data;
-            this.appState.currentTaskIndex = 0;
+            this.appState.remainingTasks = data;
+            this.appState.nextTask();
             this.appState.loading = false;
           }
         );
