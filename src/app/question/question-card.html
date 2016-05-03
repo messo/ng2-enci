@@ -1,0 +1,33 @@
+<form (ngSubmit)="submitAnswer()" autocomplete="off">
+
+  <md-card *ngIf="question">
+    <md-card-subtitle>{{ question.id }}</md-card-subtitle>
+    <md-card-title>{{ question.text }}</md-card-title>
+
+    <md-card-content>
+
+      <p *ngFor="#moreText of question.moreText">
+        {{moreText}}
+      </p>
+
+      <md-radio-group [(ngModel)]="solution">
+        <div *ngFor="#answer of question.answers">
+          <md-radio-button [value]="answer.letter" class="md-primary" [disabled]="chosen"
+                           [ngClass]="{
+                           good: chosen && answer.letter == question.solution.letter,
+                           bad: chosen && answer.letter != question.solution.letter && answer.letter == chosen,
+                           off: chosen && answer.letter != question.solution.letter && answer.letter != chosen}">
+            <b>{{answer.letter}})</b> {{answer.text}}
+          </md-radio-button>
+        </div>
+      </md-radio-group>
+
+    </md-card-content>
+
+    <md-card-actions layout="column" layout-align="start" *ngIf="!chosen">
+      <button md-raised-button color="accent" [disabled]="!solution">Következő</button>
+    </md-card-actions>
+
+  </md-card>
+
+</form>

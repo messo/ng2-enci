@@ -1,0 +1,20 @@
+body {
+  background-color: #00ff00;
+}
+
+md-radio-button.good {
+  color: #00c853;
+  font-weight: bold;
+}
+
+md-radio-button.bad {
+  color: gray;
+}
+
+md-radio-button.off {
+  opacity: 0.15;
+}
+
+:host .md-radio-label {
+  white-space: normal !important;
+}

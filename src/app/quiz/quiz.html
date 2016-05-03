@@ -1,0 +1,24 @@
+<md-toolbar color="primary">
+  <span>Tesztelő</span>
+
+  <span class="fill-remaining"></span>
+
+  <button *ngIf="appState.get('mode') == 'EXERCISE'" md-raised-button="" (click)="onCheck()">Ellenőrzés</button>
+  <button *ngIf="appState.get('mode') == 'CHECK'" md-raised-button="" (click)="onContinue()">Folytatás</button>
+</md-toolbar>
+
+<div class="md-content">
+  <question-card *ngIf="exerciseMode && currentTaskIsQuestion" [question]="appState.currentTask"
+            (answer)="onQuestionAnswer($event)"></question-card>
+
+  <association-card *ngIf="exerciseMode && currentTaskIsAssociation" [task]="appState.currentTask"
+                 (answer)="onAssociation($event)"></association-card>
+
+  <div *ngIf="appState.get('mode') == 'CHECK'">
+    <div *ngFor="#answer of answers">
+      <question-card *ngIf="isQuestion(answer)" [question]="answer.task" [chosen]="answer.answerLetter"></question-card>
+      <association-card *ngIf="isAssociation(answer)" [task]="answer.task" [chosen]="answer.answerLetters"></association-card>
+    </div>
+  </div>
+
+</div>

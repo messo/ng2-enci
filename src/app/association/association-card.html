@@ -1,0 +1,51 @@
+<form (ngSubmit)="submitAnswer()" autocomplete="off">
+
+  <md-card>
+    <md-card-subtitle>{{ task.id }}</md-card-subtitle>
+    <md-card-title>{{ task.text }}</md-card-title>
+
+    <md-card-content>
+
+      <table>
+        <tr *ngFor="#item of task.items;#itemIndex = index">
+          <td>{{item.text}}</td>
+
+          <td>
+            <md-radio-group [(ngModel)]="options[itemIndex]" [disabled]="chosen">
+              <md-radio-button *ngFor="#option of task.legends" [value]="option.letter" class="md-primary"
+                               [ngClass]="{
+                               good: chosen && option.letter == item.match,
+                               bad: chosen && option.letter != item.match && option.letter == chosen[itemIndex],
+                               off: chosen && option.letter != item.match && option.letter != chosen[itemIndex]
+                               }">
+                {{option.letter}}
+              </md-radio-button>
+            </md-radio-group>
+          </td>
+
+          <td *ngIf="chosen">
+            {{legendFor(item.match)}}
+          </td>
+
+        </tr>
+      </table>
+
+    </md-card-content>
+  </md-card>
+
+  <md-card>
+    <md-card-subtitle>Jelmagyarázat</md-card-subtitle>
+    <md-card-content>
+      <p *ngFor="#option of task.legends">
+        <b>{{option.letter}})</b> {{option.text}}
+      </p>
+
+    </md-card-content>
+
+    <md-card-actions layout="column" layout-align="start" *ngIf="!chosen">
+      <button md-raised-button color="accent" [disabled]="!allOptionSelected">Következő</button>
+    </md-card-actions>
+
+  </md-card>
+
+</form>
