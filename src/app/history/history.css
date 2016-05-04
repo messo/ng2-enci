@@ -5,3 +5,7 @@
 div.md-content {
   padding: 16px;
 }
+
+.list-sub-title {
+  color: rgba(0, 0, 0, 0.54);
+}

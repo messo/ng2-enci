@@ -23,7 +23,6 @@ export class AssociationCard {
   @Input() set chosen(value: string[]) {
     this._chosen = value;
     this.options = value;
-    console.log(this.options);
   }
 
   @Input() set task(value: Association) {
