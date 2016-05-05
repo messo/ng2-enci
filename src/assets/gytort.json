@@ -1,0 +1,1345 @@
+[ {
+  "id" : "GYTÖRT - 1.1",
+  "text" : "Ki a gyógyítás istene az ókori görögök szerint?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Zeusz"
+  }, {
+    "letter" : "B",
+    "text" : "Aszklépiosz"
+  }, {
+    "letter" : "C",
+    "text" : "Hermész"
+  }, {
+    "letter" : "D",
+    "text" : "Dioszkoridész"
+  }, {
+    "letter" : "E",
+    "text" : "Artemisz"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Aszklépiosz"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.2",
+  "text" : "Kitől származik a \"Nil nocere\" elve?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Hügieia"
+  }, {
+    "letter" : "B",
+    "text" : "Apollón"
+  }, {
+    "letter" : "C",
+    "text" : "Plinius"
+  }, {
+    "letter" : "D",
+    "text" : "Panakeia"
+  }, {
+    "letter" : "E",
+    "text" : "Hippokratész"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Hippokratész"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.3",
+  "text" : "Kitől ered a következő meghatározás: Minden dolog méreg, és semmi sem méregmentes, egyedül a dózis teszi, ha valami nem méreg\"?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Galenus"
+  }, {
+    "letter" : "B",
+    "text" : "Ehrlich"
+  }, {
+    "letter" : "C",
+    "text" : "Paracelsus"
+  }, {
+    "letter" : "D",
+    "text" : "Avicenna"
+  }, {
+    "letter" : "E",
+    "text" : "Dioszkoridész"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Paracelsus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.4",
+  "text" : "Kinek a nevéhez kötődik a \"contraria contrariis\" elv?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Aszklépiosz"
+  }, {
+    "letter" : "B",
+    "text" : "Avicenna"
+  }, {
+    "letter" : "C",
+    "text" : "Dioszkoridész"
+  }, {
+    "letter" : "D",
+    "text" : "Galenus"
+  }, {
+    "letter" : "E",
+    "text" : "Plinius"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Galenus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.5",
+  "text" : "A felsoroltak közül melyiket tekintjük Avicenna fő művének?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Indiai gyógynövények"
+  }, {
+    "letter" : "B",
+    "text" : "Materia medica"
+  }, {
+    "letter" : "C",
+    "text" : "Kánon"
+  }, {
+    "letter" : "D",
+    "text" : "Kivonatok és tinktúrák"
+  }, {
+    "letter" : "E",
+    "text" : "Etimológia"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Kánon"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.6",
+  "text" : "Jelölje meg a gyógyszerészek védőszentjét!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Szent Kristóf"
+  }, {
+    "letter" : "B",
+    "text" : "Szent Antal"
+  }, {
+    "letter" : "C",
+    "text" : "Szent Teréz"
+  }, {
+    "letter" : "D",
+    "text" : "Szent Ferenc"
+  }, {
+    "letter" : "E",
+    "text" : "Szent Damjan"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Szent Damjan"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.7",
+  "text" : "Melyik városban hozták létre az első európai gyógyszertárat?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Rómában"
+  }, {
+    "letter" : "B",
+    "text" : "Brüsszelben"
+  }, {
+    "letter" : "C",
+    "text" : "Nápolyban"
+  }, {
+    "letter" : "D",
+    "text" : "Párizsban"
+  }, {
+    "letter" : "E",
+    "text" : "Londonban"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Nápolyban"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.8",
+  "text" : "Hol nem működött kolostori kórház Magyarországon, Szent István király korában?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Pécsváradon"
+  }, {
+    "letter" : "B",
+    "text" : "Pannonhalmán"
+  }, {
+    "letter" : "C",
+    "text" : "Jákon"
+  }, {
+    "letter" : "D",
+    "text" : "Esztergomban"
+  }, {
+    "letter" : "E",
+    "text" : "Bakonybélen"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Jákon"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.9",
+  "text" : "Az orvosi és a gyógyszerészi gyakorlat elkülönítése melyik XIII. századi törvényhez köthető?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Budai Törvénykönyv"
+  }, {
+    "letter" : "B",
+    "text" : "Novae Constitutiones"
+  }, {
+    "letter" : "C",
+    "text" : "Statuta Civitatis Budensis"
+  }, {
+    "letter" : "D",
+    "text" : "Lex Sanitaria Ferdinandina"
+  }, {
+    "letter" : "E",
+    "text" : "Generale Normativum in Re Sanitatis"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Novae Constitutiones"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.10",
+  "text" : "Melyik a magyar gyógyszerészet első írásos emléke?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "De medicina"
+  }, {
+    "letter" : "B",
+    "text" : "Pray-kódex"
+  }, {
+    "letter" : "C",
+    "text" : "Medicina pauperum"
+  }, {
+    "letter" : "D",
+    "text" : "Vademecum Hungaria"
+  }, {
+    "letter" : "E",
+    "text" : "Norma Pauperum"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Pray-kódex"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.11",
+  "text" : "Az alábbiak közül melyik fogalom kötődik Paracelsus nevéhez?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "quinta essentia"
+  }, {
+    "letter" : "B",
+    "text" : "emplastrum"
+  }, {
+    "letter" : "C",
+    "text" : "materia medica"
+  }, {
+    "letter" : "D",
+    "text" : "decoctum"
+  }, {
+    "letter" : "E",
+    "text" : "sympatheia"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "quinta essentia"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.12",
+  "text" : "Melyik uralkodónak 1241-ben kiadott rendeletéhez köthető a mai európai gyógyszerészet önállósodásának kezdete?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "I. Lajos nápolyi király"
+  }, {
+    "letter" : "B",
+    "text" : "IV. Fülöp"
+  }, {
+    "letter" : "C",
+    "text" : "II. Frigyes"
+  }, {
+    "letter" : "D",
+    "text" : "Nagy Károly"
+  }, {
+    "letter" : "E",
+    "text" : "I. Zsigmond"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "II. Frigyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.13",
+  "text" : "Melyik törvény rendelkezik legkorábban a magyarországi gyógyszertárak működéséről?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Taxa Pharmaceutica"
+  }, {
+    "letter" : "B",
+    "text" : "Materiae Medicae"
+  }, {
+    "letter" : "C",
+    "text" : "Generale Normativum in Re Sanitatis"
+  }, {
+    "letter" : "D",
+    "text" : "Budai Törvénykönyv"
+  }, {
+    "letter" : "E",
+    "text" : "Taxa Medicamentorum"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Budai Törvénykönyv"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.14",
+  "text" : "Kinek a nevéhez fűződik a morfin izolálása?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Staudinger"
+  }, {
+    "letter" : "B",
+    "text" : "Bernoulli"
+  }, {
+    "letter" : "C",
+    "text" : "Sertürner"
+  }, {
+    "letter" : "D",
+    "text" : "Harvey"
+  }, {
+    "letter" : "E",
+    "text" : "Galvani"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Sertürner"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.15",
+  "text" : "Melyik kifejezés bevezetése fűződik Ereky Károlyhoz?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "nanotechnológia"
+  }, {
+    "letter" : "B",
+    "text" : "bioinformatika"
+  }, {
+    "letter" : "C",
+    "text" : "kronoterápia"
+  }, {
+    "letter" : "D",
+    "text" : "biotechnológia"
+  }, {
+    "letter" : "E",
+    "text" : "pulzáló rendszer"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "biotechnológia"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.16",
+  "text" : "Mikor államosították Magyarországon a gyógyszertárakat?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "1948"
+  }, {
+    "letter" : "B",
+    "text" : "1949"
+  }, {
+    "letter" : "C",
+    "text" : "1950"
+  }, {
+    "letter" : "D",
+    "text" : "1951"
+  }, {
+    "letter" : "E",
+    "text" : "1952"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "1950"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.17",
+  "text" : "Kinek a nevéhez fűződik a karbamid első szintézise?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Kölbe"
+  }, {
+    "letter" : "B",
+    "text" : "Wöhler"
+  }, {
+    "letter" : "C",
+    "text" : "Ostwald"
+  }, {
+    "letter" : "D",
+    "text" : "Schleiden"
+  }, {
+    "letter" : "E",
+    "text" : "Lindt"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Wöhler"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.18",
+  "text" : "Ki fedezte fel az ultramikroszkópot?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Kolbe"
+  }, {
+    "letter" : "B",
+    "text" : "Than"
+  }, {
+    "letter" : "C",
+    "text" : "Proust"
+  }, {
+    "letter" : "D",
+    "text" : "Zsigmondy"
+  }, {
+    "letter" : "E",
+    "text" : "Winkler"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Zsigmondy"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.19",
+  "text" : "Ki alkalmazta elsőként embernél az intravénás injekciót gyógyászati céllal?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Wren"
+  }, {
+    "letter" : "B",
+    "text" : "Wood"
+  }, {
+    "letter" : "C",
+    "text" : "Major"
+  }, {
+    "letter" : "D",
+    "text" : "Pasteur"
+  }, {
+    "letter" : "E",
+    "text" : "Linné"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Major"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.20",
+  "text" : "Válassza ki a Galenus munkásságára vonatkozó legjellemzőbb megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "gyógyszereket vezetett be jól meghatározott összetételben és minőségben"
+  }, {
+    "letter" : "B",
+    "text" : "a iatrokémia megalapítója"
+  }, {
+    "letter" : "C",
+    "text" : "tőle származik az egyedi gyógyszerrendelés"
+  }, {
+    "letter" : "D",
+    "text" : "alkímiával is foglalkozott"
+  }, {
+    "letter" : "E",
+    "text" : "Kr. e. 131-ben született"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "gyógyszereket vezetett be jól meghatározott összetételben és minőségben"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.21",
+  "text" : "Kiknek a nevéhez fűződik a lágy zselatin kapszulák bevezetése?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Murdock és Wren"
+  }, {
+    "letter" : "B",
+    "text" : "Murdock és Mothes"
+  }, {
+    "letter" : "C",
+    "text" : "Mothes és Dublanc"
+  }, {
+    "letter" : "D",
+    "text" : "Murdock és Scherer"
+  }, {
+    "letter" : "E",
+    "text" : "Scherer és Mothes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Mothes és Dublanc"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.22",
+  "text" : "Magyarországon 1871-ben került kiadásra:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a Bécsi Gyógyszerkönyv"
+  }, {
+    "letter" : "B",
+    "text" : "az első Magyar Gyógyszerkönyv"
+  }, {
+    "letter" : "C",
+    "text" : "a Budai Törvénykönyv"
+  }, {
+    "letter" : "D",
+    "text" : "a Taxa Medicamentorum"
+  }, {
+    "letter" : "E",
+    "text" : "a Vademecum Hungaria"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "az első Magyar Gyógyszerkönyv"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.23",
+  "text" : "Kinek a nevéhez fűződik a tablettázógép feltalálása?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Kilian"
+  }, {
+    "letter" : "B",
+    "text" : "Fette"
+  }, {
+    "letter" : "C",
+    "text" : "Brockedom"
+  }, {
+    "letter" : "D",
+    "text" : "Engler"
+  }, {
+    "letter" : "E",
+    "text" : "Manesty"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Brockedom"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.24",
+  "text" : "Dost alkalmazta elsőként az alábbi kifejezést:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "farmakodinámia"
+  }, {
+    "letter" : "B",
+    "text" : "kronofarmakoterápia"
+  }, {
+    "letter" : "C",
+    "text" : "farmakokinetika"
+  }, {
+    "letter" : "D",
+    "text" : "farmakológia"
+  }, {
+    "letter" : "E",
+    "text" : "biotechnológia"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "farmakokinetika"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.25",
+  "text" : "Kinek a nevéhez köthető a liposzómák felfedezése?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Sumio"
+  }, {
+    "letter" : "B",
+    "text" : "Bangham"
+  }, {
+    "letter" : "C",
+    "text" : "Kroto"
+  }, {
+    "letter" : "D",
+    "text" : "Curl"
+  }, {
+    "letter" : "E",
+    "text" : "Papahadjopoulos"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Bangham"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.26",
+  "text" : "Válassza ki a helyes megállapításokat Aszklépioszra!",
+  "moreText" : [ "1)     Artemisz fia", "2)     Kosz szigetén alkalmazott speciális eljárás volt az \" incubatio\", azaz alvás közbeni gyógyulás alkalmazása", "3)     két gyermeke volt, akik szintén az orvoslásban értek el nagy eredményeket", "4)     templomában a papokat \"therapeuták\"-nak, a hozzájuk forduló betegeket \"kliné\"-nek nevezték" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.27",
+  "text" : "Mi a hippokratészi tanítás lényege?",
+  "moreText" : [ "1)     meghatározza az orvosi tevékenység szakterületeit", "2)     az orvosi működés alapja az erkölcsi tisztaság, az orvosi etika törvényeinek megtartása", "3)     biztosítja a betegek alkotmányos jogait", "4)     használni a betegnek, de legalább nem ártani" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.28",
+  "text" : "Melyek a helyes megállapítások Dioszkoridészre?",
+  "moreText" : [ "1)     fő műve a \"De materia medica\"", "2)     Démokritoszhoz fűzte szoros barátság", "3)     Marcus Aurelius császár udvari orvosa volt", "4)     növénytani művei miatt szokás a \"botanika atyjának\" nevezni" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.29",
+  "text" : "A Norma Pauperumra vonatkozó állítások közül válassza ki a helyeset!",
+  "moreText" : [ "1)     szabványos vénygyűjtemény, a Formulae Normales elődje", "2)     eleinte csak a szegény sorsú betegek gyógyszerellátásának egységesítését volt hivatva szolgálni", "3)     összesen hat kiadást ért meg", "4)     először 1871-ben adták ki" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.30",
+  "text" : "Az első Magyar Gyógyszerkönyvre vonatkozó állítások közül válassza ki a helyeseket!",
+  "moreText" : [ "1)     megjelenése előtt a Bécsi Gyógyszerkönyv volt hivatalos", "2)     megírását az Országos Közegészségügyi Tanács rendelte el", "3)     magyar és latin nyelven nyomtatták ki", "4)     magyar és német nyelven nyomtatták ki" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.31",
+  "text" : "Melyik állítások igazak Nikolics Károllyal kapcsolatban?",
+  "moreText" : [ "1)     a Nemzetközi Gyógyszerésztörténeti Társaság elnöke volt", "2)     1994-ben a lisszaboni FIP Kongresszuson életműdíjjal tüntették ki", "3)     a FIP elnöke volt", "4)     az államosítás után nyugdíjba vonulásáig a soproni Than Károly gyógyszertárat vezette" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.32",
+  "text" : "Melyik állítások helyesek Winkler Lajossal kapcsolatban?",
+  "moreText" : [ "1)     Than Károly tanársegédje volt", "2)     a magyar gyógyszerészi kémia megalapítója", "3)     doktori értekezésében a vízben oldott oxigén meghatározásával foglalkozott", "4)     az V. Magyar Gyógyszerkönyv szerkesztőbizottságának tagja volt" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.33",
+  "text" : "Melyik állítások igazak Rozsnyay Mátyással kapcsolatban?",
+  "moreText" : [ "1)     a kecskeméti Szentháromsághoz címzett gyógyszertár tulajdonosa volt", "2)     közalapítványt létesített fiatal gyógyszerészek tudományos munkájának támogatására", "3)     1886-ban szabadalmaztatta a Chininum tannicum-ot", "4)     Szabadszálláson született" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.34",
+  "text" : "Melyik állítások nem vonatkoznak Paul Ehrlichre?",
+  "moreText" : [ "1)     felvetette a szelektív gyógyítás lehetőségét", "2)     a modern kemoterápia úttörője és az immunológia egyik megalapítója", "3)     megálmodta a \"magic pill\"- t, a varázslatos pirulát", "4)     felfedezte a Prontosil rubrum-ot" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.35",
+  "text" : "Melyik állítások helyesek Alexander Fleminggel kapcsolatban?",
+  "moreText" : [ "1)     skót származású bakteriológus", "2)     kísérleti állatokon is tanulmányozta a penicillin hatását", "3)     elsőként adott embereknek tífusz elleni védőoltást", "4)     sikerült a penicillint tisztított formában előállítania" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.36",
+  "text" : "Melyik állítások igazak az aszpirinnel kapcsolatban?",
+  "moreText" : [ "1)     Felix Hoffmann kémiailag tiszta és stabil formában állította elő", "2)     1899-ben szabadalmaztatták", "3)     a szintetikus gyógyszeripar kezdetének tekinthető a Kolbe-féle szalicilsav- szintézis kidolgozása", "4)     kémiai szerkezetét Edward Stone, marburgi professzor állapította meg 1859-ben" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.37",
+  "text" : "Melyik állítások helyesek Kazay Endrével kapcsolatban?",
+  "moreText" : [ "1)     refraktométert és polarimétert szerkesztett", "2)     Vértesacsán született", "3)     Budapesten a Galenus gyógyszervegyészeti gyár üzemvezetője volt", "4)     a Gyógyszerészet című lap főmunkatársa volt" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.38",
+  "text" : "Melyik állítások vonatkoznak Richter Gedeonra?",
+  "moreText" : [ "1)     1896-ban született", "2)     1907-ben Kőbányán gyárat alapított", "3)     adrenalint vont ki a mellékvese kéregállományából", "4)     a budapesti Sas Patika gyógyszertár laboratóriumában organoterápiás készítmények előállításával kísérletezett" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.39",
+  "text" : "Mária Terézia Generale Normativum in Re Sanitatis rendeletére vonatkozó állítások közül válassza ki a helyeseket!",
+  "moreText" : [ "1)     csak az orvosok működését szabályozza", "2)     előírja oklevél megszerzését a gyógyszerészi tevékenység gyakorlásához", "3)     intézkedik az orvosi kézi gyógyszertárról", "4)     1770-ben jelent meg" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYTÖRT - 1.40",
+  "text" : "Csoportosítsa a személyeket és tevékenységüket! ",
+  "items" : [ {
+    "text" : "Schulek Elemér",
+    "match" : "C"
+  }, {
+    "text" : "Mozsonyi Sándor",
+    "match" : "B"
+  }, {
+    "text" : "Winkler Lajos",
+    "match" : "D"
+  }, {
+    "text" : "Kabay János",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "módszert dolgozott ki a morfin kinyerésére száraz mákszalmából"
+  }, {
+    "letter" : "B",
+    "text" : "az elsők között vizsgálta a kábítószerek toxikológiai hatását"
+  }, {
+    "letter" : "C",
+    "text" : "a korszerű gyógyszerellenőrzés megteremtője"
+  }, {
+    "letter" : "D",
+    "text" : "doktori értekezésében a vízben oldott oxigén meghatározásával foglalkozott"
+  }, {
+    "letter" : "E",
+    "text" : "Chininum tannicum előállítása"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYTÖRT - 1.41",
+  "text" : "Mikor jelentek meg az alábbi törvények? ",
+  "items" : [ {
+    "text" : "1241",
+    "match" : "B"
+  }, {
+    "text" : "1552",
+    "match" : "D"
+  }, {
+    "text" : "1644",
+    "match" : "A"
+  }, {
+    "text" : "1770",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Lex Sanitaria Ferdinandina"
+  }, {
+    "letter" : "B",
+    "text" : "Novae Constitutiones"
+  }, {
+    "letter" : "C",
+    "text" : "Generale Normativum in Re Sanitatis"
+  }, {
+    "letter" : "D",
+    "text" : "Ordo politiae"
+  }, {
+    "letter" : "E",
+    "text" : "Leges Sanitariae Leopoldinae"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYTÖRT - 1.42",
+  "text" : "Csoportosítsa a személyeket és felfedezésüket! ",
+  "items" : [ {
+    "text" : "vis vitalis elmélet megdöntése",
+    "match" : "B"
+  }, {
+    "text" : "elektromágneses indukció",
+    "match" : "A"
+  }, {
+    "text" : "radioaktív sugárzás",
+    "match" : "E"
+  }, {
+    "text" : "szalicilsav szintézise",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Michael Faraday"
+  }, {
+    "letter" : "B",
+    "text" : "Friedrich Wöhler"
+  }, {
+    "letter" : "C",
+    "text" : "Adolf Wilhelm Hermann Kolbe"
+  }, {
+    "letter" : "D",
+    "text" : "Mattias Jacob Schleiden"
+  }, {
+    "letter" : "E",
+    "text" : "Antoine Becquerel"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYTÖRT - 1.43",
+  "text" : "Csoportosítsa a törvényeket és a bennük foglalt intézkedéseket ",
+  "items" : [ {
+    "text" : "az európai orvoslás és gyógyszerészet első szétválasztása",
+    "match" : "B"
+  }, {
+    "text" : "előírta a gyógyszertárak felügyeletét",
+    "match" : "A"
+  }, {
+    "text" : "kimondta, hogy a gyógyszertár közegészségügyi intézmény",
+    "match" : "D"
+  }, {
+    "text" : "elsőként átfogóan szabályozta a magyar egészségügy működését",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Ordo politiae"
+  }, {
+    "letter" : "B",
+    "text" : "Novae Constitutiones"
+  }, {
+    "letter" : "C",
+    "text" : "Generale Normativum in Re Sanitatis"
+  }, {
+    "letter" : "D",
+    "text" : "1876. évi XIV. törvény"
+  }, {
+    "letter" : "E",
+    "text" : "Lex Sanitaria Ferdinandina"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYTÖRT - 1.44",
+  "text" : "Kinek sikerült elsőként izolálni az alábbi alkaloidokat? ",
+  "items" : [ {
+    "text" : "atropin",
+    "match" : "F"
+  }, {
+    "text" : "morfin",
+    "match" : "B"
+  }, {
+    "text" : "kodein",
+    "match" : "E"
+  }, {
+    "text" : "papaverin",
+    "match" : "C"
+  }, {
+    "text" : "kinin",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Joseph Pelletier"
+  }, {
+    "letter" : "B",
+    "text" : "Friedrich Sertürner"
+  }, {
+    "letter" : "C",
+    "text" : "Georg Franz Merck"
+  }, {
+    "letter" : "D",
+    "text" : "Sune Bergström"
+  }, {
+    "letter" : "E",
+    "text" : "Pierre Jean Robiquet"
+  }, {
+    "letter" : "F",
+    "text" : "Friedrich Ferdinand Runge"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYTÖRT - 1.45",
+  "text" : "Kinek a nevéhez fűződik az alábbi antibiotikumok felfedezése? ",
+  "items" : [ {
+    "text" : "Selman Waksman",
+    "match" : "A"
+  }, {
+    "text" : "Paul Ehrlich",
+    "match" : "B"
+  }, {
+    "text" : "Giuseppe Brotzu",
+    "match" : "D"
+  }, {
+    "text" : "Gerhard Domagk",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "sztreptomicin"
+  }, {
+    "letter" : "B",
+    "text" : "salvarsan"
+  }, {
+    "letter" : "C",
+    "text" : "prontosil"
+  }, {
+    "letter" : "D",
+    "text" : "cefalosporin"
+  }, {
+    "letter" : "E",
+    "text" : "penicillin"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYTÖRT - 1.46",
+  "text" : "Csoportosítsa a személyeket és felfedezésüket! ",
+  "items" : [ {
+    "text" : "vérkeringés",
+    "match" : "D"
+  }, {
+    "text" : "tuberkulózis és kolera kórokozója",
+    "match" : "B"
+  }, {
+    "text" : "kuráre hatásmechanizmusa",
+    "match" : "C"
+  }, {
+    "text" : "sejtelmélet",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Theodor Jacob Schleiden"
+  }, {
+    "letter" : "B",
+    "text" : "Robert Koch"
+  }, {
+    "letter" : "C",
+    "text" : "Claude Bernard"
+  }, {
+    "letter" : "D",
+    "text" : "Willian Harvey"
+  }, {
+    "letter" : "E",
+    "text" : "William Withering"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYTÖRT - 1.47",
+  "text" : "Kapcsolja össze a személyeket és felfedezésüket!  ",
+  "items" : [ {
+    "text" : "Alec D. Bangham",
+    "match" : "B"
+  }, {
+    "text" : "Harold Kroto",
+    "match" : "D"
+  }, {
+    "text" : "Jozeph Dunblanc",
+    "match" : "A"
+  }, {
+    "text" : "Robert Pauli Scherer",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "lágy zselatin kapszula"
+  }, {
+    "letter" : "B",
+    "text" : "iposzóma"
+  }, {
+    "letter" : "C",
+    "text" : "automatizált kapszulagyártás"
+  }, {
+    "letter" : "D",
+    "text" : "fullerén"
+  }, {
+    "letter" : "E",
+    "text" : "DNS szerkezete"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYTÖRT - 1.48",
+  "text" : "Párosítsa az alábbi gyógyszerkönyveket és a szerkesztésében résztvevőket! ",
+  "items" : [ {
+    "text" : "Bókay Árpád",
+    "match" : "B"
+  }, {
+    "text" : "Than Károly",
+    "match" : "A"
+  }, {
+    "text" : "Schulek Elemér",
+    "match" : "C"
+  }, {
+    "text" : "Végh Antal",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "I. Magyar Gyógyszerkönyv"
+  }, {
+    "letter" : "B",
+    "text" : "III. Magyar Gyógyszerkönyv"
+  }, {
+    "letter" : "C",
+    "text" : "V. Magyar Gyógyszerkönyv"
+  }, {
+    "letter" : "D",
+    "text" : "VII. Magyar Gyógyszerkönyv"
+  }, {
+    "letter" : "E",
+    "text" : "VIII. Magyar Gyógyszerkönyv"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYTÖRT - 1.49",
+  "text" : "Kapcsolja össze a neveket és fogalmakat!  ",
+  "items" : [ {
+    "text" : "farmakokinetika",
+    "match" : "D"
+  }, {
+    "text" : "biofarmáciai osztályozási rendszer",
+    "match" : "B"
+  }, {
+    "text" : "biogyógyszerészet",
+    "match" : "C"
+  }, {
+    "text" : "receptorelmélet",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Torsten Teorell"
+  }, {
+    "letter" : "B",
+    "text" : "Gordon L. Amidon"
+  }, {
+    "letter" : "C",
+    "text" : "Gerhard Levy"
+  }, {
+    "letter" : "D",
+    "text" : "Friedrich Hartmut Dost"
+  }, {
+    "letter" : "E",
+    "text" : "Paul Ehrlich"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYTÖRT - 1.50",
+  "text" : "Csoportosítsa a felfedezőket és felfedezéseiket! ",
+  "items" : [ {
+    "text" : "mikroszkóp",
+    "match" : "E"
+  }, {
+    "text" : "veszettség elleni oltás",
+    "match" : "A"
+  }, {
+    "text" : "himlővakcina",
+    "match" : "C"
+  }, {
+    "text" : "fenolftalein hashajtó hatása",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Pasteur"
+  }, {
+    "letter" : "B",
+    "text" : "Békésy György"
+  }, {
+    "letter" : "C",
+    "text" : "Jenner"
+  }, {
+    "letter" : "D",
+    "text" : "Vámossy Zoltán"
+  }, {
+    "letter" : "E",
+    "text" : "van Leeuwenhoek"
+  } ],
+  "type" : "ASSOCIATION"
+} ]

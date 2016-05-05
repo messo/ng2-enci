@@ -1,0 +1,4789 @@
+[ {
+  "id" : "BIOF - 5.1",
+  "text" : "Mi a diszpozíció jelentése?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a hatóanyag koncentrációjának csökkenése a központi kompartmentben más kompartmentek felé történő megoszlás és/vagy metabolizmus, elimináció révén"
+  }, {
+    "letter" : "B",
+    "text" : "a hatóanyag liberációja és megoszlása a központi kompartmentben"
+  }, {
+    "letter" : "C",
+    "text" : "a hatóanyag és a metabolitok megoszlása a központi és a perifériás kompartment között"
+  }, {
+    "letter" : "D",
+    "text" : "a hatóanyag eliminációja, disztribúció és exkréció révén"
+  }, {
+    "letter" : "E",
+    "text" : "a hatóanyag depóban történő raktározása, ill. fehérjéhez kötődése"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a hatóanyag koncentrációjának csökkenése a központi kompartmentben más kompartmentek felé történő megoszlás és/vagy metabolizmus, elimináció révén"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.2",
+  "text" : "Mit jelent a plazma-clearance?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az a százalékos farmakonmennyiség, mely időegység alatt a plazmából kitisztul"
+  }, {
+    "letter" : "B",
+    "text" : "az a plazmatérfogat, mely időegység alatt a farmakontól feltisztul"
+  }, {
+    "letter" : "C",
+    "text" : "az a hipotetikus plazmatérfogat, mely időegység alatt a nem metabolizált farmakontól feltisztul bármely eliminációs mechanizmus révén"
+  }, {
+    "letter" : "D",
+    "text" : "az a plazmatérfogat, mely 1 perc alatt a farmakontól feltisztul a májon történő keresztülhaladás révén"
+  }, {
+    "letter" : "E",
+    "text" : "az a plazmatérfogat, amely időegység alatt a farmakontól feltisztul a vesén át történő kiválasztás révén"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "az a hipotetikus plazmatérfogat, mely időegység alatt a nem metabolizált farmakontól feltisztul bármely eliminációs mechanizmus révén"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.3",
+  "text" : "Válassza ki a késleltetett hatóanyag-leadású készítményekre vonatkozó helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a gyógyszerkészítményből a gyomorba jutva azonnal elkezdődik a hatóanyag kioldódása"
+  }, {
+    "letter" : "B",
+    "text" : "a bélben oldódó bevonattal ellátott készítményekkel is megvalósítható a késleltetett hatóanyag-leadás"
+  }, {
+    "letter" : "C",
+    "text" : "késleltetett hatóanyag-leadású készítmények alkalmazása során nőhet a mellékhatások kialakulásának valószínűsége"
+  }, {
+    "letter" : "D",
+    "text" : "a késleltetett hatóanyag-leadású készítmények eliminációs sebessége is megváltozik"
+  }, {
+    "letter" : "E",
+    "text" : "a késleltetett hatóanyag-leadás nincs hatással az abszorpcióra"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a bélben oldódó bevonattal ellátott készítményekkel is megvalósítható a késleltetett hatóanyag-leadás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.4",
+  "text" : "Mely adatok alapján dönthető el, hogy a farmakonból lehet-e nyújtott hatású készítményt kifejleszteni?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "clearance"
+  }, {
+    "letter" : "B",
+    "text" : "a plazmaszint vs idő függvény görbe alatti területe"
+  }, {
+    "letter" : "C",
+    "text" : "biológiai felezési idő"
+  }, {
+    "letter" : "D",
+    "text" : "felszívódás sebességi állandója"
+  }, {
+    "letter" : "E",
+    "text" : "\"first-pass effect\""
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "biológiai felezési idő"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.5",
+  "text" : "Milyen típusú készítmények esetén történik a hatóanyag le­adása egy speciális méretű, lézerrel készített nyíláson keresztül?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "TTS tapaszok"
+  }, {
+    "letter" : "B",
+    "text" : "IUD rendszer"
+  }, {
+    "letter" : "C",
+    "text" : "OCUSERT rendszer"
+  }, {
+    "letter" : "D",
+    "text" : "OROS rendszer"
+  }, {
+    "letter" : "E",
+    "text" : "flotációs rendszer"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "OROS rendszer"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.6",
+  "text" : "Mely faktor nem befolyásolja a farmakonok biohasznosíthatóságát?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a vérszint vs idő görbe alatti terület nagysága (AUC)"
+  }, {
+    "letter" : "B",
+    "text" : "a maximális plazmakoncentráció értéke"
+  }, {
+    "letter" : "C",
+    "text" : "a farmakon terápiás hatásszélessége"
+  }, {
+    "letter" : "D",
+    "text" : "a maximális plazmakoncentráció eléréséhez szükséges idő"
+  }, {
+    "letter" : "E",
+    "text" : "a táplálék minősége és mennyisége"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a farmakon terápiás hatásszélessége"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.7",
+  "text" : "Mit értünk biológiai felezési idő alatt?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "azt az időtartamot, amely alatt a farmakon fele elbomlik a szervezetben"
+  }, {
+    "letter" : "B",
+    "text" : "azt az időtartamot, amely alatt a beadott farmakon koncentrációja a szervezetben a felére csökken"
+  }, {
+    "letter" : "C",
+    "text" : "azt az időtartamot, amely alatt a biológiai hatásoknak csak a fele fejlődik ki"
+  }, {
+    "letter" : "D",
+    "text" : "azt az időtartamot, amely alatt a farmakonnak csak a fele metabolizálódik"
+  }, {
+    "letter" : "E",
+    "text" : "azt az időtartamot, amely alatt a farmakon fele felszabadul a fehérjéhez kötött állapotból"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "azt az időtartamot, amely alatt a beadott farmakon koncentrációja a szervezetben a felére csökken"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.8",
+  "text" : "A terápiás hatóanyag-leadó rendszerek működésének alapvető fel­tétele:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "műanyagok alkalmazásával biztosítja a működést"
+  }, {
+    "letter" : "B",
+    "text" : "csak szilárd alakban tartalmazhatja a hatóanyagot"
+  }, {
+    "letter" : "C",
+    "text" : "biodegradábilis polimerek biztosítják a szabályozott hatóanyagfelszabadulást"
+  }, {
+    "letter" : "D",
+    "text" : "rendelkezik egy szabályozó egységgel és programozott hatóanyag felszabadításra képes"
+  }, {
+    "letter" : "E",
+    "text" : "a hatóanyag szabaddá válását minden esetben a határoló membrán áteresztőképessége (pórusnagysága) határozza meg"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "rendelkezik egy szabályozó egységgel és programozott hatóanyag felszabadításra képes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.9",
+  "text" : "Melyik állítás jellemző az intravénás adagolási módra?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "mikrokristályos szuszpenzió is beadható"
+  }, {
+    "letter" : "B",
+    "text" : "a túladagolás nem korrigálható"
+  }, {
+    "letter" : "C",
+    "text" : "pH 7,4-től jelentősen eltérő kémhatású oldatok nem adhatók be"
+  }, {
+    "letter" : "D",
+    "text" : "lokális hatás kiváltására is alkalmas"
+  }, {
+    "letter" : "E",
+    "text" : "csak 10 ml-nél kisebb beviteli térfogat alkalmazható"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a túladagolás nem korrigálható"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.10",
+  "text" : "Mit jelent a „first-pass effect\" kifejezés?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a bélből felszívódó farmakon először a nagyvérkörbe kerül a májat megkerülve"
+  }, {
+    "letter" : "B",
+    "text" : "a bélből felszívódó farmakon a májon való első áthaladás során metabolizálódik"
+  }, {
+    "letter" : "C",
+    "text" : "a leggyorsabb hatással rendelkező"
+  }, {
+    "letter" : "D",
+    "text" : "a bélből felszívódó farmakon először az epén keresztül választódik ki"
+  }, {
+    "letter" : "E",
+    "text" : "a vér-agy gáton átjutó szereknek elsősorban centrális hatásuk van"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a bélből felszívódó farmakon a májon való első áthaladás során metabolizálódik"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.11",
+  "text" : "Melyik anyagra nem jellemző az enziminduktor hatás?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "androgénekre"
+  }, {
+    "letter" : "B",
+    "text" : "spironolaktonra"
+  }, {
+    "letter" : "C",
+    "text" : "aminoglikozidokra"
+  }, {
+    "letter" : "D",
+    "text" : "glükokortikoidokra"
+  }, {
+    "letter" : "E",
+    "text" : "barbiturátokra"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "aminoglikozidokra"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.12",
+  "text" : "Mi a biofarmáciai kompartment definíciója?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a szervezet vízterének azon része, amely a vaszkuláris rendszeren belül található"
+  }, {
+    "letter" : "B",
+    "text" : "a szervezet teljes víztere"
+  }, {
+    "letter" : "C",
+    "text" : "a szervezet plazma és intracelluláris víztere"
+  }, {
+    "letter" : "D",
+    "text" : "a szervezet vízterének azon része, melyben az adott farmakon koncentrációjának változása azonos kinetika szerint megy végbe"
+  }, {
+    "letter" : "E",
+    "text" : "a szervezet víztereinek anatómiailag behatárolt része"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a szervezet vízterének azon része, melyben az adott farmakon koncentrációjának változása azonos kinetika szerint megy végbe"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.13",
+  "text" : "Mit jelent a „lag time\"?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "azt az időtartamot, amely a beadást követően szükséges ahhoz, hogy a farmakon elérje a terápiás vérszint alsó határát"
+  }, {
+    "letter" : "B",
+    "text" : "azt az időtartamot, amely a beadást követően szükséges a maximális hatás eléréséhez"
+  }, {
+    "letter" : "C",
+    "text" : "azt az időtartamot, amely a beadást követően szükséges ahhoz, hogy a farmakon megjelenjen a vérben"
+  }, {
+    "letter" : "D",
+    "text" : "azt az időtartamot, amely a beadást követően a farmakológiai válasz kifejlődéséhez szükséges"
+  }, {
+    "letter" : "E",
+    "text" : "a plató eléréséhez szükséges időtartamot"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "azt az időtartamot, amely a beadást követően szükséges ahhoz, hogy a farmakon megjelenjen a vérben"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.14",
+  "text" : "Jelölje meg, melyik megállapítás téves!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a vaskészítmények gátolhatják a tetraciklinek felszívódását"
+  }, {
+    "letter" : "B",
+    "text" : "az enzimindukció halálos kimenetelű gyógyszerártalmat is okozhat"
+  }, {
+    "letter" : "C",
+    "text" : "tartós gyógyszerszedés hatásaként az endogén anyagok metabolizmusa is zavart szenvedhet"
+  }, {
+    "letter" : "D",
+    "text" : "a savas kémhatású gyógyszerek egymás renális kiválasztódását is gátolhatják"
+  }, {
+    "letter" : "E",
+    "text" : "a plazmafehérjékhez jól kötődő szerektől általában hosszan tartó farmakológiai hatás várható"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "a plazmafehérjékhez jól kötődő szerektől általában hosszan tartó farmakológiai hatás várható"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.15",
+  "text" : "Jelölje meg, melyik séma jellemzi a legjobban az önszabályozós rendszereket!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "liberáció-abszorpció-disztribúció-metabolizmus-exkréció"
+  }, {
+    "letter" : "B",
+    "text" : "liberáció-abszorpció-disztribúció-exkréció"
+  }, {
+    "letter" : "C",
+    "text" : "signum-liberáció-abszorpció-disztribúció-metabolizmus-exkréció"
+  }, {
+    "letter" : "D",
+    "text" : "disztribúció-metabolizmus-exkréció"
+  }, {
+    "letter" : "E",
+    "text" : "disztribúció-liberáció-metabolizmus-exkréció"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "signum-liberáció-abszorpció-disztribúció-metabolizmus-exkréció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.16",
+  "text" : "Jelölje meg a gyógyszerkészítmény nedvesedésére vonatkozó helyes megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a nedvesedés nincs összefüggésben a hatóanyag-leadással"
+  }, {
+    "letter" : "B",
+    "text" : "a nedvesedés mértéke a dezintegrációra csekély hatással van"
+  }, {
+    "letter" : "C",
+    "text" : "a nedvesedés jellemzésére a nedvesedési peremszög alkalmazható"
+  }, {
+    "letter" : "D",
+    "text" : "a Noyes-Whitney egyenlet fejezi ki a nedvesedés és a dezintegráció közti összefüggést"
+  }, {
+    "letter" : "E",
+    "text" : "az OROS rendszerek nem nedvesednek, a tápcsatornából változatlanul távoznak"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a nedvesedés jellemzésére a nedvesedési peremszög alkalmazható"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.17",
+  "text" : "Melyik az a módszer, mellyel nem lehet görbe alatti területet (AUC) meghatározni?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a legkisebb négyzetek módszere"
+  }, {
+    "letter" : "B",
+    "text" : "planimetriás módszerrel"
+  }, {
+    "letter" : "C",
+    "text" : "területméréssel"
+  }, {
+    "letter" : "D",
+    "text" : "trapezoid módszerrel"
+  }, {
+    "letter" : "E",
+    "text" : "görbeintegrálással"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a legkisebb négyzetek módszere"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.18",
+  "text" : "Profarmakonoknak nevezzük azokat a vegyületeket, melyek:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a molekula szubsztituenseinek számától és minőségétől függően, elérve a hatás kifejtésének helyét, hatékony molekulává alakulnak át"
+  }, {
+    "letter" : "B",
+    "text" : "a szervezetbe juttatáskor inaktív formában tartalmazzák a hatóanyagot, de elérve a hatás kifejtésének helyét, hatékony molekulává alakulnak át"
+  }, {
+    "letter" : "C",
+    "text" : "csökkentett oldékonyságú molekulakomplexek kialakításával a szervezetbe juttatáskor inaktív formában bioreverzibilis kötésben tartalmazzák a hatóanyagot, de elérve a hatás kifejtésének helyét, hatékony molekulává alakulnak át"
+  }, {
+    "letter" : "D",
+    "text" : "a farmakon kémiai módosításával, a vegyérték változtatásával inaktív formában jutnak be a szervezetbe, de elérve a hatás kifejtésének helyét, hatékony molekulává alakulnak át"
+  }, {
+    "letter" : "E",
+    "text" : "NH-savi csoporttal rendelkeznek és a beadást követően elérve a hatás helyét aktív, hatékony molekulává alakulnak át"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a szervezetbe juttatáskor inaktív formában tartalmazzák a hatóanyagot, de elérve a hatás kifejtésének helyét, hatékony molekulává alakulnak át"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.19",
+  "text" : "Válassza ki az injekciók hatástartamával kapcsolatos helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a hosszú hatástartamú injekciós készítmények vízben oldódó kristályos hatóanyagot tartalmaznak"
+  }, {
+    "letter" : "B",
+    "text" : "a rövid hatástartamú készítmények szuszpenzióban tartalmazzák a hatóanyagot"
+  }, {
+    "letter" : "C",
+    "text" : "a hosszú hatástartamú injekciós készítmények hatóideje akár 36 óra is lehet"
+  }, {
+    "letter" : "D",
+    "text" : "az injekciók fő hátránya a rendkívül gyors hatás"
+  }, {
+    "letter" : "E",
+    "text" : "az intramuszkuláris és szubkután injekciók hatásának kialakulása és mértéke nem különbözik szignifikáns mértékben egymástól"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a hosszú hatástartamú injekciós készítmények hatóideje akár 36 óra is lehet"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.20",
+  "text" : "Az alábbiak közül, melyik tekinthető invazív gyógyszeradagolási módnak?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szubkután adagolás"
+  }, {
+    "letter" : "B",
+    "text" : "transzdermális adagolás"
+  }, {
+    "letter" : "C",
+    "text" : "okuláris adagolás"
+  }, {
+    "letter" : "D",
+    "text" : "nazális adagolás"
+  }, {
+    "letter" : "E",
+    "text" : "rektális adagolás"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "szubkután adagolás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.21",
+  "text" : "Jelölje meg a passzív diffúzióra helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a farmakonok membránon való átjutásának legritkább módja"
+  }, {
+    "letter" : "B",
+    "text" : "a molekulák a koncentrációgradienssel szemben haladnak át a membránokon"
+  }, {
+    "letter" : "C",
+    "text" : "a Henderson-Hasselbalch-egyenlet szerint zajlik"
+  }, {
+    "letter" : "D",
+    "text" : "Fick törvénye írja le"
+  }, {
+    "letter" : "E",
+    "text" : "kizárólag a molekulák lipidoldékonyságától függ"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Fick törvénye írja le"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.22",
+  "text" : "Válassza ki az aktív transzportra jellemző helyes megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "kétirányú"
+  }, {
+    "letter" : "B",
+    "text" : "nem gátolható"
+  }, {
+    "letter" : "C",
+    "text" : "ATP-t igényel"
+  }, {
+    "letter" : "D",
+    "text" : "nincs szüksége karrierre"
+  }, {
+    "letter" : "E",
+    "text" : "karrierfehérjéhez kötött transzportfolyamat, amelyben a karrierfehérje a transzport után inaktiválódik"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "ATP-t igényel"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.23",
+  "text" : "Melyik modell jellemző a hatóanyag felszabadulását követően a farmakon és a szervezet kapcsolatára?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "disztribúció, abszorpció, metabolizmus, exkréció"
+  }, {
+    "letter" : "B",
+    "text" : "abszorpció, disztribúció, metabolizmus, exkréció"
+  }, {
+    "letter" : "C",
+    "text" : "liberáció, abszorpció, disztribúció, metabolizmus, exkréció"
+  }, {
+    "letter" : "D",
+    "text" : "liberáció, abszorpció, disztribúció, metabolizmus, elimináció"
+  }, {
+    "letter" : "E",
+    "text" : "abszorpció, disztribúció, metabolizmus, elimináció"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "abszorpció, disztribúció, metabolizmus, exkréció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.24",
+  "text" : "A hatóanyag abszorpciója általában független a(z):",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "hatóanyag mennyiségétől"
+  }, {
+    "letter" : "B",
+    "text" : "molekulaméretétől"
+  }, {
+    "letter" : "C",
+    "text" : "oldhatóságától"
+  }, {
+    "letter" : "D",
+    "text" : "felszívó felület környezeti pH-jától"
+  }, {
+    "letter" : "E",
+    "text" : "hatóanyag olvadáspontjától"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "hatóanyag olvadáspontjától"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.25",
+  "text" : "A szervezet folyadéktereire jellemző:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a teljes test víztér egészséges 70 kg-os ember esetében kb. 52 liter"
+  }, {
+    "letter" : "B",
+    "text" : "a teljes test víztér a vaszkuláris víztérből és az extravaszkuláris víztérből áll"
+  }, {
+    "letter" : "C",
+    "text" : "a vaszkuláris víztér 70 kg-os ember esetében kb. 8 liter"
+  }, {
+    "letter" : "D",
+    "text" : "az intracelluláris víztér a teljes víztér kb. 2/3 része"
+  }, {
+    "letter" : "E",
+    "text" : "az extracelluláris tér a teljes víztér kb. 1/4 része"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "az intracelluláris víztér a teljes víztér kb. 2/3 része"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.26",
+  "text" : "Melyik állítás jellemzi a gyógyszerek fehérjekötődését?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a gyógyszerek az érpályában általában irreverzibilisen kötődnek a vér makromolekuláihoz"
+  }, {
+    "letter" : "B",
+    "text" : "a legjelentősebb makromolekula a gyógyszermolekula-kötődés szempontjából a transzferrin"
+  }, {
+    "letter" : "C",
+    "text" : "a kötött és szabad molekulák között dinamikus egyensúly áll fenn a tömeghatás törvénye szerint"
+  }, {
+    "letter" : "D",
+    "text" : "a fehérjékhez erősen kötődő hatóanyagmolekulák is ki tudják fejteni hatásukat"
+  }, {
+    "letter" : "E",
+    "text" : "nem telítődik a kötődési kapacitás"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a kötött és szabad molekulák között dinamikus egyensúly áll fenn a tömeghatás törvénye szerint"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.27",
+  "text" : "A placentatranszferre jellemző:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az anyai és a magzati vér már a születés előtt is keveredik"
+  }, {
+    "letter" : "B",
+    "text" : "a placenta az anyai vér perctérfogatának mintegy 50%-át kapja"
+  }, {
+    "letter" : "C",
+    "text" : "a méhlepényen átjutó hatóanyag a magzatban fejlődési rendellenességet okozhat"
+  }, {
+    "letter" : "D",
+    "text" : "főleg a vízoldékony molekulák maradnak tartósan a magzatban"
+  }, {
+    "letter" : "E",
+    "text" : "a gyógyszerek rendszerint aktív transzporttal kerülnek át a placentán"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a méhlepényen átjutó hatóanyag a magzatban fejlődési rendellenességet okozhat"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.28",
+  "text" : "A metabolizmusra jellemző:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a metabolitok vízoldékonysága általában nagyobb, mint az eredeti vegyületé"
+  }, {
+    "letter" : "B",
+    "text" : "a metabolizmus következtében az eredeti vegyület toxicitása mindig csökken"
+  }, {
+    "letter" : "C",
+    "text" : "a metabolizmus a disztribúció előkészítő lépése"
+  }, {
+    "letter" : "D",
+    "text" : "a metabolizmus következtében mindig csökken vagy megszűnik a gyógyszerhatás"
+  }, {
+    "letter" : "E",
+    "text" : "a metabolizmus lassítható enzimindukciót kiváltó anyagok révén"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a metabolitok vízoldékonysága általában nagyobb, mint az eredeti vegyületé"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.29",
+  "text" : "Jelölje meg a profarmakonokra jellemző állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "olyan vegyületek, melyek a szervezet fiziológiás környezetében elszenvedett konjugációs folyamatok után válnak képessé a terápiás hatás kifejtésére"
+  }, {
+    "letter" : "B",
+    "text" : "az ilyen molekulák spontán úton vagy enzim hatására válnak aktív vegyületekké"
+  }, {
+    "letter" : "C",
+    "text" : "a szervezetbe jutáskor aktív formában tartalmazzák a hatóanyagot"
+  }, {
+    "letter" : "D",
+    "text" : "alkalmatlanok a gyógyszerhatás elnyújtására"
+  }, {
+    "letter" : "E",
+    "text" : "a \"first-pass effect\" kikerülésének egyik lehetséges módja"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "az ilyen molekulák spontán úton vagy enzim hatására válnak aktív vegyületekké"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.30",
+  "text" : "Adja meg a helyes választ az exkréciós folyamatokra vonatkozóan!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a gyógyszerek kiürülésében a máj tölti be a legfontosabb szerepet"
+  }, {
+    "letter" : "B",
+    "text" : "a bázikus vegyületek visszaszívódását a savas pH gátolja"
+  }, {
+    "letter" : "C",
+    "text" : "gyenge sav típusú vegyületek esetében a kiválasztás fokozódik NH4Cl adagolásával"
+  }, {
+    "letter" : "D",
+    "text" : "a tüdőn keresztül választódnak ki a szalicilátok"
+  }, {
+    "letter" : "E",
+    "text" : "az epével kiválasztott gyógyszervegyület nem tud újra felszívódni a gyomor-bél traktusból"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a bázikus vegyületek visszaszívódását a savas pH gátolja"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.31",
+  "text" : "Az exkréciós folyamatokra igaz:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a gyógyszerek kiválasztódhatnak a bronchus mirigyeiben is, pl. köptető hatású sók"
+  }, {
+    "letter" : "B",
+    "text" : "a nyálmirigyekben gyógyszer nem választódik ki"
+  }, {
+    "letter" : "C",
+    "text" : "az anyatej kémhatása enyhén savas, ezért a savas karakterű anyagok jelentős mértékben felszaporodhatnak a tejben"
+  }, {
+    "letter" : "D",
+    "text" : "ha a gyógyszer a csecsemőre ártalmas, de nélkülözhetetlen az anya kezelése, akkor sem kell a szoptatást felfüggeszteni"
+  }, {
+    "letter" : "E",
+    "text" : "általában az alacsony lipidoldékonyságú, nagy molekulatömeggel rendelkező vízoldékony molekulák jelennek meg az anyatejben"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a gyógyszerek kiválasztódhatnak a bronchus mirigyeiben is, pl. köptető hatású sók"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.32",
+  "text" : "Jelölje meg, melyik megállapítás helyes a kompartmentanalízisre!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a kompartment biológiai megfelelője olyan folyadéktér, amely általában egy meghatározott szerv, szervcsoport vagy szövet, ill. szövetcsoport anatómiai határaival esik egybe"
+  }, {
+    "letter" : "B",
+    "text" : "segítségével matematikai modelleket alkalmazva kiszámíthatjuk a vérplazma hatóanyag-tartalmát tetszőleges időpontban"
+  }, {
+    "letter" : "C",
+    "text" : "a farmakokinetika törvényszerűségeit polinom egyenletek alkalmazásával lehet leírni"
+  }, {
+    "letter" : "D",
+    "text" : "egykompartmentes modellt általában akkor alkalmazunk, ha a hatóanyag a beadását követően különböző koncentrációban oszlik meg a vérplazmában és a perifériás szövetekben"
+  }, {
+    "letter" : "E",
+    "text" : "az intravaszkuláris alkalmazást minden esetben egykompartmentes modellel írjuk le"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "segítségével matematikai modelleket alkalmazva kiszámíthatjuk a vérplazma hatóanyag-tartalmát tetszőleges időpontban"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.33",
+  "text" : "Adja meg az alábbi állítások közül a biológiai hasznosíthatóságra érvényes megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az abszolút biológiai hasznosíthatóság összehasonlítási alapjaként az infúziós adagolás szolgál"
+  }, {
+    "letter" : "B",
+    "text" : "a biológiai hasznosíthatóságot jellemző felszívódott farmakonhányad (F) értéke a vizeletürítési adatokból nem becsülhető meg"
+  }, {
+    "letter" : "C",
+    "text" : "a felszívódott farmakonhányad (F) számításánál azonos dózisok esetén is figyelembe kell venni a beadott hatóanyag mennyiségét"
+  }, {
+    "letter" : "D",
+    "text" : "a plazmaszint adatok alapján a felszívódott farmakonhányad (F) közvetlenül is mérhető"
+  }, {
+    "letter" : "E",
+    "text" : "a biológiai hasznosíthatóság kifejezhető azzal a terápiás hatást kifejtő százalékos hatóanyagmennyiséggel, amely a gyógyszerkészítményből jellegzetes sebességgel szabaddá válva és felszívódva eléri a szisztémás keringést, illetve a hatás helyét"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "a biológiai hasznosíthatóság kifejezhető azzal a terápiás hatást kifejtő százalékos hatóanyagmennyiséggel, amely a gyógyszerkészítményből jellegzetes sebességgel szabaddá válva és felszívódva eléri a szisztémás keringést, illetve a hatás helyét"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.34",
+  "text" : "Mi a jelentősége a hatóanyagok Biofarmáciai Osztályozási Rendszerének?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "útmutatást ad a készítmények tervezésében, melynek alapja a készítmény hatóanyagának ionizációs foka"
+  }, {
+    "letter" : "B",
+    "text" : "a készítmények tervezésében és az in vitro-in vivo összefüggések feltárásában ad útmutatást, melynek alapja a hatóanyag oldhatósága és permeabilitása"
+  }, {
+    "letter" : "C",
+    "text" : "útmutatást ad az alapvetően módosított hatóanyag-leadású készítmények tervezésében és az in vitro-in vivo összefüggések feltárásában, melynek alapja a hatóanyag oldhatósága és permeabilitása"
+  }, {
+    "letter" : "D",
+    "text" : "a hatóanyag és a gyógyszerforma fizikai-kémiai jellemzői meghatározzák a farmakon felszívódását"
+  }, {
+    "letter" : "E",
+    "text" : "a gyógyszerkészítmény hatóanyag-leadását sorolja megfelelő osztályba a készítményben alkalmazott segédanyagok gyógyszer-technológiai és biofarmáciai tulajdonságai alapján"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a készítmények tervezésében és az in vitro-in vivo összefüggések feltárásában ad útmutatást, melynek alapja a hatóanyag oldhatósága és permeabilitása"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.35",
+  "text" : "Válassza ki a helyes megállapítást az ozmotikus módosított hatóanyag-leadású rendszerekről!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az ozmotikus rendszerek a hatóanyagot rendszerint bélnedvben oldódó polimer membránburokkal határolt kamrában tartalmazzák"
+  }, {
+    "letter" : "B",
+    "text" : "a készítmény membránburka impermeábilis vízre, valamint gyomor- és bélnedvre"
+  }, {
+    "letter" : "C",
+    "text" : "a készítmény működése során a kialakuló ozmózisnyomás egy meghatározott átmérőjű nyíláson keresztül biztosítja a hatóanyag oldatának nulladrendű kiáramlását"
+  }, {
+    "letter" : "D",
+    "text" : "az ozmotikus rendszerekből a hatóanyag-leadás sebességét a hatóanyag oldhatóságán kívül a membrán tulajdonságai határozzák meg, a membránon levő nyílás átmérőjének nincs jelentősége"
+  }, {
+    "letter" : "E",
+    "text" : "a kiáramlást biztosító nyílás nagysága és a környezeti pH szabályozza a hatóanyag-leadási folyamat sebességét"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a készítmény működése során a kialakuló ozmózisnyomás egy meghatározott átmérőjű nyíláson keresztül biztosítja a hatóanyag oldatának nulladrendű kiáramlását"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.36",
+  "text" : "Jelölje meg, mely módszerek nem alkalmasak a transzdermális adagolású gyógyszerhordozó rendszerekből történő hatóanyag-leadás elősegítésére!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a felszívódási felület növelése"
+  }, {
+    "letter" : "B",
+    "text" : "iontoforézis alkalmazása"
+  }, {
+    "letter" : "C",
+    "text" : "mikrotűk alkalmazása"
+  }, {
+    "letter" : "D",
+    "text" : "liposzómák alkalmazása"
+  }, {
+    "letter" : "E",
+    "text" : "a hatóanyag molekulatömegének növelése"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "a hatóanyag molekulatömegének növelése"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.37",
+  "text" : "Az emésztőrendszerből történő perorális hatóanyag-felszívódás szempontjából meghatározó tényezők:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a gyomor-bélrendszer változó pH-viszonyai"
+  }, {
+    "letter" : "B",
+    "text" : "a nyelőcsőn való lassú áthaladási sebesség"
+  }, {
+    "letter" : "C",
+    "text" : "a colon abszorpciós felülete"
+  }, {
+    "letter" : "D",
+    "text" : "a szájüreg felszíne"
+  }, {
+    "letter" : "E",
+    "text" : "a szájüreg pH-ja"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a gyomor-bélrendszer változó pH-viszonyai"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.38",
+  "text" : "Jelölje meg a rektálisan alkalmazható gyógyszerhordozó rendszerekre jellemző megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "tervezésekor figyelembe kell venni a végbél perisztaltikus mozgását"
+  }, {
+    "letter" : "B",
+    "text" : "a végbél nagy nyáktartalma és enyhén savas pH-ja az enyhén savas karakterű farmakonok felszívódását teszi lehetővé"
+  }, {
+    "letter" : "C",
+    "text" : "lokális és szisztémás hatás elérésére is alkalmazhatjuk"
+  }, {
+    "letter" : "D",
+    "text" : "a kúpok szétterülését a kezelendő felületen a kúpalapanyag polimorfiára való hajlama határozza meg"
+  }, {
+    "letter" : "E",
+    "text" : "a rektális bevitel különösen előnyös nyújtott hatóanyag-leadású készítmények alkalmazására"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "lokális és szisztémás hatás elérésére is alkalmazhatjuk"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.39",
+  "text" : "Jelölje meg, melyik megállapítás téves az inhalációs gyógyszerhordozó rendszerek alkalmazhatóságára!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "A tüdőt elsősorban az óriási felület teszi alkalmassá az abszorpcióra."
+  }, {
+    "letter" : "B",
+    "text" : "A légzőrendszer különböző részeinek felülete és abszorpciós készsége eltérő."
+  }, {
+    "letter" : "C",
+    "text" : "Az alsóbb légutak kezeléséhez, illetve az alveolusok felületéről történő felszívódás elérésére az ideális részecskeméret az 5-8 μm-es tartomány."
+  }, {
+    "letter" : "D",
+    "text" : "A gázok és más illékony anyagok a tüdőn keresztül is kiválasztódhatnak."
+  }, {
+    "letter" : "E",
+    "text" : "Az 1 μm-nél kisebb részecskék terápiás szempontból csekély hatással rendelkeznek, mert a kilégzés során kijutnak a tüdőből."
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Az alsóbb légutak kezeléséhez, illetve az alveolusok felületéről történő felszívódás elérésére az ideális részecskeméret az 5-8 μm-es tartomány."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.40",
+  "text" : "Válassza ki, mely indikációs területen alkalmaznak transzdermális készítményeket!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "asztma terápiája"
+  }, {
+    "letter" : "B",
+    "text" : "diabétesz terápiája"
+  }, {
+    "letter" : "C",
+    "text" : "hiperlipidémia terápiája"
+  }, {
+    "letter" : "D",
+    "text" : "hányáscsillapítás"
+  }, {
+    "letter" : "E",
+    "text" : "allergia terápiája"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "hányáscsillapítás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.41",
+  "text" : "Mi a transzdermális kezelés előnye?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "elmarad az első májátáramlás"
+  }, {
+    "letter" : "B",
+    "text" : "szisztémás hatást tudnak kifejteni, mivel a készítmény közvetlen kapcsolatot alakít ki a keringési rendszerrel"
+  }, {
+    "letter" : "C",
+    "text" : "a felszívódási felület kicsi"
+  }, {
+    "letter" : "D",
+    "text" : "a hatóanyagok viszonylag kis hányada képes ezen az úton felszívódni"
+  }, {
+    "letter" : "E",
+    "text" : "első alkalmazáskor általában telítési időre van szükség"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "elmarad az első májátáramlás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.42",
+  "text" : "Válassza ki a transzdermális készítményekre jellemző helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "alkalmazásuk során néhány órán át a hatóanyag állandó vérszintjét lehet biztosítani"
+  }, {
+    "letter" : "B",
+    "text" : "a hatóanyag-leadás szabályozására alkalmasak a membrán által szabályozott és mátrix típusú rendszerek"
+  }, {
+    "letter" : "C",
+    "text" : "a helyi irritáció kialakulása még hosszantartó kezelés esetében sem áll fenn"
+  }, {
+    "letter" : "D",
+    "text" : "időegység alatt leadott hatóanyagmennyiség fordítottan arányos a tapasz területének nagyságával"
+  }, {
+    "letter" : "E",
+    "text" : "a tapaszok alkalmazásához nem szükséges ép bőrfelület"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a hatóanyag-leadás szabályozására alkalmasak a membrán által szabályozott és mátrix típusú rendszerek"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.43",
+  "text" : "Válassza ki a szemészeti gyógyszerkészítményekre jellemző helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a kötőhártyazsákban alkalmazott folyékony, félszilárd vagy szilárd halmazállapotú gyógyszerkészítmények"
+  }, {
+    "letter" : "B",
+    "text" : "a kötőhártyazsákban alkalmazott folyékony, félszilárd vagy szilárd halmazállapotú, steril gyógyszerkészítmények"
+  }, {
+    "letter" : "C",
+    "text" : "a kötőhártyán alkalmazott folyékony, félszilárd vagy szilárd halmazállapotú, steril gyógyszerkészítmények"
+  }, {
+    "letter" : "D",
+    "text" : "a szemgolyón és/vagy a kötőhártyán, valamint a kötőhártyazsákban alkalmazott folyékony, félszilárd vagy szilárd halmazállapotú, steril gyógyszerkészítmények"
+  }, {
+    "letter" : "E",
+    "text" : "a szemgolyón és/vagy a kötőhártyán, valamint a kötőhártyazsákban alkalmazott folyékony, félszilárd vagy szilárd halmazállapotú, sem patogén, sem apatogén mikrobát nem tartalmazó gyógyszerkészítmények"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a szemgolyón és/vagy a kötőhártyán, valamint a kötőhártyazsákban alkalmazott folyékony, félszilárd vagy szilárd halmazállapotú, steril gyógyszerkészítmények"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.44",
+  "text" : "Mely segédanyag növeli a szemészeti gyógyszerkészítmények szem felületén való tartózkodási idejét?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "poli-metil-metakrilát kopolimer"
+  }, {
+    "letter" : "B",
+    "text" : "70%-os etanol"
+  }, {
+    "letter" : "C",
+    "text" : "izopropil-alkohol"
+  }, {
+    "letter" : "D",
+    "text" : "Tween 20"
+  }, {
+    "letter" : "E",
+    "text" : "polivinil-alkohol"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "polivinil-alkohol"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.45",
+  "text" : "Válassza ki a hatóanyag-leadás vizsgálatára jellemző helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a vizsgálatok során nem vesszük figyelembe a gyomor-bélrendszer pH viszonyait"
+  }, {
+    "letter" : "B",
+    "text" : "a kioldódott hatóanyag mennyiségéből nem lehet következtetni a terápiás hatásra"
+  }, {
+    "letter" : "C",
+    "text" : "az alkalmazott készülék kiválasztása a vizsgált gyógyszerformától függ"
+  }, {
+    "letter" : "D",
+    "text" : "a módosított hatóanyag-leadású készítmények in vitro vizsgálata nem kivitelezhető"
+  }, {
+    "letter" : "E",
+    "text" : "a mikrorendszerek vizsgálata átfolyó cellában nem valósítható meg"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "az alkalmazott készülék kiválasztása a vizsgált gyógyszerformától függ"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.46",
+  "text" : "Válassza ki a gyógyszerkészítmények ételinterakcióira vonatkozó helytelen megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az étkezés befolyásolhatja a gyógyszert metabolizáló enzim működését"
+  }, {
+    "letter" : "B",
+    "text" : "a béltraktus perisztaltikájának gyorsulása következtében csökken a gyógyszerkészítmény gyomor-bélrendszerben való tartózkodási ideje"
+  }, {
+    "letter" : "C",
+    "text" : "a magas rosttartalmú táplálék hatására csökkenhet az abszorpció"
+  }, {
+    "letter" : "D",
+    "text" : "a táplálkozás a vizelet kémhatásának változtatásával módosíthatja a farmakon eliminációját"
+  }, {
+    "letter" : "E",
+    "text" : "az epeelválasztás fokozásával általában romlik a lipofil gyógyszerek oldódása és abszorpciója"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "az epeelválasztás fokozásával általában romlik a lipofil gyógyszerek oldódása és abszorpciója"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.47",
+  "text" : "Jelölje meg az exkrécióra vonatkozó helytelen megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az exkrécióban a vese mellett más szervek is részt vehetnek"
+  }, {
+    "letter" : "B",
+    "text" : "a hatóanyag anyatejben való megjelenéséért nem az exkréció a felelős"
+  }, {
+    "letter" : "C",
+    "text" : "a clearance értéke az exkrécióra jellemző"
+  }, {
+    "letter" : "D",
+    "text" : "a clearance értéke a vese működéséről is felvilágosítást ad"
+  }, {
+    "letter" : "E",
+    "text" : "leggyakrabban a kreatinin, ill. az inulin clearance értékeket használják összehasonlításra"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a hatóanyag anyatejben való megjelenéséért nem az exkréció a felelős"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.48",
+  "text" : "Jelölje meg a disztribúcióra vonatkozó helyes megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a disztribúció minden esetben megelőzi a liberációt"
+  }, {
+    "letter" : "B",
+    "text" : "a disztribúció a hatóanyag szisztémás vérkeringésbe jutását jelölő folyamat"
+  }, {
+    "letter" : "C",
+    "text" : "a szövetek vérellátása és a perfúzió sebessége befolyásolhatják a disztribúciót"
+  }, {
+    "letter" : "D",
+    "text" : "a lokális pH eltérések nincsenek hatással a disztribúció folyamatára"
+  }, {
+    "letter" : "E",
+    "text" : "a disztribúció folyamatának végén minden kompartmentben azonos hatóanyag-koncentráció alakul ki"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a szövetek vérellátása és a perfúzió sebessége befolyásolhatják a disztribúciót"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.49",
+  "text" : "Jelölje meg a gyógyszeres rágógumik hatóanyag-leadásának vizsgálatára vonatkozó helyes megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a vizsgáló készülék egy perc alatt 60 rágást hajt végre"
+  }, {
+    "letter" : "B",
+    "text" : "a rágókamra vizsgálati munkaterének térfogata 20 ml"
+  }, {
+    "letter" : "C",
+    "text" : "a munkatérben a mesterséges nyál pH értéke 5,5"
+  }, {
+    "letter" : "D",
+    "text" : "a munkatérben a mesterséges nyál hőmérséklete 32±0,5°C"
+  }, {
+    "letter" : "E",
+    "text" : "a munkatérben a mesterséges nyál hőmérséklete 35±0,5°C"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a vizsgáló készülék egy perc alatt 60 rágást hajt végre"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.50",
+  "text" : "Mely puffert vagy puffereket alkalmaznak a kioldódás-vizsgálatok során a pH 6,8 értékű kioldó közeg kémhatásának beállítására?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "HCl és NaCl"
+  }, {
+    "letter" : "B",
+    "text" : "foszfát puffer"
+  }, {
+    "letter" : "C",
+    "text" : "HCl és NaOH"
+  }, {
+    "letter" : "D",
+    "text" : "citromsav és nátrium-hidrogén-karbonát"
+  }, {
+    "letter" : "E",
+    "text" : "acetát puffer és NaOH"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "foszfát puffer"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.51",
+  "text" : "Milyen gyógyszerformák hatóanyag-leadás vizsgálatára alkalmazható a szitakorongos kioldódás-vizsgálati módszer?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "úszótabletták"
+  }, {
+    "letter" : "B",
+    "text" : "multipartikuláris gyógyszerformák"
+  }, {
+    "letter" : "C",
+    "text" : "transzdermális tapaszok"
+  }, {
+    "letter" : "D",
+    "text" : "orális szuszpenziók"
+  }, {
+    "letter" : "E",
+    "text" : "kúpok"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "transzdermális tapaszok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.52",
+  "text" : "Mely gyógyszerformák vizsgálhatók forgókosaras készülékkel?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "transzdermális tapaszok"
+  }, {
+    "letter" : "B",
+    "text" : "úszótabletták"
+  }, {
+    "letter" : "C",
+    "text" : "kenőcsök"
+  }, {
+    "letter" : "D",
+    "text" : "gyógyszeres rágógumik"
+  }, {
+    "letter" : "E",
+    "text" : "mikroemulziók"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "úszótabletták"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.53",
+  "text" : "Jelölje meg a hatóanyag-leadás vizsgálatának értékelési lehetőségeit!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "illeszkedési faktorok (f1, f2)"
+  }, {
+    "letter" : "B",
+    "text" : "lipid-víz megoszlási hányados"
+  }, {
+    "letter" : "C",
+    "text" : "folyadékhíd-modellek"
+  }, {
+    "letter" : "D",
+    "text" : "disszociációs állandó jellemzése"
+  }, {
+    "letter" : "E",
+    "text" : "ionizáció jellemzése"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "illeszkedési faktorok (f1, f2)"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.54",
+  "text" : "A Biofarmáciai Osztályozási Rendszer (BCS) alapján a III. osztályba tartoznak azok a hatóanyagok, amelyek:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "oldhatósága jó, permeabilitása jó"
+  }, {
+    "letter" : "B",
+    "text" : "oldhatósága rossz, permeabilitása jó"
+  }, {
+    "letter" : "C",
+    "text" : "oldhatósága rossz, permeabilitása rossz"
+  }, {
+    "letter" : "D",
+    "text" : "oldhatósága jó, permeabilitása rossz"
+  }, {
+    "letter" : "E",
+    "text" : "kioldódása jó, permeabilitása rossz"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "oldhatósága jó, permeabilitása rossz"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.55",
+  "text" : "Jelölje meg a plazmaszint-idő függvény görbe alatti területére vonatkozó helytelen állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "segítségével kiszámítható a clearance értéke"
+  }, {
+    "letter" : "B",
+    "text" : "értékét planimetriás eszközökkel is meghatározhatjuk"
+  }, {
+    "letter" : "C",
+    "text" : "értékével jellemezhetjük a biológiai hasznosíthatóságot"
+  }, {
+    "letter" : "D",
+    "text" : "különösen a kompartmentanalízisnél van nagy jelentősége"
+  }, {
+    "letter" : "E",
+    "text" : "felhasználható a metabolikus átalakulás jellemzésére is"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "különösen a kompartmentanalízisnél van nagy jelentősége"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.56",
+  "text" : "Melyik típusú készítmény nem tartozik a parenterálisan adagolható gyógyszerformák közé?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "oldat"
+  }, {
+    "letter" : "B",
+    "text" : "emulzió"
+  }, {
+    "letter" : "C",
+    "text" : "szuszpenzió"
+  }, {
+    "letter" : "D",
+    "text" : "pelletek"
+  }, {
+    "letter" : "E",
+    "text" : "liposzómák"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "pelletek"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.57",
+  "text" : "A gyomor-bélrendszer mely szakasza eshet pH 8 feletti tartományba?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "gyomor"
+  }, {
+    "letter" : "B",
+    "text" : "nyombél"
+  }, {
+    "letter" : "C",
+    "text" : "szájüreg"
+  }, {
+    "letter" : "D",
+    "text" : "éhbél"
+  }, {
+    "letter" : "E",
+    "text" : "csípőbél"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "éhbél"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.58",
+  "text" : "Válassza ki a helyes állítást a vaginális készítményekre vonatkozóan!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a vaginális felszívódást a nyálkahártya menstruációs cikluson belüli állapota nem befolyásolja"
+  }, {
+    "letter" : "B",
+    "text" : "a hüvelyben alkalmazott készítmények minden esetben félszilárd halmazállapotúak"
+  }, {
+    "letter" : "C",
+    "text" : "intravaginális abszorpció esetén a vérplazmaszint görbe maximummal rendelkezik"
+  }, {
+    "letter" : "D",
+    "text" : "az intravaginális abszorpciót az intercelluláris pórusok permeabilitási koefficiense nem befolyásolja"
+  }, {
+    "letter" : "E",
+    "text" : "vaginális gyógyszeradással csak helyi hatás érhető el"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "intravaginális abszorpció esetén a vérplazmaszint görbe maximummal rendelkezik"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.59",
+  "text" : "Mely hatóanyag nem szívódik fel transzdermálisan terápiás hatást kifejtő mértékben?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "nikotin"
+  }, {
+    "letter" : "B",
+    "text" : "paracetamol"
+  }, {
+    "letter" : "C",
+    "text" : "nitroglicerin"
+  }, {
+    "letter" : "D",
+    "text" : "lidokain"
+  }, {
+    "letter" : "E",
+    "text" : "fentanil"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "paracetamol"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.60",
+  "text" : "Mely alábbi anyagok alkalmazhatók műkönnyek segédanyagaként?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "hidroxi-propil-metilcellulóz"
+  }, {
+    "letter" : "B",
+    "text" : "szorbinsav"
+  }, {
+    "letter" : "C",
+    "text" : "polivinil-alkohol"
+  }, {
+    "letter" : "D",
+    "text" : "nátrium-klorid"
+  }, {
+    "letter" : "E",
+    "text" : "karbomer"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "szorbinsav"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.61",
+  "text" : "A szemészetben alkalmazott folyékony gyógyszerformák biológiai hasznosíthatósága alacsony, mivel:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "jól megtapadnak a cornea és a conjunctiva felszínén"
+  }, {
+    "letter" : "B",
+    "text" : "minimalizálják a precornealis veszteséget"
+  }, {
+    "letter" : "C",
+    "text" : "maximalizálják a cornealis abszorpciót"
+  }, {
+    "letter" : "D",
+    "text" : "gyors a precornealis clearance-ük"
+  }, {
+    "letter" : "E",
+    "text" : "szabályozott hatóanyag-leadással rendelkeznek"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "gyors a precornealis clearance-ük"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.62",
+  "text" : "Válassza ki a hamis állítást a nanoméretű gyógyszerhordozó rendszerekre vonatkozóan!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "A pegilált liposzómák hosszabb ideig képesek a keringő vérben tartózkodni."
+  }, {
+    "letter" : "B",
+    "text" : "A kohleátok kevésbé stabilak, mint a liposzómák."
+  }, {
+    "letter" : "C",
+    "text" : "A nanorendszerek gyógyszerészeti alkalmazásával lehetőség adódik a májban, vagy a lépben bizonyos anyagok felhalmozására."
+  }, {
+    "letter" : "D",
+    "text" : "Azok a dendrimerek, melyek felszínéhez sziálsavcsoportot kötnek, az influenzavírushoz kapcsolódva megakadályozzák azok élő sejthez kötődését."
+  }, {
+    "letter" : "E",
+    "text" : "A pegilált liposzómák alkalmazásával növekszik a biológiai hasznosíthatóság."
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "A kohleátok kevésbé stabilak, mint a liposzómák."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.63",
+  "text" : "Mely fiziológiai faktorok nem befolyásolják jelentősen a biológiai válasz kialakulását felnőtt egészséges ember esetén?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "testtömeg"
+  }, {
+    "letter" : "B",
+    "text" : "gyomorürülés sebessége"
+  }, {
+    "letter" : "C",
+    "text" : "clearance"
+  }, {
+    "letter" : "D",
+    "text" : "testalkat"
+  }, {
+    "letter" : "E",
+    "text" : "\"first-pass effect\""
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "testalkat"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.64",
+  "text" : "Jellemzően mely szerv vagy szervek előtti és mögötti érszakaszban mérhető plazmakoncentrációból számítjuk adott hatóanyag first-pass\" metabolizmusának mértékét?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "vese"
+  }, {
+    "letter" : "B",
+    "text" : "tüdő"
+  }, {
+    "letter" : "C",
+    "text" : "máj"
+  }, {
+    "letter" : "D",
+    "text" : "mindegyik"
+  }, {
+    "letter" : "E",
+    "text" : "egyik sem"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "máj"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.65",
+  "text" : "Mit értünk egy hatóanyag terápiás indexe alatt?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a toxikus dózis (LD50) és az effektív dózis (ED50) hányadosát"
+  }, {
+    "letter" : "B",
+    "text" : "az effektív dózis (ED50) és a toxikus dózis (LD50) hányadosát"
+  }, {
+    "letter" : "C",
+    "text" : "a first-pass metabolizmussal távozó hatóanyagmennyiség és a teljes hatóanyagmennyiség hányadosát"
+  }, {
+    "letter" : "D",
+    "text" : "a hatóanyag kezdeti plazmakoncentrációjának és \"clearance\"-nek hányadosát"
+  }, {
+    "letter" : "E",
+    "text" : "a betegnek adott dózis és az általa kiváltott hatóanyag-plazmakoncentráció hányadosát"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a toxikus dózis (LD50) és az effektív dózis (ED50) hányadosát"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.66",
+  "text" : "Mely hatóanyag-leadó rendszer rendelkezik a leghosszabb hatástartammal?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "nazális készítmény"
+  }, {
+    "letter" : "B",
+    "text" : "depo-injekció"
+  }, {
+    "letter" : "C",
+    "text" : "transzdermális tapasz"
+  }, {
+    "letter" : "D",
+    "text" : "implantátum"
+  }, {
+    "letter" : "E",
+    "text" : "bukkális készítmény"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "implantátum"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.67",
+  "text" : "Mely biofarmáciai modell írja le legjobban az alábbiak közül az oldat gyógyszerformát?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "disztribúció - metabolizáció - exkréció"
+  }, {
+    "letter" : "B",
+    "text" : "signum - liberáció - abszorpció - disztribúció - metabolizáció - exkréció"
+  }, {
+    "letter" : "C",
+    "text" : "liberáció - abszorpció - disztribúció - metabolizáció - exkréció"
+  }, {
+    "letter" : "D",
+    "text" : "disztribúció - liberáció - metabolizáció - exkréció"
+  }, {
+    "letter" : "E",
+    "text" : "abszorpció - disztribúció - metabolizáció - exkréció"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "abszorpció - disztribúció - metabolizáció - exkréció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.68",
+  "text" : "Melyek azok a paraméterek, amelyek szükségesek ahhoz, hogy egy készítményt egy másikkal bioekvivalensnek nyilvánítsunk?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Cmax és tmax"
+  }, {
+    "letter" : "B",
+    "text" : "Cmax"
+  }, {
+    "letter" : "C",
+    "text" : "AUC (görbe alatti terület)"
+  }, {
+    "letter" : "D",
+    "text" : "AUC, Cmax, tmax"
+  }, {
+    "letter" : "E",
+    "text" : "Cmax, tmax és clearance"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "AUC, Cmax, tmax"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.69",
+  "text" : "Jelölje ki a biológiai hasznosíthatóságra vonatkozó helyes megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "abszolút biohasznosíthatóság esetén két különböző gyógyszerforma plazmaszint-idő görbe alatti területét hasonlítjuk össze"
+  }, {
+    "letter" : "B",
+    "text" : "relatív biohasznosíthatóságról intravaszkuláris adagolás esetén beszélünk"
+  }, {
+    "letter" : "C",
+    "text" : "mértékegysége: mg/h"
+  }, {
+    "letter" : "D",
+    "text" : "értéke 0-1 közötti lehet"
+  }, {
+    "letter" : "E",
+    "text" : "szubkután adagolás esetén nem beszélhetünk biohasznosíthatóságról"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "értéke 0-1 közötti lehet"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.70",
+  "text" : "Jelölje meg, mely folyamat nem kíséri a hatóanyag-leadást tabletta gyógyszerforma esetén?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szilárd felület nedvesedése"
+  }, {
+    "letter" : "B",
+    "text" : "liposzómákból történő hatóanyag-liberáció"
+  }, {
+    "letter" : "C",
+    "text" : "készítmény dezintegrációja"
+  }, {
+    "letter" : "D",
+    "text" : "oldódás"
+  }, {
+    "letter" : "E",
+    "text" : "erózió"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "liposzómákból történő hatóanyag-liberáció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.71",
+  "text" : "Milyen gyógyszer-technológiai lehetőségeket ismer módosított hatóanyag-leadású rendszer előállítására?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "cukros bevonat alkalmazása"
+  }, {
+    "letter" : "B",
+    "text" : "minitabletták készítése"
+  }, {
+    "letter" : "C",
+    "text" : "lágyzselatin kapszulák készítése"
+  }, {
+    "letter" : "D",
+    "text" : "ozmotikus rendszerek készítése"
+  }, {
+    "letter" : "E",
+    "text" : "félszilárd gyógyszerformák alkalmazása"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "ozmotikus rendszerek készítése"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.72",
+  "text" : "Jelölje meg, milyen esetben helyettesíthető egymással két készítmény!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a hatóanyag(ok) minőségi és mennyiségi összetétele ugyanaz"
+  }, {
+    "letter" : "B",
+    "text" : "biológiailag egyenértékűek"
+  }, {
+    "letter" : "C",
+    "text" : "ártalmatlanságban és hatékonyságban nem különböznek"
+  }, {
+    "letter" : "D",
+    "text" : "azonos a gyógyszerformájuk"
+  }, {
+    "letter" : "E",
+    "text" : "A, B, C és D állítások egyszerre teljesülnek"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "A, B, C és D állítások egyszerre teljesülnek"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.73",
+  "text" : "Jelölje meg a terápiás hatóanyag-leadó rendszerre vonatkozó leginkább jellemző megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "A terápiás rendszerek olyan gyógyszerkészítmények, amelyekből a hatóanyag(ok) folyamatosan, adott időtartam alatt, előre meghatározott program alapján szabadulnak fel, általános hatást fejtenek ki, vagy speciális célszerven fejtik ki hatásukat."
+  }, {
+    "letter" : "B",
+    "text" : "A terápiás gyógyszerrendszer olyan nyújtott hatóanyag-leadást biztosító készítmény, mely a szervezet igényeinek megfelelően szabályozott farmakonkiáramlást tesz lehetővé, és bioerodálható anyagból készül."
+  }, {
+    "letter" : "C",
+    "text" : "A terápiás gyógyszerrendszer szisztémás vagy lokális hatás biztosítására szolgáló készítmény, mely a felszívódási valószínűség figyelembevételével szakaszos ütemben képes a hatóanyag felszabadítására."
+  }, {
+    "letter" : "D",
+    "text" : "Terápiás hatóanyag-leadó rendszernek nevezzük azt a készítményt, mely a kezdeti és fenntartó dózist nulladrendű kinetikával, mikropórusos membránon keresztül juttatja a szervezetbe."
+  }, {
+    "letter" : "E",
+    "text" : "A terápiás hatóanyag-leadó rendszer rövid biológiai felezési idejű, szűk terápiás tartománnyal rendelkező farmakonok számára biztosítja a cirkadián ritmusnak megfelelő hatóanyag-leadást, biztonságosabbá téve a kezelést."
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "A terápiás rendszerek olyan gyógyszerkészítmények, amelyekből a hatóanyag(ok) folyamatosan, adott időtartam alatt, előre meghatározott program alapján szabadulnak fel, általános hatást fejtenek ki, vagy speciális célszerven fejtik ki hatásukat."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.74",
+  "text" : "Mi jellemző a gasztroretentív gyógyszerhordozó rendszerekre?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szuperdezintegránsokat tartalmaznak, segítségükkel gyors szétesési idő érhető el"
+  }, {
+    "letter" : "B",
+    "text" : "általában Crohn-betegségben vagy colitis ulcerosa-ban alkalmazzák"
+  }, {
+    "letter" : "C",
+    "text" : "a gyomor-bélrendszer felső szakaszából felszívódó farmakonok esetében előnyös alkalmazásuk"
+  }, {
+    "letter" : "D",
+    "text" : "a farmakont kapszulába töltve tartalmazzák a hatás optimális kifejtése céljából"
+  }, {
+    "letter" : "E",
+    "text" : "segítségükkel gyorsított hatóanyag-leadás érhető el"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a gyomor-bélrendszer felső szakaszából felszívódó farmakonok esetében előnyös alkalmazásuk"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.75",
+  "text" : "A nazális gyógyszerhordozó rendszerekre jellemző:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az orrüregek lassú clearance mechanizmusai miatt a hatóanyagok nazális felszívódására hosszú idő áll rendelkezésre"
+  }, {
+    "letter" : "B",
+    "text" : "az orrnyálkahártya metabolizáló képességének hiánya miatt azt a gyógyszerhordozók fejlesztése során nem szükséges figyelembe venni"
+  }, {
+    "letter" : "C",
+    "text" : "a nazális gyógyszerkészítményekben mukoadhezív polimereket a nyálkahártya nedvességmegtartása céljából alkalmaznak"
+  }, {
+    "letter" : "D",
+    "text" : "az alkalmazott készítmények optimális pH értéke 3-8 között mozoghat"
+  }, {
+    "letter" : "E",
+    "text" : "a készítményekben alkalmazott felületaktív anyagoknak permeabilitást fokozó hatásuk van"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "a készítményekben alkalmazott felületaktív anyagoknak permeabilitást fokozó hatásuk van"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.76",
+  "text" : "Szemcseppek adásakor a szem felületén a megnövelt érintkezési idő:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "nincs jelentős hatással a biohasznosíthatóságra"
+  }, {
+    "letter" : "B",
+    "text" : "csökkentheti az adagolás gyakoriságát"
+  }, {
+    "letter" : "C",
+    "text" : "megvalósítható viszkozitást csökkentő anyagok segítségével"
+  }, {
+    "letter" : "D",
+    "text" : "elsősorban alkaloidsók alkalmazása esetén bír jelentőséggel"
+  }, {
+    "letter" : "E",
+    "text" : "csökkenti a mellékhatások kialakulásának valószínűségét"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "csökkentheti az adagolás gyakoriságát"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.77",
+  "text" : "Hüvelyben alkalmazott gyógyszerkészítményekre jellemző:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "vaginális adagolási móddal csak lokális hatás érhető el"
+  }, {
+    "letter" : "B",
+    "text" : "a felszívódást a hatóanyag molekulatömege és lipofilitása nem befolyásolja"
+  }, {
+    "letter" : "C",
+    "text" : "gyors hatás elérése céljából bioadhezív tulajdonságú hidrogél-rendszerek alkalmazhatók"
+  }, {
+    "letter" : "D",
+    "text" : " a poliakrilsav alapú hordozók több napon át képesek a hüvelyben tartózkodni"
+  }, {
+    "letter" : "E",
+    "text" : "a hüvelygyűrűk egyedüli alkalmazási területe a fogamzásgátlás"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : " a poliakrilsav alapú hordozók több napon át képesek a hüvelyben tartózkodni"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.78",
+  "text" : "Válassza ki a biológiai gyógyszerekre vonatkozó helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az emberi vérből és plazmából előállított gyógyszerek nem minősülnek biológiai gyógyszernek"
+  }, {
+    "letter" : "B",
+    "text" : "biotechnológiai úton kifejlesztett gyógyszerek közé tartoznak a rekombináns DNS-technológiával előállított készítmények"
+  }, {
+    "letter" : "C",
+    "text" : "biológiai gyógyszerek hordozórendszereként alkalmazhatók a micellák, liposzómák, dendrimerek, a polilaktid, politejsav-glikolsav, valamint a mikropelletek"
+  }, {
+    "letter" : "D",
+    "text" : "a biológiai gyógyszerként alkalmazott monoklonális antitestek transzdermálisan is bejuttathatók a szervezetbe"
+  }, {
+    "letter" : "E",
+    "text" : "az oligonukleotidok hatásának kialakulásában kis molekulatömegük is szerepet játszik"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "biotechnológiai úton kifejlesztett gyógyszerek közé tartoznak a rekombináns DNS-technológiával előállított készítmények"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.79",
+  "text" : "Válassza ki a parenterális táplálásra vonatkozó helyes megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a hiperkalóriás tápláló oldatok nem kívánt hatásuk miatt elvesztették jelentőségüket"
+  }, {
+    "letter" : "B",
+    "text" : "parenterális táplálást csak abban az esetben alkalmazhatunk, ha a beteg enterálisan egyáltalán nem képes táplálkozni"
+  }, {
+    "letter" : "C",
+    "text" : "a bevételre szánt tápanyagok mennyiségének meghatározásakor a beteg figyelembe vett paraméterei a testtömeg és az életkor"
+  }, {
+    "letter" : "D",
+    "text" : "parenterális táplálás során a szükséges energia fehérjebevitellel biztosítható"
+  }, {
+    "letter" : "E",
+    "text" : "d<10µm cseppátmérővel rendelkező parenterális emulziók esetében az embólia veszélye kizárható"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a hiperkalóriás tápláló oldatok nem kívánt hatásuk miatt elvesztették jelentőségüket"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.80",
+  "text" : "Jelölje meg, mi nem igaz az epével történő eliminációra!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "naponta kb. 1 liter epe ürül a duodenumba"
+  }, {
+    "letter" : "B",
+    "text" : "az epesavak, vitaminok visszaszívódhatnak a bélből az enterohepatikus recirkuláció révén"
+  }, {
+    "letter" : "C",
+    "text" : "olyan gyógyszerek, amelyek fokozzák az epeürülést, fokozzák az epén át történő kiválasztást is"
+  }, {
+    "letter" : "D",
+    "text" : "nagymértékben ürülnek az epével a cukorkomponenseket tartalmazó anyagok"
+  }, {
+    "letter" : "E",
+    "text" : "az enterohepatikus körforgás során a β-glükuronidáz enzim glükuroniddal konjugálja a hatóanyagot"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "az enterohepatikus körforgás során a β-glükuronidáz enzim glükuroniddal konjugálja a hatóanyagot"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.81",
+  "text" : "A készítmény hatóanyag-leadás vizsgálatakor melyik paraméter nem befolyásol?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "hidrodinamikai viszonyok"
+  }, {
+    "letter" : "B",
+    "text" : "a környezet páratartalma"
+  }, {
+    "letter" : "C",
+    "text" : "kioldó közeg térfogata"
+  }, {
+    "letter" : "D",
+    "text" : "gázbuborékok jelenléte"
+  }, {
+    "letter" : "E",
+    "text" : "felületi feszültség"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a környezet páratartalma"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.82",
+  "text" : "Válassza ki a kioldódás-vizsgálatokra jellemző helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a rágógumi gyógyszerforma kioldódás-vizsgálatára nincs speciális berendezés"
+  }, {
+    "letter" : "B",
+    "text" : "a forgókosaras és forgólapátos készülékek áramlásviszonyai nem térnek el jelentősen egymástól"
+  }, {
+    "letter" : "C",
+    "text" : "forgókosaras készülék esetén az úszó gyógyszerformákat süllyesztőspirállal (sinker) látjuk el"
+  }, {
+    "letter" : "D",
+    "text" : "átfolyócellás kioldódás-vizsgálat előtt a gyógyszerkészítményt először hagyományos forgólapátos készülékkel kell megvizsgálni"
+  }, {
+    "letter" : "E",
+    "text" : "pH 4,5-7,5 közötti kémhatás biztosítására a kioldó közegben foszfát- vagy acetátpuffert is alkalmazhatnak"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "pH 4,5-7,5 közötti kémhatás biztosítására a kioldó közegben foszfát- vagy acetátpuffert is alkalmazhatnak"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.83",
+  "text" : "Válassza ki a hatóanyag-leadás értékelésére jellemző helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a kioldódott hatóanyag százalékos mennyisége folyamatosan nem, csak a vizsgálat végén kerül meghatározásra"
+  }, {
+    "letter" : "B",
+    "text" : "a kioldódási profilok összehasonlító értékelésére alkalmasak az illeszkedési tényezők (f1, f2)"
+  }, {
+    "letter" : "C",
+    "text" : " a Weibull-modell elsősorban transzdermális tapaszok hatóanyag-leadási profiljára alkalmazható"
+  }, {
+    "letter" : "D",
+    "text" : "az elsőrendű kinetikai modell a Nernst-egyenletből is levezethető"
+  }, {
+    "letter" : "E",
+    "text" : "a nulladrendű kinetikai modell a Noyes-Whitney-egyenletből vezethető le"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a kioldódási profilok összehasonlító értékelésére alkalmasak az illeszkedési tényezők (f1, f2)"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.84",
+  "text" : "Válassza ki a megoszlási modellekre nem jellemző állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a hatóanyag megoszlását két fázis között a lipid-víz megoszlási hányadossal jellemezhetjük"
+  }, {
+    "letter" : "B",
+    "text" : "a megoszlási hányados értéke függ a pH-értéktől"
+  }, {
+    "letter" : "C",
+    "text" : "a megoszlási hányados értékéből következtetni lehet a felszívódás várható mértékére"
+  }, {
+    "letter" : "D",
+    "text" : "a megoszlási modellek közé soroljuk a folyadékhíd-modelleket"
+  }, {
+    "letter" : "E",
+    "text" : "a megoszlás folyamata a ma ismert vizsgáló módszerekkel időben követhetetlen"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "a megoszlás folyamata a ma ismert vizsgáló módszerekkel időben követhetetlen"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.85",
+  "text" : "Jelölje meg a helyes állítást a többszöri adagolási rendre vonatkozóan!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "többszöri adagolási rend esetén a plazmaszint-ingadozás értéke nem haladhatja meg az 5%-ot"
+  }, {
+    "letter" : "B",
+    "text" : "minden többszöri adagolási rend első dózisa egy magasabb kezdő dózis, melyet követ az alacsonyabb fenntartó dózis"
+  }, {
+    "letter" : "C",
+    "text" : "csökkent elimináció esetén a májenzimek működését veszik figyelembe az adagolási rend meghatározásakor"
+  }, {
+    "letter" : "D",
+    "text" : "az ismételt adag egyszeri elhagyása nem okoz jelentős változásokat a terápiás hatás kifejtésében"
+  }, {
+    "letter" : "E",
+    "text" : "az ismételt adagok közti időintervallum megnyújtásával a beteg compliance növelhető"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "az ismételt adagok közti időintervallum megnyújtásával a beteg compliance növelhető"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.86",
+  "text" : "Jelölje meg a szem fiziológiás paramétereire vonatkozó helytelen állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a könny összetételének megváltozása nem okozhat szemszárazságot"
+  }, {
+    "letter" : "B",
+    "text" : "a könnyfilm minden pislogáskor újraképződik"
+  }, {
+    "letter" : "C",
+    "text" : "a könnyfolyadék pH-ja 7,3-7,7 közötti"
+  }, {
+    "letter" : "D",
+    "text" : "a könnyfolyadék szerves és szervetlen összetevőket egyaránt tartalmaz"
+  }, {
+    "letter" : "E",
+    "text" : "a pislogás ritkábbá válásának hatására a könnyfilm felszakadhat, és száraz foltok jöhetnek létre"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a könny összetételének megváltozása nem okozhat szemszárazságot"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.87",
+  "text" : "Jelölje meg a metabolizmus I. fázisára jellemző helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a metabolizmus I. fázisát konjugációs reakciók alkotják"
+  }, {
+    "letter" : "B",
+    "text" : "az I. fázis leggyakoribb reakciói a redukciós reakciók"
+  }, {
+    "letter" : "C",
+    "text" : "az I. fázis redukciós reakcióinak katalizátora a citokróm P450 enzimrendszer"
+  }, {
+    "letter" : "D",
+    "text" : "a metabolizmus I. fázis reakcióinak célja a farmakonok apoláris jellegének növelése"
+  }, {
+    "letter" : "E",
+    "text" : "az I. fázist katalizáló enzimrendszer a máj endoplazmatikus retikulumában lokalizálódik"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "az I. fázist katalizáló enzimrendszer a máj endoplazmatikus retikulumában lokalizálódik"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.88",
+  "text" : "Jelölje meg a metabolizmus II. fázisára jellemző helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a metabolizmus II. fázisának reakciói során leggyakrabban glükuronid-konjugátumok keletkeznek"
+  }, {
+    "letter" : "B",
+    "text" : "a II. fázis legjelentősebb reakciója a glutation-konjugáció"
+  }, {
+    "letter" : "C",
+    "text" : "a II. fázisú reakciók célja a molekula hatásának meghosszabítása"
+  }, {
+    "letter" : "D",
+    "text" : "a keletkezett konjugátumok vízoldékonysága általában kisebb, mint az eredeti molekuláé"
+  }, {
+    "letter" : "E",
+    "text" : "a túlságosan nagyméretű konjugátumok az epével választódnak ki, melyek N-acetil-transzferáz enzim hatására lebomlanak, létrehozva ezáltal az enterohepatikus körforgást"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a metabolizmus II. fázisának reakciói során leggyakrabban glükuronid-konjugátumok keletkeznek"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.89",
+  "text" : "Jelölje meg az ionizációra vonatkozó helyes megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a farmakon hatásának kifejtésében az ionizáció csak kis szerepet játszik"
+  }, {
+    "letter" : "B",
+    "text" : "az ionizáció mértéke független a közeg pH-jától"
+  }, {
+    "letter" : "C",
+    "text" : "a pKa érték kiszámítható az ionizáció fokának ismeretében a Nernst-egyenlet segítségével"
+  }, {
+    "letter" : "D",
+    "text" : "a biológiai membrán lipofil jellege miatt a nemionizált forma képes jobban átjutni"
+  }, {
+    "letter" : "E",
+    "text" : "az ionizáció foka nagymértékben függ a farmakon relatív molekulatömegétől"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a biológiai membrán lipofil jellege miatt a nemionizált forma képes jobban átjutni"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.90",
+  "text" : "Válassza ki, mely modellek nem alkalmazhatók a hatóanyag-leadás modellfüggő értékelésére!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Weibull-modell"
+  }, {
+    "letter" : "B",
+    "text" : "Higuchi-féle négyzetgyökös modell"
+  }, {
+    "letter" : "C",
+    "text" : "elsőrendű kinetikai modell"
+  }, {
+    "letter" : "D",
+    "text" : "Gauss-eloszlás"
+  }, {
+    "letter" : "E",
+    "text" : "Hixson-Crowell-féle köbgyök törvény"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Gauss-eloszlás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.91",
+  "text" : "Az alábbiak közül melyek tekinthetők noninvazív adagolási módoknak?",
+  "moreText" : [ "1)     szubkután", "2)     uretrális", "3)     intramuszkuláris", "4)     otikuláris" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.92",
+  "text" : "Koncentrációgradienssel szembeni transzportfolyamat:",
+  "moreText" : [ "1)     a passzív diffúzió", "2)     az ionpártranszport", "3)     a facilitált diffúzió", "4)     az aktív transzport" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.93",
+  "text" : "Jelölje meg az elimináció csoportjába tartozó folyamatokat!",
+  "moreText" : [ "1)     liberáció", "2)     metabolizáció", "3)     abszorpció", "4)     exkréció" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.94",
+  "text" : "Válassza ki a II. fázisú metabolikus reakciók közé tartozó folyamatokat!",
+  "moreText" : [ "1)     glutation-konjugáció", "2)     észterhidrolízis", "3)     glükuronid-konjugáció", "4)     azoredukció" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.95",
+  "text" : "Jelölje meg azokat az anyagokat, amelyek a bőrön keresztül is kiválasztódnak!",
+  "moreText" : [ "1)     szalicilátok", "2)     alkohol", "3)     szteroidok", "4)     tiamin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.96",
+  "text" : "Melyik megállapítás igaz a nulladrendű kinetikával jellemezhető hatóanyag- leadás esetén?",
+  "moreText" : [ "1)     a leadás sebessége függ az alkalmazott mátrixtól, és a biológiai környezettől", "2)     azonos időintervallumokban konstans hatóanyagmennyiség szabadul fel", "3)     az időegység alatti koncentrációváltozás független az időtől", "4)     egységnyi idő alatt a hatóanyag mennyiségének konstans hányada szabadul fel" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.97",
+  "text" : "Perorális adást követően lehetséges felszívódási mechanizmus:",
+  "moreText" : [ "1)     a passzív diffúzió", "2)     a passzív és facilitált diffúzió", "3)     a filtráció, endocitózis és aktív transzport", "4)     a passzív és facilitált diffúzió, aktív transzport, filtráció, endocitózis" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.98",
+  "text" : "Melyik megállapítás igaz a szervezet folyadéktereire 70 kg-os emberre vonatkoztatva?",
+  "moreText" : [ "1)     a teljes víztér összmennyisége 45 liter", "2)     az alakos elemek mennyisége 3 liter", "3)     az extravaszkuláris víztér mennyisége 8 liter", "4)     az extracelluláris tér mennyisége 14 liter" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.99",
+  "text" : "Gyógyszerek fehérjekötődésében részt vevő fehérjék:",
+  "moreText" : [ "1)     transzferrin", "2)     miozin", "3)     albumin", "4)     foszfolipid" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.100",
+  "text" : "A diszpozíció csoportjába nem tartozó folyamat:",
+  "moreText" : [ "1)     a metabolizáció", "2)     az exkréció", "3)     az abszorpció", "4)     a liberáció" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.101",
+  "text" : "Az aktív transzport:",
+  "moreText" : [ "1)     szelektív", "2)     egyirányú", "3)     telíthető", "4)     gátolható" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.102",
+  "text" : "Transzdermális tapaszok kioldódásvizsgálatára alkalmas módszer:",
+  "moreText" : [ "1)     a szitakorongos", "2)     az átfolyó küvettás", "3)     a kioldócellás", "4)     a forgókosaras" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.103",
+  "text" : "Mely állítások jellemzőek a közepes tartózkodási időre (MRT)?",
+  "moreText" : [ "1)     segítségével közvetlenül kiszámítható a közepes kioldódási idő (MDT)", "2)     azt az időtartamot jelöli, amely alatt a bevitt adagnak 63,2%-a kiürül", "3)     azt az időtartamot jelöli, amely alatt a bevitt adagnak 36,8%-a kiürül", "4)     segítségével meghatározható a közepes felszívódási idő (MAT)" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.104",
+  "text" : "A nemkompartment analízisre jellemző megállapítás:",
+  "moreText" : [ "1)     sebességi állandókkal és feltételezett eloszlási terek segítségével írja le a gyógyszertranszport törvényszerűségeit", "2)     a valóságos anatómiai struktúráknak megfelelő vízterekből indul ki", "3)     a legfontosabb meghatározandó farmakokinetikai paraméterek ez esetben az abszorpciós és eliminációs sebességi állandók", "4)     előnye a farmakokinetikai modelltől való függetlenség" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.105",
+  "text" : "Válassza ki extravaszkuláris egyszeres adagolás esetén a biohasznosíthatóságot jellemző paramétereket:",
+  "moreText" : [ "1)     a vérszintgörbe alatti terület (AUC)", "2)     a beadott dózis (D)", "3)     a csúcskoncentráció értéke (Cmax)", "4)     az abszorpciós sebességi állandó (ka)" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.106",
+  "text" : "Melyik rövidítés kapcsolható a lassított hatóanyag-leadású készítményekhez?",
+  "moreText" : [ "1)     SR", "2)     CR", "3)     ER", "4)     IR" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.107",
+  "text" : "Melyik esetekben várható egy vegyülettől kedvezőtlen abszorpció vagy penetráció Lipinski ún. 5-ös tapasztalati szabálya alapján?",
+  "moreText" : [ "1)     ha a molekula több mint 10 hidrogén akceptor atomot (O, N, S) tartalmaz", "2)     ha molekulatömege nagyobb, mint 500", "3)     ha a számított oktanol/víz megoszlási hányados logaritmusa nagyobb, mint 5", "4)     ha a molekula kevesebb mint 5 hidrogén donor szubsztituenst (OH, NH) tartalmaz" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.108",
+  "text" : "Intravénásan adott injekció biofarmáciai jellemzésére nem alkalmazható modell:",
+  "moreText" : [ "1)     adszorpció, disztribúció, metabolizáció, exkréció", "2)     disztribúció, exkréció, metabolizáció", "3)     liberáció, disztribúció, metabolizáció, exkréció", "4)     metabolizáció, exkréció" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.109",
+  "text" : "Válassza ki a farmakon oldhatóságának változtatására alkalmas módszereket!",
+  "moreText" : [ "1)     keverés", "2)     sóképzés", "3)     hőközlés", "4)     komplexképzés" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.110",
+  "text" : "Válassza ki a helyes megállapításokat a hatóanyagok Biofarmáciai Osztályozási Rendszerére!",
+  "moreText" : [ "1)     A IV. osztályba tartozó hatóanyagok általában rosszul szívódnak fel, így per os alkalmazásuk kerülendő.", "2)     A II. osztályba a jó oldhatóságú, rossz permeabilitású hatóanyagok tartoznak.", "3)     A III. osztályba tartozó hatóanyagok felszívódásában meghatározó a membránon való áthatolás sebessége, ezért a kioldódást követően lehetőleg hosszabb időt kell biztosítani a hatóanyag számára a nyálkahártyával való érintkezésre.", "4)     A II. osztályba tartozó hatóanyag lassú felszívódásának sebességét tovább korlátozza a hatóanyag rossz oldhatósága." ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.111",
+  "text" : "Melyik adagolási módokat nem tekintjük extravaszkulárisnak?",
+  "moreText" : [ "1)     az intravénás adagolást", "2)     az intrakardiális adagolást", "3)     az infúziót", "4)     az intramuszkuláris adagolást" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.112",
+  "text" : "Adja meg azokat a paramétereket, amelyek gyógyszerkészítmények dezintegrációjára jellemzőek:",
+  "moreText" : [ "1)     a hagyományos tabletta szétesése általában a bevétel után 30 percen belül következik be", "2)     a készítmények szétesése befolyásolja a liberációt és az abszorpciót", "3)     a gyógyszerkészítményből történő hatóanyag-leadás nem történhet meg előzetes dezintegráció nélkül", "4)     a dezintegrációt befolyásolhatja a készítmény összetétele és tárolási körülményei" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.113",
+  "text" : "Válassza ki a perorálisan adagolható hagyományos hatóanyagleadó rendszerek biofarmáciai jellemzésére nem alkalmas modelleket!",
+  "moreText" : [ "1)     disztribúció, liberáció, metabolizáció, exkréció", "2)     liberáció, disztribúció, metabolizáció, exkréció", "3)     signum, liberáció, abszorpció, disztribúció, metabolizáció, exkréció", "4)     liberáció, abszorpció, disztribúció, metabolizáció, exkréció" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.114",
+  "text" : "Lassított hatóanyag-leadású készítmény esetén a hagyományos hatóanyag-leadású készítményekhez képest melyik a jellemző maximális plazma koncentráció (cmax), és az eléréséhez szükséges idő (tmax)?",
+  "moreText" : [ "1)     kisebb tmax", "2)     magasabb tmax", "3)     magasabb cmax", "4)     kisebb cmax" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.115",
+  "text" : "Melyik állítás jellemző a metabolizmusra?",
+  "moreText" : [ "1)     csökkenti vagy megszünteti a gyógyszerhatást", "2)     elsődleges célja az endogén anyagok lebontása", "3)     lehetővé teszi a gyógyszerhatást", "4)     a gyógyszerek metabolizmusában a vese, a tüdő és a placenta nem vesz részt" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.116",
+  "text" : "Jelölje meg azokat a megállapításokat, amelyek jellemzőek a gasztroretentív készítményekre!",
+  "moreText" : [ "1)     gyorsítják az abszorpciót", "2)     adásukkal megkímélhetők egyes bélszakaszok", "3)     alkalmazásukkor szisztémás hatás nem alakul ki", "4)     elősegíthető a gyomor és a vékonybél proximális szakaszának lokális kezelése" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.117",
+  "text" : "Melyik megállapítás igaz az elsőrendű kinetikával jellemezhető elimináció esetén?",
+  "moreText" : [ "1)     egységnyi idő alatt a hatóanyag mennyiségének konstans hányada eliminálódik", "2)     azonos időintervallumok alatt konstans hatóanyagmennyiség eliminálódik", "3)     az időegység alatti koncentrációváltozás egyenesen arányos a koncentrációval", "4)     az időegység alatti koncentrációváltozás független az időtől" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.118",
+  "text" : "Melyik állítás igaz?",
+  "moreText" : [ "1)     csak azok a gyógyszerkészítmények a gyógyszerészetileg egyenértékűek, amelyek azonos gyártástechnológiával készültek", "2)     a gyógyszerészetileg egyenértékű készítmények minden esetben terápiás szempontból is egyenértékűek", "3)     gyógyszerészeti egyenértékűség esetén a készítmény azonos hatóanyag és gyógyszerforma mellett csak azonos segédanyagokat tartalmazhat", "4)     gyógyszerészeti egyenértékűség esetén a készítmény azonos hatóanyagot és gyógyszerforma mellett eltérő segédanyagokat tartalmazhat" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.119",
+  "text" : "Jelölje meg azokat a paramétereket, amelyek figyelembe veendők az intravénás adás utáni anyagmérleg számításánál!",
+  "moreText" : [ "1)     hatóanyag mennyisége a szervezetben", "2)     metabolit mennyisége a székletben", "3)     felszívódott hatóanyagmennyiség", "4)     hatóanyag mennyisége az epeváladékban" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.120",
+  "text" : "A célzott hatóanyag-leadásra igaz:",
+  "moreText" : [ "1)     a célzott hatóanyag-leadás során a hatóanyag szisztémás hatást fejt ki", "2)     a célzott hatóanyag-leadás során a gyógyszerhatás a hatóanyag szisztémás hatásának kifejtése nélkül valósul meg", "3)     kivitelezésében fontos az a felismerés, hogy a hatóanyagok szöveti eloszlása független azok molekulatömegétől", "4)     megkülönböztetünk passzív és aktív módon történő hatóanyag bejuttatást" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.121",
+  "text" : "A minimálisan szükséges napvédő faktor (SPF) tartomány, amellyel már 90%, illetve e feletti UV-B sugárzás elleni védelem érhető el, normál bőr esetén:",
+  "moreText" : [ "1)     45-55", "2)     35-45", "3)     25-35", "4)     15-25" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.122",
+  "text" : "Válassza ki az UV-A és UV- B sugárzással szemben is védőhatást kifejteni képes anyagokat!",
+  "moreText" : [ "1)     p-aminobenzoesav", "2)     titán-dioxid", "3)     oktil-szalicilát", "4)     cink-oxid" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.123",
+  "text" : "Makromolekulák felszívódása várható az alábbi adagolást követően:",
+  "moreText" : [ "1)     szubkután", "2)     perorális", "3)     nazális", "4)     transzdermális" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.124",
+  "text" : "Milyen módon érhető el a Biofarmáciai Osztályozási Rendszer (BCS) alapján besorolt hatóanyagok biohasznosíthatóságának növelése?",
+  "moreText" : [ "1)     a II. osztályba tartozó hatóanyagok esetében szolubilizálószer alkalmazásával", "2)     az I. osztályba tartozó hatóanyagok esetében koszolvensek, sóképzők alkalmazásával", "3)     a IV. osztályba tartozó hatóanyagok esetében szolubilizálószerek, koszolvensek, amorf forma alkalmazásával", "4)     a II. osztályba tartozó hatóanyagok mikronizálásával, szemcseméretének növelésével" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.125",
+  "text" : "Gyorsított hatóanyag-leadású készítmény esetén a hagyományos hatóanyag-leadású készítményekhez képest melyik a jellemző maximális plazma koncentráció (cmax), és az eléréséhez szükséges idő (tmax)?",
+  "moreText" : [ "1)     magasabb cmax", "2)     kisebb cmax", "3)     kisebb tmax", "4)     magasabb tmax" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.126",
+  "text" : "Melyik állítás igaz a módosított hatóanyag- leadású készítményekre?",
+  "moreText" : [ "1)     gyorsított hatóanyag- leadás esetén kisebb cmax és nagyobb tmax várható", "2)     késleltetett hatóanyag- leadás esetén kisebb cmax és nagyobb tmax várható", "3)     önszabályozós hatóanyag- leadással rendelkező rendszerek használata elsősorban a rákos megbetegedéseknél indokolt", "4)     nyújtott hatóanyag-leadású készítmények alkalmazása esetén összességében kevesebb hatóanyag szükséges, mint ismételt adagoláskor" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.127",
+  "text" : "Melyik állítás igaz perorális adagolás esetén?",
+  "moreText" : [ "1)     a felszívódott farmakonhányad általában kisebb, mint 1", "2)     a felszívódott farmakonhányad általában nagyobb, mint 1", "3)     a felszívódás általában befejeződik a jejunum felső szakaszán", "4)     javul a beteg compliance" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.128",
+  "text" : "Melyek a biológiai gyógyszerekre érvényes megállapítások?",
+  "moreText" : [ "1)     csak az egymással bioegyenértékűek engedélyezhetők", "2)     lehetnek immunológiai gyógyszerek", "3)     hatóanyaguk lehet organikus és anorganikus", "4)     ide tartoznak a sejtterápiás gyógyszerek" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.129",
+  "text" : "Jelölje meg a liposzómák hatóanyag-leadására igaz megállapításokat?",
+  "moreText" : [ "1)     a hatóanyag-leadás történhet membránfúzióval és endocitózissal", "2)     a leadást segíti a hagyományos liposzómák felületének pozitív töltése", "3)     liposzómákkal önmagában penetrációra képtelen anyagok is képesek átjutni a sejtmembránon", "4)     csak hidrofil hatóanyagokat képesek leadni" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.130",
+  "text" : "Perorális adás esetén melyik állítás igaz tmax elérése esetén?",
+  "moreText" : [ "1)     az abszorpció sebessége ekkor azonos az elimináció sebességével", "2)     az abszorpció sebessége ekkor kisebb, mint az elimináció sebessége", "3)     az abszorpció sebességi állandója nem változik", "4)     az abszorpció sebességi állandója ettől kezdve csökken" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.131",
+  "text" : "Melyik megállapítás kapcsolható a transzdermális felszívódáshoz?",
+  "moreText" : [ "1)     elektrolitok könnyen abszorbeálódnak", "2)     a felszívódó hatóanyag- molekulák tömege rendszerint kisebb, mint 500 Dalton", "3)     idősebb korban gyorsul az abszorpció", "4)     okkluzív tapasz alkalmazása gyorsítja a felszívódást" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.132",
+  "text" : "Melyik megállapítás helyes a különböző testnedvek pH- értékeinek összehasonlításakor?",
+  "moreText" : [ "1)     duodenumé > anyatejé", "2)     könnyé > nyálé", "3)     duodenumé > vastagbélé", "4)     vizeleté > duodenumé" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.133",
+  "text" : "Válassza ki az I. fázisú metabolikus reakciók közé tartozó folyamatot!",
+  "moreText" : [ "1)     aromás oxidáció", "2)     S-dealkilezés", "3)     oxidatív dezaminálás", "4)     alifás hidroxiláció" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.134",
+  "text" : "Végbélből történő felszívódáskor a portális rendszer elkerülésének útja:",
+  "moreText" : [ "1)     vena analis", "2)     vena haemorhoidalis superior", "3)     vena haemorhoidalis inferior", "4)     vena cava inferior" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.135",
+  "text" : "Adja meg a Harris-Benedict összefüggés alapján az alapenergia felhasználást melyik paraméter nem befolyásolja!",
+  "moreText" : [ "1)     nem", "2)     stressz", "3)     testmagaság", "4)     aktivitás" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "BIOF - 5.136",
+  "text" : "Párosítsa a meghatározásokhoz a megfelelő betűjelet! ",
+  "items" : [ {
+    "text" : "a felszívódásra és az eliminációra egyaránt vonatkozhat",
+    "match" : "C"
+  }, {
+    "text" : "csak a szervezeten belüli transzportra (kompartment-átlépés) vonatkozhat",
+    "match" : "D"
+  }, {
+    "text" : "az adott folyamat sebessége független az érintett anyag koncentrációjától",
+    "match" : "B"
+  }, {
+    "text" : "az adott folyamat sebessége függ az érintett anyag koncentrációjától",
+    "match" : "A"
+  }, {
+    "text" : "az adott folyamat sebessége az érintett anyag koncentrációjának négyzetével arányos",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "elsőrendű kinetika"
+  }, {
+    "letter" : "B",
+    "text" : "nulladrendű kinetika"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.137",
+  "text" : "Párosítsa a meghatározásokhoz a megfelelő betűjelet! ",
+  "items" : [ {
+    "text" : "az etanol felszívódása jellemzően ezt követi",
+    "match" : "A"
+  }, {
+    "text" : "az etanol eliminációja a szervezetből jellemzően ezt követi",
+    "match" : "B"
+  }, {
+    "text" : "a gyógyszerek nagy többségének felszívódása ezt követi",
+    "match" : "A"
+  }, {
+    "text" : "a gyógyszerek nagy többségének eliminációja a szervezetből ezt követi",
+    "match" : "A"
+  }, {
+    "text" : "az adott folyamatot jellemző koncentráció-idő függvény jó eligazítást nyújt róla",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "elsőrendű kinetika"
+  }, {
+    "letter" : "B",
+    "text" : "nulladrendű kinetika"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.138",
+  "text" : "Párosítsa a meghatározásokhoz a megfelelő betűjelet! ",
+  "items" : [ {
+    "text" : "a koncentráció-idő függvény lineáris (lineáris x és y tengely esetén)",
+    "match" : "B"
+  }, {
+    "text" : "a koncentráció-idő függvény logaritmikus (lineáris x és y tengely esetén)",
+    "match" : "D"
+  }, {
+    "text" : "a koncentráció-idő függvény exponenciális (lineáris x és y tengely esetén)",
+    "match" : "A"
+  }, {
+    "text" : "a clearance jól jellemzi a folyamatot",
+    "match" : "A"
+  }, {
+    "text" : "a sebességi állandó (k) jól jellemzi a folyamatot",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "elsőrendű kinetika"
+  }, {
+    "letter" : "B",
+    "text" : "nulladrendű kinetika"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.139",
+  "text" : "Párosítsa a meghatározásokhoz a megfelelő betűjelet! ",
+  "items" : [ {
+    "text" : "az adott folyamat sebességét jellemzi",
+    "match" : "D"
+  }, {
+    "text" : "bármilyen kinetikával rendelkező folyamat esetén hasznos jellemző",
+    "match" : "C"
+  }, {
+    "text" : "megadja az időegység alatt „megtisztuló” megoszlási teret",
+    "match" : "B"
+  }, {
+    "text" : "megadja azt az időt, ami alatt az érintett anyag mennyisége a plazmában a felére csökken",
+    "match" : "A"
+  }, {
+    "text" : "nulladrendű kinetika esetén: koncentráció/idő; elsőrendű esetén: 1/idő",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "felezési idő"
+  }, {
+    "letter" : "B",
+    "text" : "clearance"
+  }, {
+    "letter" : "C",
+    "text" : "sebességi állandó"
+  }, {
+    "letter" : "D",
+    "text" : "mindhárom"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.140",
+  "text" : "Párosítsa a meghatározásokhoz a megfelelő betűjelet! ",
+  "items" : [ {
+    "text" : "össztérfogata egy egészséges 70 kg-os férfiban kb. 3 liter",
+    "match" : "D"
+  }, {
+    "text" : "össztérfogata egy egészséges 70 kg-os férfiban mintegy 15 liter",
+    "match" : "B"
+  }, {
+    "text" : "össztérfogata egy egészséges 70 kg-os férfiban kb. 40-42 liter",
+    "match" : "A"
+  }, {
+    "text" : "össztérfogata egy egészséges 70 kg-os férfiban mintegy 12 liter",
+    "match" : "C"
+  }, {
+    "text" : "fibrinogénmentesítés után szérumnak nevezzük",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "teljes víztér"
+  }, {
+    "letter" : "B",
+    "text" : "extracelluláris folyadék"
+  }, {
+    "letter" : "C",
+    "text" : "interstitialis folyadék"
+  }, {
+    "letter" : "D",
+    "text" : "vérplazma"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.141",
+  "text" : "Párosítsa a meghatározásokhoz a megfelelő betűjelet! ",
+  "items" : [ {
+    "text" : "a lipidoldékony farmakonok felhalmozódnak benne",
+    "match" : "C"
+  }, {
+    "text" : "a felszívódott lipidoldékony gyógyszerek gyorsan felhalmozódhatnak benne",
+    "match" : "A"
+  }, {
+    "text" : "speciális szöveti barrier védi, ami egyes farmakonokat kiszűr",
+    "match" : "A"
+  }, {
+    "text" : "a felszívódott lipidoldékony gyógyszerek lassan halmozódnak fel benne",
+    "match" : "B"
+  }, {
+    "text" : "ún. mély kompartment, a farmakonok igen lassan és nehezen érik el",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "agy"
+  }, {
+    "letter" : "B",
+    "text" : "zsírszövet"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.142",
+  "text" : "Párosítsa a meghatározásokhoz a megfelelő betűjelet! ",
+  "items" : [ {
+    "text" : "a klasszikus kompartment analízis tárgyalja",
+    "match" : "C"
+  }, {
+    "text" : "a klasszikus kompartment analízis legfeljebb két sebességi állandót értelmez benne (abszorpciós, eliminációs)",
+    "match" : "A"
+  }, {
+    "text" : "a klasszikus kompartment analízis legfeljebb három sebességi állandót értelmez benne (abszorpciós, eliminációs, transzport)",
+    "match" : "B"
+  }, {
+    "text" : "kizárólag intravascularis gyógyszerbejuttatás esetén alkalmazható",
+    "match" : "D"
+  }, {
+    "text" : "kizárólag extravascularis gyógyszerbejuttatás esetén alkalmazható",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "egy kompartmentes modell"
+  }, {
+    "letter" : "B",
+    "text" : "két kompartmentes modell"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.143",
+  "text" : "Párosítsa a meghatározásokhoz a megfelelő betűjelet! ",
+  "items" : [ {
+    "text" : "a monitorozott kompartment rendszerint a vérplazma (vagy szérum)",
+    "match" : "C"
+  }, {
+    "text" : "a felszívódás időben elhúzódó folyamat",
+    "match" : "B"
+  }, {
+    "text" : "a felszívódás időben mindig egyenlő a kiürüléssel",
+    "match" : "D"
+  }, {
+    "text" : "a felszívódás pillanatszerű",
+    "match" : "A"
+  }, {
+    "text" : "nem értelmezhető sem a felszívódás, sem az elimináció",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "intravascularis farmakon bejuttatás"
+  }, {
+    "letter" : "B",
+    "text" : "extravascularis farmakon bejuttatás"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.144",
+  "text" : "Mely enzimek találhatók a GI traktus egyes szakaszain termelődő emésztőnedvekben?  ",
+  "items" : [ {
+    "text" : "szájüreg",
+    "match" : "C"
+  }, {
+    "text" : "szájüreg",
+    "match" : "B"
+  }, {
+    "text" : "gyomor",
+    "match" : "D"
+  }, {
+    "text" : "gyomor",
+    "match" : "A"
+  }, {
+    "text" : "duodenum ",
+    "match" : "E"
+  }, {
+    "text" : "duodenum ",
+    "match" : "D"
+  }, {
+    "text" : "duodenum ",
+    "match" : "B"
+  }, {
+    "text" : "jejunum",
+    "match" : "B"
+  }, {
+    "text" : "ileum",
+    "match" : "D"
+  }, {
+    "text" : "ileum",
+    "match" : "F"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "pepszin"
+  }, {
+    "letter" : "B",
+    "text" : "amiláz"
+  }, {
+    "letter" : "C",
+    "text" : "ptialin"
+  }, {
+    "letter" : "D",
+    "text" : "lipáz"
+  }, {
+    "letter" : "E",
+    "text" : "kimotripszin"
+  }, {
+    "letter" : "F",
+    "text" : "enterokináz"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.145",
+  "text" : "Válassza ki, hogy az alábbiakban felsorolt jelölésekhez, fogalmakhoz mely mértékegységek tartoznak! ",
+  "items" : [ {
+    "text" : "CI",
+    "match" : "C"
+  }, {
+    "text" : "AUC",
+    "match" : "D"
+  }, {
+    "text" : "biológiai hasznosíthatóság",
+    "match" : "E"
+  }, {
+    "text" : "felszívódott frakció (F)",
+    "match" : "B"
+  }, {
+    "text" : "ka",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "h-1"
+  }, {
+    "letter" : "B",
+    "text" : "-"
+  }, {
+    "letter" : "C",
+    "text" : "L/h"
+  }, {
+    "letter" : "D",
+    "text" : "h·mg/L"
+  }, {
+    "letter" : "E",
+    "text" : "%"
+  }, {
+    "letter" : "F",
+    "text" : "mg/L"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.146",
+  "text" : "Csoportosítsa a liposzómák típusait és jellemzőiket! ",
+  "items" : [ {
+    "text" : "egyik típusuk az immunliposzómák",
+    "match" : "C"
+  }, {
+    "text" : "retikulo-endotheliális rendszer általi gyors elimináció",
+    "match" : "A"
+  }, {
+    "text" : "jellemzőjük a felszínükön hozzájuk kapcsolt polietilén-glikol",
+    "match" : "B"
+  }, {
+    "text" : "nagyfokú in vivo instabilitás jellemző rájuk",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "első generációs liposzómák"
+  }, {
+    "letter" : "B",
+    "text" : "stealth liposzómák"
+  }, {
+    "letter" : "C",
+    "text" : "célzott liposzómák"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.147",
+  "text" : "Csoportosítsa az alábbi szerkezetmódosítások hatását a liposzómák in vivo stabilitására! ",
+  "items" : [ {
+    "text" : "a liposzóma méretének növelése",
+    "match" : "B"
+  }, {
+    "text" : "koleszterintartalom növelése",
+    "match" : "A"
+  }, {
+    "text" : "polietilén-glikol beépítése",
+    "match" : "A"
+  }, {
+    "text" : "töltéssel rendelkező molekula a liposzóma felszínén",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "a liposzómák stabilitását növeli"
+  }, {
+    "letter" : "B",
+    "text" : "a liposzómák stabilitását csökkenti"
+  }, {
+    "letter" : "C",
+    "text" : "nincs ismert hatása a liposzómák stabilitására"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.148",
+  "text" : "Párosítsa össze az alábbi metabolikus reakciókat! ",
+  "items" : [ {
+    "text" : "O-dealkilezés",
+    "match" : "A"
+  }, {
+    "text" : "dehidrogenáció",
+    "match" : "A"
+  }, {
+    "text" : "metilezés",
+    "match" : "B"
+  }, {
+    "text" : "glükuronid-konjugáció",
+    "match" : "B"
+  }, {
+    "text" : "acetilezés",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "I. fázisú reakciók"
+  }, {
+    "letter" : "B",
+    "text" : "II. fázisú reakciók"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.149",
+  "text" : "Párosítsa a fiziológiás fogalmakat az általa befolyásolt folyamattal! ",
+  "items" : [ {
+    "text" : "enzimaktivitás",
+    "match" : "D"
+  }, {
+    "text" : "zsírszövet aránya",
+    "match" : "C"
+  }, {
+    "text" : "vese vérátáramlási sebessége",
+    "match" : "E"
+  }, {
+    "text" : "motilitás",
+    "match" : "A"
+  }, {
+    "text" : "motilitás",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "liberáció"
+  }, {
+    "letter" : "B",
+    "text" : "abszorpció"
+  }, {
+    "letter" : "C",
+    "text" : "disztribúció"
+  }, {
+    "letter" : "D",
+    "text" : "metabolizmus"
+  }, {
+    "letter" : "E",
+    "text" : "exkréció"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.150",
+  "text" : "Párosítsa az alábbi állításokat a hatóanyag-leadás típusokhoz! ",
+  "items" : [ {
+    "text" : "késleltetési idő (tlag jellemzi)",
+    "match" : "C"
+  }, {
+    "text" : "többszöri tmax figyelhető meg",
+    "match" : "D"
+  }, {
+    "text" : "látszólag hosszabb eliminációs felezési időt eredményez, mint azt a hatóanyagtól várni lehet",
+    "match" : "B"
+  }, {
+    "text" : "magas cmax és kis tmax jellemzi",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "gyorsított hatóanyag-leadás"
+  }, {
+    "letter" : "B",
+    "text" : "nyújtott hatóanyag-leadás"
+  }, {
+    "letter" : "C",
+    "text" : "késleltetett hatóanyag-leadás"
+  }, {
+    "letter" : "D",
+    "text" : "szakaszos hatóanyag-leadás"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.151",
+  "text" : "Párosítsa az alábbi farmakokinetikai szempontból jellemző állításokat a gyógyszerbevitel módjával! ",
+  "items" : [ {
+    "text" : "a felszívódási tényezőt figyelembe kell venni, megjelenik a hatóanyag eliminációja",
+    "match" : "B"
+  }, {
+    "text" : "ún. inváziós szakasz gyors, felszívódási tényező nincs",
+    "match" : "A"
+  }, {
+    "text" : "azonos vagy nagyobb fajsúlyú folyadék beadásával nem bénítja a légző és vazomotor központot",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "intravascularis gyógyszerbevitel"
+  }, {
+    "letter" : "B",
+    "text" : "extravascularis gyógyszerbevitel"
+  }, {
+    "letter" : "C",
+    "text" : "szubarachnoidális térbe történő gyógyszerbevitel"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.152",
+  "text" : "Párosítsa össze az alábbi állításokat! ",
+  "items" : [ {
+    "text" : "elsősorban a sejtmembrán sajátságai befolyásolják",
+    "match" : "B"
+  }, {
+    "text" : "elsősorban a sejtek között lévő ún. “tight junction”-ok befolyásolják",
+    "match" : "C"
+  }, {
+    "text" : "passzív és aktív mechanizmusok jellemzik",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "a farmakonok barriereken történő áthaladása"
+  }, {
+    "letter" : "B",
+    "text" : "a transzcelluláris jelenségek"
+  }, {
+    "letter" : "C",
+    "text" : "a paracelluláris jelenségek"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.153",
+  "text" : "Mely fogalmak és állítások tartoznak össze a sejtmembrán folyamatait illetően? ",
+  "items" : [ {
+    "text" : "a paracelluláris transzport egyik speciális módja, pórusokon keresztül történik",
+    "match" : "D"
+  }, {
+    "text" : "a nagyobb koncentrációjú helyről a kisebb koncentrációjú hely felé folyik, nagysága arányos a koncentrációgradienssel",
+    "match" : "B"
+  }, {
+    "text" : "koncentrációgradienssel szemben is létrejön az anyag transzportja",
+    "match" : "A"
+  }, {
+    "text" : "nyomáskülönbségre (hidrosztatikai, ozmotikus) van szükség",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "aktív transzportfolyamatok"
+  }, {
+    "letter" : "B",
+    "text" : "passzív diffúzió"
+  }, {
+    "letter" : "C",
+    "text" : "disszociáció"
+  }, {
+    "letter" : "D",
+    "text" : "filtráció"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.154",
+  "text" : "Párosítsa a GI traktus egyes szakaszait és az ott megfigyelt pH-t! ",
+  "items" : [ {
+    "text" : "pH 7-8",
+    "match" : "D"
+  }, {
+    "text" : "pH 1-3",
+    "match" : "B"
+  }, {
+    "text" : "pH 5-7",
+    "match" : "C"
+  }, {
+    "text" : "pH 6-7",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "nyelőcső"
+  }, {
+    "letter" : "B",
+    "text" : "gyomor"
+  }, {
+    "letter" : "C",
+    "text" : "duodenum"
+  }, {
+    "letter" : "D",
+    "text" : "ileum"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.155",
+  "text" : "Párosítsa az alábbiakat ok-okozati összefüggés alapján! ",
+  "items" : [ {
+    "text" : "be-/kilélegzett levegő térfogata",
+    "match" : "B"
+  }, {
+    "text" : "inhalációs narkotikum jellege (pl. éter vagy halotán stb.)",
+    "match" : "D"
+  }, {
+    "text" : "szívfrekvencia",
+    "match" : "C"
+  }, {
+    "text" : "mindegyik (1, 2, 3 állítások egyszerre teljesülnek)",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "az inhalációs narkotikum eliminációs félideje"
+  }, {
+    "letter" : "B",
+    "text" : "a légzési perctérfogat"
+  }, {
+    "letter" : "C",
+    "text" : "a keringési perctérfogat"
+  }, {
+    "letter" : "D",
+    "text" : "a gáz/vér megoszlási hányados"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.156",
+  "text" : "Párosítsa az inhalációs gyógyszerhordozó rendszerek szemcseméretét a szemcsék lerakódási helyével! ",
+  "items" : [ {
+    "text" : "15 μm",
+    "match" : "A"
+  }, {
+    "text" : "9 μm",
+    "match" : "B"
+  }, {
+    "text" : "4 μm",
+    "match" : "C"
+  }, {
+    "text" : "0,5 μm",
+    "match" : "E"
+  }, {
+    "text" : "2 μm",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "orrüreg"
+  }, {
+    "letter" : "B",
+    "text" : "bronchus"
+  }, {
+    "letter" : "C",
+    "text" : "bronchiolus"
+  }, {
+    "letter" : "D",
+    "text" : "alveolus"
+  }, {
+    "letter" : "E",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.157",
+  "text" : "Párosítsa össze az egymástól függő paramétereket! ",
+  "items" : [ {
+    "text" : "megoszlási térfogat",
+    "match" : "B"
+  }, {
+    "text" : "az eliminációs konstans",
+    "match" : "A"
+  }, {
+    "text" : "az adagolás időintervalluma (τ) és az eliminációs konstans",
+    "match" : "C"
+  }, {
+    "text" : "az adagolás időtartama és az eliminációs konstans",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "a felezési idő"
+  }, {
+    "letter" : "B",
+    "text" : "az egésztest clearance érték"
+  }, {
+    "letter" : "C",
+    "text" : "ismételt adagolásnál a platószint"
+  }, {
+    "letter" : "D",
+    "text" : "egy infúzió biohasznosíthatósága"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.158",
+  "text" : "Válassza ki, hogyan változik az alábbi esetekben a biohasznosíthatóság értéke? ",
+  "items" : [ {
+    "text" : "a vékonybél felgyorsult perisztaltikus mozgása esetén",
+    "match" : "B"
+  }, {
+    "text" : "ha a farmakonból vízben rosszul oldódó komplexet képzünk",
+    "match" : "B"
+  }, {
+    "text" : "gyors metabolizáció esetén",
+    "match" : "B"
+  }, {
+    "text" : "enzim induktor egyidejű szedése esetén",
+    "match" : "B"
+  }, {
+    "text" : "enzim inhibitor egyidejű szedése esetén",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "nő"
+  }, {
+    "letter" : "B",
+    "text" : "csökken"
+  }, {
+    "letter" : "C",
+    "text" : "gyakorlatilag nem változik"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.159",
+  "text" : "Párosítsa a liposzómákra, kohleátokra ill. mindkettőre vonatkozó állításokat! ",
+  "items" : [ {
+    "text" : "a membránalkotó foszfolipid molekulák szabályos elrendeződésben kettős réteget alkotnak",
+    "match" : "C"
+  }, {
+    "text" : "szférikus alakkal rendelkeznek",
+    "match" : "A"
+  }, {
+    "text" : "feltekeredett membránszerkezettel rendelkeznek",
+    "match" : "B"
+  }, {
+    "text" : "szerkezetükben kétértékű ionok biztosítják a stabilitást",
+    "match" : "B"
+  }, {
+    "text" : "szerkezetük vizet nem tartalmaz",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "liposzómák"
+  }, {
+    "letter" : "B",
+    "text" : "kohleátok"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.160",
+  "text" : "Párosítsa össze az alábbi transzportfolyamatokat legfőbb jellemzőikkel! ",
+  "items" : [ {
+    "text" : "a molekulák komplexet képezve velük ellentétes töltésű molekulákkal töltésük kiegyenlítődött lesz",
+    "match" : "D"
+  }, {
+    "text" : "karrierfehérje közvetítésével energiát nem igényelve jut át a szubsztrát a membránon a koncentrációgradiensnek megfelelően",
+    "match" : "C"
+  }, {
+    "text" : "nem telíthető, nem gátolható transzportmechanizmus apoláris molekulák számára",
+    "match" : "A"
+  }, {
+    "text" : "szelektív, energiaigényes, telíthető, a koncentrációgradienssel szemben történő transzportfolyamat",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "passzív diffúzió"
+  }, {
+    "letter" : "B",
+    "text" : "aktív transzport"
+  }, {
+    "letter" : "C",
+    "text" : "facilitált diffúzió"
+  }, {
+    "letter" : "D",
+    "text" : "ionpártranszport"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.161",
+  "text" : "Párosítsa az alábbi hatóanyag-leadás vizsgáló módszereket ill. készülékeit a megfelelő gyógyszerformával! ",
+  "items" : [ {
+    "text" : "transzdermális tapasz",
+    "match" : "C"
+  }, {
+    "text" : "úszó tabletta",
+    "match" : "A"
+  }, {
+    "text" : "rágótabletta",
+    "match" : "B"
+  }, {
+    "text" : "rágótabletta",
+    "match" : "A"
+  }, {
+    "text" : "kapszula",
+    "match" : "B"
+  }, {
+    "text" : "kapszula",
+    "match" : "A"
+  }, {
+    "text" : "végbélkúp",
+    "match" : "A"
+  }, {
+    "text" : "végbélkúp",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "forgókosaras készülék"
+  }, {
+    "letter" : "B",
+    "text" : "forgólapátos készülék"
+  }, {
+    "letter" : "C",
+    "text" : "szitakorongos készülék"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.162",
+  "text" : "Párosítsa az alábbi farmakonokat az optimálisnak vélt gyógyszeradagolási módokhoz! ",
+  "items" : [ {
+    "text" : "nazális",
+    "match" : "D"
+  }, {
+    "text" : "transzdermális",
+    "match" : "E"
+  }, {
+    "text" : "perorális",
+    "match" : "A"
+  }, {
+    "text" : "rektális",
+    "match" : "C"
+  }, {
+    "text" : "szublingvális",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "acetilszalicilsav"
+  }, {
+    "letter" : "B",
+    "text" : "nitroglicerin"
+  }, {
+    "letter" : "C",
+    "text" : "indometacin"
+  }, {
+    "letter" : "D",
+    "text" : "ADH"
+  }, {
+    "letter" : "E",
+    "text" : "ösztradiol"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.163",
+  "text" : "Csoportosítsa az alábbi farmakonokat adagolási módjuk szerint! ",
+  "items" : [ {
+    "text" : "kaptopril",
+    "match" : "B"
+  }, {
+    "text" : "nitroglicerin",
+    "match" : "C"
+  }, {
+    "text" : "nifedipin",
+    "match" : "B"
+  }, {
+    "text" : "fentanil",
+    "match" : "A"
+  }, {
+    "text" : "metoprolol",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "transzdermális"
+  }, {
+    "letter" : "B",
+    "text" : "szublingvális"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.164",
+  "text" : "Mely állítások tartoznak össze a tápcsatorna különböző szakaszaira vonatkozóan? ",
+  "items" : [ {
+    "text" : "fiziológiás körülmények között nem történik jelentős hatóanyag-felszívódás",
+    "match" : "B"
+  }, {
+    "text" : "fehérje és peptid természetű hatóanyagok megemésztődnek",
+    "match" : "A"
+  }, {
+    "text" : "felszívódás során a hatóanyagok részben elkerülik a máj elsődleges méregtelenítő hatását",
+    "match" : "C"
+  }, {
+    "text" : "az orálisan bevitt hatóanyagok nagy része innen felszívódva kerül a keringésbe",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "gyomor"
+  }, {
+    "letter" : "B",
+    "text" : "vastagbél"
+  }, {
+    "letter" : "C",
+    "text" : "vékonybél"
+  }, {
+    "letter" : "D",
+    "text" : "végbél"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.165",
+  "text" : "Válassza ki egy átlagos felnőtt szervezet víztereinek mennyiségét! ",
+  "items" : [ {
+    "text" : "intracelluláris víztér",
+    "match" : "B"
+  }, {
+    "text" : "extracelluláris víztér",
+    "match" : "C"
+  }, {
+    "text" : "intravazális extracelluláris víztér",
+    "match" : "A"
+  }, {
+    "text" : "extravazális extracelluláris víztér",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "kb.12 liter"
+  }, {
+    "letter" : "B",
+    "text" : "kb. 3 liter"
+  }, {
+    "letter" : "C",
+    "text" : "kb. 29 liter"
+  }, {
+    "letter" : "D",
+    "text" : "kb. 9 liter"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.166",
+  "text" : "Párosítsa össze a biológiai hasznosíthatóságra vonatkozó állításokat! ",
+  "items" : [ {
+    "text" : "értékét a görbe alatti terület(ek) segítségével lehet kiszámítani",
+    "match" : "C"
+  }, {
+    "text" : "értéke kiszámításakor az intravaszkuláris adagolásra vonatkoztatunk",
+    "match" : "A"
+  }, {
+    "text" : "értéke kiszámításakor vizsgált készítményünket egy referenciakészítménnyel hasonlítjuk össze",
+    "match" : "B"
+  }, {
+    "text" : "eltérő adagok esetén figyelembe vesszük a dózisok nagyságát is",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "abszolút biológiai hasznosíthatóság"
+  }, {
+    "letter" : "B",
+    "text" : "relatív biológiai hasznosíthatóság"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.167",
+  "text" : "Párosítsa az egyenértékűségekre vonatkozó állításokat! ",
+  "items" : [ {
+    "text" : "azok a készítmények, amelyek nem feltétlenül tartalmazzák azonos mennyiségben és formában valamint kémiai megjelenésben ugyanazt a hatóanyagot",
+    "match" : "C"
+  }, {
+    "text" : "azok a készítmények, amelyek azonos hatóanyag mennyiséget azonos kémiai formában tartalmaznak, azonos az adagolási formájuk, technológiai szempontból optimalizáltak, de a készítmény segédanyagai nem feltétlenül azonosak",
+    "match" : "B"
+  }, {
+    "text" : "azok a gyógyszerkészítmények, amelyek kémiailag azonos hatóanyagokat tartalmaznak, azonos adagban, azonos gyógyszerformában",
+    "match" : "A"
+  }, {
+    "text" : "azok a biológiailag egyenértékű preparátumok, amelyek ugyanabban a személyben, azonos feltétel mellett, ugyanazt a terápiás hatást eredményezik",
+    "match" : "E"
+  }, {
+    "text" : "azok a gyógyszerészi készítmények vagy gyógyszerészeti alternatívák, amelyekben a hatóanyag biológiai hasznosíthatósága megegyezik, tehát nincs a hatás szempontjából jelentős különbség, azonos feltételek mellett adva",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "kémiai egyenértékűség"
+  }, {
+    "letter" : "B",
+    "text" : "gyógyszerészeti egyenértékűség"
+  }, {
+    "letter" : "C",
+    "text" : "gyógyszerészeti alternatívák"
+  }, {
+    "letter" : "D",
+    "text" : "biológiai egyenértékűség"
+  }, {
+    "letter" : "E",
+    "text" : "terápiás egyenértékűség"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.168",
+  "text" : "Párosítsa a szoptatásra vonatkozó biofarmáciai ismereteket! ",
+  "items" : [ {
+    "text" : "alacsony plazmafehérje kötődésű, kis molekulatömegű gyógyszerek",
+    "match" : "C"
+  }, {
+    "text" : "vér-agy gát",
+    "match" : "A"
+  }, {
+    "text" : "a gyógyszer farmakodinámiája a magzatban",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "a gyógyszerek anyatejbe jutását ez a barrier nem befolyásolja"
+  }, {
+    "letter" : "B",
+    "text" : "nem határozza meg a gyógyszer tényleges koncentrációját az anyatejben"
+  }, {
+    "letter" : "C",
+    "text" : "ilyen karakterű vegyületek jutnak át könnyen az anyatejbe"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.169",
+  "text" : "Párosítsa a transzdermális terápiával kapcsolatos biofarmáciai ismereteket! ",
+  "items" : [ {
+    "text" : "bőrről történő felszívódása gyakorlatilag elhanyagolható",
+    "match" : "A"
+  }, {
+    "text" : "penetrációja sokkal jelentősebb, mint a hidrofileké a stratum corneumon keresztül",
+    "match" : "B"
+  }, {
+    "text" : "a penetráció alternatív úton, pl. megnyílt verejtékmirigyeken, szőrtüszőkön át mehet végbe",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "vízoldékony vegyület"
+  }, {
+    "letter" : "B",
+    "text" : "lipofil vegyület"
+  }, {
+    "letter" : "C",
+    "text" : "legtöbb gyógyszer"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.170",
+  "text" : "Párosítsa a modellfüggő és modellfüggetlen hatóanyagleadás-vizsgálatok értékeléseit! ",
+  "items" : [ {
+    "text" : "Weibull-féle eloszlás",
+    "match" : "A"
+  }, {
+    "text" : "közepes kioldódási idő (MDT)",
+    "match" : "B"
+  }, {
+    "text" : "illeszkedési faktorok (f1, f2)",
+    "match" : "B"
+  }, {
+    "text" : "Gompertz-függvény",
+    "match" : "A"
+  }, {
+    "text" : "Baker-Lonsdale-függvény",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "modellfüggő"
+  }, {
+    "letter" : "B",
+    "text" : "modellfüggetlen"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.171",
+  "text" : "Keresse meg az összetartozó fogalmakat és állításokat! ",
+  "items" : [ {
+    "text" : "intravazálisan juttathatók a szervezetbe és terápiás alkalmazásuk elsősorban a daganatos, autoimmun, valamint a gyulladásos megbetegedések kezelésére irányul",
+    "match" : "C"
+  }, {
+    "text" : "olyan anyagok, amelyek megváltoztatják a sejtek metabolizmusát vagy funkcióját",
+    "match" : "D"
+  }, {
+    "text" : "biotechnológiai úton kifejlesztett vagy immunológiai vagy emberi vérből és plazmából előállított gyógyszerek",
+    "match" : "A"
+  }, {
+    "text" : "génregulációs hatásukat DNS-sel való triplex vagy RNS-sel való duplex képzés útján fejtik ki",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "biológiai gyógyszernek minősülnek"
+  }, {
+    "letter" : "B",
+    "text" : "oligonukleotidok"
+  }, {
+    "letter" : "C",
+    "text" : "monoklonális antitestek"
+  }, {
+    "letter" : "D",
+    "text" : "biológiai válaszmódosítók"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.172",
+  "text" : "Állítsa párba a legjellemzőbb adagolási módokat a gyógyszerekkel az injekciók alkalmazásával kapcsolatosan! ",
+  "items" : [ {
+    "text" : "vakcinák, inzulin",
+    "match" : "C"
+  }, {
+    "text" : "szteroidok, nemszteroid gyulladáscsökkentők, helyi érzéstelenítők, antibiotikumok",
+    "match" : "D"
+  }, {
+    "text" : "antineoplasztikumok",
+    "match" : "A"
+  }, {
+    "text" : "kardiotonikumok",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "intraartériás"
+  }, {
+    "letter" : "B",
+    "text" : "intrakardiális"
+  }, {
+    "letter" : "C",
+    "text" : "szubkután"
+  }, {
+    "letter" : "D",
+    "text" : "intraartikuláris"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.173",
+  "text" : "Állítsa párba a gyógyszer adagolási módokat és a hatás kialakulásának sebességét a beadás után! ",
+  "items" : [ {
+    "text" : "transzdermális",
+    "match" : "C"
+  }, {
+    "text" : "intramuszkuláris",
+    "match" : "B"
+  }, {
+    "text" : "intravénás",
+    "match" : "A"
+  }, {
+    "text" : "szublingvális",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "gyors"
+  }, {
+    "letter" : "B",
+    "text" : "közepes"
+  }, {
+    "letter" : "C",
+    "text" : "lassú"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.174",
+  "text" : "Jelezze a nitroglicerin tartalmú gyógyszerhordozó rendszerek adagolási módja és a gyógyszerhatás ideje közötti összefüggést! ",
+  "items" : [ {
+    "text" : "kb. 16-24 óra",
+    "match" : "B"
+  }, {
+    "text" : "kb. 0,5 óra",
+    "match" : "C"
+  }, {
+    "text" : "kb. 5 óra",
+    "match" : "D"
+  }, {
+    "text" : "néhány perc",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "intravénás oldat"
+  }, {
+    "letter" : "B",
+    "text" : "transzdermális tapasz"
+  }, {
+    "letter" : "C",
+    "text" : "szublingvális tabletta"
+  }, {
+    "letter" : "D",
+    "text" : "bukkális nyújtott hatású tabletta"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.175",
+  "text" : "Párosítsa az alábbi farmakonokat lehetséges exkréciós útjukkal! ",
+  "items" : [ {
+    "text" : "bőr",
+    "match" : "C"
+  }, {
+    "text" : "tüdő",
+    "match" : "B"
+  }, {
+    "text" : "vese",
+    "match" : "D"
+  }, {
+    "text" : "epe",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "prokainamid"
+  }, {
+    "letter" : "B",
+    "text" : "nitrogén-oxid"
+  }, {
+    "letter" : "C",
+    "text" : "brómsók"
+  }, {
+    "letter" : "D",
+    "text" : "tiazidok"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.176",
+  "text" : "Párosítsa az összetartozó állításokat! ",
+  "items" : [ {
+    "text" : "elsősorban a célzott daganatterápiában alkalmazzák",
+    "match" : "A"
+  }, {
+    "text" : "nanorendszerek",
+    "match" : "D"
+  }, {
+    "text" : "lehetnek gyógyszerhordozók, melyek ionos felületaktív anyagokból képződnek, a hatóanyagot szolubilizált állapotban tartalmazva",
+    "match" : "B"
+  }, {
+    "text" : "liposzómák",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "immunliposzómák"
+  }, {
+    "letter" : "B",
+    "text" : "micellák"
+  }, {
+    "letter" : "C",
+    "text" : "polietilén-glikol (PEG) molekulák beépítésével a hatóanyag célba jutásának valószínűségét meg lehet növelni"
+  }, {
+    "letter" : "D",
+    "text" : "segítségükkel gyógyszert lehet átjuttatni a vér-agy gáton"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.177",
+  "text" : "Párosítsa az alábbi nanoméretű rendszereket jellemző tulajdonságaikhoz! ",
+  "items" : [ {
+    "text" : "félvezető nanorészecskék egyedi optikai és fotokémiai tulajdonságokkal",
+    "match" : "E"
+  }, {
+    "text" : "a hatóanyag bennük kovalens kötéssel kapcsolódik a struktúra lipidjeihez",
+    "match" : "C"
+  }, {
+    "text" : "nemionos felületaktív anyagokból felépülő kettős falú vezikulumok",
+    "match" : "A"
+  }, {
+    "text" : "magas etanoltartalmuk nagymértékben elősegíti a bőrön át történő penetrációt",
+    "match" : "B"
+  }, {
+    "text" : "szintetikus makromolekulák, amelyek egy központi magból kiinduló, térben elágazó, ismétlődő egységekből állnak",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "nioszómák"
+  }, {
+    "letter" : "B",
+    "text" : "etoszómák"
+  }, {
+    "letter" : "C",
+    "text" : "farmakoszómák"
+  }, {
+    "letter" : "D",
+    "text" : "dendrimerek"
+  }, {
+    "letter" : "E",
+    "text" : "kvantum dotok"
+  }, {
+    "letter" : "F",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.178",
+  "text" : "Párosítsa a felsorolt rövidítések jelentését és a hatóanyag-leadás kinetikáját! ",
+  "items" : [ {
+    "text" : "XL",
+    "match" : "D"
+  }, {
+    "text" : "ZOK",
+    "match" : "A"
+  }, {
+    "text" : "CR",
+    "match" : "C"
+  }, {
+    "text" : "UNO",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "nulladrendű kinetikájú (állandó sebességű) nyújtott hatóanyag-leadás"
+  }, {
+    "letter" : "B",
+    "text" : "napi egyszeri adagolású"
+  }, {
+    "letter" : "C",
+    "text" : "szabályozott hatóanyag-leadás"
+  }, {
+    "letter" : "D",
+    "text" : "nyújtott hatóanyag-leadás"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.179",
+  "text" : "Párosítsa a Biofarmáciai Osztályozási Rendszer egyes osztályait a hatóanyagok tulajdonságaival! ",
+  "items" : [ {
+    "text" : "jó permeabilitás, rossz oldhatóság",
+    "match" : "B"
+  }, {
+    "text" : "jó oldhatóság, rossz permeabilitás",
+    "match" : "C"
+  }, {
+    "text" : "jó oldhatóság, jó permeabilitás",
+    "match" : "A"
+  }, {
+    "text" : "rossz oldhatóság, rossz permeabilitás",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "I. osztály"
+  }, {
+    "letter" : "B",
+    "text" : "II. osztály"
+  }, {
+    "letter" : "C",
+    "text" : "III. osztály"
+  }, {
+    "letter" : "D",
+    "text" : "IV. osztály"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "BIOF - 5.180",
+  "text" : "Párosítsa az alábbi gyógyszer alkalmazási módokat az állításokhoz! ",
+  "items" : [ {
+    "text" : "segítségével elkerülhető a „first pass” mechanizmus",
+    "match" : "C"
+  }, {
+    "text" : "felszívódási felszíne nagyon érzékeny a külső környezeti változásokra",
+    "match" : "B"
+  }, {
+    "text" : "az abszorpciós felszín nyálkahártyája naponta kb. 1 liter váladékot termel",
+    "match" : "B"
+  }, {
+    "text" : "felszívódási felszíne felső harmadába juttatott hatóanyag a májon keresztül éri el a szisztémás keringést",
+    "match" : "A"
+  }, {
+    "text" : "görcsoldó hatóanyagok alkalmazásához megfelelő abszorpciós felszínt biztosít",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "rektális alkalmazás"
+  }, {
+    "letter" : "B",
+    "text" : "nazális alkalmazás"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+} ]

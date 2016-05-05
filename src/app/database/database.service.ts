@@ -7,8 +7,8 @@ export class Database {
   constructor(public http: Http) {
   }
 
-  getData() {
-    return this.http.get('/assets/gynd.json')
+  getData(group: string) {
+    return this.http.get('/assets/' + group + '.json')
       .map(res => res.json());
   }
 
