@@ -4,11 +4,11 @@ import {Http} from 'angular2/http';
 @Injectable()
 export class Database {
 
-  constructor(public http: Http) {
+  constructor(public http:Http) {
   }
 
-  getData(group: string) {
-    return this.http.get('/assets/' + group + '.json')
+  getData(group:string, version:number) {
+    return this.http.get('/assets/' + group + '-' + version + '.json')
       .map(res => res.json());
   }
 

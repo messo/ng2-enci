@@ -1,0 +1,5455 @@
+[ {
+  "id" : "GYND - 6.1",
+  "text" : "Az illóolajok ..., rendszerint kellemes illatú, komplex elegyei.",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "mono- és szeszkviterpének, valamint fenilpropán-származékok"
+  }, {
+    "letter" : "B",
+    "text" : "mono- és diterpén alkoholok és éterek"
+  }, {
+    "letter" : "C",
+    "text" : "szeszkviterpének és más aromás komponensek"
+  }, {
+    "letter" : "D",
+    "text" : "monoterpén savak és laktonok"
+  }, {
+    "letter" : "E",
+    "text" : "monoterpén észterek és aldehidek"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "mono- és szeszkviterpének, valamint fenilpropán-származékok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.2",
+  "text" : "Mit nevezünk balzsamnak?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "illóolajban oldott gyantát"
+  }, {
+    "letter" : "B",
+    "text" : "illóolaj és szeszkviterpének keverékét"
+  }, {
+    "letter" : "C",
+    "text" : "gyanta vizes oldatát"
+  }, {
+    "letter" : "D",
+    "text" : "poliszacharidok és illóolajok elegyét"
+  }, {
+    "letter" : "E",
+    "text" : "szárazra párolt növényi préslevet"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "illóolajban oldott gyantát"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.3",
+  "text" : "A valódi alkaloidok a természetben előforduló szerves vegyületek, amelyek molekulájában ... fordul elő.",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "egy vagy több N-atom"
+  }, {
+    "letter" : "B",
+    "text" : "két heterociklusos gyűrű"
+  }, {
+    "letter" : "C",
+    "text" : "az egyik benzolgyűrűn alkil oldallánc"
+  }, {
+    "letter" : "D",
+    "text" : "egy vagy több aminosavból származó, gyűrűbe zárt N-atom"
+  }, {
+    "letter" : "E",
+    "text" : "egy vagy több O-atom"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "egy vagy több aminosavból származó, gyűrűbe zárt N-atom"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.4",
+  "text" : "Az iridoidok:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "illóolajok alkotórészei"
+  }, {
+    "letter" : "B",
+    "text" : "a tannin biogenezis kiinduló anyagai"
+  }, {
+    "letter" : "C",
+    "text" : "prekurzorok a szaponin bioszintézisben"
+  }, {
+    "letter" : "D",
+    "text" : "prekurzorok egyes alkaloidok bioszintézisében"
+  }, {
+    "letter" : "E",
+    "text" : "zsíros olajok alkotórészei"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "prekurzorok egyes alkaloidok bioszintézisében"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.5",
+  "text" : "Hogyan izolál alkaloidot szabad bázis formájában?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ammónium-hidroxidot és vizet adva az elporított droghoz"
+  }, {
+    "letter" : "B",
+    "text" : "a kivonatkészítéshez ásványi savat és szerves oldószert használva"
+  }, {
+    "letter" : "C",
+    "text" : "a kivonáshoz valamilyen lúgot és szerves oldószert használva"
+  }, {
+    "letter" : "D",
+    "text" : "a kivonáshoz valamilyen ásványi savat és vizet használva"
+  }, {
+    "letter" : "E",
+    "text" : "egyszerűen szerves oldószeres melegítéssel kivonva"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a kivonáshoz valamilyen lúgot és szerves oldószert használva"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.6",
+  "text" : "A morfint el lehet választani a mellékalkaloidoktól, mert:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a morfinban van egy piperidingyűrű"
+  }, {
+    "letter" : "B",
+    "text" : "a morfinban van két metoxicsoport"
+  }, {
+    "letter" : "C",
+    "text" : "a morfinban van egy fenolos hidroxilcsoport, míg a mellékalkaloidok molekulájában nincs"
+  }, {
+    "letter" : "D",
+    "text" : "a morfinban nincs fenolos hidroxilcsoport, míg a mellékalkaloidokban van"
+  }, {
+    "letter" : "E",
+    "text" : "a morfint nem lehet elválasztani a társalkaloidoktól"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a morfinban van egy fenolos hidroxilcsoport, míg a mellékalkaloidok molekulájában nincs"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.7",
+  "text" : "Melyik a Cinchona alkaloidok közös alapváza?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ceván"
+  }, {
+    "letter" : "B",
+    "text" : "tropán"
+  }, {
+    "letter" : "C",
+    "text" : "izokinolin"
+  }, {
+    "letter" : "D",
+    "text" : "rubán"
+  }, {
+    "letter" : "E",
+    "text" : "dammarán"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "rubán"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.8",
+  "text" : "Melyik reagens alkalmas alkaloidok kimutatására?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "2,4-dinitrofenilhidrazin"
+  }, {
+    "letter" : "B",
+    "text" : "vas(III)-klorid"
+  }, {
+    "letter" : "C",
+    "text" : "antimon(III)-klorid"
+  }, {
+    "letter" : "D",
+    "text" : "kálium-tetrajodomerkurát"
+  }, {
+    "letter" : "E",
+    "text" : "sósavas floroglucin"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "kálium-tetrajodomerkurát"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.9",
+  "text" : "Az anyarozs a Claviceps purpurea nevű gombának:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "vegetatív formája"
+  }, {
+    "letter" : "B",
+    "text" : "száraz szkleróciuma"
+  }, {
+    "letter" : "C",
+    "text" : "aszkospórája"
+  }, {
+    "letter" : "D",
+    "text" : "konidiospórája"
+  }, {
+    "letter" : "E",
+    "text" : "száraz termése"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "száraz szkleróciuma"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.10",
+  "text" : "Mi a különbség a cellulóz és a keményítő kémiai szerkezete között?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a cellulóz α-D-glükóz molekulákból épül fel, míg a keményítőt β-D-glükóz molekulák alkotják"
+  }, {
+    "letter" : "B",
+    "text" : "a cellulóz β-D-glükóz molekulákból épül fel, a keményítő pedig α- és β-D-glükóz molekulákból áll"
+  }, {
+    "letter" : "C",
+    "text" : "a cellulóz 1,4-β-D-glükóz kapcsolódású molekulákból áll, míg a keményítő 1,-α és 1,6-α-D kapcsolódású glükózláncokból épül fel"
+  }, {
+    "letter" : "D",
+    "text" : "mindkettő elágazó és lineáris 1,4-α-D-glükóz egységekből épül fel"
+  }, {
+    "letter" : "E",
+    "text" : "mind a keményítő, mind a cellulóz 1,2-β-D-glükóz molekulákból épül fel"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a cellulóz 1,4-β-D-glükóz kapcsolódású molekulákból áll, míg a keményítő 1,-α és 1,6-α-D kapcsolódású glükózláncokból épül fel"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.11",
+  "text" : "Melyik szerkezeti típusba tartoznak a Silybum marianum májvédő hatású flavonoidjai?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "dimer flaván-3,4-diolok"
+  }, {
+    "letter" : "B",
+    "text" : "monomer flavonolok"
+  }, {
+    "letter" : "C",
+    "text" : "flavanolignánok"
+  }, {
+    "letter" : "D",
+    "text" : "flavánonol-monoglikozidok"
+  }, {
+    "letter" : "E",
+    "text" : "izoflavánon diglikozidok"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "flavanolignánok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.12",
+  "text" : "Válassza ki a megfelelő reakciót az antrakinonok azonosítására!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Marquis-reakció"
+  }, {
+    "letter" : "B",
+    "text" : "Froehde-reakció"
+  }, {
+    "letter" : "C",
+    "text" : "Liebermann-Burchard-reakció"
+  }, {
+    "letter" : "D",
+    "text" : "Bornträger-reakció"
+  }, {
+    "letter" : "E",
+    "text" : "Murexid-reakció"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Bornträger-reakció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.13",
+  "text" : "Hogyan mutatja ki a procianidineket?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "híg NaOH-dal melegítve a procianidinek zöld színt adnak"
+  }, {
+    "letter" : "B",
+    "text" : "koncentrált salétromsavval a procianidinek sárga színt adnak"
+  }, {
+    "letter" : "C",
+    "text" : "sósavas forralással készült kivonatuk butanolos rázadéka vörös színű"
+  }, {
+    "letter" : "D",
+    "text" : "a procianidinek rezorcinnal melegítve kékesibolya színt adnak"
+  }, {
+    "letter" : "E",
+    "text" : "Kedde-reagenssel a procianidinek narancsszínű csapadékot adnak"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "sósavas forralással készült kivonatuk butanolos rázadéka vörös színű"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.14",
+  "text" : "Melyik módszert írja elő a Ph. Hg. VIII. a drogok illóolajtartalmának mennyiségi meghatározására?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "víz - vízgőz-desztilláció"
+  }, {
+    "letter" : "B",
+    "text" : "petroléteres extrakció"
+  }, {
+    "letter" : "C",
+    "text" : "Marcusson szerinti desztilláció"
+  }, {
+    "letter" : "D",
+    "text" : "szárítási veszteség meghatározása"
+  }, {
+    "letter" : "E",
+    "text" : "alkoholos extraktanyag-meghatározás"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "víz - vízgőz-desztilláció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.15",
+  "text" : "Miért nem használható gyógyászati célra a Rheum raponticum a Rheum palmatum helyett?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "mert túl sok benne az emodin"
+  }, {
+    "letter" : "B",
+    "text" : "mert nagyon alacsony a reintartalma"
+  }, {
+    "letter" : "C",
+    "text" : "mert magas a krizofanoltartalma"
+  }, {
+    "letter" : "D",
+    "text" : "mert egy raponticin nevű stilbénszármazékot tartalmaz"
+  }, {
+    "letter" : "E",
+    "text" : "mert túl alacsony a galluszsavtartalma"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "mert egy raponticin nevű stilbénszármazékot tartalmaz"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.16",
+  "text" : "Vízgőz-desztilláció során melyik vegyületből képződik kamazulén?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "lavandulol"
+  }, {
+    "letter" : "B",
+    "text" : "farnezol"
+  }, {
+    "letter" : "C",
+    "text" : "matricin"
+  }, {
+    "letter" : "D",
+    "text" : "gosszipol"
+  }, {
+    "letter" : "E",
+    "text" : "partenolid"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "matricin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.17",
+  "text" : "Melyik drog tartalmaz inulint?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Cichorii radix"
+  }, {
+    "letter" : "B",
+    "text" : "Symphyti radix"
+  }, {
+    "letter" : "C",
+    "text" : "Plantaginis herba"
+  }, {
+    "letter" : "D",
+    "text" : "Trigonellae foenugraeci semen"
+  }, {
+    "letter" : "E",
+    "text" : "Tanaceti herba"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Cichorii radix"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.18",
+  "text" : "A hasis a Cannabis sativa:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "hím virágjainak mézgája"
+  }, {
+    "letter" : "B",
+    "text" : "női virágainak gyantája"
+  }, {
+    "letter" : "C",
+    "text" : "női és hím virágainak mézgája"
+  }, {
+    "letter" : "D",
+    "text" : "leveleinek présnedve"
+  }, {
+    "letter" : "E",
+    "text" : "ágcsúcsainak tejnedve"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "női virágainak gyantája"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.19",
+  "text" : "Mi az ópium?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az éretlen máktokból bemetszésre kifolyó és megszáradt tejnedv"
+  }, {
+    "letter" : "B",
+    "text" : "az érett máktok beszárított vizes kivonata"
+  }, {
+    "letter" : "C",
+    "text" : "az éretlen máktok alkoholos kivonata beszárítva"
+  }, {
+    "letter" : "D",
+    "text" : "a mákszalma alkoholos kivonata betöményítve"
+  }, {
+    "letter" : "E",
+    "text" : "az érett mákmag vizes kivonata"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "az éretlen máktokból bemetszésre kifolyó és megszáradt tejnedv"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.165",
+  "text" : "Rendelje egymáshoz az összetartozó drogokat és a jellemző komponenseket! ",
+  "items" : [ {
+    "text" : "Laburni semen",
+    "match" : "C"
+  }, {
+    "text" : "Secale cornutum",
+    "match" : "A"
+  }, {
+    "text" : "Curare",
+    "match" : "B"
+  }, {
+    "text" : "Ipecacuanhae radix",
+    "match" : "D"
+  }, {
+    "text" : "Rauwolfiae radix",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "ergotamin"
+  }, {
+    "letter" : "B",
+    "text" : "emetin"
+  }, {
+    "letter" : "C",
+    "text" : "citizin"
+  }, {
+    "letter" : "D",
+    "text" : "tubokurarin"
+  }, {
+    "letter" : "E",
+    "text" : "reszerpin"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.20",
+  "text" : "A fiziológiásan aktív anyarozs alkaloidok közös építőeleme:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "izolizergsav"
+  }, {
+    "letter" : "B",
+    "text" : "klavorubin"
+  }, {
+    "letter" : "C",
+    "text" : "D-lizergsav"
+  }, {
+    "letter" : "D",
+    "text" : "2-fenilbenzopirán"
+  }, {
+    "letter" : "E",
+    "text" : "elimoklavin"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "D-lizergsav"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.21",
+  "text" : "A morfingyártás ipari nyersanyaga a mákszalma, mert:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "csak morfint tartalmaz"
+  }, {
+    "letter" : "B",
+    "text" : "kísérő alkaloidokat nem tartalmaz"
+  }, {
+    "letter" : "C",
+    "text" : "legnagyobb mennyiségben tartalmaz morfint"
+  }, {
+    "letter" : "D",
+    "text" : "a rendelkezésre álló legolcsóbb nyersanyag"
+  }, {
+    "letter" : "E",
+    "text" : "morfinszármazékokat tartalmaz"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a rendelkezésre álló legolcsóbb nyersanyag"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.22",
+  "text" : "Békésy Miklós nevéhez fűződik:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az illóolajok nagyüzemi vízgőz-desztillációs előállítása"
+  }, {
+    "letter" : "B",
+    "text" : "a mákalkaloidok ipari előállítása"
+  }, {
+    "letter" : "C",
+    "text" : "az anyarozs nagyüzemi termesztése"
+  }, {
+    "letter" : "D",
+    "text" : "a morfin izolálása"
+  }, {
+    "letter" : "E",
+    "text" : "az anyarozs-alkaloidok fermentációval történő előállítása"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "az anyarozs nagyüzemi termesztése"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.23",
+  "text" : "Válassza ki a legnagyobb koffeintartalmú drogot az alábbiak közül!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Mate folium"
+  }, {
+    "letter" : "B",
+    "text" : "Theae folium"
+  }, {
+    "letter" : "C",
+    "text" : "Guarana"
+  }, {
+    "letter" : "D",
+    "text" : "Coffeae semen"
+  }, {
+    "letter" : "E",
+    "text" : "Colae semen"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Guarana"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.24",
+  "text" : "Melyik vegyület nem található meg a Matricariae aetheroleumban?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "kamazulén"
+  }, {
+    "letter" : "B",
+    "text" : "matricin"
+  }, {
+    "letter" : "C",
+    "text" : "spatulenol"
+  }, {
+    "letter" : "D",
+    "text" : "α-bizabolol"
+  }, {
+    "letter" : "E",
+    "text" : "en-in-dicikloéterek"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "matricin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.25",
+  "text" : "Az inulin:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "arabin"
+  }, {
+    "letter" : "B",
+    "text" : "pektin"
+  }, {
+    "letter" : "C",
+    "text" : "galaktán"
+  }, {
+    "letter" : "D",
+    "text" : "mannán"
+  }, {
+    "letter" : "E",
+    "text" : "fruktán"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "fruktán"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.26",
+  "text" : "Válassza ki a purinvázas alkaloidot!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "higrin"
+  }, {
+    "letter" : "B",
+    "text" : "teobromin"
+  }, {
+    "letter" : "C",
+    "text" : "efedrin"
+  }, {
+    "letter" : "D",
+    "text" : "sztrichnin"
+  }, {
+    "letter" : "E",
+    "text" : "szolanidin"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "teobromin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.27",
+  "text" : "Karminatív hatású az alábbi drogok közül:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Frangulae cortex"
+  }, {
+    "letter" : "B",
+    "text" : "Centaurii herba"
+  }, {
+    "letter" : "C",
+    "text" : "Silybi mariani fructus"
+  }, {
+    "letter" : "D",
+    "text" : "Foeniculi fructus"
+  }, {
+    "letter" : "E",
+    "text" : "Graminis rhizoma"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Foeniculi fructus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.28",
+  "text" : "Melyik drog hatóanyaga az ajoen az alábbiak közül?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Valerianae radix"
+  }, {
+    "letter" : "B",
+    "text" : "Agrimoniae herba"
+  }, {
+    "letter" : "C",
+    "text" : "Echinaceae radix"
+  }, {
+    "letter" : "D",
+    "text" : "Ginseng radix"
+  }, {
+    "letter" : "E",
+    "text" : "Allii sativi bulbus"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Allii sativi bulbus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.29",
+  "text" : "Melyik vegyületcsoportra jellemző a fehérjékkel való irreverzibilis komplexképzés?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "alkaloidok"
+  }, {
+    "letter" : "B",
+    "text" : "szaponinok"
+  }, {
+    "letter" : "C",
+    "text" : "cserzőanyagok"
+  }, {
+    "letter" : "D",
+    "text" : "nyálka"
+  }, {
+    "letter" : "E",
+    "text" : "antraglikozidok"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "cserzőanyagok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.30",
+  "text" : "Melyik drog jellemző hatóanyaga az aukubin?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Marrubii herba"
+  }, {
+    "letter" : "B",
+    "text" : "Agrimoniae herba"
+  }, {
+    "letter" : "C",
+    "text" : "Valerianae radix"
+  }, {
+    "letter" : "D",
+    "text" : "Plantaginis lanceolatae folium"
+  }, {
+    "letter" : "E",
+    "text" : "Cyani flos"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Plantaginis lanceolatae folium"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.31",
+  "text" : "A cserzőanyag-tartalom meghatározásánál (Ph. Hg. VIII.) azért alkalmaznak bőrport, hogy:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "színreakciót adjon a cserzőanyagokkal"
+  }, {
+    "letter" : "B",
+    "text" : "megkösse a polifenolokat"
+  }, {
+    "letter" : "C",
+    "text" : "redukálja a cserzőanyagokat"
+  }, {
+    "letter" : "D",
+    "text" : "oxidálja a polifenolokat"
+  }, {
+    "letter" : "E",
+    "text" : "megkösse a cserzőanyagokat"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "megkösse a cserzőanyagokat"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.32",
+  "text" : "Milyen típusú vegyület a fitoterápiában húgyúti fertőzésekben használt arbutin?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "flavonoid glikozid"
+  }, {
+    "letter" : "B",
+    "text" : "fenolglükozid"
+  }, {
+    "letter" : "C",
+    "text" : "furanokumarin"
+  }, {
+    "letter" : "D",
+    "text" : "iridoid glikozid"
+  }, {
+    "letter" : "E",
+    "text" : "gallotannin"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "fenolglükozid"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.33",
+  "text" : "Hogyan vonja ki a drogból a tercier alkaloidokat só formájában?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szerves oldószerrel, pl. kloroformmal melegítve"
+  }, {
+    "letter" : "B",
+    "text" : "ammónium-hidroxidot tartalmazó vízzel, forralással"
+  }, {
+    "letter" : "C",
+    "text" : "a kivonáshoz valamilyen lúgot és szerves oldószert használva"
+  }, {
+    "letter" : "D",
+    "text" : "a kivonatkészítéshez ásványi savat és szerves oldószert használva"
+  }, {
+    "letter" : "E",
+    "text" : "a kivonáshoz valamilyen ásványi savat és vizet használva"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "a kivonáshoz valamilyen ásványi savat és vizet használva"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.34",
+  "text" : "Válassza ki az antranoidszármazékokat tartalmazó drogot!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Betulae folium"
+  }, {
+    "letter" : "B",
+    "text" : "Graminis rhizoma"
+  }, {
+    "letter" : "C",
+    "text" : "Rhei radix"
+  }, {
+    "letter" : "D",
+    "text" : "Herniariae herba"
+  }, {
+    "letter" : "E",
+    "text" : "Rubi idaei folium"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Rhei radix"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.35",
+  "text" : "Melyik reagenssel azonosítja a Secale cornutum alkaloidjait?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "van Urk"
+  }, {
+    "letter" : "B",
+    "text" : "Fehling I+II"
+  }, {
+    "letter" : "C",
+    "text" : "vas(III)-klorid"
+  }, {
+    "letter" : "D",
+    "text" : "sósavas floroglucin"
+  }, {
+    "letter" : "E",
+    "text" : "EP"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "van Urk"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.36",
+  "text" : "Mit nevezünk iridoidoknak?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "stresszkomponenseket, melyek a Lamiaceae családra jellemzőek"
+  }, {
+    "letter" : "B",
+    "text" : "keserű ízű szeszkviterpéneket"
+  }, {
+    "letter" : "C",
+    "text" : "ciklopenta-[c]-pirán monoterpéneket"
+  }, {
+    "letter" : "D",
+    "text" : "pszeudoalkaloidokat"
+  }, {
+    "letter" : "E",
+    "text" : "balzsamok illatkomponenseit"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "ciklopenta-[c]-pirán monoterpéneket"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.37",
+  "text" : "A keserűérték 1 g drogból készült kivonat ..., amely még éppen keserű ízű.",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "azon legnagyobb hígítása"
+  }, {
+    "letter" : "B",
+    "text" : "azon legkisebb hígítása"
+  }, {
+    "letter" : "C",
+    "text" : "azon legalacsonyabb koncentrációja"
+  }, {
+    "letter" : "D",
+    "text" : "azon legmagasabb koncentrációja"
+  }, {
+    "letter" : "E",
+    "text" : "azon legnagyobb triturációja"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "azon legnagyobb hígítása"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.38",
+  "text" : "Laxatív hatóanyagokat tartalmaz:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Sennae folium"
+  }, {
+    "letter" : "B",
+    "text" : "Hyperici herba"
+  }, {
+    "letter" : "C",
+    "text" : "Urticae radix"
+  }, {
+    "letter" : "D",
+    "text" : "Equiseti herba"
+  }, {
+    "letter" : "E",
+    "text" : "Agrimoniae herba"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Sennae folium"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.39",
+  "text" : "Melyik vegyület a lenmag toxikus komponense?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "arabinoxilán"
+  }, {
+    "letter" : "B",
+    "text" : "ricin"
+  }, {
+    "letter" : "C",
+    "text" : "linamarin"
+  }, {
+    "letter" : "D",
+    "text" : "szkopoletin"
+  }, {
+    "letter" : "E",
+    "text" : "rein"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "linamarin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.40",
+  "text" : "Milyen vegyület a linolsav?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "telített ω-6 zsírsav"
+  }, {
+    "letter" : "B",
+    "text" : "telítetlen ω-6 zsírsav"
+  }, {
+    "letter" : "C",
+    "text" : "telítetlen ω-3 zsírsav"
+  }, {
+    "letter" : "D",
+    "text" : "ω-9 zsírsav"
+  }, {
+    "letter" : "E",
+    "text" : "telített ω-3 zsírsav"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "telítetlen ω-6 zsírsav"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.41",
+  "text" : "Mely növényből nyerhető γ-linolénsavban gazdag olaj?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Zea mays"
+  }, {
+    "letter" : "B",
+    "text" : "Sesamum indicum"
+  }, {
+    "letter" : "C",
+    "text" : "Oenothera biennis"
+  }, {
+    "letter" : "D",
+    "text" : "Ricinus communis"
+  }, {
+    "letter" : "E",
+    "text" : "Glycine max"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Oenothera biennis"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.42",
+  "text" : "Válassza ki a felsoroltak közül azt a növényi vegyületcsoportot, amely N-tartalmú, de nem alkaloid típusú!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "naftokinon-származékok"
+  }, {
+    "letter" : "B",
+    "text" : "monoterpének"
+  }, {
+    "letter" : "C",
+    "text" : "kumarinok"
+  }, {
+    "letter" : "D",
+    "text" : "lignánok"
+  }, {
+    "letter" : "E",
+    "text" : "alkil-aminok"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "alkil-aminok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.43",
+  "text" : "Mely vegyület D és L módosulatának 1:1 arányú elegye az atropin?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szkopoletin"
+  }, {
+    "letter" : "B",
+    "text" : "szkopolamin"
+  }, {
+    "letter" : "C",
+    "text" : "hioszciamin"
+  }, {
+    "letter" : "D",
+    "text" : "belladonnin"
+  }, {
+    "letter" : "E",
+    "text" : "szkopolin"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "hioszciamin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.44",
+  "text" : "Melyik \"misztikus\" növény tartalmaz tropánvázas alkaloidokat?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "bételpálma"
+  }, {
+    "letter" : "B",
+    "text" : "mandragóra"
+  }, {
+    "letter" : "C",
+    "text" : "bürök"
+  }, {
+    "letter" : "D",
+    "text" : "kannabisz"
+  }, {
+    "letter" : "E",
+    "text" : "iboga"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "mandragóra"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.45",
+  "text" : "Melyik felhasználási terület nem igaz a Capsici fructusra?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "reumás fájdalmak külsőleges kezelése"
+  }, {
+    "letter" : "B",
+    "text" : "stomachicumként történő alkalmazás"
+  }, {
+    "letter" : "C",
+    "text" : "sebgyógyulás elősegítése"
+  }, {
+    "letter" : "D",
+    "text" : "neuralgiák esetén a fájdalom mérséklése"
+  }, {
+    "letter" : "E",
+    "text" : "hajnövekedés fokozása"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "sebgyógyulás elősegítése"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.46",
+  "text" : "Az Ephedrae herba fő tartalomanyaga mely szintetikus molekula szerkezeti analógja?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "amfetamin"
+  }, {
+    "letter" : "B",
+    "text" : "ketamin"
+  }, {
+    "letter" : "C",
+    "text" : "fenciklidin"
+  }, {
+    "letter" : "D",
+    "text" : "etilmorfin"
+  }, {
+    "letter" : "E",
+    "text" : "metadon"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "amfetamin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.47",
+  "text" : "A felsorolt vegyületek közül melyik a Rauwolfiae radix jellegzetes tartalomanyaga?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "fizosztigmin"
+  }, {
+    "letter" : "B",
+    "text" : "kinidin"
+  }, {
+    "letter" : "C",
+    "text" : "reszerpin"
+  }, {
+    "letter" : "D",
+    "text" : "citizin"
+  }, {
+    "letter" : "E",
+    "text" : "kapszaicin"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "reszerpin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.48",
+  "text" : "Mely tartalomanyagok jelenléte miatt alkalmazható csak külsőleg és korlátozottan a fekete nadálytő?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "tropánvázas alkaloidok"
+  }, {
+    "letter" : "B",
+    "text" : "piperidin alkaloidok"
+  }, {
+    "letter" : "C",
+    "text" : "szaponinok"
+  }, {
+    "letter" : "D",
+    "text" : "pirrolizidin alkaloidok"
+  }, {
+    "letter" : "E",
+    "text" : "kumarinok"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "pirrolizidin alkaloidok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.49",
+  "text" : "Mely droggal téveszthető össze a mérgező Conii fructus?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "édeskömény termés"
+  }, {
+    "letter" : "B",
+    "text" : "lenmag"
+  }, {
+    "letter" : "C",
+    "text" : "ánizstermés"
+  }, {
+    "letter" : "D",
+    "text" : "koriandertermés"
+  }, {
+    "letter" : "E",
+    "text" : "ricinusmag"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "ánizstermés"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.50",
+  "text" : "Mely vegyület a bételdió fő tartalomanyaga?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "efedrin"
+  }, {
+    "letter" : "B",
+    "text" : "klorogénsav"
+  }, {
+    "letter" : "C",
+    "text" : "kapszaicin"
+  }, {
+    "letter" : "D",
+    "text" : "hipericin"
+  }, {
+    "letter" : "E",
+    "text" : "arekolin"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "arekolin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.51",
+  "text" : "Milyen típusú vegyületek a paprika kapszaicinoidjai?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "monoterpének"
+  }, {
+    "letter" : "B",
+    "text" : "pszeudoalkaloidok"
+  }, {
+    "letter" : "C",
+    "text" : "karotinoidok"
+  }, {
+    "letter" : "D",
+    "text" : "protoalkaloidok"
+  }, {
+    "letter" : "E",
+    "text" : "antociánok"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "protoalkaloidok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.52",
+  "text" : "Válassza ki a felsoroltak közül az orvosi füstike alkalmazási területét!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "vérnyomás csökkentése"
+  }, {
+    "letter" : "B",
+    "text" : "ízületi gyulladás mérséklése"
+  }, {
+    "letter" : "C",
+    "text" : "epeelválasztás és epekiürülés fokozása"
+  }, {
+    "letter" : "D",
+    "text" : "sebgyógyulás elősegítése"
+  }, {
+    "letter" : "E",
+    "text" : "lázcsillapítás"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "epeelválasztás és epekiürülés fokozása"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.53",
+  "text" : "Milyen váztípusba sorolhatók a Boldi folium alkaloidjai?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "indol"
+  }, {
+    "letter" : "B",
+    "text" : "piperidin"
+  }, {
+    "letter" : "C",
+    "text" : "morfinán"
+  }, {
+    "letter" : "D",
+    "text" : "aporfin"
+  }, {
+    "letter" : "E",
+    "text" : "izokinolin"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "aporfin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.54",
+  "text" : "Melyik növény fő komponensének szerkezeti módosításával állították elő a vinpocetint (Cavinton®)?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "kutyabenge"
+  }, {
+    "letter" : "B",
+    "text" : "orvosi tüdőfű"
+  }, {
+    "letter" : "C",
+    "text" : "rózsameténg"
+  }, {
+    "letter" : "D",
+    "text" : "kis télizöld meténg"
+  }, {
+    "letter" : "E",
+    "text" : "sóskaborbolya"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "kis télizöld meténg"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.55",
+  "text" : "Mely vegyületcsaládba sorolható a taxol?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "diterpénalkaloid"
+  }, {
+    "letter" : "B",
+    "text" : "szteroidalkaloid"
+  }, {
+    "letter" : "C",
+    "text" : "szeszkviterpén"
+  }, {
+    "letter" : "D",
+    "text" : "lignán"
+  }, {
+    "letter" : "E",
+    "text" : "triterpén"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "diterpénalkaloid"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.56",
+  "text" : "Mely állítás hamis a hagyományos növényi gyógyszerekre vonatkozóan?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "tilos a terméknek betegséget megelőző vagy gyógyító hatást tulajdonítani"
+  }, {
+    "letter" : "B",
+    "text" : "hatóanyagként egy vagy több növényi anyagot, készítményt illetve ezek kombinációját tartalmazzák"
+  }, {
+    "letter" : "C",
+    "text" : "a termék tartalmazhat vitaminokat és ásványi anyagokat is"
+  }, {
+    "letter" : "D",
+    "text" : "engedélyeztetésük egyszerűsített törzskönyvezési eljárással történhet"
+  }, {
+    "letter" : "E",
+    "text" : "a termékek gyógyszertárakban forgalmazhatók"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "tilos a terméknek betegséget megelőző vagy gyógyító hatást tulajdonítani"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.57",
+  "text" : "Milyen hatású gyógyszereket fejlesztettek ki a Camptotheca acuminata kamptotecin nevű alkaloidja alapján?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "vércukorszint-csökkentő"
+  }, {
+    "letter" : "B",
+    "text" : "rákellenes hatású"
+  }, {
+    "letter" : "C",
+    "text" : "vérnyomáscsökkentő"
+  }, {
+    "letter" : "D",
+    "text" : "gyulladáscsökkentő"
+  }, {
+    "letter" : "E",
+    "text" : "antiaritmiás"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "rákellenes hatású"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.58",
+  "text" : "Milyen hatású gyógyszereket fejlesztettek ki a Galega officinalisban előforduló galegin alapján?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "vércukorszint-csökkentő"
+  }, {
+    "letter" : "B",
+    "text" : "rákellenes hatású"
+  }, {
+    "letter" : "C",
+    "text" : "vérnyomáscsökkentő"
+  }, {
+    "letter" : "D",
+    "text" : "gyulladáscsökkentő"
+  }, {
+    "letter" : "E",
+    "text" : "antiaritmiás"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "vércukorszint-csökkentő"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.59",
+  "text" : "Milyen előnnyel jár a vadon termő gyógynövények gyűjtése?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "reálisan tervezhető"
+  }, {
+    "letter" : "B",
+    "text" : "megfelelő hozam és minőség biztosítható"
+  }, {
+    "letter" : "C",
+    "text" : "homogén az állomány"
+  }, {
+    "letter" : "D",
+    "text" : "nem igényel termesztési ráfordítást, nincs művelési költség"
+  }, {
+    "letter" : "E",
+    "text" : "célzott irányú nemesítésekkel módosíthatók a növények tulajdonságai"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "nem igényel termesztési ráfordítást, nincs művelési költség"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.60",
+  "text" : "Mely vegyületek tartoznak a primer anyagcseretermékek közé?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "alkaloidok"
+  }, {
+    "letter" : "B",
+    "text" : "lignánok"
+  }, {
+    "letter" : "C",
+    "text" : "flavonoidok"
+  }, {
+    "letter" : "D",
+    "text" : "iridoidok"
+  }, {
+    "letter" : "E",
+    "text" : "szénhidrátok"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "szénhidrátok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.61",
+  "text" : "Milyen szerkezeti tulajdonság jellemző a szaponinokra?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "lehetnek 10, 15, 20 és 30 szénatomosak"
+  }, {
+    "letter" : "B",
+    "text" : "cukrokkal kapcsolódó triterpén eredetű vegyületek"
+  }, {
+    "letter" : "C",
+    "text" : "aromás gyűrűt tartalmazó glikozidok"
+  }, {
+    "letter" : "D",
+    "text" : "S-tartalmú heterociklusos vegyületek"
+  }, {
+    "letter" : "E",
+    "text" : "zsírsavak alkálisói"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "cukrokkal kapcsolódó triterpén eredetű vegyületek"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.62",
+  "text" : "Melyik növény illóolajával hamisítják a Melissa officinalis illóolaját?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Cymbopogon winterianus"
+  }, {
+    "letter" : "B",
+    "text" : "Citrus aurantium"
+  }, {
+    "letter" : "C",
+    "text" : "Hyssopus officinalis"
+  }, {
+    "letter" : "D",
+    "text" : "Commiphora molmol"
+  }, {
+    "letter" : "E",
+    "text" : "Citrus limon"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Cymbopogon winterianus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.63",
+  "text" : "Válassza ki a kapillárisok permeabilitását csökkentő hatású flavonoidokat!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "likviricin, izolikviricin"
+  }, {
+    "letter" : "B",
+    "text" : "apigenin, luteolin"
+  }, {
+    "letter" : "C",
+    "text" : "genisztein, ononin"
+  }, {
+    "letter" : "D",
+    "text" : "szilibin, szilikrisztin"
+  }, {
+    "letter" : "E",
+    "text" : "heszperidin, rutin"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "heszperidin, rutin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.64",
+  "text" : "Milyen típusú vegyületeket használnak a fotokemoterápiában?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "antron glikozidok"
+  }, {
+    "letter" : "B",
+    "text" : "dimér kumarinok"
+  }, {
+    "letter" : "C",
+    "text" : "furanokumarinok"
+  }, {
+    "letter" : "D",
+    "text" : "kinolin alkaloidok"
+  }, {
+    "letter" : "E",
+    "text" : "floroglucinszármazékok"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "furanokumarinok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.65",
+  "text" : "Válassza ki az Uncariae tomentosae radix tetraciklusos oxindol alkaloidját!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "pteropodin"
+  }, {
+    "letter" : "B",
+    "text" : "mitrafillin"
+  }, {
+    "letter" : "C",
+    "text" : "speciofillin"
+  }, {
+    "letter" : "D",
+    "text" : "rinchofillin"
+  }, {
+    "letter" : "E",
+    "text" : "teofillin"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "rinchofillin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.66",
+  "text" : "A VIII. Magyar Gyógyszerkönyv szerint a növényi drogok:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "általában feldolgozott növények, növényi vagy állati részek, amelyeket többnyire friss, olykor szárított állapotban használnak fel"
+  }, {
+    "letter" : "B",
+    "text" : "általában feldolgozatlan, egész, darabolt vagy aprított növények, növényi részek, moszatok, gombák vagy zuzmók, amelyeket többnyire szárított, olykor friss állapotban használnak fel"
+  }, {
+    "letter" : "C",
+    "text" : "általában különböző eljárásokkal (kivonás, desztillálás, préselés, frakcionálás, tisztítás, betöményítés, fermentálás) előállított növényi termékek"
+  }, {
+    "letter" : "D",
+    "text" : "az élő szervezet befolyásolására gyógyászati céllal alkalmazott növényfajok"
+  }, {
+    "letter" : "E",
+    "text" : "az élő szervezet befolyásolására gyógyászati céllal alkalmazott gyógynövények"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "általában feldolgozatlan, egész, darabolt vagy aprított növények, növényi részek, moszatok, gombák vagy zuzmók, amelyeket többnyire szárított, olykor friss állapotban használnak fel"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.67",
+  "text" : "Milyen fizikai-kémiai folyamaton alapul elsősorban a normál fázisú, szilikagélen végzett kromatográfia?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "megoszlás"
+  }, {
+    "letter" : "B",
+    "text" : "adszorpció"
+  }, {
+    "letter" : "C",
+    "text" : "ioncsere"
+  }, {
+    "letter" : "D",
+    "text" : "antigén-antitest kölcsönhatás"
+  }, {
+    "letter" : "E",
+    "text" : "termikus kölcsönhatás"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "adszorpció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.68",
+  "text" : "A kényszererős kromatográfiás technikák csoportjába tartozik:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "rotációs planár kromatográfia"
+  }, {
+    "letter" : "B",
+    "text" : "gélszűréses kromatográfia"
+  }, {
+    "letter" : "C",
+    "text" : "vékonyréteg-kromatográfia"
+  }, {
+    "letter" : "D",
+    "text" : "ioncserés oszlopkromatográfia"
+  }, {
+    "letter" : "E",
+    "text" : "kétdimenziós rétegkromatográfia"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "rotációs planár kromatográfia"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.69",
+  "text" : "Egy anyag kromatográfiás Rf (retenciós faktor) értéke egyenlő:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a kromatografált anyag foltjának starttól mért távolságával"
+  }, {
+    "letter" : "B",
+    "text" : "a start és oldószerfront távolságával"
+  }, {
+    "letter" : "C",
+    "text" : "a kromatografált anyag foltközéppontjának starttól mért távolsága osztva a start és oldószerfront távolságával"
+  }, {
+    "letter" : "D",
+    "text" : "a start - oldószerfront távolsága osztva a start - folt távolsággal"
+  }, {
+    "letter" : "E",
+    "text" : "a kromatografált anyag foltközéppontjának oldószerfronttól mért távolsága osztva a start és oldószerfront távolságával"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a kromatografált anyag foltközéppontjának starttól mért távolsága osztva a start és oldószerfront távolságával"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.70",
+  "text" : "Milyen a kukoricakeményítő szemcséinek alakja?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ovális"
+  }, {
+    "letter" : "B",
+    "text" : "kerek"
+  }, {
+    "letter" : "C",
+    "text" : "sokszögletű, közepén Y vagy V alakú repedéssel"
+  }, {
+    "letter" : "D",
+    "text" : "háromszög alakú"
+  }, {
+    "letter" : "E",
+    "text" : "súlyzó formájú"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "sokszögletű, közepén Y vagy V alakú repedéssel"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.71",
+  "text" : "Hogyan készíthető nyálkatartalmú kivonat a Lini semenből?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "darált drogból vízzel"
+  }, {
+    "letter" : "B",
+    "text" : "darált drogból alkohollal"
+  }, {
+    "letter" : "C",
+    "text" : "darálás nélkül meleg vizes áztatással"
+  }, {
+    "letter" : "D",
+    "text" : "darálás nélkül híg alkohollal"
+  }, {
+    "letter" : "E",
+    "text" : "darált drogból szerves oldószerrel"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "darálás nélkül meleg vizes áztatással"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.72",
+  "text" : "Mi nem jellemző a nyálkákra:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "vízzel kivonhatók a drogból"
+  }, {
+    "letter" : "B",
+    "text" : "forralás hatására monoszacharidokra hidrolizálnak"
+  }, {
+    "letter" : "C",
+    "text" : "alkohol hatására kicsapódnak"
+  }, {
+    "letter" : "D",
+    "text" : "viszkózus oldatokat adnak vízzel"
+  }, {
+    "letter" : "E",
+    "text" : "nehézfémsókkal csapadékot képeznek"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "forralás hatására monoszacharidokra hidrolizálnak"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.73",
+  "text" : "Hogyan nyerik leggyakrabban a gyógyászati célra alkalmas zsíros olajat?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szerves oldószerrel melegítve"
+  }, {
+    "letter" : "B",
+    "text" : "hidegen vizes kivonással"
+  }, {
+    "letter" : "C",
+    "text" : "hideg úton préseléssel"
+  }, {
+    "letter" : "D",
+    "text" : "meleg úton préseléssel"
+  }, {
+    "letter" : "E",
+    "text" : "desztillációval"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "hideg úton préseléssel"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.74",
+  "text" : "Mely esetben nem használható a komplexképzésen alapuló flavonoid-tartalom meghatározási módszer? Flavonvázon lévő szubsztituensek:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "C5-ön -OH (pl. apigenin)"
+  }, {
+    "letter" : "B",
+    "text" : "C3- és C5-ön -OH (pl. kvercetin)"
+  }, {
+    "letter" : "C",
+    "text" : "C5-ön -OH, C3-on -O-galaktozid (pl. hiperozid)"
+  }, {
+    "letter" : "D",
+    "text" : "C5-ön -OCH3 és C3-on nincs -OH (pl. nobiletin)"
+  }, {
+    "letter" : "E",
+    "text" : "C5-ön -OH, C3-on -O-rutinozid (pl. rutin)"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "C5-ön -OCH3 és C3-on nincs -OH (pl. nobiletin)"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.75",
+  "text" : "Az alkaloidok általában  formájában vannak jelen a növényben.",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ásványi savakkal képzett észterek"
+  }, {
+    "letter" : "B",
+    "text" : "növényi savakkal képzett sók"
+  }, {
+    "letter" : "C",
+    "text" : "szabad bázisok"
+  }, {
+    "letter" : "D",
+    "text" : "növényi savakkal képzett észterek"
+  }, {
+    "letter" : "E",
+    "text" : "hidrokloridsó"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "növényi savakkal képzett sók"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.76",
+  "text" : "Hogyan vonna ki alkaloidot a növényekből erős savakkal képzett só formájában?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "egyszerűen melegítve szerves oldószerrel"
+  }, {
+    "letter" : "B",
+    "text" : "ammónium-hidroxidot tartalmazó vízzel forralva"
+  }, {
+    "letter" : "C",
+    "text" : "ásványi savat tartalmazó vízzel rázva szobahőmérsékleten vagy melegítve"
+  }, {
+    "letter" : "D",
+    "text" : "ólom-acetáttal és vízzel melegítve"
+  }, {
+    "letter" : "E",
+    "text" : "ásványi savat tartalmazó szerves oldószerrel rázogatva"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "ásványi savat tartalmazó vízzel rázva szobahőmérsékleten vagy melegítve"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.77",
+  "text" : "Mely reakcióval azonosítja a nadragulyalevél alkaloidjait?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Marquis-reakció"
+  }, {
+    "letter" : "B",
+    "text" : "Thalleiochin-reakció"
+  }, {
+    "letter" : "C",
+    "text" : "cc. salétromsavas próba"
+  }, {
+    "letter" : "D",
+    "text" : "Grahe-próba"
+  }, {
+    "letter" : "E",
+    "text" : "Vitali-reakció"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Vitali-reakció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.78",
+  "text" : "Melyik eljárással nyerik a gyógyászati célra alkalmazott Lavandulae aetheroleumot?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "meleg úton préseléssel"
+  }, {
+    "letter" : "B",
+    "text" : "szerves oldószeres kivonással"
+  }, {
+    "letter" : "C",
+    "text" : "hideg úton préseléssel"
+  }, {
+    "letter" : "D",
+    "text" : "enzimbontást követő kivonással"
+  }, {
+    "letter" : "E",
+    "text" : "vízgőz-desztillációval"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "vízgőz-desztillációval"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.79",
+  "text" : "Melyik előhívó oldat alkalmas a karvon rétegkromatográfiás detektálására?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "jódgőz + keményítő oldat"
+  }, {
+    "letter" : "B",
+    "text" : "dimetilamino-benzaldehid oldat"
+  }, {
+    "letter" : "C",
+    "text" : "vanillin-kénsav reagens"
+  }, {
+    "letter" : "D",
+    "text" : "2,4-dinitrofenil-hidrazin"
+  }, {
+    "letter" : "E",
+    "text" : "3,5-dinitro-benzoesav + alkoholos kálium-hidroxid oldat"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "2,4-dinitrofenil-hidrazin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.80",
+  "text" : "A hemolitikus index mennyiségileg jelzi:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az illóolajok di- és szeszkviterpén-tartalmát"
+  }, {
+    "letter" : "B",
+    "text" : "a drogok szaponintartalmát"
+  }, {
+    "letter" : "C",
+    "text" : "a drogok szteroidtartalmát"
+  }, {
+    "letter" : "D",
+    "text" : "az illóolajok alifás monoterpén-tartalmát"
+  }, {
+    "letter" : "E",
+    "text" : "a drogok cserzőanyag-tartalmát"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a drogok szaponintartalmát"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.81",
+  "text" : "Melyik reagenssel mutathatók ki a Digitalis purpureae folium kardioaktív glikozidjai?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "2,4-dinitrofenil-hidrazin"
+  }, {
+    "letter" : "B",
+    "text" : "dimetilamino-benzaldehid oldat"
+  }, {
+    "letter" : "C",
+    "text" : "kálium-hidroxid oldat"
+  }, {
+    "letter" : "D",
+    "text" : "jódgőz + keményítő oldat"
+  }, {
+    "letter" : "E",
+    "text" : "3,5-dinitro-benzoesav + nátrium-hidroxid oldat"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "3,5-dinitro-benzoesav + nátrium-hidroxid oldat"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.82",
+  "text" : "Hogyan mutatja ki a drogok antrakinon tartalmát?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a drogkivonatot jégecettel melegítve piros pelyhes csapadék keletkezik"
+  }, {
+    "letter" : "B",
+    "text" : "a szerves oldószerrel készített kivonatot hígított ammónia-oldattal összerázva a lúgos fázis narancsvörös vagy cseresznyevörös színű lesz"
+  }, {
+    "letter" : "C",
+    "text" : "a drog vizes kivonata ólom-acetáttal kék színű csapadékot ad"
+  }, {
+    "letter" : "D",
+    "text" : "a drog vizes kivonata tömény kénsavval zöld színű komplexet képez"
+  }, {
+    "letter" : "E",
+    "text" : "a drog szerves oldószeres kivonata sárga csapadékot ad híg sósav és klorogén keverékével"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a szerves oldószerrel készített kivonatot hígított ammónia-oldattal összerázva a lúgos fázis narancsvörös vagy cseresznyevörös színű lesz"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.83",
+  "text" : "Milyen módszert alkalmaz a Ph. Hg. VIII. a drogok antranoid-glikozid tartalmának meghatározására?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "gravimetria"
+  }, {
+    "letter" : "B",
+    "text" : "nagyhatékonyságú folyadékkromatográfia"
+  }, {
+    "letter" : "C",
+    "text" : "spektrofotometria"
+  }, {
+    "letter" : "D",
+    "text" : "gázkromatográfia"
+  }, {
+    "letter" : "E",
+    "text" : "titrimetria"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "spektrofotometria"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.84",
+  "text" : "Válassza ki az alábbi komponensek közül a C-glikozidot!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "arbutin"
+  }, {
+    "letter" : "B",
+    "text" : "gipszozid"
+  }, {
+    "letter" : "C",
+    "text" : "genciopikrin"
+  }, {
+    "letter" : "D",
+    "text" : "aloin"
+  }, {
+    "letter" : "E",
+    "text" : "hipericin"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "aloin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.85",
+  "text" : "Mely tényezők nem befolyásolják a vékonyréteg-kromatográfiás elválasztás hatékonyságát?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a mozgófázis polaritása"
+  }, {
+    "letter" : "B",
+    "text" : "a levegő páratartalma"
+  }, {
+    "letter" : "C",
+    "text" : "a kifejlesztő kamra formája"
+  }, {
+    "letter" : "D",
+    "text" : "a kifejlesztőelegy optikai forgatóképessége"
+  }, {
+    "letter" : "E",
+    "text" : "az állófázis szemcsemérete"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a kifejlesztőelegy optikai forgatóképessége"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.86",
+  "text" : "Mi nem történik a matricinnel vízgőz-desztilláció során?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "felnyílik a laktongyűrű"
+  }, {
+    "letter" : "B",
+    "text" : "vízvesztés"
+  }, {
+    "letter" : "C",
+    "text" : "dekarboxileződés"
+  }, {
+    "letter" : "D",
+    "text" : "vízaddíció"
+  }, {
+    "letter" : "E",
+    "text" : "ecetsavvesztés"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "vízaddíció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.87",
+  "text" : "Válassza ki a főként homopoliszacharid tartalmú drogot!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Cyamopsidis seminis pulvis"
+  }, {
+    "letter" : "B",
+    "text" : "Acaciae gummi"
+  }, {
+    "letter" : "C",
+    "text" : "Solani amylum"
+  }, {
+    "letter" : "D",
+    "text" : "Agar"
+  }, {
+    "letter" : "E",
+    "text" : "Althaeae folium et radix"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Solani amylum"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.88",
+  "text" : "Milyen tényezők nem befolyásolják a drogok kivonását?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a kivonás hőmérséklete"
+  }, {
+    "letter" : "B",
+    "text" : "a kivonószer polaritása"
+  }, {
+    "letter" : "C",
+    "text" : "az aprítás mértéke"
+  }, {
+    "letter" : "D",
+    "text" : "a kivonandó anyag törésmutatója"
+  }, {
+    "letter" : "E",
+    "text" : "a kivonószer pH értéke"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a kivonandó anyag törésmutatója"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.89",
+  "text" : "A víznél nagyobb sűrűségű illóolaj az alábbiak közül:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Thymi aetheroleum"
+  }, {
+    "letter" : "B",
+    "text" : "Caryophylli aetheroleum"
+  }, {
+    "letter" : "C",
+    "text" : "Lavandulae aetheroleum"
+  }, {
+    "letter" : "D",
+    "text" : "Anisi stellati aetheroleum"
+  }, {
+    "letter" : "E",
+    "text" : "Juniperi aetheroleum"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Caryophylli aetheroleum"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.90",
+  "text" : "A Calendulae flos hatása:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "karminatív"
+  }, {
+    "letter" : "B",
+    "text" : "kardiotonikum"
+  }, {
+    "letter" : "C",
+    "text" : "roboráló"
+  }, {
+    "letter" : "D",
+    "text" : "hámosodást elősegítő"
+  }, {
+    "letter" : "E",
+    "text" : "szedatív"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "hámosodást elősegítő"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.91",
+  "text" : "A Silybi mariani fructus hatása:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "kardiotonikum"
+  }, {
+    "letter" : "B",
+    "text" : "roboráló"
+  }, {
+    "letter" : "C",
+    "text" : "májvédő"
+  }, {
+    "letter" : "D",
+    "text" : "enyhe antidepresszáns"
+  }, {
+    "letter" : "E",
+    "text" : "adsztringens"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "májvédő"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.92",
+  "text" : "Az Alchemillae herba hatóanyagai:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "cserzőanyagok (ellágsav származékok)"
+  }, {
+    "letter" : "B",
+    "text" : "alkaloidok"
+  }, {
+    "letter" : "C",
+    "text" : "antrakinonok"
+  }, {
+    "letter" : "D",
+    "text" : "galaktomannánok"
+  }, {
+    "letter" : "E",
+    "text" : "poliszacharidok"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "cserzőanyagok (ellágsav származékok)"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.93",
+  "text" : "Az Alchemillae herba gyógyászati alkalmazása:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "laxatívum"
+  }, {
+    "letter" : "B",
+    "text" : "ekcéma, gyulladt bőr kezelésére"
+  }, {
+    "letter" : "C",
+    "text" : "simaizomgörcs-oldó"
+  }, {
+    "letter" : "D",
+    "text" : "májvédő"
+  }, {
+    "letter" : "E",
+    "text" : "epetermelést fokozó"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "ekcéma, gyulladt bőr kezelésére"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.94",
+  "text" : "A Calendulae flos gyógyászati alkalmazása:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "kognitív funkciók javítása"
+  }, {
+    "letter" : "B",
+    "text" : "antiemetikum utazási betegség esetén"
+  }, {
+    "letter" : "C",
+    "text" : "kardiotonikum"
+  }, {
+    "letter" : "D",
+    "text" : "szekretolitikum"
+  }, {
+    "letter" : "E",
+    "text" : "bőrgyulladás, nyálkahártyagyulladás kezelésére"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "bőrgyulladás, nyálkahártyagyulladás kezelésére"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.95",
+  "text" : "A Zingiberis rhizoma gyógyászati alkalmazása:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "kognitív funkciók javítása"
+  }, {
+    "letter" : "B",
+    "text" : "antiemetikum utazási betegség esetén"
+  }, {
+    "letter" : "C",
+    "text" : "simaizomgörcs-oldó"
+  }, {
+    "letter" : "D",
+    "text" : "szekretolitikum"
+  }, {
+    "letter" : "E",
+    "text" : "bőrgyulladás, nyálkahártyagyulladás kezelésére"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "antiemetikum utazási betegség esetén"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.96",
+  "text" : "A Hederae folium gyógyászati alkalmazása:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "expektoráns, szekretolitikus, spazmolitikus"
+  }, {
+    "letter" : "B",
+    "text" : "bőrgyulladás kezelése"
+  }, {
+    "letter" : "C",
+    "text" : "enyhe kardiotonikum"
+  }, {
+    "letter" : "D",
+    "text" : "antiemetikum"
+  }, {
+    "letter" : "E",
+    "text" : "hámosító"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "expektoráns, szekretolitikus, spazmolitikus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.97",
+  "text" : "A Lupuli flos keserű ízéért felelős vegyületek:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "floroglucinszármazékok"
+  }, {
+    "letter" : "B",
+    "text" : "triterpén szaponinok"
+  }, {
+    "letter" : "C",
+    "text" : "poliszacharidok"
+  }, {
+    "letter" : "D",
+    "text" : "pszeudoalkaloidok"
+  }, {
+    "letter" : "E",
+    "text" : "antrakinonok"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "floroglucinszármazékok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.98",
+  "text" : "A Hyperici herba mely vegyülete rendelkezik fotoszenzibilizáló hatással?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "rutin"
+  }, {
+    "letter" : "B",
+    "text" : "hiperforin"
+  }, {
+    "letter" : "C",
+    "text" : "hiperozid"
+  }, {
+    "letter" : "D",
+    "text" : "hipericin"
+  }, {
+    "letter" : "E",
+    "text" : "kvercitrin"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "hipericin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.99",
+  "text" : "Melyik az orvosi medveszőlő (Arctostaphylos uva-ursi) gyógyászatban alkalmazott részének gyógyszerkönyvben hivatalos elnevezése?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Folia uvae ursi"
+  }, {
+    "letter" : "B",
+    "text" : "Uvae ursi folium"
+  }, {
+    "letter" : "C",
+    "text" : "Folium arctostaphylos uva-ursi"
+  }, {
+    "letter" : "D",
+    "text" : "Arctostaphylos folium"
+  }, {
+    "letter" : "E",
+    "text" : "Uvae ursi folia"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Uvae ursi folium"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.100",
+  "text" : "Mely növényből nyernek illóolajat elsősorban mechanikus préseléssel (sajtolással)?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Salvia officinalis"
+  }, {
+    "letter" : "B",
+    "text" : "Thymus vulgaris"
+  }, {
+    "letter" : "C",
+    "text" : "Quercus petraea"
+  }, {
+    "letter" : "D",
+    "text" : "Citrus sinensis"
+  }, {
+    "letter" : "E",
+    "text" : "Illicium verum"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Citrus sinensis"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.101",
+  "text" : "Válassza ki azokat a drogokat, melyek ornitinből származó alkaloidokat tartalmaznak!",
+  "moreText" : [ "1)     Nicotianae folium", "2)     Hyoscyami folium", "3)     Cocae folium", "4)     Ribis nigri folium" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.102",
+  "text" : "Mely tulajdonságok jellemzik a cserzőanyagokat?",
+  "moreText" : [ "1)     alkaloidokkal csapadékot adnak", "2)     vas(III)-kloriddal sárga vagy liláspiros színt adnak", "3)     a bőrt megcserzik", "4)     jóddal halvány rózsaszínű csapadékot adnak" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.103",
+  "text" : "Milyen típusú vegyületeket tartalmaz a Hypericum perforatum?",
+  "moreText" : [ "1)     floroglucinszármazékokat", "2)     naftodiantronszármazékokat", "3)     flavonoidokat", "4)     szaponinokat" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.104",
+  "text" : "Az Ipecacuanhae radix alkaloidjainak ... hatása van.",
+  "moreText" : [ "1)     lázcsillapító", "2)     amöbicid", "3)     nyugtató", "4)     köptető" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.105",
+  "text" : "A felsorolt növények közül melyek használhatók szteránvázas vegyületek nyerésére ipari méretekben?",
+  "moreText" : [ "1)      Dioscorea composita", "2)      Glycyrrhiza glabra", "3)      Smilax regelii", "4)      Ipomoea purga" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.106",
+  "text" : "Válassza ki azokat a drogokat, melyek nem tartalmaznak kardiotonikus vegyületeket!",
+  "moreText" : [ "1)     Digitalis purpureae folium", "2)     Allii bulbus", "3)     Oleandri folium", "4)     Stramonii semen" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.107",
+  "text" : "Az alábbi drogok közül melyeknek jelentős az aszkorbinsav-tartalma?",
+  "moreText" : [ "1)     Hippophaë rhamnoides fructus", "2)     Manna", "3)     Rosae pseudofructus", "4)     Gallii odorati herba" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.108",
+  "text" : "Válassza ki a komló hatóanyagait!",
+  "moreText" : [ "1)     knicin", "2)     humulon", "3)     loganin", "4)     lupulon" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.109",
+  "text" : "A Ginkgo folium felhasználása:",
+  "moreText" : [ "1)     koncentrációs zavarok, memóriaromlás", "2)     izgatottság, szorongás, alvászavar", "3)     fülzúgás, szédülés", "4)     kardiotonikum" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.110",
+  "text" : "Terpenoidok az alábbi vegyületek közül:",
+  "moreText" : [ "1)     iridoidok", "2)     antocianidinek", "3)     karotinoidok", "4)     cserzőanyagok" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.111",
+  "text" : "Válassza ki az alábbi alkaloidok közül a Catharanthi herbára jellemző biszindol alkaloidokat!",
+  "moreText" : [ "1)     vinkrisztin", "2)     vinkamin", "3)     vinblasztin", "4)     katarantin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.112",
+  "text" : "Válassza ki a szeszkviterpén- γ-lakton tartalmú keserűanyag drogokat!",
+  "moreText" : [ "1)     Absinthii herba", "2)     Centaurii herba", "3)     Cardui benedicti herba", "4)     Gentianae radix" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.113",
+  "text" : "Válassza ki a monoterpén keserűanyagokat tartalmazó drogo(ka)t!",
+  "moreText" : [ "1)     Absinthii herba", "2)     Cinchonae cortex", "3)     Marrubii herba", "4)     Centaurii herba" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.114",
+  "text" : "Válassza ki a felsoroltak közül az ipari gyógyszergyártásban világviszonylatban szerepet játszó indolalkaloid tartalmú drogokat!",
+  "moreText" : [ "1)     Scopoliae herba", "2)     Catharanthi herba", "3)     Papaveris fructus", "4)     Secale cornutum" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.115",
+  "text" : "Bufadienolidvázas glikozidokat tartalmaz:",
+  "moreText" : [ "1)     Scillae bulbus", "2)     Convallariae herba", "3)     Hellebori rhizoma et radix", "4)     Oleandri folium" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.116",
+  "text" : "Milyen típusú vegyületek keletkeznek a procianidinek savas bontásánál?",
+  "moreText" : [ "1)     flavanon", "2)     katechin", "3)     flavonol", "4)     antocianidin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.117",
+  "text" : "Pregnadienol-acetát ipari nyersanyagforrása lehet az alábbiak közül:",
+  "moreText" : [ "1)     oleánolsav", "2)     dioszgenin", "3)     lanatozid C", "4)     fitoszterolok" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.118",
+  "text" : "Hogyan különbözteti meg a Conii fructust az Anisi vulgaris fructustól mikroszkóposan?",
+  "moreText" : [ "1)     a Conii fructus illóolajjáratokat tartalmaz", "2)     a Conii fructuson nincsenek fedőszőrök", "3)     az Anisi vulgaris fructus illóolajjáratokat nem tartalmaz", "4)     a Conii fructusban nincsenek illóolajjáratok" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.119",
+  "text" : "Karvontartalmú illóolajat tartalmaz:",
+  "moreText" : [ "1)     Menthae crispae folium", "2)     Anisi vulgaris fructus", "3)     Carvi fructus", "4)     Menthae piperitae folium" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.120",
+  "text" : "Válassza ki a jelentős karotinoidtartalmú drogokat az alábbiak közül:",
+  "moreText" : [ "1)     Capsici fructus", "2)     Papaveris rhoeados flos", "3)     Calendulae flos", "4)     Malvae flos" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.121",
+  "text" : "Mely drog(ok) tartalmaz(nak) tropánvázas alkaloidokat?",
+  "moreText" : [ "1)     Belladonnae folium", "2)     Scopoliae rhizoma et radix", "3)     Stramonii folium", "4)     Chelidonii herba" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.122",
+  "text" : "A felsoroltak közül mely(ek) ópium alkaloid(ok)?",
+  "moreText" : [ "1)     papaverin", "2)     noszkapin", "3)     tebain", "4)     efedrin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.123",
+  "text" : "Mely(ek) a Passiflorae herba jellegzetes tartalomanyaga(i)?",
+  "moreText" : [ "1)     harmán", "2)     pteropodin", "3)     harmalin", "4)     izopteropodin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.124",
+  "text" : "Válassza ki az ergotoxin csoportba tartozó vegyülete(ke)t!",
+  "moreText" : [ "1)     ergotamin", "2)     ergokrisztin", "3)     ergosztin", "4)     ergokriptin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.125",
+  "text" : "Mely növény(ek) szolgált(ak) citosztatikus gyógyszerek fejlesztésének kiindulási forrásául?",
+  "moreText" : [ "1)      Catharanthus roseus", "2)      Helleborus niger", "3)      Taxus brevifolia", "4)      Veratrum album" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.126",
+  "text" : "Mely növény(ek) tartalmaz(nak) purin alkaloidokat?",
+  "moreText" : [ "1)      Hypericum perforatum", "2)      Ilex paraguariensis", "3)      Lobelia inflata", "4)      Paullinia cupana" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.127",
+  "text" : "Válassza ki a felsoroltak közül az(oka)t a drogo(ka)t, mely(ek) nagy mennyiségben tartalmaz(nak) heteropoliszacharidot!",
+  "moreText" : [ "1)     Plantaginis ovatae semen", "2)     Psyllii semen", "3)     Trigonellae foenugraeci semen", "4)     Strychni semen" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.128",
+  "text" : "Milyen szerkezeti csoportba tartoznak a Ginkgo folium hatóanyagai?",
+  "moreText" : [ "1)     biflavonok", "2)     naftokinonok", "3)     diterpének", "4)     hidrokinonok" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.129",
+  "text" : "Melyek az Echinacea drogok alkalmazási területei?",
+  "moreText" : [ "1)     ízületi gyulladás csökkentése", "2)     felső légúti betegségekben a recidívák csökkentése", "3)     emésztési panaszok csökkentése", "4)     külsőleg sebgyógyulás elősegítése" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.130",
+  "text" : "Válassza ki a felsorolt drogok közül azokat, melyek benignus prosztata hiperplázia kezelésében alkalmazhatók!",
+  "moreText" : [ "1)     Silybi mariani fructus", "2)     Pruni africanae cortex", "3)     Rusci rhizoma", "4)     Sabalis serrulatae fructus" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.131",
+  "text" : "Válassza ki a felsorolt, Aloe fajokra vonatkozó állítások közül a helytállóakat!",
+  "moreText" : [ "1)     szárított nedvük hashajtó hatású", "2)     a laxatív hatásért antranoidok felelősek", "3)     a parenchima rétegből származó aloe-gél poliszacharidokban gazdag", "4)     az aloe gél kisebb sebek, gyulladásos bőrbetegségek kezelésére alkalmazható" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.132",
+  "text" : "A VIII. Magyar Gyógyszerkönyvben a farmakognóziai módszerek között milyen tartalmi meghatározások szerepelnek?",
+  "moreText" : [ "1)     növényi drogok illóolajtartalmának meghatározása", "2)     1,8-cineol meghatározása illóolajokban", "3)     növényi drogok cserzőanyagtartalmának meghatározása", "4)     növényi drogok hemolitikus indexének meghatározása" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.133",
+  "text" : "A kényszererős kromatográfiás technikák csoportjába tartozik:",
+  "moreText" : [ "1)     rotációs planár kromatográfia", "2)     nagyhatékonyságú folyadékkromatográfia", "3)     túlnyomásos rétegkromatográfia", "4)     ioncserés oszlopkromatográfia" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.134",
+  "text" : "Mely tényezők befolyásolják a kivonást?",
+  "moreText" : [ "1)     a kivonás hőmérséklete", "2)     a kivonószer polaritása", "3)     az aprítás mértéke", "4)     a kivonás módja" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.135",
+  "text" : "Mely tényezők együttes teljesülése esetén tekinthetjük azonosnak a mintánkban szereplő anyagot a tesztanyaggal rétegkromatográfiás vizsgálat esetén?",
+  "moreText" : [ "1)     ha a teszt és a mintában lévő anyag foltnagysága megegyező", "2)     ha a teszt és a mintában lévő anyag foltja reagens oldattal azonos színreakciót ad vagy UV-fényben azonos a színük", "3)     a mintánál és tesztnél jelentkező foltok száma azonos", "4)     ha együtt kromatografálva azonos Rf-értéket mutatnak legalább két különböző összetételű kifejlesztő elegyben" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.136",
+  "text" : "A zsíros olajokra jellemző:",
+  "moreText" : [ "1)     gyógyászati célra általában hidegen történő préseléssel állítják elő", "2)     háromértékű alkohol (glicerin) észterei", "3)     páros, magas szénatomszámú alifás monokarbonsav származékai", "4)     páratlan, magas szénatomszámú alifás monokarbonsavat tartalmaznak" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.137",
+  "text" : "Válassza ki az alábbi komponensek közül a C- glikozidokat!",
+  "moreText" : [ "1)     arbutin", "2)     vitexin", "3)     genciopikrin", "4)     aloin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.138",
+  "text" : "Válassza ki a homopoliszacharid-tartalmú drogokat!",
+  "moreText" : [ "1)     Lanugo gossypii", "2)     Gummi arabicum", "3)     Solani amylum", "4)     Agar" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.139",
+  "text" : "A Calendulae flos belsőleges gyógyászati alkalmazása:",
+  "moreText" : [ "1)     epehólyag-gyulladás", "2)     vizelethajtó", "3)     gyomor- és bélhurut", "4)     sebkezelés" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.140",
+  "text" : "A keményítőkre jellemző:",
+  "moreText" : [ "1)     vízzel melegítve kolloid oldatot adnak", "2)     híg jódoldattal kék színt adnak", "3)     poliszacharidok", "4)     vas(III)-kloriddal vörös színt adnak" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.141",
+  "text" : "Mely drogok alkaloidtartalom meghatározásánál ír elő HPLC módszert a VIII. Magyar Gyógyszerkönyv?",
+  "moreText" : [ "1)     Belladonnae folium", "2)     Boldi folium", "3)     Chelidonii herba", "4)     Colae semen" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.142",
+  "text" : "Mely reagenseket használja alkaloidok kimutatására?",
+  "moreText" : [ "1)      Mayer-reagens", "2)      Kedde-reagens", "3)      Dragendorff-reagens", "4)     2,4-dinitrofenilhidrazin alkoholos oldata" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.143",
+  "text" : "Mely drogok összes hidroxifahéjsav- (kávésav-) származéktartalom meghatározását írja elő a Ph. Hg. VIII.?",
+  "moreText" : [ "1)     Ballotae nigrae herba", "2)     Melissae folium", "3)     Rosmarini folium", "4)     Juniperi pseudo-fructus" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.144",
+  "text" : "A VIII. Magyar Gyógyszerkönyvben mely illóolaj vizsgálatok szerepelnek?",
+  "moreText" : [ "1)     idegen észterek kimutatása", "2)     bepárlási maradék meghatározása", "3)     szag és íz meghatározása", "4)     keserűérték meghatározás" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.145",
+  "text" : "A víznél nagyobb sűrűségű illóolajok az alábbiak közül:",
+  "moreText" : [ "1)     Thymi aetheroleum", "2)     Caryophylli aetheroleum", "3)     Lavandulae aetheroleum", "4)     Cinnamomi cassiae aetheroleum" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.146",
+  "text" : "A cserzőanyagok jellemző tulajdonságai:",
+  "moreText" : [ "1)     nehézfémsókkal csapadékot adnak", "2)     a fehérjéket irreverzibilisen kicsapják", "3)     alkaloidokkal csapadékot képeznek", "4)     vízben, alkoholban nem oldódnak" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.147",
+  "text" : "Válassza ki a flavonoidtartalmú drogokat!",
+  "moreText" : [ "1)     Rhei radix", "2)     Tiliae flos", "3)     Aloe capensis", "4)     Crataegi folii cum flore" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.148",
+  "text" : "Crataegi folii cum flore gyógyászati alkalmazása:",
+  "moreText" : [ "1)     enyhe kardiotonikum", "2)     antiemetikum", "3)     arterioszklerózis, magas vérnyomás kiegészítő terápiája", "4)     gyulladáscsökkentő" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.149",
+  "text" : "Válassza ki a hidrokinon- származékokat tartalmazó drogokat!",
+  "moreText" : [ "1)     Hederae folium", "2)     Myrtilli fructus", "3)     Salicis cortex", "4)     Uvae ursi folium" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.150",
+  "text" : "Válassza ki a szalicilsav-származékot tartalmazó drogokat!",
+  "moreText" : [ "1)     Hederae folium", "2)     Salicis cortex", "3)     Harpagophyti radix", "4)     Filipendulae ulmariae herba" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYND - 6.151",
+  "text" : "Jelölje A-val a telítetlen és B-vel a telített szénláncú zsírsavakat! ",
+  "items" : [ {
+    "text" : "mirisztinsav",
+    "match" : "B"
+  }, {
+    "text" : "arachinsav",
+    "match" : "B"
+  }, {
+    "text" : "olajsav",
+    "match" : "A"
+  }, {
+    "text" : "ricinolsav",
+    "match" : "A"
+  }, {
+    "text" : "linolénsav",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "telítetlen szénláncú zsírsav"
+  }, {
+    "letter" : "B",
+    "text" : "telített szénláncú zsírsav"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.152",
+  "text" : "Jelölje A-val az Allium sativum és B-vel az Allium cepa tartalomanyagait! ",
+  "items" : [ {
+    "text" : "alliin",
+    "match" : "A"
+  }, {
+    "text" : "allicin",
+    "match" : "A"
+  }, {
+    "text" : "cwibelan",
+    "match" : "B"
+  }, {
+    "text" : "ajoen",
+    "match" : "A"
+  }, {
+    "text" : "cepaen",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Allium sativum"
+  }, {
+    "letter" : "B",
+    "text" : "Allium cepa"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.153",
+  "text" : "Jelölje A-val a Ginkgo biloba és B-vel az Arnica montana tartalomanyagait! ",
+  "items" : [ {
+    "text" : "bilobetin",
+    "match" : "A"
+  }, {
+    "text" : "helenalin",
+    "match" : "B"
+  }, {
+    "text" : "luteolin-7-O-glükozid",
+    "match" : "B"
+  }, {
+    "text" : "amentoflavon",
+    "match" : "A"
+  }, {
+    "text" : "miricetin-3-O-rutinozid",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Ginkgo biloba"
+  }, {
+    "letter" : "B",
+    "text" : "Arnica montana"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.154",
+  "text" : "Rendelje egymáshoz az összetartozó drogokat, és gyógyászati alkalmazásukat! ",
+  "items" : [ {
+    "text" : "rubefaciens",
+    "match" : "E"
+  }, {
+    "text" : "spazmolitikum",
+    "match" : "A"
+  }, {
+    "text" : "laxativum",
+    "match" : "D"
+  }, {
+    "text" : "paraszimpatolitikum",
+    "match" : "C"
+  }, {
+    "text" : "expektoráns",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Matricariae flos"
+  }, {
+    "letter" : "B",
+    "text" : "Ipecacuanhae radix"
+  }, {
+    "letter" : "C",
+    "text" : "Hyoscyami folium"
+  }, {
+    "letter" : "D",
+    "text" : "Sennae folium"
+  }, {
+    "letter" : "E",
+    "text" : "Capsici fructus"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.155",
+  "text" : "Keresse meg a képletekhez tartozó neveket! ",
+  "items" : [ {
+    "text" : "<img src=\"http://gytk.zarovizsga.hu/_userfiles/kerdes_kepek/kerdes_18613/6_155_1.jpg\" />",
+    "match" : "D"
+  }, {
+    "text" : "<img src=\"http://gytk.zarovizsga.hu/_userfiles/kerdes_kepek/kerdes_18614/6_155_2.jpg\" />",
+    "match" : "A"
+  }, {
+    "text" : "<img src=\"http://gytk.zarovizsga.hu/_userfiles/kerdes_kepek/kerdes_18615/6_155_3.jpg\" />",
+    "match" : "E"
+  }, {
+    "text" : "<img src=\"http://gytk.zarovizsga.hu/_userfiles/kerdes_kepek/kerdes_18616/6_155_4.jpg\" />",
+    "match" : "B"
+  }, {
+    "text" : "<img src=\"http://gytk.zarovizsga.hu/_userfiles/kerdes_kepek/kerdes_18617/6_155_5.jpg\" />",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "flavonol"
+  }, {
+    "letter" : "B",
+    "text" : "flavon"
+  }, {
+    "letter" : "C",
+    "text" : "flavánon"
+  }, {
+    "letter" : "D",
+    "text" : "flaván"
+  }, {
+    "letter" : "E",
+    "text" : "izoflavon"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.156",
+  "text" : "Melyik drogot milyen célra használják a gyógyászatban? ",
+  "items" : [ {
+    "text" : "Althaeae radix et folium",
+    "match" : "C"
+  }, {
+    "text" : "Ipecacuanhae radix",
+    "match" : "D"
+  }, {
+    "text" : "Uncariae radix",
+    "match" : "B"
+  }, {
+    "text" : "Passiflorae herba",
+    "match" : "A"
+  }, {
+    "text" : "Chelidonii herba et radix",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "enyhe nyugtatóként"
+  }, {
+    "letter" : "B",
+    "text" : "ízületi gyulladás esetén"
+  }, {
+    "letter" : "C",
+    "text" : "száj- és torokgyulladás esetén"
+  }, {
+    "letter" : "D",
+    "text" : "köptetőként"
+  }, {
+    "letter" : "E",
+    "text" : "epehajtóként"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.157",
+  "text" : "Melyik vegyületet melyik növény tartalmazza? ",
+  "items" : [ {
+    "text" : "fokhagyma",
+    "match" : "B"
+  }, {
+    "text" : "orvosi füstike",
+    "match" : "E"
+  }, {
+    "text" : "kalabárbab",
+    "match" : "A"
+  }, {
+    "text" : "őszi kikerics",
+    "match" : "C"
+  }, {
+    "text" : "rózsameténg",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "fizosztigmin"
+  }, {
+    "letter" : "B",
+    "text" : "alliin"
+  }, {
+    "letter" : "C",
+    "text" : "kolchicin"
+  }, {
+    "letter" : "D",
+    "text" : "vinkrisztin"
+  }, {
+    "letter" : "E",
+    "text" : "protopin"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.158",
+  "text" : "Melyik vegyületnek mi az alapváza? ",
+  "items" : [ {
+    "text" : "szkopolamin",
+    "match" : "C"
+  }, {
+    "text" : "kinidin",
+    "match" : "D"
+  }, {
+    "text" : "papaverin",
+    "match" : "B"
+  }, {
+    "text" : "tebain",
+    "match" : "A"
+  }, {
+    "text" : "noszkapin",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "morfinán váz"
+  }, {
+    "letter" : "B",
+    "text" : "benzil-izokinolin váz"
+  }, {
+    "letter" : "C",
+    "text" : "tropán váz"
+  }, {
+    "letter" : "D",
+    "text" : "rubán váz"
+  }, {
+    "letter" : "E",
+    "text" : "ftálid-tetrahidroizokinolin váz"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.159",
+  "text" : "Melyik növénynek melyik részét alkalmazza a gyógyászat? ",
+  "items" : [ {
+    "text" : "tarackbúza",
+    "match" : "A"
+  }, {
+    "text" : "paprika",
+    "match" : "C"
+  }, {
+    "text" : "csikófark",
+    "match" : "B"
+  }, {
+    "text" : "kínafa",
+    "match" : "D"
+  }, {
+    "text" : "őszi kikerics",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "rhizoma"
+  }, {
+    "letter" : "B",
+    "text" : "herba"
+  }, {
+    "letter" : "C",
+    "text" : "fructus"
+  }, {
+    "letter" : "D",
+    "text" : "cortex"
+  }, {
+    "letter" : "E",
+    "text" : "tuber"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.160",
+  "text" : "Milyen célra használják a gyógyászatban az alábbi drogokat? ",
+  "items" : [ {
+    "text" : "Echinaceae pallidae radix",
+    "match" : "D"
+  }, {
+    "text" : "Lini semen",
+    "match" : "A"
+  }, {
+    "text" : "Symphyti radix",
+    "match" : "B"
+  }, {
+    "text" : "Chelidonii herba",
+    "match" : "E"
+  }, {
+    "text" : "Ipecacuanhae radix",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "enyhe laxatív"
+  }, {
+    "letter" : "B",
+    "text" : "zúzódások kezelése"
+  }, {
+    "letter" : "C",
+    "text" : "köptetőszerként"
+  }, {
+    "letter" : "D",
+    "text" : "immunstimulánsként"
+  }, {
+    "letter" : "E",
+    "text" : "gasztrointesztinális görcsök oldása"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.161",
+  "text" : "Milyen hatás köthető az alábbi drogokhoz, növényekhez? ",
+  "items" : [ {
+    "text" : "Belladonnae folium",
+    "match" : "B"
+  }, {
+    "text" : "Ephedrae herba",
+    "match" : "D"
+  }, {
+    "text" : "Allii bulbus",
+    "match" : "E"
+  }, {
+    "text" : "Camptotheca acuminata",
+    "match" : "A"
+  }, {
+    "text" : "Curare",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "citotoxikus"
+  }, {
+    "letter" : "B",
+    "text" : "paraszimpatolitikus"
+  }, {
+    "letter" : "C",
+    "text" : "izomrelaxáns"
+  }, {
+    "letter" : "D",
+    "text" : "szimpatomimetikus"
+  }, {
+    "letter" : "E",
+    "text" : "trombocita aggregáció gátlása"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.162",
+  "text" : "Jelölje A-val az az ópiumban, B-vel a Cinchonae cortexben megtalálható vegyületeket! ",
+  "items" : [ {
+    "text" : "kínasav",
+    "match" : "B"
+  }, {
+    "text" : "kinin",
+    "match" : "B"
+  }, {
+    "text" : "narkotin",
+    "match" : "A"
+  }, {
+    "text" : "narcein",
+    "match" : "A"
+  }, {
+    "text" : "cinkonidin",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "ópium"
+  }, {
+    "letter" : "B",
+    "text" : "Cinchonae cortex"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.163",
+  "text" : "<p>Rendelje egymáshoz az összetartozó drogokat és gyógyászati alkalmazásukat!</p> ",
+  "items" : [ {
+    "text" : "Passiflorae herba",
+    "match" : "E"
+  }, {
+    "text" : "Strychni semen",
+    "match" : "B"
+  }, {
+    "text" : "Cinchonae cortex",
+    "match" : "C"
+  }, {
+    "text" : "Hederae folium",
+    "match" : "D"
+  }, {
+    "text" : "Berberidis radix",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "epehajtó"
+  }, {
+    "letter" : "B",
+    "text" : "tonizáns"
+  }, {
+    "letter" : "C",
+    "text" : "hatóanyagai között van antimaláriás hatású"
+  }, {
+    "letter" : "D",
+    "text" : "expektoráns"
+  }, {
+    "letter" : "E",
+    "text" : "idegi eredetű alvászavarok"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.164",
+  "text" : "Jelölje A-val a pirrolizidin alkaloidokat tartalmazó, B-vel a terpenoidvázas alkaloidokat tartalmazó drogokat! ",
+  "items" : [ {
+    "text" : "Veratri rhizoma",
+    "match" : "B"
+  }, {
+    "text" : "Aconiti tuber",
+    "match" : "B"
+  }, {
+    "text" : "Symphyti radix",
+    "match" : "A"
+  }, {
+    "text" : "Solani herba",
+    "match" : "B"
+  }, {
+    "text" : "Pulmonariae herba",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "pirrolizidin alkaloidokat tartalmazó"
+  }, {
+    "letter" : "B",
+    "text" : "terpenoidvázas alkaloidokat tartalmazó"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.166",
+  "text" : "Rendelje egymáshoz az összetartozó drogokat és a jellemző komponenseket! ",
+  "items" : [ {
+    "text" : "sisakvirág gumó",
+    "match" : "B"
+  }, {
+    "text" : "kasvirág-gyökér",
+    "match" : "A"
+  }, {
+    "text" : "csukamájolaj",
+    "match" : "E"
+  }, {
+    "text" : "fehér fagyöngy ágvég",
+    "match" : "C"
+  }, {
+    "text" : "macskakarom-gyökér",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "echinakozid"
+  }, {
+    "letter" : "B",
+    "text" : "mezakonitin"
+  }, {
+    "letter" : "C",
+    "text" : "viszkotoxin"
+  }, {
+    "letter" : "D",
+    "text" : "pteropodin"
+  }, {
+    "letter" : "E",
+    "text" : "D-vitamin"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.167",
+  "text" : "Milyen farmakológiai hatás, indikáció köthető az alábbi növényi komponensekhez? ",
+  "items" : [ {
+    "text" : "kinidin",
+    "match" : "B"
+  }, {
+    "text" : "kolchicin",
+    "match" : "C"
+  }, {
+    "text" : "pilokarpin",
+    "match" : "A"
+  }, {
+    "text" : "taxol",
+    "match" : "E"
+  }, {
+    "text" : "ergotamin",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "paraszimpatomimetikum"
+  }, {
+    "letter" : "B",
+    "text" : "antiaritmiás"
+  }, {
+    "letter" : "C",
+    "text" : "köszvényes roham"
+  }, {
+    "letter" : "D",
+    "text" : "méhizom-összehúzó hatás"
+  }, {
+    "letter" : "E",
+    "text" : "citotoxikus"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.168",
+  "text" : "Párosítsa össze az azonos növényi forrásból származó vegyületeket! ",
+  "items" : [ {
+    "text" : "emetin",
+    "match" : "B"
+  }, {
+    "text" : "vinblasztin",
+    "match" : "E"
+  }, {
+    "text" : "pteropodin",
+    "match" : "A"
+  }, {
+    "text" : "hioszciamin",
+    "match" : "C"
+  }, {
+    "text" : "koffein",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "mitrafillin"
+  }, {
+    "letter" : "B",
+    "text" : "cefelin"
+  }, {
+    "letter" : "C",
+    "text" : "szkopolamin"
+  }, {
+    "letter" : "D",
+    "text" : "teobromin"
+  }, {
+    "letter" : "E",
+    "text" : "vinkrisztin"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.169",
+  "text" : "Rendelje egymáshoz az összetartozó drogokat és a jellemző komponenseket! ",
+  "items" : [ {
+    "text" : "Cocae folium",
+    "match" : "B"
+  }, {
+    "text" : "Strychni semen",
+    "match" : "A"
+  }, {
+    "text" : "Passiflorae herba",
+    "match" : "D"
+  }, {
+    "text" : "Jaborandi folium",
+    "match" : "C"
+  }, {
+    "text" : "Sinapis nigrae semen",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "loganin"
+  }, {
+    "letter" : "B",
+    "text" : "kokain"
+  }, {
+    "letter" : "C",
+    "text" : "pilokarpin"
+  }, {
+    "letter" : "D",
+    "text" : "harmin"
+  }, {
+    "letter" : "E",
+    "text" : "szinigrin"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.170",
+  "text" : "Párosítsa össze a növénycsaládokat a családba tartozó fajokra jellemző vegyületekkel! ",
+  "items" : [ {
+    "text" : "tropánvázas alkaloidok",
+    "match" : "B"
+  }, {
+    "text" : "glükozinolátok",
+    "match" : "A"
+  }, {
+    "text" : "szívre ható glikozidok",
+    "match" : "D"
+  }, {
+    "text" : "morfinán vázas alkaloidok",
+    "match" : "C"
+  }, {
+    "text" : "monoterpének",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Brassicaceae"
+  }, {
+    "letter" : "B",
+    "text" : "Solanaceae"
+  }, {
+    "letter" : "C",
+    "text" : "Papaveraceae"
+  }, {
+    "letter" : "D",
+    "text" : "Scrophulariaceae"
+  }, {
+    "letter" : "E",
+    "text" : "Lamiaceae"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.171",
+  "text" : "Párosítsa össze a latin fajneveket a magyar elnevezésekkel! ",
+  "items" : [ {
+    "text" : "Uncaria tomentosa",
+    "match" : "B"
+  }, {
+    "text" : "Cyamopsis tetragonolobus",
+    "match" : "A"
+  }, {
+    "text" : "Laburnum anagyroides",
+    "match" : "C"
+  }, {
+    "text" : "Fumaria officinalis",
+    "match" : "E"
+  }, {
+    "text" : "Sarothamnus scoparius",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "guárbab"
+  }, {
+    "letter" : "B",
+    "text" : "macskakarom"
+  }, {
+    "letter" : "C",
+    "text" : "aranyeső"
+  }, {
+    "letter" : "D",
+    "text" : "seprőzanót"
+  }, {
+    "letter" : "E",
+    "text" : "orvosi füstike"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.172",
+  "text" : "Párosítsa össze a drogokat a jellemző komponensekkel! ",
+  "items" : [ {
+    "text" : "Farfarae folium et flos",
+    "match" : "B"
+  }, {
+    "text" : "Graminis rhizoma",
+    "match" : "A"
+  }, {
+    "text" : "Lobeliae herba",
+    "match" : "D"
+  }, {
+    "text" : "Coffeae semen",
+    "match" : "C"
+  }, {
+    "text" : "Ipecacuanhae radix",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "triticin"
+  }, {
+    "letter" : "B",
+    "text" : "pirrolizidin alkaloidok"
+  }, {
+    "letter" : "C",
+    "text" : "teobromin"
+  }, {
+    "letter" : "D",
+    "text" : "lobelin"
+  }, {
+    "letter" : "E",
+    "text" : "emetin"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.173",
+  "text" : "Párosítsa a vegyülettípusokat a megfelelő vegyületekkel! ",
+  "items" : [ {
+    "text" : "barbaloin",
+    "match" : "B"
+  }, {
+    "text" : "szennozid B",
+    "match" : "A"
+  }, {
+    "text" : "frangulin A",
+    "match" : "E"
+  }, {
+    "text" : "glükofrangulin A",
+    "match" : "C"
+  }, {
+    "text" : "rein-reumemodin-diantron",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "izodiantron"
+  }, {
+    "letter" : "B",
+    "text" : "heterodiantron"
+  }, {
+    "letter" : "C",
+    "text" : "antrakinon-diglikozid"
+  }, {
+    "letter" : "D",
+    "text" : "antron-C-glikozid"
+  }, {
+    "letter" : "E",
+    "text" : "antrakinon-monoglikozid"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.174",
+  "text" : "Párosítsa a különböző keményítőket a szemcsék jellemző alakjával! ",
+  "items" : [ {
+    "text" : "korong vagy ellipszis alak középen hasítékkal",
+    "match" : "D"
+  }, {
+    "text" : "összetett, szögletes szemcsék",
+    "match" : "C"
+  }, {
+    "text" : "excentrikus rétegzettség, ellipszis alak",
+    "match" : "B"
+  }, {
+    "text" : "sokszögletű vagy kerek szemcsék közepén 2-5 sugarú hasítékkal",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Maydis amylum"
+  }, {
+    "letter" : "B",
+    "text" : "Solani amylum"
+  }, {
+    "letter" : "C",
+    "text" : "Oryzae amylum"
+  }, {
+    "letter" : "D",
+    "text" : "Tritici amylum"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.175",
+  "text" : "Párosítsa a következő hatóanyagokat és drogokat! ",
+  "items" : [ {
+    "text" : "Ipecacuanhae radix",
+    "match" : "C"
+  }, {
+    "text" : "Belladonnae radix",
+    "match" : "E"
+  }, {
+    "text" : "Cinchonae cortex",
+    "match" : "D"
+  }, {
+    "text" : "Strychni semen",
+    "match" : "A"
+  }, {
+    "text" : "Secale cornutum",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "brucin"
+  }, {
+    "letter" : "B",
+    "text" : "ergokrisztin"
+  }, {
+    "letter" : "C",
+    "text" : "emetin"
+  }, {
+    "letter" : "D",
+    "text" : "kinidin"
+  }, {
+    "letter" : "E",
+    "text" : "szkopolamin"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.176",
+  "text" : "Párosítsa a glikozidokat a megfelelő aglikonokkal! ",
+  "items" : [ {
+    "text" : "aloeemodin antron",
+    "match" : "E"
+  }, {
+    "text" : "apigenin",
+    "match" : "A"
+  }, {
+    "text" : "hidrokinon",
+    "match" : "B"
+  }, {
+    "text" : "frangulaemodin",
+    "match" : "C"
+  }, {
+    "text" : "kvercetin",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "vitexin"
+  }, {
+    "letter" : "B",
+    "text" : "arbutin"
+  }, {
+    "letter" : "C",
+    "text" : "frangulin A"
+  }, {
+    "letter" : "D",
+    "text" : "rutin"
+  }, {
+    "letter" : "E",
+    "text" : "aloin"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.177",
+  "text" : "Melyik reakcióval melyik vegyületet azonosíthatja? ",
+  "items" : [ {
+    "text" : "Vitali-reakció",
+    "match" : "B"
+  }, {
+    "text" : "Murexid-reakció",
+    "match" : "E"
+  }, {
+    "text" : "Thalleiochin-reakció",
+    "match" : "D"
+  }, {
+    "text" : "van Urk-reakció",
+    "match" : "C"
+  }, {
+    "text" : "Marquis-reakció",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "morfin"
+  }, {
+    "letter" : "B",
+    "text" : "szkopolamin"
+  }, {
+    "letter" : "C",
+    "text" : "ergotoxin"
+  }, {
+    "letter" : "D",
+    "text" : "kinin"
+  }, {
+    "letter" : "E",
+    "text" : "koffein"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.178",
+  "text" : "Melyik drogot melyik reakcióval azonosíthatja? ",
+  "items" : [ {
+    "text" : "Frangulae cortex",
+    "match" : "C"
+  }, {
+    "text" : "Digitalis purpureae folium",
+    "match" : "E"
+  }, {
+    "text" : "Ipecacuanhae radix",
+    "match" : "D"
+  }, {
+    "text" : "Theae folium",
+    "match" : "A"
+  }, {
+    "text" : "Belladonnae folium",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Murexid-reakció"
+  }, {
+    "letter" : "B",
+    "text" : "Vitali-reakció"
+  }, {
+    "letter" : "C",
+    "text" : "Bornträger-reakció"
+  }, {
+    "letter" : "D",
+    "text" : "Rubremetin-reakció"
+  }, {
+    "letter" : "E",
+    "text" : "Baljet-reakció"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.179",
+  "text" : "Rendelje egymáshoz a drogként alkalmazott növényi részek magyar és latin nevét! ",
+  "items" : [ {
+    "text" : "semen",
+    "match" : "D"
+  }, {
+    "text" : "flos",
+    "match" : "B"
+  }, {
+    "text" : "rhizoma",
+    "match" : "A"
+  }, {
+    "text" : "fructus",
+    "match" : "E"
+  }, {
+    "text" : "radix",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "gyökértörzs"
+  }, {
+    "letter" : "B",
+    "text" : "virág"
+  }, {
+    "letter" : "C",
+    "text" : "gyökér"
+  }, {
+    "letter" : "D",
+    "text" : "mag"
+  }, {
+    "letter" : "E",
+    "text" : "termés"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.180",
+  "text" : "Válassza ki a növényi részek latin elnevezéséhez a magyar megfelelőt! ",
+  "items" : [ {
+    "text" : "herba",
+    "match" : "D"
+  }, {
+    "text" : "fructus",
+    "match" : "A"
+  }, {
+    "text" : "pseudo-fructus",
+    "match" : "E"
+  }, {
+    "text" : "cortex",
+    "match" : "B"
+  }, {
+    "text" : "pericarpium",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "termés"
+  }, {
+    "letter" : "B",
+    "text" : "kéreg"
+  }, {
+    "letter" : "C",
+    "text" : "terméshéj"
+  }, {
+    "letter" : "D",
+    "text" : "hajtás"
+  }, {
+    "letter" : "E",
+    "text" : "áltermés"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.181",
+  "text" : "Rendelje egymáshoz a vegyületeket és a kimutatásukra alkalmas reakciókat! ",
+  "items" : [ {
+    "text" : "kinin",
+    "match" : "E"
+  }, {
+    "text" : "szkopolamin",
+    "match" : "C"
+  }, {
+    "text" : "ergotamin",
+    "match" : "B"
+  }, {
+    "text" : "morfin",
+    "match" : "A"
+  }, {
+    "text" : "koffein",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Marquis-reakció"
+  }, {
+    "letter" : "B",
+    "text" : "van Urk-reakció"
+  }, {
+    "letter" : "C",
+    "text" : "Vitali-reakció"
+  }, {
+    "letter" : "D",
+    "text" : "Murexid-reakció"
+  }, {
+    "letter" : "E",
+    "text" : "Thalleiochin reakció"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.182",
+  "text" : "Rendelje egymáshoz a drogokat és a jellemző tartalomanyaguk kimutatására alkalmas reakciókat! ",
+  "items" : [ {
+    "text" : "Papaveris fructus",
+    "match" : "E"
+  }, {
+    "text" : "Coffeae semen",
+    "match" : "A"
+  }, {
+    "text" : "Cinchonae cortex",
+    "match" : "D"
+  }, {
+    "text" : "Secale cornutum",
+    "match" : "C"
+  }, {
+    "text" : "Hyoscyami folium",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Murexid-reakció"
+  }, {
+    "letter" : "B",
+    "text" : "Vitali-reakció"
+  }, {
+    "letter" : "C",
+    "text" : "van Urk-reakció"
+  }, {
+    "letter" : "D",
+    "text" : "Thalleiochin reakció"
+  }, {
+    "letter" : "E",
+    "text" : "Marquis-reakció"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.183",
+  "text" : "Párosítsa a drogokat a megfelelő gyógyászati alkalmazással! ",
+  "items" : [ {
+    "text" : "jóindulatú prosztata megnagyobbodás kezelése",
+    "match" : "B"
+  }, {
+    "text" : "rubefaciens",
+    "match" : "A"
+  }, {
+    "text" : "karminatívum",
+    "match" : "D"
+  }, {
+    "text" : "másod- és harmadfokú égési sérülések",
+    "match" : "E"
+  }, {
+    "text" : "gyulladáscsökkentő",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Sinapis nigrae semen"
+  }, {
+    "letter" : "B",
+    "text" : "Sabalis serrulatae fructus"
+  }, {
+    "letter" : "C",
+    "text" : "Harpagophyti radix"
+  }, {
+    "letter" : "D",
+    "text" : "Carvi aetheroleum"
+  }, {
+    "letter" : "E",
+    "text" : "Centellae asiaticae herba"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.184",
+  "text" : "Párosítsa a drogokat a megfelelő gyógyászati alkalmazással! ",
+  "items" : [ {
+    "text" : "nyugtató, elalvást elősegítő",
+    "match" : "E"
+  }, {
+    "text" : "antifungális",
+    "match" : "A"
+  }, {
+    "text" : "krónikus vénás elégtelenség",
+    "match" : "C"
+  }, {
+    "text" : "expektoráns",
+    "match" : "B"
+  }, {
+    "text" : "amarum-aromatikum",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Melaleucae aetheroleum"
+  }, {
+    "letter" : "B",
+    "text" : "Pini silvestris aetheroleum"
+  }, {
+    "letter" : "C",
+    "text" : "Centellae asiaticae herba"
+  }, {
+    "letter" : "D",
+    "text" : "Curcumae xanthorrhizae rhizoma"
+  }, {
+    "letter" : "E",
+    "text" : "Lupuli flos"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.185",
+  "text" : "Párosítsa a drogokat a megfelelő gyógyászati alkalmazással! ",
+  "items" : [ {
+    "text" : "amarum",
+    "match" : "D"
+  }, {
+    "text" : "hámosodást elősegítő",
+    "match" : "E"
+  }, {
+    "text" : "rubefaciens",
+    "match" : "A"
+  }, {
+    "text" : "felső légúti megbetegedésekben",
+    "match" : "B"
+  }, {
+    "text" : "hepatoprotektív",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Sinapis albae semen"
+  }, {
+    "letter" : "B",
+    "text" : "Plantaginis lanceolatae folium"
+  }, {
+    "letter" : "C",
+    "text" : "Cynarae folium"
+  }, {
+    "letter" : "D",
+    "text" : "Absinthii herba"
+  }, {
+    "letter" : "E",
+    "text" : "Calendulae flos"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.186",
+  "text" : "Párosítsa a drogokat a megfelelő hatással! ",
+  "items" : [ {
+    "text" : "májvédő",
+    "match" : "C"
+  }, {
+    "text" : "prolaktinszint csökkentő",
+    "match" : "A"
+  }, {
+    "text" : "anxiolitikus",
+    "match" : "E"
+  }, {
+    "text" : "fertőtlenítő és helyi érzéstelenítő hatású",
+    "match" : "D"
+  }, {
+    "text" : "diuretikus",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Agni casti fructus"
+  }, {
+    "letter" : "B",
+    "text" : "Orthosiphonis folium"
+  }, {
+    "letter" : "C",
+    "text" : "Silybi mariani fructus"
+  }, {
+    "letter" : "D",
+    "text" : "Caryophylli floris aetheroleum"
+  }, {
+    "letter" : "E",
+    "text" : "Melissae folium"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.187",
+  "text" : "Párosítsa a drogokat a jellemző tartalomanyagokkal! ",
+  "items" : [ {
+    "text" : "S-tartalmú peptidek",
+    "match" : "E"
+  }, {
+    "text" : "flavanolignánok",
+    "match" : "D"
+  }, {
+    "text" : "iridoid-glikozidok",
+    "match" : "B"
+  }, {
+    "text" : "triterpének",
+    "match" : "C"
+  }, {
+    "text" : "glükozinolátok",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Sinapis nigrae semen"
+  }, {
+    "letter" : "B",
+    "text" : "Harpagophyti radix"
+  }, {
+    "letter" : "C",
+    "text" : "Centellae asiaticae herba"
+  }, {
+    "letter" : "D",
+    "text" : "Silybi mariani fructus"
+  }, {
+    "letter" : "E",
+    "text" : "Allii sativi bulbus"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.188",
+  "text" : "Párosítsa a drogokat a jellemző tartalomanyagokkal! ",
+  "items" : [ {
+    "text" : "izoflavonoidok",
+    "match" : "E"
+  }, {
+    "text" : "cikloartenol típusú triterpének",
+    "match" : "D"
+  }, {
+    "text" : "floroglucinszármazékok",
+    "match" : "C"
+  }, {
+    "text" : "szekoiridoid-glükozidok",
+    "match" : "B"
+  }, {
+    "text" : "eugenol",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Caryophylli floris aetheroleum"
+  }, {
+    "letter" : "B",
+    "text" : "Gentianae radix"
+  }, {
+    "letter" : "C",
+    "text" : "Lupuli flos"
+  }, {
+    "letter" : "D",
+    "text" : "Cimicifugae radix"
+  }, {
+    "letter" : "E",
+    "text" : "Ononidis radix"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.189",
+  "text" : "Párosítsa a drogokat a megfelelő gyógyászati alkalmazással! ",
+  "items" : [ {
+    "text" : "krónikus vénás elégtelenség",
+    "match" : "D"
+  }, {
+    "text" : "köptető",
+    "match" : "C"
+  }, {
+    "text" : "érelmeszesedést gátló",
+    "match" : "E"
+  }, {
+    "text" : "vizelethajtó",
+    "match" : "B"
+  }, {
+    "text" : "jóindulatú prosztata megnagyobbodás (I és II fázis)",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Pruni africanae cortex "
+  }, {
+    "letter" : "B",
+    "text" : "Ononidis radix"
+  }, {
+    "letter" : "C",
+    "text" : "Liquiritiae radix et rhizoma"
+  }, {
+    "letter" : "D",
+    "text" : "Hippocastani semen et cortex"
+  }, {
+    "letter" : "E",
+    "text" : "Allii bulbus"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.190",
+  "text" : "Párosítsa a drogokat a jellemző tartalomanyagokkal! ",
+  "items" : [ {
+    "text" : "naftodiantron-származékok",
+    "match" : "D"
+  }, {
+    "text" : "α-hederin",
+    "match" : "A"
+  }, {
+    "text" : "glicirrizinsav",
+    "match" : "B"
+  }, {
+    "text" : "procianidinek",
+    "match" : "C"
+  }, {
+    "text" : "arbutin",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Hederae folium"
+  }, {
+    "letter" : "B",
+    "text" : "Liquiritiae radix et rhizoma"
+  }, {
+    "letter" : "C",
+    "text" : "Crataegi folii cum flore"
+  }, {
+    "letter" : "D",
+    "text" : "Hyperici herba"
+  }, {
+    "letter" : "E",
+    "text" : "Uvae ursi folium"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.191",
+  "text" : "Párosítsa a drogokat a meglelő hatással! ",
+  "items" : [ {
+    "text" : "trombocita aggregációt gátló hatás",
+    "match" : "A"
+  }, {
+    "text" : "tonizáló",
+    "match" : "D"
+  }, {
+    "text" : "szedatív hatású",
+    "match" : "B"
+  }, {
+    "text" : "szem mikrocirkulációjának zavaraiban",
+    "match" : "E"
+  }, {
+    "text" : "karminatívum",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Allii sativi bulbus"
+  }, {
+    "letter" : "B",
+    "text" : "Lavandulae flos"
+  }, {
+    "letter" : "C",
+    "text" : "Carvi fructus"
+  }, {
+    "letter" : "D",
+    "text" : "Eleutherococci radix"
+  }, {
+    "letter" : "E",
+    "text" : "Myrtilli fructus recens"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.192",
+  "text" : "Párosítsa a drogokat a jellemző tartalomanyagokkal! ",
+  "items" : [ {
+    "text" : "linalool",
+    "match" : "D"
+  }, {
+    "text" : "lignánok",
+    "match" : "B"
+  }, {
+    "text" : "arbutin",
+    "match" : "E"
+  }, {
+    "text" : "ajoén",
+    "match" : "C"
+  }, {
+    "text" : "cserzőanyag",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Alchemillae herba"
+  }, {
+    "letter" : "B",
+    "text" : "Podophylli rhizoma"
+  }, {
+    "letter" : "C",
+    "text" : "Allii sativi bulbus"
+  }, {
+    "letter" : "D",
+    "text" : "Lavandulae flos"
+  }, {
+    "letter" : "E",
+    "text" : "Uvae ursi folium"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.193",
+  "text" : "Jelölje A-val a szalicilsav-származékokat, B-vel a hidrokinon-származékokat tartalmazó drogokat! ",
+  "items" : [ {
+    "text" : "Salicis cortex",
+    "match" : "A"
+  }, {
+    "text" : "Uvae ursi folium",
+    "match" : "B"
+  }, {
+    "text" : "Vitis idaeae folium",
+    "match" : "B"
+  }, {
+    "text" : "Violae herba cum flore",
+    "match" : "A"
+  }, {
+    "text" : "Filipendulae ulmariae herba",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "szalicilsav-származék"
+  }, {
+    "letter" : "B",
+    "text" : "hidrokinon-származék"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.194",
+  "text" : "Jelölje A-val a fenilpropán-származékokat, B-vel a kumarinokat tartalmazó drogokat! ",
+  "items" : [ {
+    "text" : "Cinnamomi cortex",
+    "match" : "A"
+  }, {
+    "text" : "Levistici radix",
+    "match" : "B"
+  }, {
+    "text" : "Meliloti herba",
+    "match" : "B"
+  }, {
+    "text" : "Caryophylli floris aetheroleum",
+    "match" : "A"
+  }, {
+    "text" : "Rutae herba",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "fenilpropán-származék"
+  }, {
+    "letter" : "B",
+    "text" : "kumarinok"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.195",
+  "text" : "Jelölje A-val az iridoidglikozidokat, B-vel a szeszkviterpén-származékokat tartalmazó drogokat! ",
+  "items" : [ {
+    "text" : "Tanaceti parthenii herba",
+    "match" : "B"
+  }, {
+    "text" : "Harpagophyti radix",
+    "match" : "A"
+  }, {
+    "text" : "Plantaginis lanceolatae folium",
+    "match" : "A"
+  }, {
+    "text" : "Absinthii herba",
+    "match" : "B"
+  }, {
+    "text" : "Agni casti fructus",
+    "match" : "A"
+  }, {
+    "text" : "Cynarae folium",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "iridoidglikozidok"
+  }, {
+    "letter" : "B",
+    "text" : "szeszkviterpén-származékok"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.196",
+  "text" : "Jelölje A-val az iridoidokat, B-vel a szeszkviterpén-származékokat tartalmazó drogokat! ",
+  "items" : [ {
+    "text" : "Gentianae radix",
+    "match" : "A"
+  }, {
+    "text" : "Chamomillae romanae flos",
+    "match" : "B"
+  }, {
+    "text" : "Verbenae herba",
+    "match" : "A"
+  }, {
+    "text" : "Matricariae flos",
+    "match" : "B"
+  }, {
+    "text" : "Millefolii herba",
+    "match" : "B"
+  }, {
+    "text" : "Plantaginis lanceolatae folium",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "iridoidok"
+  }, {
+    "letter" : "B",
+    "text" : "szeszkviterpén-származékok"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.197",
+  "text" : "Jelölje A-val a primer anyagcseretermékeket, B-vel a szekunder anyagcseretermékeket! ",
+  "items" : [ {
+    "text" : "szénhidrátok",
+    "match" : "A"
+  }, {
+    "text" : "alkaloidok",
+    "match" : "B"
+  }, {
+    "text" : "zsírok, zsíros olajok",
+    "match" : "A"
+  }, {
+    "text" : "terpenoidok",
+    "match" : "B"
+  }, {
+    "text" : "peptidek, fehérjék",
+    "match" : "A"
+  }, {
+    "text" : "fenolos anyagok",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "primer anyagcseretermékek"
+  }, {
+    "letter" : "B",
+    "text" : "szekunder anyagcseretermékek"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.198",
+  "text" : "Jelölje A-val a mézgák, B-vel a keményítők tulajdonságait! ",
+  "items" : [ {
+    "text" : "heteropoliszacharidok",
+    "match" : "A"
+  }, {
+    "text" : "általában a növényekből külső hatásra keletkező és kifolyó termékek",
+    "match" : "A"
+  }, {
+    "text" : "homopoliszacharidok",
+    "match" : "B"
+  }, {
+    "text" : "amilóz és amilopektin alkotja",
+    "match" : "B"
+  }, {
+    "text" : "hintőporok alkotói",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "mézgák"
+  }, {
+    "letter" : "B",
+    "text" : "keményítők"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.199",
+  "text" : "Párosítsa össze a latin fajneveket a magyar elnevezésekkel! ",
+  "items" : [ {
+    "text" : "csicsóka",
+    "match" : "B"
+  }, {
+    "text" : "fekete nadálytő",
+    "match" : "A"
+  }, {
+    "text" : "fűrészpálma/szabalpálma",
+    "match" : "D"
+  }, {
+    "text" : "barátcserje",
+    "match" : "C"
+  }, {
+    "text" : "közönséges orbáncfű",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Symphytum officinalis"
+  }, {
+    "letter" : "B",
+    "text" : "Helianthus tuberosus"
+  }, {
+    "letter" : "C",
+    "text" : "Vitex agnus castus"
+  }, {
+    "letter" : "D",
+    "text" : "Serenoa repens"
+  }, {
+    "letter" : "E",
+    "text" : "Hypericum perforatum"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYND - 6.200",
+  "text" : "Párosítsa a vegyületeket a megfelelő drogokkal! ",
+  "items" : [ {
+    "text" : "Cichorii radix",
+    "match" : "E"
+  }, {
+    "text" : "Chelidonii herba",
+    "match" : "A"
+  }, {
+    "text" : "Liquiritiae radix",
+    "match" : "C"
+  }, {
+    "text" : "Ginseng radix",
+    "match" : "B"
+  }, {
+    "text" : "Cinnamomi cortex",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "berberin"
+  }, {
+    "letter" : "B",
+    "text" : "protopanaxadiol"
+  }, {
+    "letter" : "C",
+    "text" : "glicirrizin"
+  }, {
+    "letter" : "D",
+    "text" : "fahéjaldehid"
+  }, {
+    "letter" : "E",
+    "text" : "inulin"
+  } ],
+  "type" : "ASSOCIATION"
+} ]

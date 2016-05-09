@@ -26,13 +26,21 @@ export class Quiz {
   }
 
   onQuestionAnswer(answer:AnsweredQuestion) {
-    this.appState.solvedTasks.push(answer);
+    if (AppState.isCorrect(answer)) {
+      this.appState.solvedTasks.push(answer);
+    } else {
+      this.appState.solvedTasks.unshift(answer);
+    }
     this.appState.recentlySolvedTasks.push(answer);
     this.appState.nextTask();
   }
 
   onAssociation(association:AnsweredAssocation) {
-    this.appState.solvedTasks.push(association);
+    if (AppState.isCorrect(association)) {
+      this.appState.solvedTasks.push(association);
+    } else {
+      this.appState.solvedTasks.unshift(association);
+    }
     this.appState.recentlySolvedTasks.push(association);
     this.appState.nextTask();
   }

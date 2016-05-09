@@ -1,0 +1,4571 @@
+[ {
+  "id" : "TGK - 7.1",
+  "text" : "Melyik feladat nem tekinthető speciális klinikai gyógyszerészi feladatnak?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a gyógyszerek nemkívánt hatásainak dokumentálása"
+  }, {
+    "letter" : "B",
+    "text" : "a gyógyszerkölcsönhatások kiszűrése és megelőzése"
+  }, {
+    "letter" : "C",
+    "text" : "egyedi citosztatikus infúzió készítése"
+  }, {
+    "letter" : "D",
+    "text" : "teljes enterális táplálás megtervezése"
+  }, {
+    "letter" : "E",
+    "text" : "a fekvőbetegek biztonságos gyógyszerelésének felügyelete"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "teljes enterális táplálás megtervezése"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.2",
+  "text" : "A kórházi betegeknek szóló gyógyszerkiadásnál nem meghatározó cél:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a gyógyszerbiztonság fokozása"
+  }, {
+    "letter" : "B",
+    "text" : "a betegbiztonság növelése"
+  }, {
+    "letter" : "C",
+    "text" : "a gyógyszeres terápia költségének csökkentése"
+  }, {
+    "letter" : "D",
+    "text" : "a gyógyszeres terápia transzparenciájának növelése"
+  }, {
+    "letter" : "E",
+    "text" : "a gyógyszerészi felelősségvállalás növelése"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a gyógyszeres terápia költségének csökkentése"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.3",
+  "text" : "Citosztatikus keverék infúzió elkészítésnek nem szükséges feltétele:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a vertikális áramlású citobox"
+  }, {
+    "letter" : "B",
+    "text" : "a box UV megvilágítása"
+  }, {
+    "letter" : "C",
+    "text" : "a védő öltözék és lábbeli"
+  }, {
+    "letter" : "D",
+    "text" : "a kesztyű, a szemüveg és arcmaszk"
+  }, {
+    "letter" : "E",
+    "text" : "a veszélyes hulladékgyűjtő"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a box UV megvilágítása"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.4",
+  "text" : "A testfelszínre számított dozírozás használandó, kivéve:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ciklofoszfamid"
+  }, {
+    "letter" : "B",
+    "text" : "ciklosporin"
+  }, {
+    "letter" : "C",
+    "text" : "vinkrisztin"
+  }, {
+    "letter" : "D",
+    "text" : "doxorubicin"
+  }, {
+    "letter" : "E",
+    "text" : "dakarbazin"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "ciklosporin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.5",
+  "text" : "Klinikai táplálásra szoruló beteg parenterális tápoldatában a következő összetevőknek kell lenni, kivéve:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szénhidrát"
+  }, {
+    "letter" : "B",
+    "text" : "fehérje"
+  }, {
+    "letter" : "C",
+    "text" : "lipid"
+  }, {
+    "letter" : "D",
+    "text" : "vitamin komplex"
+  }, {
+    "letter" : "E",
+    "text" : "nyomelemek"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "fehérje"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.6",
+  "text" : "Az \" ATC\" csoportosítás/kódolás második szintje jelöli:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az anatómiai csoportot"
+  }, {
+    "letter" : "B",
+    "text" : "a terápiás főcsoportot"
+  }, {
+    "letter" : "C",
+    "text" : "a kémiai csoportot"
+  }, {
+    "letter" : "D",
+    "text" : "a konkrét hatóanyagot"
+  }, {
+    "letter" : "E",
+    "text" : "a farmakológiai csoportot"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a terápiás főcsoportot"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.7",
+  "text" : "A gyógyszerfogyasztás mérésére a WHO által javasolt egységek, kivéve:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "DDD"
+  }, {
+    "letter" : "B",
+    "text" : "PDD"
+  }, {
+    "letter" : "C",
+    "text" : "DDD/1000fő/nap"
+  }, {
+    "letter" : "D",
+    "text" : "DDD/100ágy/nap"
+  }, {
+    "letter" : "E",
+    "text" : "DOT"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "DOT"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.8",
+  "text" : "A klinikai gyógyszervizsgálatokhoz szükséges dokumentumok, kivéve:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "etikai bizottsági engedély"
+  }, {
+    "letter" : "B",
+    "text" : "vizsgálati terv (protokoll)"
+  }, {
+    "letter" : "C",
+    "text" : "beleegyező nyilatkozat"
+  }, {
+    "letter" : "D",
+    "text" : "vizsgálati napló"
+  }, {
+    "letter" : "E",
+    "text" : "esetkövető formula (case report form)"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "vizsgálati napló"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.9",
+  "text" : "Melyik állítás nem helyes a humán klinikai III. fázisú gyógyszervizsgálatokra vonatkozóan?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az I-II. fázis sikeres befejezése után indítható"
+  }, {
+    "letter" : "B",
+    "text" : "etikai bizottsági engedély birtokában végezhető"
+  }, {
+    "letter" : "C",
+    "text" : "gyermekek soha nem vonhatók be ebben a fázisban"
+  }, {
+    "letter" : "D",
+    "text" : "az önkénteseknek a vizsgálatokkal járó kiadásaik miatt anyagi juttatás adható"
+  }, {
+    "letter" : "E",
+    "text" : "a vizsgálónak általános orvosi vagy fogorvosi diplomával kell rendelkeznie"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "gyermekek soha nem vonhatók be ebben a fázisban"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.10",
+  "text" : "Válassza ki a helytelen állítást! A gyógyszeres interakció esetén az együtt adagolt gyógyszerek egyike megváltoztathatja a másik gyógyszer",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "biológiai átalakulását"
+  }, {
+    "letter" : "B",
+    "text" : "hatásmechanizmusát"
+  }, {
+    "letter" : "C",
+    "text" : "felszívódását"
+  }, {
+    "letter" : "D",
+    "text" : "kiválasztódását"
+  }, {
+    "letter" : "E",
+    "text" : "megoszlását"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "hatásmechanizmusát"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.11",
+  "text" : "Jelölje meg a gyógyszerkölcsönhatás pontos meghatározását!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az egyik gyógyszerhatóanyag hatása megváltozik a másik gyógyszer, élelmiszer, ital vagy bármely más külső vegyület jelenlétében"
+  }, {
+    "letter" : "B",
+    "text" : "az egyik gyógyszerhatóanyag hatása megváltozik a másik gyógyszer vagy bármely más külső vegyület jelenlétében"
+  }, {
+    "letter" : "C",
+    "text" : "az egyik gyógyszerhatóanyag hatása káros mértékben megnő a másik gyógyszer, élelmiszer, ital vagy bármely más külső vegyület jelenlétében"
+  }, {
+    "letter" : "D",
+    "text" : "az egyik gyógyszerhatóanyag hatása jelentős mértékben csökken a másik gyógyszer, élelmiszer, ital vagy bármely más külső vegyület jelenlétében"
+  }, {
+    "letter" : "E",
+    "text" : "az egyik gyógyszerhatóanyag hatása a másik gyógyszer nagyobb receptoraffinitása miatt megváltozik"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "az egyik gyógyszerhatóanyag hatása megváltozik a másik gyógyszer, élelmiszer, ital vagy bármely más külső vegyület jelenlétében"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.12",
+  "text" : "Jelölje meg a WHO meghatározását a nemkívánatos gyógyszerhatásokra\" vonatkozóan!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "minden olyan gyógyszerválasz, amely ártalmas, nem szándékos; a gyógyszer szokásos alkalmazása mellett lép fel; legyen az akár profilaktikus, diagnosztikus, terápiás vagy a fiziológiás funkciókat módosító célú alkalmazás"
+  }, {
+    "letter" : "B",
+    "text" : "minden olyan gyógyszerválasz, amely a gyógyszer szokásos alkalmazása mellett lép fel; legyen az akár profilaktikus, diagnosztikus, terápiás vagy a fiziológiás funkciókat módosító célú alkalmazás"
+  }, {
+    "letter" : "C",
+    "text" : "minden olyan gyógyszerválasz, amely nem ártalmas, szándékos; a gyógyszer szokásos alkalmazása mellett lép fel; legyen az akár profilaktikus, diagnosztikus, terápiás vagy a fiziológiás funkciókat módosító célú alkalmazás"
+  }, {
+    "letter" : "D",
+    "text" : "minden olyan gyógyszerválasz, amely ártalmas, nem szándékos; a gyógyszer nem szokásos alkalmazása mellett lép fel; legyen az akár profilaktikus, diagnosztikus, terápiás vagy a fiziológiás funkciókat módosító célú alkalmazás"
+  }, {
+    "letter" : "E",
+    "text" : "minden olyan gyógyszerválasz, amely hibás gyógyszeralkalmazás következménye"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "minden olyan gyógyszerválasz, amely ártalmas, nem szándékos; a gyógyszer szokásos alkalmazása mellett lép fel; legyen az akár profilaktikus, diagnosztikus, terápiás vagy a fiziológiás funkciókat módosító célú alkalmazás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.13",
+  "text" : "Az alábbi gyógyszer mellékhatások közül melyik nem dózisfüggő?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az izotretinoin által okozott cheilitis"
+  }, {
+    "letter" : "B",
+    "text" : "a metildopa szedés mellett kialakuló hemolitikus anémia"
+  }, {
+    "letter" : "C",
+    "text" : "a paracetamol hepatotoxikus hatása"
+  }, {
+    "letter" : "D",
+    "text" : "az amoxicillin terápia során fellépő hasmenés"
+  }, {
+    "letter" : "E",
+    "text" : "a metilprednizolon kezeléssel összefüggő vérnyomás-emelkedés"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a metildopa szedés mellett kialakuló hemolitikus anémia"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.14",
+  "text" : "Az alábbi vérnyomáscsökkentő gyógyszerek közül melyik okozhatja a beteg hemolitikus anémiáját?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "kaptopril"
+  }, {
+    "letter" : "B",
+    "text" : "hidroklorotiazid"
+  }, {
+    "letter" : "C",
+    "text" : "metildopa"
+  }, {
+    "letter" : "D",
+    "text" : "felodipin"
+  }, {
+    "letter" : "E",
+    "text" : "prazozin"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "metildopa"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.15",
+  "text" : "Válassza ki a bizonyítékokon alapuló orvoslás (EBM) helyes definícióját!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a kezelőorvos szakmai tapasztalatainak, és mindenkori aktuális ismeretének megfelelő alkalmazása az egyénre szabott terápia során"
+  }, {
+    "letter" : "B",
+    "text" : "az elérhető legfrissebb folyóiratokból származó külső bizonyítékok alkalmazása a kezelési döntések meghozatalában"
+  }, {
+    "letter" : "C",
+    "text" : "az Országos Gyógyszerészeti Intézet által kiadott kezelési protokollok betartása és alkalmazása a döntéshozatalban"
+  }, {
+    "letter" : "D",
+    "text" : "az ismert legjobb bizonyíték lelkiismeretes, egyértelmű és megfontolt alkalmazása az individuális beteg ellátására vonatkozó kezelési döntés meghozatalában"
+  }, {
+    "letter" : "E",
+    "text" : "a legfrissebb terápiás eljárások haladéktalan alkalmazása a napi gyógyító munkában"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "az ismert legjobb bizonyíték lelkiismeretes, egyértelmű és megfontolt alkalmazása az individuális beteg ellátására vonatkozó kezelési döntés meghozatalában"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.16",
+  "text" : "Jelölje be a meta-analízisekre vonatkozó helytelen állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a korábbi vizsgálatok eredményeit összesítik és vetik alá újabb statisztikai elemzésnek"
+  }, {
+    "letter" : "B",
+    "text" : "nagyszámú, akár több 10 000 beteg adatait elemzik"
+  }, {
+    "letter" : "C",
+    "text" : "az analízis célja általában a vizsgált készítmény piaci viselkedésének elemzése"
+  }, {
+    "letter" : "D",
+    "text" : "az egyes vizsgálatok eredményei jelentik az elemzés eseteit"
+  }, {
+    "letter" : "E",
+    "text" : "lehetőséget nyújt kis létszámú alcsoportok statisztikai elemzésére"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "az analízis célja általában a vizsgált készítmény piaci viselkedésének elemzése"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.17",
+  "text" : "Jelölje meg a legerősebb bizonyítékokat nyújtó vizsgálatot, elemzést!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "meta-analízisek, szisztematikus elemzések"
+  }, {
+    "letter" : "B",
+    "text" : "esettanulmányok, esetsorozatok"
+  }, {
+    "letter" : "C",
+    "text" : "szakértői vélemények"
+  }, {
+    "letter" : "D",
+    "text" : "nem randomizált klinikai vizsgálatok"
+  }, {
+    "letter" : "E",
+    "text" : "randomizált vak vizsgálatok"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "meta-analízisek, szisztematikus elemzések"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.18",
+  "text" : "Válassza ki a felsoroltakból a kezelendő betegszámra (NNT) vonatkozó hibás állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az NNT értéke minél közelebb van 1-hez, annál hatásosabbnak tartjuk a vizsgált beavatkozást"
+  }, {
+    "letter" : "B",
+    "text" : "ha az NNT értéke 1, akkor az a beavatkozás eredménytelen"
+  }, {
+    "letter" : "C",
+    "text" : "ha az NNT értéke 1, akkor az a beavatkozás eredményes"
+  }, {
+    "letter" : "D",
+    "text" : "ha az NNT értéke 3, akkor az azt jelenti, hogy 3 beteget kell kezelnünk a vizsgált készítménnyel ahhoz, hogy 1-nél a kezelés eredményeként biztosan kialakuljon a várt hatás"
+  }, {
+    "letter" : "E",
+    "text" : "minél kisebb az NNT, annál eredményesebb a kezelés"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "ha az NNT értéke 1, akkor az a beavatkozás eredménytelen"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.19",
+  "text" : "Jelölje meg a helytelen meghatározást! A jogszabály szerint az minősül beavatkozással nem járó vizsgálatnak, melynek során:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a forgalomba hozatalra engedélyezett gyógyszer rendelése nem a vizsgálat céljából történik"
+  }, {
+    "letter" : "B",
+    "text" : "a gyógyszert a klinikai gyakorlatban szokásos módon, a forgalomba hozatali engedély feltételeinek megfelelően rendelik"
+  }, {
+    "letter" : "C",
+    "text" : "a forgalomba hozatali engedélytől eltérő dózisban és formulációban rendelik"
+  }, {
+    "letter" : "D",
+    "text" : "a betegen a szokásos klinikai gyakorlaton túlmenően kiegészítő diagnosztikai vagy monitoring eljárást nem alkalmaznak"
+  }, {
+    "letter" : "E",
+    "text" : "az összegyűjtött adatok elemzésére kizárólag epidemiológiai módszereket alkalmaznak"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a forgalomba hozatali engedélytől eltérő dózisban és formulációban rendelik"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.20",
+  "text" : "Elsősorban mely csoportra jellemző a polifarmácia?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "óvodásokra"
+  }, {
+    "letter" : "B",
+    "text" : "fiatal felnőttekre"
+  }, {
+    "letter" : "C",
+    "text" : "általános iskolásokra"
+  }, {
+    "letter" : "D",
+    "text" : "idősekre"
+  }, {
+    "letter" : "E",
+    "text" : "középkorúakra"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "idősekre"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.21",
+  "text" : "Válassza ki a compliance fogalmát az alábbiak közül!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a betegek maximális együttműködése a gyógyszeres terápiával"
+  }, {
+    "letter" : "B",
+    "text" : "a betegre vonatkozó labordiagnosztikai adatok összessége"
+  }, {
+    "letter" : "C",
+    "text" : "a beteg jelzése a gyógyszer mellékhatásairól"
+  }, {
+    "letter" : "D",
+    "text" : "a beteg mennyire követi az orvos által kidolgozott terápiás tervet"
+  }, {
+    "letter" : "E",
+    "text" : "a beteg gyógyszerekkel kapcsolatos ismereteinek összessége"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a beteg mennyire követi az orvos által kidolgozott terápiás tervet"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.22",
+  "text" : "Válassza ki az adherencia fogalmát az alábbiak közül!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a beteg mennyire követi az orvos által kidolgozott terápiás tervet"
+  }, {
+    "letter" : "B",
+    "text" : "a terápia kezdete és vége között eltelt idő"
+  }, {
+    "letter" : "C",
+    "text" : "a beteg mennyire követi az orvos által, de a beteggel közös megegyezéssel kidolgozott terápiás tervet"
+  }, {
+    "letter" : "D",
+    "text" : "a terápia alkalmazásának folyamatossága"
+  }, {
+    "letter" : "E",
+    "text" : "a gyógyszerbevétel elmulasztása"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a beteg mennyire követi az orvos által, de a beteggel közös megegyezéssel kidolgozott terápiás tervet"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.23",
+  "text" : "Az alábbi tényezők közül mi nem lehet a non-compliance következménye?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a megnövekedett költségek"
+  }, {
+    "letter" : "B",
+    "text" : "a beteg egészségi állapotának javulása"
+  }, {
+    "letter" : "C",
+    "text" : "a terápiás eredmény elmaradása"
+  }, {
+    "letter" : "D",
+    "text" : "laboratóriumi értékváltozások"
+  }, {
+    "letter" : "E",
+    "text" : "a hospitalizációs idő megnövekedése"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a beteg egészségi állapotának javulása"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.24",
+  "text" : "Jellemzően melyik nem okozhatja a gyógyszerek farmakokinetikai tulajdonságának megváltozását időskorban?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a vesefunkció beszűkülése"
+  }, {
+    "letter" : "B",
+    "text" : "a májtömeg csökkenése"
+  }, {
+    "letter" : "C",
+    "text" : "a zsírtömeg csökkenése"
+  }, {
+    "letter" : "D",
+    "text" : "a plazma fehérjék mennyiségének csökkenése"
+  }, {
+    "letter" : "E",
+    "text" : "a gyomormotilitás csökkenése"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a zsírtömeg csökkenése"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.25",
+  "text" : "Időskorban fokozott receptorválasz jellemző az alábbi farmakonok alkalmazása esetén, kivéve:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "nitrazepám"
+  }, {
+    "letter" : "B",
+    "text" : "alprazolám"
+  }, {
+    "letter" : "C",
+    "text" : "hidrokodin"
+  }, {
+    "letter" : "D",
+    "text" : "acenokumarol"
+  }, {
+    "letter" : "E",
+    "text" : "enoxaparin"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "enoxaparin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.26",
+  "text" : "Várandósok magas vérnyomásának kezelésére ajánlott szer:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "indapamid"
+  }, {
+    "letter" : "B",
+    "text" : "metildopa"
+  }, {
+    "letter" : "C",
+    "text" : "enalapril"
+  }, {
+    "letter" : "D",
+    "text" : "lozartán"
+  }, {
+    "letter" : "E",
+    "text" : "metoprolol"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "metildopa"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.27",
+  "text" : "Várandósok húgyúti fertőzésének kezelésére ajánlott szer:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szulfametoxazol-trimetoprim"
+  }, {
+    "letter" : "B",
+    "text" : "doxiciklin"
+  }, {
+    "letter" : "C",
+    "text" : "moxifloxacin"
+  }, {
+    "letter" : "D",
+    "text" : "gentamicin"
+  }, {
+    "letter" : "E",
+    "text" : "amoxicillin"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "amoxicillin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.28",
+  "text" : "Szoptatós, penicillinre érzékeny kismama légúti fertőzésének kezelésére ajánlható szer:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "levofloxacin"
+  }, {
+    "letter" : "B",
+    "text" : "imipenem"
+  }, {
+    "letter" : "C",
+    "text" : "azitromicin"
+  }, {
+    "letter" : "D",
+    "text" : "tigeciklin"
+  }, {
+    "letter" : "E",
+    "text" : "ceftriaxon"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "azitromicin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.29",
+  "text" : "Válassza ki, hogy melyik a helyes sorrend a vérnyomásmérők pontosságát tekintve! (A legpontosabbtól haladva a pontatlanabb felé.)",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ujjbegyen mérő > higanyos vérnyomásmérő > csuklón mérő > felkaron mérő félautomata készülék"
+  }, {
+    "letter" : "B",
+    "text" : "higanyos vérnyomásmérő > csuklón mérő > felkaron mérő félautomata készülék > ujjbegyen mérő"
+  }, {
+    "letter" : "C",
+    "text" : "higanyos vérnyomásmérő > felkaron mérő félautomata készülék > csuklón mérő > ujjbegyen mérő"
+  }, {
+    "letter" : "D",
+    "text" : "higanyos vérnyomásmérő > ujjbegyen mérő > csuklón mérő > felkaron mérő félautomata készülék"
+  }, {
+    "letter" : "E",
+    "text" : "felkaron mérő félautomata készülék > ujjbegyen mérő > higanyos vérnyomásmérő > csuklón mérő"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "higanyos vérnyomásmérő > felkaron mérő félautomata készülék > csuklón mérő > ujjbegyen mérő"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.30",
+  "text" : "Mi nem fogadható el független gyógyszer-információs forrásként?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a gyógyszerregisztráló hatóság adatbázisa"
+  }, {
+    "letter" : "B",
+    "text" : "EBM adatbázisok"
+  }, {
+    "letter" : "C",
+    "text" : "referáló folyóiratok"
+  }, {
+    "letter" : "D",
+    "text" : "gyógyszergyárak kiadványai"
+  }, {
+    "letter" : "E",
+    "text" : "tankönyvek, kézikönyvek"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "gyógyszergyárak kiadványai"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.31",
+  "text" : "Bejegyzetlen alkalmazási körű, nem jóváhagyott gyógyszerrendelés (off-label) alkalmazható:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "sürgős betegellátási helyzetekben"
+  }, {
+    "letter" : "B",
+    "text" : "keresztjelzés nélküli gyógyszerkészítmények esetén"
+  }, {
+    "letter" : "C",
+    "text" : "gyermekgyógyászati és onkológiai készítményeknél"
+  }, {
+    "letter" : "D",
+    "text" : "forgalomba hozatali engedély kiadására jogosult hatósághoz benyújtott egyedi kérelem kedvező elbírálása esetén"
+  }, {
+    "letter" : "E",
+    "text" : "forgalomba hozatali engedély alapján a törzskönyvező hatóság által kezdeményezett és kiadott engedély alapján"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "forgalomba hozatali engedély kiadására jogosult hatósághoz benyújtott egyedi kérelem kedvező elbírálása esetén"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.32",
+  "text" : "Hipertóniás betegnek milyen társbetegsége esetén kontraindikált β-blokkoló adása?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "angina pectoris"
+  }, {
+    "letter" : "B",
+    "text" : "tachyarrhythmia"
+  }, {
+    "letter" : "C",
+    "text" : "szívelégtelenség"
+  }, {
+    "letter" : "D",
+    "text" : "asztma"
+  }, {
+    "letter" : "E",
+    "text" : "hipertireózis"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "asztma"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.33",
+  "text" : "Melyik mellékhatás/probléma nem fordulhat elő a warfarin kezelés során?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "gyomorvérzés"
+  }, {
+    "letter" : "B",
+    "text" : "súlyos bőrnekrózis"
+  }, {
+    "letter" : "C",
+    "text" : "az egyidejűleg alkalmazott karbamazepinnel interakcióba lép"
+  }, {
+    "letter" : "D",
+    "text" : "a tenyéren és talpon erythema, hiperérzékenység lép fel"
+  }, {
+    "letter" : "E",
+    "text" : "a párhuzamosan szedett itrakonazol növeli a hatását"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a tenyéren és talpon erythema, hiperérzékenység lép fel"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.34",
+  "text" : "A rheumatoid arthritis kezelésére alkalmazott \"bázis terápiás szerekre\" (DMARD) igazak az alábbi megállapítások, kivéve:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "általában NSAID készítménnyel kombinálva alkalmazzák"
+  }, {
+    "letter" : "B",
+    "text" : "befolyásolják az immunválaszt"
+  }, {
+    "letter" : "C",
+    "text" : "a betegség patomechanizmusában szerepet játszó faktorokra hatnak"
+  }, {
+    "letter" : "D",
+    "text" : "a degeneratív elváltozásokat visszafejlesztik"
+  }, {
+    "letter" : "E",
+    "text" : "az akut ízületi fájdalomra kevésbé hatnak"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a degeneratív elváltozásokat visszafejlesztik"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.35",
+  "text" : "Melyik gyógyszer adása mellett indokolt a kumarin típusú antikoaguláns adagját csökkenteni?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "itrakonazol"
+  }, {
+    "letter" : "B",
+    "text" : "metoprolol"
+  }, {
+    "letter" : "C",
+    "text" : "fenitoin"
+  }, {
+    "letter" : "D",
+    "text" : "lozartán"
+  }, {
+    "letter" : "E",
+    "text" : "paracetamol"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "itrakonazol"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.36",
+  "text" : "Válassza ki, hogy erős hasmenés esetén alkalmazott rehidráló folyadéknak melyik a legmegfelelőbb összetétele az alábbiak közül!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Na+, K+, Cl-, szorbit, víz"
+  }, {
+    "letter" : "B",
+    "text" : "Na+, K+, Cl-, glükóz, víz"
+  }, {
+    "letter" : "C",
+    "text" : "Na+, Cl-, K-vitamin, glükóz, víz"
+  }, {
+    "letter" : "D",
+    "text" : "Mg2+, Cl-, glükóz, víz"
+  }, {
+    "letter" : "E",
+    "text" : "Ca2+, K+, Cl-, glükóz, víz"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Na+, K+, Cl-, glükóz, víz"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.37",
+  "text" : "Válassza ki, hogy melyik állítás nem igaz a Magyarországon alkalmazott influenza elleni védőoltásra!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az oltás nem adható tojásfehérjére érzékeny betegeknek"
+  }, {
+    "letter" : "B",
+    "text" : "mellékhatásként influenzaszerű tüneteket okozhat"
+  }, {
+    "letter" : "C",
+    "text" : "egész életen át tartó védelmet biztosít"
+  }, {
+    "letter" : "D",
+    "text" : "javasolt a csökkent immunitással rendelkező betegek oltása"
+  }, {
+    "letter" : "E",
+    "text" : "a védelem az oltást követően kb. két héttel alakul ki"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "egész életen át tartó védelmet biztosít"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.38",
+  "text" : "Válassza ki, hogy az alábbi betegségek közül melyik nem okozhat köhögést!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "gastro-oesophagealis reflux"
+  }, {
+    "letter" : "B",
+    "text" : "COPD"
+  }, {
+    "letter" : "C",
+    "text" : "tüdőembólia"
+  }, {
+    "letter" : "D",
+    "text" : "krónikus szívelégtelenség"
+  }, {
+    "letter" : "E",
+    "text" : "hipertónia"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "hipertónia"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.39",
+  "text" : "Vény nélküli gyógyszerkiadás előtt a gyógyszerészi gondozás elvei szerint melyik kérdést nem kell feltenni?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Ki a beteg?"
+  }, {
+    "letter" : "B",
+    "text" : "Mi a panasz, mióta van?"
+  }, {
+    "letter" : "C",
+    "text" : "Milyen gyógyszert szed?"
+  }, {
+    "letter" : "D",
+    "text" : "Allergiás-e gyógyszerre, élelmiszerre?"
+  }, {
+    "letter" : "E",
+    "text" : "Miért nem fordul orvoshoz?"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Miért nem fordul orvoshoz?"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.40",
+  "text" : "A generikus gyógyszerek elterjedésére igaz állítások, kivéve:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "költségkímélő a biztosítóknak"
+  }, {
+    "letter" : "B",
+    "text" : "költségkímélő a betegnek"
+  }, {
+    "letter" : "C",
+    "text" : "bővíti a gyógyszerek választékát"
+  }, {
+    "letter" : "D",
+    "text" : "megkönnyíti az orvos gyógyszerválasztását"
+  }, {
+    "letter" : "E",
+    "text" : "növeli a gyógyszerészi kompetenciát"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "megkönnyíti az orvos gyógyszerválasztását"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.41",
+  "text" : "Melyik hashajtó alkalmazható tartósan?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "élelmi rostok"
+  }, {
+    "letter" : "B",
+    "text" : "szenna"
+  }, {
+    "letter" : "C",
+    "text" : "biszakodil"
+  }, {
+    "letter" : "D",
+    "text" : "keserűsó"
+  }, {
+    "letter" : "E",
+    "text" : "glicerines végbélkúp"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "élelmi rostok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.42",
+  "text" : "Melyik gyógyszer nem okozhat székrekedést?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "dihidrokodein"
+  }, {
+    "letter" : "B",
+    "text" : "verapamil"
+  }, {
+    "letter" : "C",
+    "text" : "amitriptilin"
+  }, {
+    "letter" : "D",
+    "text" : "eritromicin"
+  }, {
+    "letter" : "E",
+    "text" : "vaskészítmények"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "eritromicin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.43",
+  "text" : "Válassza ki azt a gyógyszert, amelyik nem rontja a szívelégtelenség tüneteit!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "naproxén"
+  }, {
+    "letter" : "B",
+    "text" : "lítium-karbonát"
+  }, {
+    "letter" : "C",
+    "text" : "verapamil"
+  }, {
+    "letter" : "D",
+    "text" : "spironolakton"
+  }, {
+    "letter" : "E",
+    "text" : "roziglitazon"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "spironolakton"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.44",
+  "text" : "Az alábbi gyógyszer adása feltétel nélkül, azonnal javasolt szívinfarktus esetén:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "morfin"
+  }, {
+    "letter" : "B",
+    "text" : "digoxin"
+  }, {
+    "letter" : "C",
+    "text" : "izoszorbid-mononitrát"
+  }, {
+    "letter" : "D",
+    "text" : "sztreptokináz infúzió"
+  }, {
+    "letter" : "E",
+    "text" : "acetilszalicilsav"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "acetilszalicilsav"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.45",
+  "text" : "Szívinfarktus szekunder prevenciójára melyik szer nem javasolt?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ACE-gátló"
+  }, {
+    "letter" : "B",
+    "text" : "acetilszalicilsav"
+  }, {
+    "letter" : "C",
+    "text" : "sztatin"
+  }, {
+    "letter" : "D",
+    "text" : "β-blokkoló"
+  }, {
+    "letter" : "E",
+    "text" : "a-blokkoló"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "a-blokkoló"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.46",
+  "text" : "Válassza ki a helytelen megállapítást a diabétesz kezelésével kapcsolatban!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a megfelelő diéta és a testmozgás alapvető a betegség kezelésében"
+  }, {
+    "letter" : "B",
+    "text" : "a gyors vércukorszint-emelő ételek fogyasztását kerülni kell"
+  }, {
+    "letter" : "C",
+    "text" : "inzulinrezisztencia esetén már mérsékelt fogyás is javítja az inzulinhatást és a hiperglikémiát"
+  }, {
+    "letter" : "D",
+    "text" : "javasolt minimálisra csökkenteni a napi étkezések számát"
+  }, {
+    "letter" : "E",
+    "text" : "intenzív vércukor kontrollal csökkenthető az érszövődmények progressziója"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "javasolt minimálisra csökkenteni a napi étkezések számát"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.47",
+  "text" : "Melyik diabéteszben alkalmazott gyógyszer növeli legkevésbé a testsúlyt?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "inzulin"
+  }, {
+    "letter" : "B",
+    "text" : "glibenklamid"
+  }, {
+    "letter" : "C",
+    "text" : "metformin"
+  }, {
+    "letter" : "D",
+    "text" : "repaglinid"
+  }, {
+    "letter" : "E",
+    "text" : "gliklazid"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "metformin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.48",
+  "text" : "Válassza ki a mélyvénás trombózis kezelésével kapcsolatos helytelen megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "azonnali véralvadásgátlás és tartós antikoaguláns terápia is szükséges"
+  }, {
+    "letter" : "B",
+    "text" : "a trombus növekedésének gátlására (azonnali véralvadásgátlás) leggyakrabban acenokumarolt adnak"
+  }, {
+    "letter" : "C",
+    "text" : "az acenokumarol alkalmazásakor az INR érték 2-3 közötti beállítása a cél"
+  }, {
+    "letter" : "D",
+    "text" : "a terápia kezdetén egyidejűleg adják a kumarin és heparin antikoagulánst"
+  }, {
+    "letter" : "E",
+    "text" : "a mélyvénás trombózist követően hosszú idejű profilaktikus terápiát alkalmaznak"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a trombus növekedésének gátlására (azonnali véralvadásgátlás) leggyakrabban acenokumarolt adnak"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.49",
+  "text" : "Válassza ki azt a gyógyszert, amelyik nem fokozza az acenokumarol hatását!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "klopidogrél"
+  }, {
+    "letter" : "B",
+    "text" : "diklofenák"
+  }, {
+    "letter" : "C",
+    "text" : "eritromicin"
+  }, {
+    "letter" : "D",
+    "text" : "karbamazepin"
+  }, {
+    "letter" : "E",
+    "text" : "itrakonazol"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "karbamazepin"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.50",
+  "text" : "Melyik a bronchiális asztma kezelésének első lépcsőjében adott gyógyszer?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "flutikazon"
+  }, {
+    "letter" : "B",
+    "text" : "ipratropium"
+  }, {
+    "letter" : "C",
+    "text" : "szalbutamol"
+  }, {
+    "letter" : "D",
+    "text" : "szalmeterol"
+  }, {
+    "letter" : "E",
+    "text" : "zafirlukaszt"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "szalbutamol"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.51",
+  "text" : "A bronchiális asztma terápiájának második lépcsőjében melyik két gyógyszert kaphatja a beteg?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szalbutamol + ipratropium"
+  }, {
+    "letter" : "B",
+    "text" : "szalbutamol + flutikazon"
+  }, {
+    "letter" : "C",
+    "text" : "szalmeterol + flutikazon"
+  }, {
+    "letter" : "D",
+    "text" : "zafirlukaszt + budezonid"
+  }, {
+    "letter" : "E",
+    "text" : "ipratropium + formoterol"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "szalbutamol + flutikazon"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.52",
+  "text" : "Mennyi az allergén deszenzitizációs immunterápia időtartama?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "3-5 hét"
+  }, {
+    "letter" : "B",
+    "text" : "3-5 hónap"
+  }, {
+    "letter" : "C",
+    "text" : "3-5 év"
+  }, {
+    "letter" : "D",
+    "text" : "míg a tünetek meg nem szűnnek"
+  }, {
+    "letter" : "E",
+    "text" : "a beteg élete végéig folytatandó"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "3-5 év"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.53",
+  "text" : "Válassza ki a nazális kromolin jellemző mellékhatását!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "rhinitis medicamentosa"
+  }, {
+    "letter" : "B",
+    "text" : "helyi nyálkahártya-irritáció"
+  }, {
+    "letter" : "C",
+    "text" : "septumperforáció"
+  }, {
+    "letter" : "D",
+    "text" : "szedáció"
+  }, {
+    "letter" : "E",
+    "text" : "gyerekeknél a növekedés lelassulása"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "helyi nyálkahártya-irritáció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.54",
+  "text" : "Mennyi ideig kell kezelni egy nem komplikált húgyúti fertőzést?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "3-5 napig"
+  }, {
+    "letter" : "B",
+    "text" : "7 napig"
+  }, {
+    "letter" : "C",
+    "text" : "10 napig"
+  }, {
+    "letter" : "D",
+    "text" : "2 hétig"
+  }, {
+    "letter" : "E",
+    "text" : "3-4 hétig"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "3-5 napig"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.55",
+  "text" : "Mit értünk szekvenciális antibiotikum kezelés alatt?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "több egyidejűleg fennálló fertőzés esetén előbb a súlyosabb, majd azt követően az enyhébb kórképet kezelik"
+  }, {
+    "letter" : "B",
+    "text" : "súlyos fertőzés esetén a kezelést empirikusan kezdik, majd a tenyésztés eredménye alapján a legmegfelelőbb antibiotikumra váltanak"
+  }, {
+    "letter" : "C",
+    "text" : "súlyos fertőzés esetén a kezelést parenterálisan kezdik, majd ha a beteg állapota már javult per os antibiotikumra váltanak"
+  }, {
+    "letter" : "D",
+    "text" : "a fertőzés veszélyének kitett egészségeseket antibiotikus kezelésben részesítik, az esetleges betegség megelőzésére"
+  }, {
+    "letter" : "E",
+    "text" : "a rezisztencia veszélye miatt, rövid időn belül ismétlődő fertőzés esetén, szélesebb spektrumú, hatékonyabb szert választanak"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "súlyos fertőzés esetén a kezelést parenterálisan kezdik, majd ha a beteg állapota már javult per os antibiotikumra váltanak"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.56",
+  "text" : "Melyik nem lehet mellékhatása a bőrgyógyászatban alkalmazott helyi kortikoszteroid kezelésnek?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "bőratrófia"
+  }, {
+    "letter" : "B",
+    "text" : "hirsutismus"
+  }, {
+    "letter" : "C",
+    "text" : "telangiectasia"
+  }, {
+    "letter" : "D",
+    "text" : "acnés elváltozások"
+  }, {
+    "letter" : "E",
+    "text" : "lichenifikáció"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "lichenifikáció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.57",
+  "text" : "Válassza ki a seborrhoeás dermatitis kezelésére használható szert!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szisztémás antibiotikum"
+  }, {
+    "letter" : "B",
+    "text" : "helyi retinoidok"
+  }, {
+    "letter" : "C",
+    "text" : "kátrány- vagy kéntartalmú helyi készítmények"
+  }, {
+    "letter" : "D",
+    "text" : "helyi takrolimusz"
+  }, {
+    "letter" : "E",
+    "text" : "szisztémás izotretinoin"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "kátrány- vagy kéntartalmú helyi készítmények"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.58",
+  "text" : "Melyik a legmegfelelőbb kezelés enyhe, nem gyulladásos acne kezelésére?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "lokális klindamicin"
+  }, {
+    "letter" : "B",
+    "text" : "lokális adapalen"
+  }, {
+    "letter" : "C",
+    "text" : "szisztémás doxiciklin"
+  }, {
+    "letter" : "D",
+    "text" : "szisztémás izotretinoin"
+  }, {
+    "letter" : "E",
+    "text" : "szisztémás ciproteron-acetát"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "lokális adapalen"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.59",
+  "text" : "Mennyi ideig kell lokális gombaellenes szerrel kezelni a pityriasis versicolort?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "egy adag is elegendő"
+  }, {
+    "letter" : "B",
+    "text" : "2-3 napig"
+  }, {
+    "letter" : "C",
+    "text" : "2-3 hétig"
+  }, {
+    "letter" : "D",
+    "text" : "2-3 hónapig"
+  }, {
+    "letter" : "E",
+    "text" : "fél évig"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "2-3 hétig"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.60",
+  "text" : "Válassza ki az erekciós zavar kezelésére vonatkozó helytelen állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a szildenafil kevésbé hatékony diabétesz esetén"
+  }, {
+    "letter" : "B",
+    "text" : "PDE-5 gátlót nem kaphat nitrátot szedő beteg"
+  }, {
+    "letter" : "C",
+    "text" : "a tesztoszteron kezelés hatása lassan, 2-3 hónap alatt alakul ki"
+  }, {
+    "letter" : "D",
+    "text" : "a tadalafil gyakran okoz látászavart mellékhatásként"
+  }, {
+    "letter" : "E",
+    "text" : "az intracavernosus alprosztadil mellékhatásként jelentős fájdalmat okozhat"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a tadalafil gyakran okoz látászavart mellékhatásként"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.61",
+  "text" : "Melyik a benignus prosztata hiperplasia kezelésére vonatkozó helyes állítás?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "alfa-gátlók finaszteriddel a hasonló mellékhatások miatt nem kombinálhatók"
+  }, {
+    "letter" : "B",
+    "text" : "a törpepálma (Serenoa repens) kivonatot tartalmazó készítmények enyhe tünetek esetén gyors, napokon belüli javulást eredményezhetnek"
+  }, {
+    "letter" : "C",
+    "text" : "az alfa-antagonisták reggeli adagolását részesítik előnyben"
+  }, {
+    "letter" : "D",
+    "text" : "az alfa-gátlók közül a tamszulozin esetében a legritkább az ortosztatikus hipotónia"
+  }, {
+    "letter" : "E",
+    "text" : "a finaszterid maximális hatása 1-2 héten belül kialakul"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "az alfa-gátlók közül a tamszulozin esetében a legritkább az ortosztatikus hipotónia"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.62",
+  "text" : "Mennyi időn belül alkalmazható a sürgősségi fogamzásgátló tabletta a közösülés után?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "12 óráig"
+  }, {
+    "letter" : "B",
+    "text" : "24 óráig"
+  }, {
+    "letter" : "C",
+    "text" : "48 óráig"
+  }, {
+    "letter" : "D",
+    "text" : "72 óráig"
+  }, {
+    "letter" : "E",
+    "text" : "96 óráig"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "72 óráig"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.63",
+  "text" : "Melyik a leghatékonyabb fogamzásgátlási módszer a felsoroltak közül megfelelő használat esetén?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "óvszer"
+  }, {
+    "letter" : "B",
+    "text" : "kombinált hormonális orális fogamzásgátló"
+  }, {
+    "letter" : "C",
+    "text" : "naptár módszer"
+  }, {
+    "letter" : "D",
+    "text" : "csak gesztagént tartalmazó orális fogamzásgátló"
+  }, {
+    "letter" : "E",
+    "text" : "spermicid gél"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "kombinált hormonális orális fogamzásgátló"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.64",
+  "text" : "Az alábbi állítások közül melyik helyes a krónikus fájdalom csillapítására vonatkozóan?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a fájdalomcsillapító hatáshoz kialakuló gyors tolerancia számos esetben korlátozza a major analgetikumok sikeres alkalmazását"
+  }, {
+    "letter" : "B",
+    "text" : "olyan adagolási módok elfogadhatóak csak, amit a beteg önmaga is biztosítani tud"
+  }, {
+    "letter" : "C",
+    "text" : "a jobb biohasznosulás érdekében előnyben kell részesíteni az intravénás adagolást"
+  }, {
+    "letter" : "D",
+    "text" : "abúzuspotenciáljuk miatt a major analgetikumokat fenn kell tartani a daganatos fájdalmak kezelésére"
+  }, {
+    "letter" : "E",
+    "text" : "az adagolás szükség szerint történik"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "olyan adagolási módok elfogadhatóak csak, amit a beteg önmaga is biztosítani tud"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.65",
+  "text" : "Mely állítás helyes a lépcsőzetes fájdalomcsillapítási modellre vonatkozóan?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "gasztrointesztinális toxicitásuk miatt a NSAID-ok csak az első lépcsőfokon adhatók a fájdalom csillapítására"
+  }, {
+    "letter" : "B",
+    "text" : "a gyakran alkalmazott morfin tapasz a második lépcsőfokon csatlakoztatható a terápiába"
+  }, {
+    "letter" : "C",
+    "text" : "nem tolerálható mellékhatás megjelenése esetén egy lépcsőfokkal vissza kell lépni"
+  }, {
+    "letter" : "D",
+    "text" : "a harmadik lépcsőfokon három szert kombinálnak: gyenge opioidot, erős opioidot és valamilyen adjuváns szert, pl. szteroidot"
+  }, {
+    "letter" : "E",
+    "text" : "általában 24-48 órán belül megítélhető, hogy egy adott lépcső adekvát dózisban megfelelő fájdalomcsillapítást biztosít-e"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "általában 24-48 órán belül megítélhető, hogy egy adott lépcső adekvát dózisban megfelelő fájdalomcsillapítást biztosít-e"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.66",
+  "text" : "Melyik szer nem képes lassítani a betegség progresszióját rheumatoid arthritisben?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "etanercept"
+  }, {
+    "letter" : "B",
+    "text" : "etorikoxib"
+  }, {
+    "letter" : "C",
+    "text" : "certolizumab pegol"
+  }, {
+    "letter" : "D",
+    "text" : "leflunomid"
+  }, {
+    "letter" : "E",
+    "text" : "abatacept"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "etorikoxib"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.67",
+  "text" : "Mely megállapítások igazak a rheumatoid arthritis terápiájára vonatkozóan?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a betegség korai stádiumában NSAID-ok alkalmazását kell előnyben részesíteni az agresszív bázisterápiás szerekkel szemben, mert toxicitásuk sokkal kisebb"
+  }, {
+    "letter" : "B",
+    "text" : "a sok mellékhatás miatt a kortikoszteroidok hosszabb ideig tartó szisztémás alkalmazását lehetőleg kerülni kell"
+  }, {
+    "letter" : "C",
+    "text" : "a szteroidok intraartikuláris adagolása az oszteoporózis veszélye miatt nem javasolható"
+  }, {
+    "letter" : "D",
+    "text" : "az ízületi gyulladás csökkentésére nagy gasztrointesztinális kockázattal rendelkező beteg esetén a paracetamol a választandó alternatíva"
+  }, {
+    "letter" : "E",
+    "text" : "az adalimumab előnye az infliximabbal szemben, hogy szájon át is alkalmazható"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a sok mellékhatás miatt a kortikoszteroidok hosszabb ideig tartó szisztémás alkalmazását lehetőleg kerülni kell"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.68",
+  "text" : "Melyik szert alkalmazzák rektálisan gyulladásos bélbetegségek kezelésére?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "azatioprin"
+  }, {
+    "letter" : "B",
+    "text" : "ciklosporin"
+  }, {
+    "letter" : "C",
+    "text" : "budezonid"
+  }, {
+    "letter" : "D",
+    "text" : "ciprofloxacin"
+  }, {
+    "letter" : "E",
+    "text" : "infliximab"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "budezonid"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.69",
+  "text" : "Melyik állítás helyes a szulfaszalazinra vonatkozóan?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "folsavval együtt kell adagolni folát antagonista tulajdonsága miatt"
+  }, {
+    "letter" : "B",
+    "text" : "kedvezően befolyásolja a vékonybél megbetegedését Crohn-betegségben"
+  }, {
+    "letter" : "C",
+    "text" : "az aktív komponenst, az 5-ASA-t, szulfapiridinhez kapcsolták a jobb felszívódás érdekében"
+  }, {
+    "letter" : "D",
+    "text" : "a betegek többsége jobban tolerálja, mint a meszalazint"
+  }, {
+    "letter" : "E",
+    "text" : "a hatás lassan, 3-6 hónap alatt alakul ki"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "folsavval együtt kell adagolni folát antagonista tulajdonsága miatt"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.70",
+  "text" : "Melyik gyógyszerkombináció alkalmas a H. pylori eradikációjára az alábbiak közül?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "amoxicillin + metronidazol"
+  }, {
+    "letter" : "B",
+    "text" : "tetraciklin + metoklopramid"
+  }, {
+    "letter" : "C",
+    "text" : "famotidin + pantoprazol + antacidok szükség szerint"
+  }, {
+    "letter" : "D",
+    "text" : "amoxicillin + klaritromicin + lanzoprazol"
+  }, {
+    "letter" : "E",
+    "text" : "metronidazol + omeprazol + nizatidin"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "amoxicillin + klaritromicin + lanzoprazol"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.71",
+  "text" : "Melyik szer nem javasolható, ha a beteg gyomorégésre, kellemetlen szájízre panaszkodik?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "famotidin"
+  }, {
+    "letter" : "B",
+    "text" : "alendronát"
+  }, {
+    "letter" : "C",
+    "text" : "ezomeprazol"
+  }, {
+    "letter" : "D",
+    "text" : "antacidok"
+  }, {
+    "letter" : "E",
+    "text" : "domperidon"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "alendronát"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.72",
+  "text" : "Melyik szer adható a kiváltó októl függetlenül a hasmenés kezelésére?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "mebeverin"
+  }, {
+    "letter" : "B",
+    "text" : "rehidráló sókeverék"
+  }, {
+    "letter" : "C",
+    "text" : "loperamid"
+  }, {
+    "letter" : "D",
+    "text" : "amitriptilin"
+  }, {
+    "letter" : "E",
+    "text" : "ciprofloxacin"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "rehidráló sókeverék"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.73",
+  "text" : "Melyik állítás helyes a hasmenés antibiotikummal történő kezelésére, megelőzésére vonatkozóan?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Staphylococcus aureus okozta ételmérgezés kezelésére ampicillin adható"
+  }, {
+    "letter" : "B",
+    "text" : "Shigella flexneri fertőzés profilaxisára rifaximin adható"
+  }, {
+    "letter" : "C",
+    "text" : "immunszuppresszált beteg Campylobacter jejuni fertőzésére azitromicin adható"
+  }, {
+    "letter" : "D",
+    "text" : "újszülöttek rotavírus fertőzése jól reagál ciprofloxacin kezelésre"
+  }, {
+    "letter" : "E",
+    "text" : "trimetoprim-szulfametoxazol kombináció adható irritábilis bél szindrómához társuló hasmenés kezelésére"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "immunszuppresszált beteg Campylobacter jejuni fertőzésére azitromicin adható"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.74",
+  "text" : "A hányáscsillapító szerek mellékhatásaira vonatkozóan melyik állítás helyes?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a metoklopramid az ACh felszabadulás perifériás gátlásán keresztül szájszárazságot és obstipációt okoz"
+  }, {
+    "letter" : "B",
+    "text" : "az ondanszetron okozta diszkinéziák difenhidramin adagolásával enyhíthetők"
+  }, {
+    "letter" : "C",
+    "text" : "a dronabinol esetén fennáll az abúzus veszélye, így csak kemoterápiás hányás kezelésére adható, ha már más szertől javulás nem várható"
+  }, {
+    "letter" : "D",
+    "text" : "a piridoxin teratogén hatású"
+  }, {
+    "letter" : "E",
+    "text" : "a szkopolamin leggyakoribb mellékhatása a hasmenés"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a dronabinol esetén fennáll az abúzus veszélye, így csak kemoterápiás hányás kezelésére adható, ha már más szertől javulás nem várható"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.75",
+  "text" : "Milyen szer adható az alkoholos májcirrhosis kapcsán kialakult ascites kezelésére?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "laktulóz"
+  }, {
+    "letter" : "B",
+    "text" : "spironolakton"
+  }, {
+    "letter" : "C",
+    "text" : "propranolol"
+  }, {
+    "letter" : "D",
+    "text" : "diszulfirám"
+  }, {
+    "letter" : "E",
+    "text" : "neomicin"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "spironolakton"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.76",
+  "text" : "Melyik a helyes megállapítás?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az elalvási insomnia átmeneti kezelésére alkalmas a zolpidem"
+  }, {
+    "letter" : "B",
+    "text" : "a benzodiazepinek altató hatásához nem alakul ki jelentős tolerancia"
+  }, {
+    "letter" : "C",
+    "text" : "a midazolám tartós alkalmazása nem rontja az alvásminőséget"
+  }, {
+    "letter" : "D",
+    "text" : "az alvási higiénia (nyugodt környezet, megfelelő étkezés, stb.) betartása nincs befolyással az insomniára"
+  }, {
+    "letter" : "E",
+    "text" : "az insomnia átmeneti kezelésére a hosszú hatású benzodiazepineket alkalmazzák"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "az elalvási insomnia átmeneti kezelésére alkalmas a zolpidem"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.77",
+  "text" : "Válassza ki az altatóként nem alkalmazott gyógyszert!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "zolpidem"
+  }, {
+    "letter" : "B",
+    "text" : "midazolám"
+  }, {
+    "letter" : "C",
+    "text" : "cinolazepám"
+  }, {
+    "letter" : "D",
+    "text" : "klonazepám"
+  }, {
+    "letter" : "E",
+    "text" : "brotizolám"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "klonazepám"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.78",
+  "text" : "Válassza ki a Parkinson-kór tüneteit leghatékonyabban csökkentő gyógyszert!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "levodopa"
+  }, {
+    "letter" : "B",
+    "text" : "karbidopa"
+  }, {
+    "letter" : "C",
+    "text" : "szelegilin"
+  }, {
+    "letter" : "D",
+    "text" : "razagilin"
+  }, {
+    "letter" : "E",
+    "text" : "amantadin"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "levodopa"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.79",
+  "text" : "A neoadjuváns kezelés a rák kemoterápiájában azt jelenti, hogy ",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a kemoterápiás kezelést műtét vagy besugárzás követi."
+  }, {
+    "letter" : "B",
+    "text" : "a kemoterápiás kezelést a műtétet követően adják."
+  }, {
+    "letter" : "C",
+    "text" : "a kemoterápiás kezelésben csakis szelektív monoklonális antitesteket adnak."
+  }, {
+    "letter" : "D",
+    "text" : "az adjuváns kezeléssel együtt adják annak kiegészítésére."
+  }, {
+    "letter" : "E",
+    "text" : "az elavult adjuváns terápia helyettesítője."
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a kemoterápiás kezelést műtét vagy besugárzás követi."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.80",
+  "text" : "Válassza ki a helyes megállapítást az anasztrozolról!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ösztrogénreceptor negatív (ER-) emlőrák kezelésére alkalmazzák"
+  }, {
+    "letter" : "B",
+    "text" : "előnyös hatása van csontritkulásra"
+  }, {
+    "letter" : "C",
+    "text" : "növeli a tromboembólia kockázatát"
+  }, {
+    "letter" : "D",
+    "text" : "gátolja az ösztrogén képződését a zsírszövetben"
+  }, {
+    "letter" : "E",
+    "text" : "kináz-gátló daganatellenes gyógyszer"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "gátolja az ösztrogén képződését a zsírszövetben"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.81",
+  "text" : "Válassza ki a D-vitamin alkalmazására vonatkozó helytelen állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "indikációja az osteomalacia, rachitis kezelése"
+  }, {
+    "letter" : "B",
+    "text" : "a kolekalciferol hatása lassan alakul ki"
+  }, {
+    "letter" : "C",
+    "text" : "túladagolása hiperkalcémiát okozhat"
+  }, {
+    "letter" : "D",
+    "text" : "növeli az izomerőt"
+  }, {
+    "letter" : "E",
+    "text" : "időseknek nem javasolt"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "időseknek nem javasolt"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.82",
+  "text" : "Válassza ki a biszfoszfonátokra vonatkozó helyes megállapítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "adagolásuk idején a kalcium-pótlást fel kell függeszteni"
+  }, {
+    "letter" : "B",
+    "text" : "gasztrointesztinális mellékhatásaik mérséklése miatt étkezés utáni bevételük javasolt"
+  }, {
+    "letter" : "C",
+    "text" : "napi többszöri adagolásuk szükséges, mert nagyon rövid a hatástartamuk"
+  }, {
+    "letter" : "D",
+    "text" : "súlyos mellékhatásként nyelőcső fekély, szűkület alakulhat ki"
+  }, {
+    "letter" : "E",
+    "text" : "növelik a csonttömeget, de nem csökkentik a törések kockázatát"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "súlyos mellékhatásként nyelőcső fekély, szűkület alakulhat ki"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.83",
+  "text" : "Válassza ki, mi tartozik a klinikai gyógyszerészet definíciójába!",
+  "moreText" : [ "1)     a klinikai gyógyszerészet a helyes gyógyszerészeti gyakorlatot jelenti", "2)     a klinikai gyógyszerészet olyan egészségügyi szakág, amely meghatározza a klinikai gyógyszerészi funkciókat, szolgáltatásokat, amelyekkel a gyógyszerek és gyógyászati anyagok helyes és racionális alkalmazását szorgalmazza, az ilyen irányú lehetőségeket fejleszti", "3)     a klinikai gyógyszerészet a lakosság megbetegedéseinek felmérésével, ezek gyakoriságával, az idevágó statisztikai adatok feldolgozásával foglalkozik", "4)     a klinikai gyógyszerészet a gyógyszerészek által művelt farmakológiai, toxikológiai, farmakokinetikai és terápiás ismeretekre alapozott, a betegek ellátására irányuló speciális egészségtudományi ág\"" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.84",
+  "text" : "Mi tekinthető klinikai gyógyszerészi funkciónak?",
+  "moreText" : [ "1)     közreműködés a gyógyszeres terápia kockázat-előny meghatározásában", "2)     \"unit dose\" gyógyszerosztás kialakítása kórházi betegeknél", "3)     gyógyszerek költséghatékony használatának előmozdítása", "4)     rendelkezésre álló laboratóriumi adatok birtokában az individuális adagolás meghatározása" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.85",
+  "text" : "Az öngyógyítás/öngyógyszerezés hivatalosan ajánlott kritériumai:",
+  "moreText" : [ "1)     tüneteken és nem diagnózison alapul", "2)     időtartama mindig meghaladja az 5 napot", "3)     időtartama általában nem haladja meg a 3-7 napot", "4)     kizárólag a reklámok ajánlásain alapul" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.86",
+  "text" : "Az alább felsorolt állítások közül válassza ki azokat, amelyek a Helsinki Deklarációban szerepelnek:",
+  "moreText" : [ "1)     az emberen végzett orvosbiológiai vizsgálatok megfelelően elvégzett állatkísérletek után végezhetők", "2)     a vizsgálati tervet független etikai bizottságnak felül kell vizsgálnia", "3)     a várható haszon, az új szer előnyei az előrelátható kockázatnál nagyobbak legyenek", "4)     etikai bizottsági engedély birtokában bárki bevonható a vizsgálatokba" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.87",
+  "text" : "Jelölje meg a hamis állításokat a klinikai gyógyszervizsgálatokkal kapcsolatban!",
+  "moreText" : [ "1)     a humán I. vizsgálat során kb. 10-20 egészséges önkéntesen végeznek megfigyeléseket", "2)     a humán I. vizsgálat során legalább 300 önkéntes betegen végeznek megfigyeléseket", "3)     a humán III. vizsgálat során akár több ezer - önkéntesen vállalkozó - betegen végeznek megfigyeléseket", "4)     a humán II. vizsgálat során kb. 100-300 egészséges önkéntesen végeznek megfigyeléseket" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.88",
+  "text" : "Mi a spontán\" mellékhatás- figyelő rendszer lényege?",
+  "moreText" : [ "1)     a preklinikai állatkísérleteket a lehető legnagyobb adagokkal kell végezni", "2)     a humán I-II-III. fázisú vizsgálatok során összesen legalább 1000 emberen kell megfigyelni a forgalomba hozatalra szánt gyógyszer hatásait, mellékhatásait", "3)     a gyógyszergyártók speciális csoportjainak aktivitása", "4)     a gyógyszer rendeltetésszerű alkalmazása során előforduló nemkívánt jelenségek bejelentése a gyógyszerhatóságnak a gyógyszerbiztonság növelése érdekében" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.89",
+  "text" : "Egy váratlan gyógyszermellékhatás bejelentésekor melyik adat hagyható figyelmen kívül?",
+  "moreText" : [ "1)     a váratlan mellékhatást okozó gyógyszer formája (inj., tabl.)", "2)     a váratlan mellékhatást okozó gyógyszer alkalmazott adagja", "3)     a váratlan mellékhatást okozó gyógyszer gyártási sorozatszáma", "4)     melyik patikában adták ki a gyógyszert" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.90",
+  "text" : "Jelölje a helyes állításokat a mellékhatások számszerű megadására!",
+  "moreText" : [ "1)     nagyon ritka < 0,01%", "2)     gyakori >= 1% és < 10%", "3)     ritka >= 0,01% és < 0,1%", "4)     nagyon gyakori >= 10%" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.91",
+  "text" : "Válassza ki az acenokumarol kezelésre vonatkozó igaz állításokat!",
+  "moreText" : [ "1)     hatását fokozzák a káliumban gazdag élelmiszerek", "2)     jellemző mellékhatása a különböző vérzések (pl. orrvérzés, fogínyvérzés)", "3)     jól beállított terápia esetén az INR értéke 0,9 és 1,1 között van", "4)     várandósnál nem alkalmazható" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.92",
+  "text" : "Melyek azok a szerek, amelyek a kumarinszármazékokra beállított betegeknél a trombózis veszélyét növelik egyidejű szedéskor?",
+  "moreText" : [ "1)     klaritromicin", "2)     karbamazepin", "3)     ketokonazol", "4)     rifampicin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.93",
+  "text" : "Válassza ki azokat a farmakonokat, amelyeknek antacidumokkal együtt adva csökken a klinikai hatása!",
+  "moreText" : [ "1)     biszfoszfonátok", "2)     tetraciklin típusú antibiotikumok", "3)     egyes azol típusú gombaellenes szerek", "4)     orális fogamzásgátlók" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.94",
+  "text" : "Válassza ki azokat a fogalmakat, melyek a gyógyszerkölcsönhatás kialakulását befolyásolhatják!",
+  "moreText" : [ "1)     a gyógyszerbevétel sorrendje", "2)     a szérumfehérjék mennyisége", "3)     a gyógyszerbevétel időpontja", "4)     a vesefunkció" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.95",
+  "text" : "Mit értünk polifarmácia alatt?",
+  "moreText" : [ "1)     a beteg a gyógyszereit több gyógyszertárban váltja ki", "2)     a hatóanyag duplikációját a beteg terápiájában", "3)     ha egy beteg részére egy napon belül két orvos rendel gyógyszert", "4)     legalább 5 gyógyszer krónikus együttes alkalmazása" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.96",
+  "text" : "Milyen negatív következményei lehetnek a polifarmáciának?",
+  "moreText" : [ "1)     a beteg életminősége romlik", "2)     a kezelési költségek növekednek", "3)     a nemkívánatos gyógyszerhatások előfordulása növekszik", "4)     csökken a kórházi ellátások száma" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.97",
+  "text" : "A felsorolt módszerek közül melyek alkalmasak a compliance mérésére?",
+  "moreText" : [ "1)     a beteg önértékelése a gyógyszerszedésével kapcsolatban", "2)     a gyógyszermetabolit mérése a vizeletben", "3)     a megmaradt tabletták számlálása", "4)     diabéteszes beteg eseti vércukorszintjének mérése" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.98",
+  "text" : "A felsorolt tényezők közül válassza ki a non-compliance lehetséges okait!",
+  "moreText" : [ "1)     gyógyszermellékhatások", "2)     összetett gyógyszeres terápia", "3)     depresszió", "4)     a hozzászokástól való félelem" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.99",
+  "text" : "A compliance/adherence javítható",
+  "moreText" : [ "1)     jó betegfelvilágosítással.", "2)     adagolás felírásával a dobozra.", "3)     érthető, helytálló betegtájékoztatóval.", "4)     kedvező bioekvivalenciával." ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.100",
+  "text" : "A felsorolt tényezők közül melyek okozhatják a betegek részéről a gyógyszeres kezelés szándékos, idő előtti abbahagyását?",
+  "moreText" : [ "1)     anyagi okok", "2)     a beteg jobban érzi magát vagy tünetmentes", "3)     a gyógykezelés kellemetlen mellékhatásai", "4)     feledékenység" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.101",
+  "text" : "A toldalékfeltét használatára vonatkozóan válassza ki az igaz állításokat!",
+  "moreText" : [ "1)     kizárólag adagolós aeroszolokhoz csatlakoztatható", "2)     a toldalékfeltét csökkenti a légutakba bejuttatott gyógyszer mennyiségét", "3)     három éves kor alatt arcmaszkkal ellátott toldalékfeltétet kell alkalmazni (pl. Babyhaler)", "4)     a toldalékfeltét bármelyik inhalációs eszközzel kompatibilis" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.102",
+  "text" : "Válassza ki a helyes állításokat a vénás elégtelenség talaján kialakult lábszárfekélyre vonatkozóan!",
+  "moreText" : [ "1)     a seb általában 1-2 hét alatt meggyógyul", "2)     kompressziós kezelés a seb fennállása alatt is alkalmazható", "3)     gyakran alakul ki szövődményként a seb virális és bakteriális fertőződése", "4)     a gyógyuláshoz a seb kezelése mellett fontos az esetlegesen fennálló ödéma megszüntetése diuretikum adásával" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.103",
+  "text" : "Válassza ki a helyes állításokat a krónikus sebek feltisztítására vonatkozóan!",
+  "moreText" : [ "1)     a feltisztítás célja a nekrotikus elemek, a lepedék eltávolítása", "2)     a feltisztítást a seb teljes gyógyulásáig naponta 2-3 alkalommal el kell végezni", "3)     a feltisztítás történhet sebészi eljárással", "4)     a feltisztításra alkalmas a jódtinktúra" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.104",
+  "text" : "Szoptatás alatt szedett gyógyszer milyen tulajdonságai befolyásolják az anyatejbe történő kiválasztását?",
+  "moreText" : [ "1)     plazmakoncentrációja", "2)     fehérjekötődése", "3)     lipidoldékonysága", "4)     a gyógyszerforma" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.105",
+  "text" : "Válassza ki a farmakovigilanciára igaz állításokat!",
+  "moreText" : [ "1)     a betegbiztonság nemzetközileg elfogadott indikátora", "2)     a gyógyszermellékhatások prevalenciája", "3)     a nemkívánatos gyógyszerhatások megelőzésére irányuló tevékenység", "4)     a nemkívánatos gyógyszerhatások felismerésére, bejelentésére, értékelésére és megelőzésére irányuló tevékenység" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.106",
+  "text" : "Miért ideális hatású szer a fenofibrát diabéteszes diszlipidémia esetén?",
+  "moreText" : [ "1)     a trigliceridszint csökkentése és a HDL- koleszterinszint emelése mellett kedvezően befolyásolja az LDL szintet", "2)     biztonságosan kombinálható sztatinokkal", "3)     javítja a glükóztoleranciát", "4)     testsúlycsökkenést okoz" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.107",
+  "text" : "Válassza ki a béta- blokkolókra vonatkozó helyes megállapításokat!",
+  "moreText" : [ "1)     csökkentik a szívelégtelenség progresszióját", "2)     alkalmazásuk kezdeti szakaszában ronthatják a szívelégtelenség tüneteit", "3)     anginás betegek hipertóniájának kezelése egyik fő indikációjuk", "4)     alkalmazásukat nem szabad hirtelen megszakítani" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.108",
+  "text" : "Válassza ki a szívelégtelenségben és magas vérnyomásban szenvedő betegek esetében helyes megállapításokat!",
+  "moreText" : [ "1)     javasolt a sószegény diéta", "2)     kerülendő a napi fizikai aktivitás, javasolt a teljes nyugalom", "3)     mindkét állapotot kedvezően befolyásolják az ACE-gátlók", "4)     ebben az esetben a kalciumcsatorna-blokkolók a választandó vérnyomáscsökkentők" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.109",
+  "text" : "Stabil anginában az anginás roham megelőzésére az alábbi gyógyszerek ajánlottak:",
+  "moreText" : [ "1)     diltiazem tabletta", "2)     metoprolol tabletta", "3)     izoszorbid-mononitrát tabletta", "4)     nitroglicerin spray" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.110",
+  "text" : "Melyik antidiabetikumok alkalmazásakor gyakori mellékhatás a hipoglikémia?",
+  "moreText" : [ "1)     inzulin", "2)     metformin", "3)     glimepirid", "4)     vildagliptin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.111",
+  "text" : "Válassza ki az LMWH (alacsony molekulatömegű heparin) gyógyszerekre jellemző megállapításokat!",
+  "moreText" : [ "1)     terhesség alatt nem adhatók", "2)     a dózistól függően változó a felezési idő, a kiürülés sebessége (nem lineáris kinetika)", "3)     alkalmazásukkor a hatás monitorozására van szükség", "4)     napi egy vagy két sc. injekciójuk javasolt mélyvénás trombózis prevenciójára" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.112",
+  "text" : "Egy kezdődő COPD megbetegedés esetén ajánlott:",
+  "moreText" : [ "1)     a dohányzásról való azonnali leszokás", "2)     influenza elleni védőoltás évente", "3)     Pneumococcus elleni védőoltás", "4)     retard teofillin tabletta naponta egyszer" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.113",
+  "text" : "Válassza ki az intranazális szteroidokra vonatkozó helyes állításokat!",
+  "moreText" : [ "1)     a maximális hatásuk néhány nap alatt alakul ki", "2)     egyformán csökkentik az allergiás rhinitis összes tünetét", "3)     mellékhatásként helyi irritáció, orrvérzés alakulhat ki", "4)     első választandó szerek súlyosabb tünetek esetén" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.114",
+  "text" : "Melyek az elsőként választandó antibiotikumok felső légúti fertőzés esetén?",
+  "moreText" : [ "1)     szulfametoxazol/trimetoprim", "2)     amoxicillin", "3)     pefloxacin", "4)     azitromicin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.115",
+  "text" : "Válassza ki a bőrviszketés kezelésére vonatkozó helyes állításokat!",
+  "moreText" : [ "1)     a száraz bőr hajlamosabb a viszketésre, ezért a hidratáló készítmények csökkentik a bőrviszketést", "2)     az első generációs antihisztaminok hatékonyabbak a viszketés csökkentésére a második generációsoknál", "3)     a helyi kortikoszteroidok hatékonyan csökkentik a bőrviszketést is", "4)     a helyi érzéstelenítők tartós alkalmazása a kontakt allergia miatt kerülendő" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.116",
+  "text" : "Mely készítmények alkalmazhatók a köröm gombás megbetegedésének kezelésére?",
+  "moreText" : [ "1)     terbinafintartalmú krém", "2)     mikonazol + mazipredon tartalmú kenőcs", "3)     pimekrolimusz tartalmú krém", "4)     terbinafin po. kezelés" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.117",
+  "text" : "Válassza ki az inkontinencia kezelésére vonatkozó helyes állításokat!",
+  "moreText" : [ "1)     az oxibutinin és a tolterodin csökkentik a hólyag spontán kontrakcióit késztetéses inkontinencia esetén", "2)     a duloxetin mérsékelheti a késztetéses inkontinencia tüneteit", "3)     a darifenacin mellékhatásként szájszárazságot, székrekedést okozhat", "4)     az alfa-adrenerg antagonista doxazozin kedvező hatású lehet stressz inkontinencia esetén" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.118",
+  "text" : "Mik lehetnek a kombinált hormonális orális fogamzásgátlók ellenjavallatai?",
+  "moreText" : [ "1)     mélyvénás trombózis az anamnézisben", "2)     emlődaganat az anamnézisben", "3)     szoptatás", "4)     endometriosis" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.119",
+  "text" : "Melyek a NSAID-ok használatának terápiás alapelvei a fájdalomcsillapítás kapcsán?",
+  "moreText" : [ "1)     az ellaposodó dózis-hatás görbe miatt nincs értelme a dózisemelésnek, a betegnek azonnal az ajánlott maximális napi dózisban kell adni", "2)     érdemes több NSAID-ot kombinálni, mert eltérő útvonalakon avatkozhatnak be a fájdalomérzet kialakulásába", "3)     mellékhatások kialakulása esetén indokolt lehet a váltás másik NSAID-ra, vagy a dóziscsökkentés", "4)     a COX-1/COX-2 gátlási arány jó összefüggést mutat a fájdalomcsillapító hatékonysággal" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.120",
+  "text" : "Melyek a metotrexát kezelésre vonatkozó helyes állítások?",
+  "moreText" : [ "1)     folsav szubsztitúció segítségével csökkenthető a nemkívánt mellékhatások súlyossága", "2)     hosszú felezési ideje miatt naponta egyszer adják a rheumatoid arthritis terápiájában", "3)     az elsőként választandó bázisterápiás szer rheumatoid arthritisben", "4)     együttes adagolása TNF alfa-gátlókkal kerülendő a túlzott mértékű immunszuppresszió kockázatának csökkentése érdekében" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.121",
+  "text" : "Mely állítások helyesek a gyulladásos bélbetegségek adjuváns terápiájára vonatkozóan?",
+  "moreText" : [ "1)     a hasi fájdalom mérséklésére ibuprofén adható", "2)     súlyos aktív epizód alatt a beteg nem kaphat loperamidot", "3)     az anaemia rendezésének elsődleges módja a vaspótlás", "4)     mesterséges táplálással számos szövődmény megelőzhető, és javítható a beteg életminősége" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.122",
+  "text" : "Mely állítások helyesek a peptikus fekély kezelésére vonatkozóan?",
+  "moreText" : [ "1)     az antacidok az áttöréses tünetek kezelésére alkalmasak", "2)     a NSAID elhagyása önmagában elegendő a fekély gyógyítására", "3)     a szukralfát nem adható együtt pantoprazollal", "4)     a fekély gyógyulása után minden esetben fenntartó terápia szükséges" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.123",
+  "text" : "Hogyan kezelhető az irritábilis bél szindrómában (IBS) szenvedő beteg?",
+  "moreText" : [ "1)     a hasi fájdalom kezelésére drotaverin adható", "2)     loperamid nem javasolt hosszú távon a hasmenés kezelésére, mert a központi idegrendszerbe bejutva dependenciát idézhet elő", "3)     a szimetikon a puffadásos tüneteket mérsékelheti", "4)     gyógyszeres kezelésre nincs szükség, mivel a beteg panaszainak hátterében nincsenek sem szervi, sem biokémiai elváltozások" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.124",
+  "text" : "Mi jellemző az antihisztaminok felhasználására a hányinger és hányás kezelése kapcsán?",
+  "moreText" : [ "1)     a II. generációs szerek előnyben részesítendők, mivel a központi idegrendszeri penetráció csak a mellékhatások kialakulásához járul hozzá", "2)     antikolinerg tulajdonságuk hozzájárul terápiás hatásukhoz", "3)     csak profilaktikusan adva hatékonyak, a kialakult hányást nem csillapítják", "4)     a terhességi hányinger kezelésére csak a kockázat/haszon gondos mérlegelése után rendelhetők" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.125",
+  "text" : "Mi jellemző az antidepresszánsok alkalmazására szorongásos kórképekben?",
+  "moreText" : [ "1)     hatásuk lassan, néhány hét alatt alakul ki", "2)     általában hosszú ideig, legalább fél-kettő évig folytatják a terápiát", "3)     elhagyásuk nagyon lassan, fokozatosan történik", "4)     csak a szelektív szerotonin visszavétel gátlókat (SSRI) alkalmazzák ebben az indikációban" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.126",
+  "text" : "Válassza ki a benzodiazepinekre vonatkozó helyes megállapításokat!",
+  "moreText" : [ "1)     gyorsan csökkentik a szorongás tüneteit", "2)     szorongásos kórképekben a nagypotenciálú szereket, pl. az alprazolámot alkalmazzák", "3)     hosszabb alkalmazás után fokozatosan lehet abbahagyni szedésüket", "4)     hirtelen elhagyásuk a szorongásos tünetek \"rebound\" fokozódását eredményezheti" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.127",
+  "text" : "Melyek a levodopa jellegzetes mellékhatásai a kezelés első hónapjában?",
+  "moreText" : [ "1)     ortosztatikus hipotónia", "2)     hipertóniás krízis", "3)     hányás, hányinger", "4)     diszkinézia" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.128",
+  "text" : "Mi az előnye a direkt dopamin receptor agonistáknak a levodopával szemben?",
+  "moreText" : [ "1)     hatásuk tartósabb", "2)     kevesebb az akut mellékhatásuk", "3)     a diszkinéziás tünetek később jelentkeznek", "4)     pszichózist nem okoznak" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.129",
+  "text" : "Az alábbi gyógyszerek közül melyek indikációja a colorectalis carcinoma?",
+  "moreText" : [ "1)     5-fluorouracil", "2)     kapecitabin", "3)     irinotekán", "4)     paklitaxel" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.130",
+  "text" : "Válassza ki a csontritkulás prevenciójára, kezelésére vonatkozó helyes állításokat!",
+  "moreText" : [ "1)     alapvető a megfelelő kalciumbevitel biztosítása", "2)     a kalcium-karbonát felszívódása kiváló és pH független", "3)     a kalciumpótlást gyakran D-vitamin adagolásával kell kiegészíteni", "4)     a teriparatid a posztmenopauzális osteoporosis kezelésében elsővonalbeli" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "TGK - 7.131",
+  "text" : "<p>Rendelje a gyógyszerekhez a megfelelő állítást!</p> <p>Vérnyomáscsökkentőként alkalmazható: </p> ",
+  "items" : [ {
+    "text" : "anginás betegeknek",
+    "match" : "C"
+  }, {
+    "text" : "krónikus szívelégtelenségben szenvedőknek",
+    "match" : "A"
+  }, {
+    "text" : "sürgősségi hipertóniában",
+    "match" : "D"
+  }, {
+    "text" : "diabéteszes betegeknek",
+    "match" : "C"
+  }, {
+    "text" : "terhesség 2. és 3. trimeszterében",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "ramipril"
+  }, {
+    "letter" : "B",
+    "text" : "diltiazem"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.132",
+  "text" : "<p style=\"margin-bottom: 0.0001pt;\">Rendelje a gyógyszerekhez a megfelelő állítást!</p> ",
+  "items" : [ {
+    "text" : "adagolása stabil anginában ajánlott",
+    "match" : "C"
+  }, {
+    "text" : "feloldja a kialakult trombust",
+    "match" : "D"
+  }, {
+    "text" : "gyakran okozhat gyomorvérzést",
+    "match" : "A"
+  }, {
+    "text" : "hatása viszonylag lassan alakul ki",
+    "match" : "B"
+  }, {
+    "text" : "trombózis prevencióra alkalmazzák",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "acetilszalicilsav"
+  }, {
+    "letter" : "B",
+    "text" : "klopidogrél"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.133",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "alkalmazásakor a vércukorszint rendszeres önellenőrzése szükséges",
+    "match" : "C"
+  }, {
+    "text" : "nem okoz hipoglikémiát",
+    "match" : "D"
+  }, {
+    "text" : "közvetlenül étkezés előtt kell beadni",
+    "match" : "B"
+  }, {
+    "text" : "a bazális inzulinszint biztosítható vele",
+    "match" : "A"
+  }, {
+    "text" : "naponta többször adják",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "inzulin glargin"
+  }, {
+    "letter" : "B",
+    "text" : "inzulin liszpro"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.134",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "a hatás monitorozása szükséges",
+    "match" : "B"
+  }, {
+    "text" : "hosszan tartó kezelésre nem alkalmas",
+    "match" : "D"
+  }, {
+    "text" : "véralvadásgátló hatása azonnal kialakul",
+    "match" : "A"
+  }, {
+    "text" : "vénás tromboembólia prevenciójára alkalmazzák",
+    "match" : "C"
+  }, {
+    "text" : "mellékhatásként vérzést okozhat",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "dalteparin"
+  }, {
+    "letter" : "B",
+    "text" : "acenokumarol"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.135",
+  "text" : "<p style=\"margin-bottom: 0.0001pt;\">Rendelje a gyógyszerekhez a megfelelő állítást!</p> ",
+  "items" : [ {
+    "text" : "terápiás értékű bronchiális asztmában",
+    "match" : "C"
+  }, {
+    "text" : "asztmás roham oldására alkalmas, szükség szerint alkalmazandó",
+    "match" : "D"
+  }, {
+    "text" : "a fulladásos roham megelőzésére alkalmazható",
+    "match" : "C"
+  }, {
+    "text" : "tabletta formájában is adható",
+    "match" : "D"
+  }, {
+    "text" : "hosszú hatástartama miatt alkalmas az éjszakai légúti obstrukció megelőzésére",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "ipratropium"
+  }, {
+    "letter" : "B",
+    "text" : "szalmeterol"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.136",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "jelentősen mérsékli az orrdugulást",
+    "match" : "A"
+  }, {
+    "text" : "septumfekélyt okozhat",
+    "match" : "A"
+  }, {
+    "text" : "hatása fokozatosan, 2-4 hét alatt alakul ki",
+    "match" : "D"
+  }, {
+    "text" : "hatékonyan mérsékli az orrfolyást és tüsszögést",
+    "match" : "C"
+  }, {
+    "text" : "mellékhatásként szedációt okozhat",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "intranazális budezonid"
+  }, {
+    "letter" : "B",
+    "text" : "szisztémás cetirizin"
+  }, {
+    "letter" : "C",
+    "text" : "mindegyik"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.137",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "húgyúti fertőzések kezelésére használható",
+    "match" : "A"
+  }, {
+    "text" : "felső légúti fertőzések kezelésére használható",
+    "match" : "C"
+  }, {
+    "text" : "mellékhatásként fémes szájízt okoz",
+    "match" : "B"
+  }, {
+    "text" : "penicillinre allergiás betegeknek is adható",
+    "match" : "B"
+  }, {
+    "text" : "csak parenterálisan alkalmazható",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "amoxicillin-klavulánsav"
+  }, {
+    "letter" : "B",
+    "text" : "klaritromicin"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.138",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "atopiás dermatitis kezelésére alkalmazható",
+    "match" : "C"
+  }, {
+    "text" : "mellékhatásként jelentős bőrirritációt okozhat",
+    "match" : "B"
+  }, {
+    "text" : "antibakteriális hatással is rendelkezik",
+    "match" : "D"
+  }, {
+    "text" : "fokozza a bőrfertőzések kialakulásának kockázatát",
+    "match" : "C"
+  }, {
+    "text" : "hatására a bőr elvékonyodhat",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "lokális mometazon"
+  }, {
+    "letter" : "B",
+    "text" : "lokális pimekrolimusz"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.139",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "mellékhatásként bőrirritációt és fényérzékenységet okozhat",
+    "match" : "C"
+  }, {
+    "text" : "súlyos esetben szisztémásan is alkalmazható",
+    "match" : "B"
+  }, {
+    "text" : "antibakteriális hatású",
+    "match" : "A"
+  }, {
+    "text" : "antiandrogén hatású",
+    "match" : "D"
+  }, {
+    "text" : "seborrhoeas dermatitis kezelésére használható",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "benzoil-peroxid"
+  }, {
+    "letter" : "B",
+    "text" : "izotretinoin"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.140",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást!  ",
+  "items" : [ {
+    "text" : "mellékhatásként szexuális diszfunkciót okozhat",
+    "match" : "C"
+  }, {
+    "text" : "maximális hatása lassan, fél-egy év alatt alakul ki",
+    "match" : "A"
+  }, {
+    "text" : "gyorsan mérsékli a húgyúti obstrukciós tüneteket",
+    "match" : "B"
+  }, {
+    "text" : "jelentősen, 25-30 %-kal csökkenti a prosztata méretét",
+    "match" : "A"
+  }, {
+    "text" : "nitrátokkal nem kombinálható",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "finaszterid"
+  }, {
+    "letter" : "B",
+    "text" : "tamszulozin"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.141",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "szoptatás alatt is alkalmazható",
+    "match" : "B"
+  }, {
+    "text" : "folyamatosan, szünet nélkül kell szedni",
+    "match" : "B"
+  }, {
+    "text" : "kontraindikált mélyvénás trombózis esetén",
+    "match" : "A"
+  }, {
+    "text" : "mellékhatásként endometrium hyperplasiát okozhat",
+    "match" : "D"
+  }, {
+    "text" : "nem véd a szexuális úton terjedő kórokozók ellen",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "kombinált hormonális orális fogamzásgátló"
+  }, {
+    "letter" : "B",
+    "text" : "csak gesztagént tartalmazó orális fogamzásgátló"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.142",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "daganatos betegek fájdalomcsillapítására alkalmas",
+    "match" : "C"
+  }, {
+    "text" : "opioidok okozta székrekedés kezelésére adható",
+    "match" : "D"
+  }, {
+    "text" : "rövid hatástartamú intravénásan adható opioid",
+    "match" : "C"
+  }, {
+    "text" : "hasmenés kezelésére használható",
+    "match" : "A"
+  }, {
+    "text" : "opioid túladagolás antidotuma",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "loperamid"
+  }, {
+    "letter" : "B",
+    "text" : "naloxon"
+  }, {
+    "letter" : "C",
+    "text" : "fentanil"
+  }, {
+    "letter" : "D",
+    "text" : "metilnaltrexon"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.143",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "rheumatoid arthritis terápiájában lokálisan adagolható",
+    "match" : "A"
+  }, {
+    "text" : "fokozhatja a fertőzésekre való hajlamot",
+    "match" : "D"
+  }, {
+    "text" : "alkalmazása súlyos szívelégtelenség esetén kontraindikált",
+    "match" : "B"
+  }, {
+    "text" : "kizárólag per os alkalmazható",
+    "match" : "C"
+  }, {
+    "text" : "a rheumatoid arthritis progresszióját befolyásolni nem képes",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "triamcinolon"
+  }, {
+    "letter" : "B",
+    "text" : "infliximab"
+  }, {
+    "letter" : "C",
+    "text" : "leflunomid"
+  }, {
+    "letter" : "D",
+    "text" : "mindegyik"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.144",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "csak a remisszió indukciójára alkalmas IBD-ben, a fenntartására nem javasolt",
+    "match" : "B"
+  }, {
+    "text" : "aszpirinallergia esetén alkalmazása ellenjavallt",
+    "match" : "A"
+  }, {
+    "text" : "szteroid-dependens beteg kezelésére alkalmazható",
+    "match" : "A"
+  }, {
+    "text" : "TNFα-antagonista hatása miatt kizárólag Crohn-betegségben alkalmazható",
+    "match" : "D"
+  }, {
+    "text" : "a készítmény lokálisan is adagolható a gyulladásos bélbetegségek kezelése során",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "meszalazin"
+  }, {
+    "letter" : "B",
+    "text" : "metilprednizolon"
+  }, {
+    "letter" : "C",
+    "text" : "azatioprin"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.145",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "refluxbetegség enyhe formáinak kezelésére alkalmas",
+    "match" : "C"
+  }, {
+    "text" : "lokális hatású szer",
+    "match" : "D"
+  }, {
+    "text" : "rontja egyes azol típusú gombaellenes szerek biohasznosulását",
+    "match" : "A"
+  }, {
+    "text" : "fokozza az enterális fertőzések kialakulásának kockázatát",
+    "match" : "A"
+  }, {
+    "text" : "hányás, hányinger esetén is adható szer",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "lanzoprazol"
+  }, {
+    "letter" : "B",
+    "text" : "domperidon"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.146",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "hosszan tartó folyamatos alkalmazása a székrekedés kezelésére nem biztonságos",
+    "match" : "A"
+  }, {
+    "text" : "alkalmazása kizárólag a bél gyors kitisztítására indokolt diagnosztikus vagy műtéti beavatkozások előtt",
+    "match" : "D"
+  }, {
+    "text" : "terheseknek is adható",
+    "match" : "C"
+  }, {
+    "text" : "alkoholisták esetén a hepaticus encephalopathia megelőzésére is használható",
+    "match" : "B"
+  }, {
+    "text" : "alkalmazása bélelzáródásban kontraindikált",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "biszakodil"
+  }, {
+    "letter" : "B",
+    "text" : "laktulóz"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.147",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "önmaga is abúzuspotenciállal rendelkezhet",
+    "match" : "B"
+  }, {
+    "text" : "csökkenti a relapszus során az alkoholfogyasztás mértékét",
+    "match" : "A"
+  }, {
+    "text" : "alkohol fogyasztása a szer szedése során diszkomfortérzést, de akár súlyos, életveszélyes tüneteket is okozhat",
+    "match" : "D"
+  }, {
+    "text" : "csökkenti az alkoholfüggőség okozta sóvárgást, stabilizálja az absztinenciát",
+    "match" : "C"
+  }, {
+    "text" : "akut alkoholmegvonási szindróma kezelésére alkalmas",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "naltrexon"
+  }, {
+    "letter" : "B",
+    "text" : "diazepám"
+  }, {
+    "letter" : "C",
+    "text" : "akamprozát"
+  }, {
+    "letter" : "D",
+    "text" : "diszulfirám"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.148",
+  "text" : "<p style=\"margin-bottom: 0.0001pt;\">Rendelje a gyógyszerekhez a megfelelő állítást! </p> ",
+  "items" : [ {
+    "text" : "mellékhatásként gyakran okoz gasztrointesztinális panaszokat",
+    "match" : "A"
+  }, {
+    "text" : "mellékhatásként gyakran okoz szedációt, fáradtságot",
+    "match" : "B"
+  }, {
+    "text" : "mellékhatásként okozhat szexuális zavarokat",
+    "match" : "A"
+  }, {
+    "text" : "skizofrén betegek kezelésére alkalmazható",
+    "match" : "D"
+  }, {
+    "text" : "pánikbetegség kezelésében alkalmazható",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "citalopram"
+  }, {
+    "letter" : "B",
+    "text" : "alprazolám"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.149",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "fokozza a levodopa hatását",
+    "match" : "C"
+  }, {
+    "text" : "fokozza a pramipexol hatását",
+    "match" : "D"
+  }, {
+    "text" : "csökkenti a levodopa perifériás mellékhatásait",
+    "match" : "A"
+  }, {
+    "text" : "csökkenti a dopamin lebontását",
+    "match" : "B"
+  }, {
+    "text" : "kombinációban alkalmazzák",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "karbidopa"
+  }, {
+    "letter" : "B",
+    "text" : "entakapon"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.150",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "súlyos mellékhatása a hasmenés",
+    "match" : "B"
+  }, {
+    "text" : "ösztrogénreceptor pozitív (ER+) mellrákban adható",
+    "match" : "A"
+  }, {
+    "text" : "csökkenti a tesztoszteron szintézisét",
+    "match" : "D"
+  }, {
+    "text" : "csak parenterálisan adható",
+    "match" : "B"
+  }, {
+    "text" : "folyamatosan adagolják",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "tamoxifén"
+  }, {
+    "letter" : "B",
+    "text" : "irinotekán"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.151",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "posztmenopauzális osteoporosis kezelésére alkalmazható",
+    "match" : "C"
+  }, {
+    "text" : "tumoros betegek osteolysise miatti hiperkalcémia kezelésére alkalmas",
+    "match" : "B"
+  }, {
+    "text" : "fokozza az emlőcarcinoma kockázatát",
+    "match" : "D"
+  }, {
+    "text" : "fokozza a tromboembólia kockázatát",
+    "match" : "A"
+  }, {
+    "text" : "lehetőleg reggel, éhgyomorra kell bevenni, és ezután legalább egy óráig nem szabad lefeküdni",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "raloxifén"
+  }, {
+    "letter" : "B",
+    "text" : "zoledronsav"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.152",
+  "text" : "Rendelje a gyógyszerekhez a rá jellemző mellékhatást! ",
+  "items" : [ {
+    "text" : "a fogak elszíneződése",
+    "match" : "A"
+  }, {
+    "text" : "oto- és nephrotoxicitás",
+    "match" : "D"
+  }, {
+    "text" : "fokozott görcskészség",
+    "match" : "B"
+  }, {
+    "text" : "hasmenés",
+    "match" : "C"
+  }, {
+    "text" : "fényérzékenység",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "tetraciklin"
+  }, {
+    "letter" : "B",
+    "text" : "ciprofloxacin"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.153",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "alkalmazása mellett szükséges lehet a káliumpótlás",
+    "match" : "C"
+  }, {
+    "text" : "befolyásolja a szénhidrát-anyagcserét",
+    "match" : "C"
+  }, {
+    "text" : "hepatotoxikus",
+    "match" : "D"
+  }, {
+    "text" : "fényérzékenységet okoz",
+    "match" : "B"
+  }, {
+    "text" : "emeli a vérnyomást",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "metilprednizolon"
+  }, {
+    "letter" : "B",
+    "text" : "furoszemid"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.154",
+  "text" : "Rendelje a gyógyszerekhez a megfelelő állítást! ",
+  "items" : [ {
+    "text" : "súlyos anaerob fertőzések kezelésére kiváló",
+    "match" : "A"
+  }, {
+    "text" : "a Helicobacter pylori eradikációs sémájában szerepel",
+    "match" : "B"
+  }, {
+    "text" : "egyszerű húgyúti fertőzések kezelésére kiváló",
+    "match" : "D"
+  }, {
+    "text" : "orálisan adható",
+    "match" : "C"
+  }, {
+    "text" : "pseudomembranosus colitist okozhat",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "klindamicin"
+  }, {
+    "letter" : "B",
+    "text" : "klaritromicin"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.155",
+  "text" : "Rendelje a vérnyomásmérési módszereket az állításokhoz! ",
+  "items" : [ {
+    "text" : "a mandzsetta mérete nem befolyásolja a mérési eredményeket",
+    "match" : "D"
+  }, {
+    "text" : "alkalmas a „fehérköpeny-effektus” kiszűrésére",
+    "match" : "C"
+  }, {
+    "text" : "alkalmazható a diurnális vérnyomásritmus nyomon követésére",
+    "match" : "B"
+  }, {
+    "text" : "<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; line-height: normal;\"> </p> pontosabb mérési eredményt ad, mint a higanyos vérnyomásmérő",
+    "match" : "D"
+  }, {
+    "text" : "használatával gyorsan, egyértelműen felállítható a hipertónia diagnózisa",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "otthoni vérnyomásmérés automata vérnyomásmérővel"
+  }, {
+    "letter" : "B",
+    "text" : "ABPM (Ambulatory Blood Pressure Monitoring - 24 órás vérnyomás monitorozás)"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.156",
+  "text" : "Rendelje az állításokhoz, hogy melyik megbetegedésre jellemzőek! ",
+  "items" : [ {
+    "text" : "gyakran aszimmetrikusan egy nagy ízületet érint",
+    "match" : "B"
+  }, {
+    "text" : "gyakori az ujjak ízületeinek érintettsége",
+    "match" : "A"
+  }, {
+    "text" : "glükózamin és kondroitin-szulfát tartalmú készítményekkel javítható az állapot",
+    "match" : "B"
+  }, {
+    "text" : "metotrexáttal kezelhető",
+    "match" : "A"
+  }, {
+    "text" : "akut rohamban az érintett ízületet hűteni kell, és kolchicint kell adni a betegnek",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "rheumatoid arthritis"
+  }, {
+    "letter" : "B",
+    "text" : "osteoarthrosis"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.157",
+  "text" : "Rendelje a fejfájástípusokat a kezelésükre szolgáló gyógyszerekhez! ",
+  "items" : [ {
+    "text" : "paracetamol",
+    "match" : "C"
+  }, {
+    "text" : "kaptopril",
+    "match" : "D"
+  }, {
+    "text" : "ibuprofén",
+    "match" : "C"
+  }, {
+    "text" : "szumatriptán",
+    "match" : "A"
+  }, {
+    "text" : "dihidroergotamin",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "migrén"
+  }, {
+    "letter" : "B",
+    "text" : "tenziós fejfájás"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.158",
+  "text" : "Rendelje a gyógyszerekhez, hogy a migrén kezelésében mikor alkalmazhatóak ",
+  "items" : [ {
+    "text" : "szumatriptán",
+    "match" : "A"
+  }, {
+    "text" : "metoprolol",
+    "match" : "B"
+  }, {
+    "text" : "naproxén",
+    "match" : "C"
+  }, {
+    "text" : "valproát",
+    "match" : "B"
+  }, {
+    "text" : "furoszemid",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "migrén roham oldása"
+  }, {
+    "letter" : "B",
+    "text" : "migrén intervallum kezelése (profilaxis)"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.159",
+  "text" : "Rendelje az állításokhoz, hogy melyik fejfájástípusra jellemzőek! ",
+  "items" : [ {
+    "text" : "kísérő tünetként hányinger, hányás nem szokott jelentkezni",
+    "match" : "B"
+  }, {
+    "text" : "gyakran társul hozzá foto- és fonofóbia",
+    "match" : "A"
+  }, {
+    "text" : "prevalenciájában női dominancia figyelhető meg",
+    "match" : "C"
+  }, {
+    "text" : "jellemző rá a hőemelkedés vagy láz",
+    "match" : "D"
+  }, {
+    "text" : "a fájdalom jellemzően kétoldali, diffúz",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "migrén"
+  }, {
+    "letter" : "B",
+    "text" : "tenziós fejfájás"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.160",
+  "text" : "Rendelje az állításokhoz, hogy melyik hashajtócsoportra igazak! ",
+  "items" : [ {
+    "text" : "ebbe a csoportba tartozik a laktulóz és a szorbit",
+    "match" : "B"
+  }, {
+    "text" : "tartós alkalmazásuk elektrolitvesztést okozhat",
+    "match" : "C"
+  }, {
+    "text" : "ebbe a csoportba tartoznak a szenna glikozidok",
+    "match" : "A"
+  }, {
+    "text" : "idős betegek részére is adhatóak",
+    "match" : "C"
+  }, {
+    "text" : "célszerű más hashajtókkal kombinálva alkalmazni",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "bélfalizgató hashajtók"
+  }, {
+    "letter" : "B",
+    "text" : "ozmotikus hashajtók"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.161",
+  "text" : "Rendelje az állításokhoz, hogy azok melyik gyógyszerre igazak! ",
+  "items" : [ {
+    "text" : "alkalmas az influenza prevenciójára",
+    "match" : "C"
+  }, {
+    "text" : "lázas állapotban nem alkalmazható",
+    "match" : "A"
+  }, {
+    "text" : "inhalációval kell bejuttatni a szervezetbe",
+    "match" : "D"
+  }, {
+    "text" : "az influenza tüneteinek megjelenését követően is alkalmazható",
+    "match" : "B"
+  }, {
+    "text" : "100%-os védelmet nyújt az influenza ellen",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "influenza elleni vakcina (elölt vírust tartalmazó)"
+  }, {
+    "letter" : "B",
+    "text" : "oszeltamivir"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.162",
+  "text" : "Rendelje az állításokhoz, hogy melyik megbetegedésre igazak! ",
+  "items" : [ {
+    "text" : "védőoltással megelőzhető a betegség",
+    "match" : "B"
+  }, {
+    "text" : "jellegzetes tünete a korai fázisban az erythema chronicum migrans",
+    "match" : "A"
+  }, {
+    "text" : "aciklovirrel jól kezelhető",
+    "match" : "D"
+  }, {
+    "text" : "kialakulhat idegrendszeri érintettség",
+    "match" : "C"
+  }, {
+    "text" : "a késői fázisban kialakulhat a nagyízületek gyulladása",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Lyme-kór"
+  }, {
+    "letter" : "B",
+    "text" : "kullancs-encephalitis"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.163",
+  "text" : "Rendelje az állításokhoz, hogy melyik légúti megbetegedésre jellemzőek! ",
+  "items" : [ {
+    "text" : "szövődményeként középfülgyulladás alakulhat ki",
+    "match" : "C"
+  }, {
+    "text" : "szövődménymentes esetben antibiotikum adása nem indokolt",
+    "match" : "A"
+  }, {
+    "text" : "legtöbbször enyhe hőemelkedéssel jár",
+    "match" : "D"
+  }, {
+    "text" : "a mandula jelentősen megduzzad, és gennyes lepedék látható a felszínén",
+    "match" : "B"
+  }, {
+    "text" : "jellemző a testszerte jelentkező izomfájdalom",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "influenza"
+  }, {
+    "letter" : "B",
+    "text" : "tonsillitis follicularis"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.164",
+  "text" : "Rendelje az állításokhoz, hogy melyik paraméterre jellemzőek! ",
+  "items" : [ {
+    "text" : "a mérés csak akkor végezhető el, ha a beteg legalább 8 órája nem evett",
+    "match" : "D"
+  }, {
+    "text" : "a diabétesz diagnosztizálására alkalmas paraméter",
+    "match" : "C"
+  }, {
+    "text" : "az elmúlt 2-3 hónap átlagos vércukorszintjére enged következtetni",
+    "match" : "B"
+  }, {
+    "text" : "ujjbegyből vett kapilláris vérből mérve 6 mmol/l feletti érték esetén a diabétesz diagnosztizálható",
+    "match" : "D"
+  }, {
+    "text" : "a beteg önellenőrzésére egyszerűen alkalmazható paraméter",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "vércukorszint"
+  }, {
+    "letter" : "B",
+    "text" : "HbA1C (glikált hemoglobin)"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.165",
+  "text" : "<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">Rendelje az állításokhoz, hogy azok melyik gyógyszerekkel kapcsolatos problémára jellemzőek!</p> ",
+  "items" : [ {
+    "text" : "a felíró orvos figyelmetlenségének következménye",
+    "match" : "A"
+  }, {
+    "text" : "nagyrészt megelőzhető",
+    "match" : "C"
+  }, {
+    "text" : "a kezelt beteg nem kielégítő együttműködő készségének az eredménye",
+    "match" : "A"
+  }, {
+    "text" : "a gyógyszerész tévedéséből fakad",
+    "match" : "A"
+  }, {
+    "text" : "a gyógyszer alapvető tulajdonságaihoz tartozik",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "gyógyszerelési tévedés (medication error)"
+  }, {
+    "letter" : "B",
+    "text" : "gyógyszermellékhatás (ADR)"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\">egyik sem</p> <p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt;\"> </p>"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.166",
+  "text" : "Rendelje az állításokhoz, hogy azok a klinikai táplálás melyik formájára igazak! ",
+  "items" : [ {
+    "text" : "a beteg tápcsatornájának elégtelensége esetén alkalmazandó",
+    "match" : "A"
+  }, {
+    "text" : "eszméletlen betegeknek adható",
+    "match" : "C"
+  }, {
+    "text" : "jejunális szondán keresztül adható",
+    "match" : "B"
+  }, {
+    "text" : "főleg centrális vénán keresztül alkalmazandó",
+    "match" : "A"
+  }, {
+    "text" : "perifériás vénába adható",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "parenterális táplálás"
+  }, {
+    "letter" : "B",
+    "text" : "enterális táplálás"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.167",
+  "text" : "Rendelje az állításokhoz, hogy azok mennyire jellemzőek az alábbi fogalmakra! ",
+  "items" : [ {
+    "text" : "a teljes genom különbségeinek feltérképezése; betegségre hajlamosító gének, metabolikus utak, receptorok keresése, vagy adott gyógyszer hatásához való hozzárendelése",
+    "match" : "A"
+  }, {
+    "text" : "ismert gén/génszakasz genetikai eltérései – mutáció – alapján várható megváltozott gyógyszerhatás vizsgálata",
+    "match" : "B"
+  }, {
+    "text" : "a gyógyszerválasszal összefüggő genetikai eltérések populációban való előfordulása",
+    "match" : "C"
+  }, {
+    "text" : "gyógyszer receptor „érzékenység” eltéréseinek vizsgálata",
+    "match" : "B"
+  }, {
+    "text" : "örökletes betegségek diagnosztikus eljárásainak fejlesztése",
+    "match" : "D"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "farmakogenomika"
+  }, {
+    "letter" : "B",
+    "text" : "farmakogenetika"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.168",
+  "text" : "Rendelje az állításokhoz, hogy azok mennyire jellemzőek az alábbiakra! ",
+  "items" : [ {
+    "text" : "gyermekeknél toldalékfeltéttel használható",
+    "match" : "B"
+  }, {
+    "text" : "rohamoldó hatóanyagok alkalmas formulációja",
+    "match" : "C"
+  }, {
+    "text" : "több adagos csomagolásban forgalmazzák",
+    "match" : "C"
+  }, {
+    "text" : "kizárólag asztma elleni hatóanyagok formulálhatók ilyen formában",
+    "match" : "D"
+  }, {
+    "text" : "toldalékfeltét csatlakoztatására nem alkalmas",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "porbelégző"
+  }, {
+    "letter" : "B",
+    "text" : "adagoló szelepes inhalátor"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.169",
+  "text" : "Rendelje az állításokhoz, hogy azok mennyire jellemzőek az alábbiakra! ",
+  "items" : [ {
+    "text" : "inhalációs szteroidterápia hajlamosít rá",
+    "match" : "A"
+  }, {
+    "text" : "diabéteszes beteg fokozottan hajlamos rá",
+    "match" : "C"
+  }, {
+    "text" : "orális antikoncipiens szedése mellett fokozott a kialakulás kockázata",
+    "match" : "B"
+  }, {
+    "text" : "koleszterinszint-csökkentők szedése hajlamosít rá",
+    "match" : "D"
+  }, {
+    "text" : "széles spektrumú antibakteriális gyógyszerek tartós alkalmazása hajlamosít rá",
+    "match" : "C"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "szájüregi candidiasis"
+  }, {
+    "letter" : "B",
+    "text" : "hüvelyi candidiasis"
+  }, {
+    "letter" : "C",
+    "text" : "mindkettő"
+  }, {
+    "letter" : "D",
+    "text" : "egyik sem"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "TGK - 7.170",
+  "text" : "Párosítsa a gyógyszereket a jellemző hatásokkal! ",
+  "items" : [ {
+    "text" : "perindopril, enalapril klinikai hatását csökkenti",
+    "match" : "C"
+  }, {
+    "text" : "erős enziminduktor",
+    "match" : "B"
+  }, {
+    "text" : "rendkívül lassú a kiürülése",
+    "match" : "A"
+  }, {
+    "text" : "herpes simplex fertőzés kezelésére alkalmas",
+    "match" : "D"
+  }, {
+    "text" : "hepatotoxikus",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "alendronát"
+  }, {
+    "letter" : "B",
+    "text" : "rifampicin"
+  }, {
+    "letter" : "C",
+    "text" : "diklofenák"
+  }, {
+    "letter" : "D",
+    "text" : "aciklovir"
+  } ],
+  "type" : "ASSOCIATION"
+} ]

@@ -1,0 +1,2487 @@
+[ {
+  "id" : "GYÜSZT - 9.1",
+  "text" : "Ki felel a termékek piacra történő felszabadításáért a gyógyszergyártásban?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a gyártás vezetője"
+  }, {
+    "letter" : "B",
+    "text" : "a kémiai ellenőrző laboratórium vezetője"
+  }, {
+    "letter" : "C",
+    "text" : "a minőségellenőrzés vezetője"
+  }, {
+    "letter" : "D",
+    "text" : "a meghatalmazott személy"
+  }, {
+    "letter" : "E",
+    "text" : "az OGYI"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a meghatalmazott személy"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.2",
+  "text" : "Mikor alakult meg az OGYI?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "1933"
+  }, {
+    "letter" : "B",
+    "text" : "1968"
+  }, {
+    "letter" : "C",
+    "text" : "1912"
+  }, {
+    "letter" : "D",
+    "text" : "1927"
+  }, {
+    "letter" : "E",
+    "text" : "1962"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "1962"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.3",
+  "text" : "Ki adja ki a gyógyszergyártási engedélyt?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ANTSZ"
+  }, {
+    "letter" : "B",
+    "text" : "MGYT"
+  }, {
+    "letter" : "C",
+    "text" : "OEP"
+  }, {
+    "letter" : "D",
+    "text" : "OGYI"
+  }, {
+    "letter" : "E",
+    "text" : "Egészségbiztosítási felügyelet"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "OGYI"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.4",
+  "text" : "Mire van szükség egyedi gyógyszerbeszerzés (egyedi import) esetén, ha az adott készítmény az EGT (Európai Gazdasági Térség) valamely más tagállamában már rendelkezik forgalomba hozatali engedéllyel?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az OGYI engedélyére"
+  }, {
+    "letter" : "B",
+    "text" : "az OGYI nyilatkozatára"
+  }, {
+    "letter" : "C",
+    "text" : "az OEP engedélyére"
+  }, {
+    "letter" : "D",
+    "text" : "OEP nyilatkozatára"
+  }, {
+    "letter" : "E",
+    "text" : "MGYK véleményére"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "az OGYI nyilatkozatára"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.5",
+  "text" : "Jogosultak-e a gyógyszergyártók a gyógyszerek nagykereskedelmi forgalmazására?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Nem, csak a nagykereskedők."
+  }, {
+    "letter" : "B",
+    "text" : "Igen, de csak hazánkban."
+  }, {
+    "letter" : "C",
+    "text" : "Igen, minden gyógyszerkészítményt forgalmazhatnak."
+  }, {
+    "letter" : "D",
+    "text" : "Igen, saját termékeik vonatkozásában, ha a külön jogszabályban meghatározott személyi, tárgyi feltételeket is teljesítik."
+  }, {
+    "letter" : "E",
+    "text" : "Nem, csak Magyarországon kívülre forgalmazhatnak."
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Igen, saját termékeik vonatkozásában, ha a külön jogszabályban meghatározott személyi, tárgyi feltételeket is teljesítik."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.6",
+  "text" : "Válassza ki a biotechnológiai úton előállított gyógyszerek esetén az Európai Unióban alkalmazott forgalomba hozatali eljárást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "nemzeti eljárás"
+  }, {
+    "letter" : "B",
+    "text" : "közösségi eljárás"
+  }, {
+    "letter" : "C",
+    "text" : "különleges eljárás"
+  }, {
+    "letter" : "D",
+    "text" : "centralizált eljárás"
+  }, {
+    "letter" : "E",
+    "text" : "decentralizált eljárás"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "centralizált eljárás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.7",
+  "text" : "Válassza ki melyik nem rendeletben szabályozott minőségbiztosítási szabály!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "GLP"
+  }, {
+    "letter" : "B",
+    "text" : "GCP"
+  }, {
+    "letter" : "C",
+    "text" : "GMP"
+  }, {
+    "letter" : "D",
+    "text" : "GPP"
+  }, {
+    "letter" : "E",
+    "text" : "A fentiek mindegyike rendeletben szabályozott."
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "GPP"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.8",
+  "text" : "Hová kell a gyógyszer súlyos és/vagy váratlan mellékhatásait, ill. annak gyanúját bejelenteni?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az egészségügyért felelős minisztériumnak"
+  }, {
+    "letter" : "B",
+    "text" : "az ÁNTSZ megyei tisztifőgyógyszerészének, ő jelenti tovább"
+  }, {
+    "letter" : "C",
+    "text" : "az OGYI-nak"
+  }, {
+    "letter" : "D",
+    "text" : "az OGYI-nak és az ÁNTSZ-nek"
+  }, {
+    "letter" : "E",
+    "text" : "az ÁNTSZ-nek és az MGYT-nek"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "az OGYI-nak"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.9",
+  "text" : "A minőségi modellek helyes fejlődési sorrendje:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "QC--- QA---TQM"
+  }, {
+    "letter" : "B",
+    "text" : "TQM---QA---QC"
+  }, {
+    "letter" : "C",
+    "text" : "QA---QC---TQM"
+  }, {
+    "letter" : "D",
+    "text" : "QA---TQM---QC"
+  }, {
+    "letter" : "E",
+    "text" : "TQM---QC---QA"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "QC--- QA---TQM"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.10",
+  "text" : "Melyik az Európai Unió gyógyszerek forgalomba hozataláért felelős hatósága?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "PIC"
+  }, {
+    "letter" : "B",
+    "text" : "PER"
+  }, {
+    "letter" : "C",
+    "text" : "FIP"
+  }, {
+    "letter" : "D",
+    "text" : "EUFEPS"
+  }, {
+    "letter" : "E",
+    "text" : "EMA (régebben EMEA)"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "EMA (régebben EMEA)"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.11",
+  "text" : "Ki adja ki a gyógyszertár létesítési és működési engedélyét?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az egészségügyért felelős miniszter"
+  }, {
+    "letter" : "B",
+    "text" : "OGYI"
+  }, {
+    "letter" : "C",
+    "text" : "ÁNTSZ"
+  }, {
+    "letter" : "D",
+    "text" : "Magyar Gyógyszerész Kamara"
+  }, {
+    "letter" : "E",
+    "text" : "MGYT"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "ÁNTSZ"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.12",
+  "text" : "Az alábbi modellek közül melyik bevételi forrása jellemzően járulék alapú?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Beveridge-modell"
+  }, {
+    "letter" : "B",
+    "text" : "Bismarcki-modell"
+  }, {
+    "letter" : "C",
+    "text" : "Semashko-modell"
+  }, {
+    "letter" : "D",
+    "text" : "skandináv modellek"
+  }, {
+    "letter" : "E",
+    "text" : "egyik sem"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Bismarcki-modell"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.13",
+  "text" : "A felsoroltak közül ki végzi a gyógyszerkészítmények törlését a „törzskönyvből”?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az előállító minőségellenőrző osztálya"
+  }, {
+    "letter" : "B",
+    "text" : "a forgalomba hozó kereskedelmi egység"
+  }, {
+    "letter" : "C",
+    "text" : "az egészségügyért felelős minisztérium"
+  }, {
+    "letter" : "D",
+    "text" : "a forgalomba hozatalt engedélyező hatóság"
+  }, {
+    "letter" : "E",
+    "text" : "a területileg illetékes tisztifőgyógyszerész"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a forgalomba hozatalt engedélyező hatóság"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.14",
+  "text" : "A felsoroltak közül válassza ki a legkorábbi, jelenleg is hatályos nemzetközi kábítószer egyezményt!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "1931-es Genfi Egyezmény"
+  }, {
+    "letter" : "B",
+    "text" : "1912-es Hágai Nemzetközi Ópiumegyezmény"
+  }, {
+    "letter" : "C",
+    "text" : "1961. évi Egységes Kábítószer Egyezmény"
+  }, {
+    "letter" : "D",
+    "text" : "1946. évi Kábítószer Egyezmény"
+  }, {
+    "letter" : "E",
+    "text" : "1907. évi Római Nemzetközi Kábítószer Egyezmény"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "1961. évi Egységes Kábítószer Egyezmény"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.15",
+  "text" : "A költséghatékonysági vizsgálat során:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a költségeket hozzáadjuk az eredményességi mutatókhoz"
+  }, {
+    "letter" : "B",
+    "text" : "a költségeket és eredményességet (QALY-ban vagy biológiai paraméterben) együtt vizsgáljuk adott komparátorhoz viszonyítva"
+  }, {
+    "letter" : "C",
+    "text" : "az eredményességet minden tekintetben azonosnak vesszük, tehát csak a költségek különbsége számít"
+  }, {
+    "letter" : "D",
+    "text" : "az eredményesség mutatót is pénzben fejezzük ki, mert így forintosítható egy QALY"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "a költségeket és eredményességet (QALY-ban vagy biológiai paraméterben) együtt vizsgáljuk adott komparátorhoz viszonyítva"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.16",
+  "text" : "Mit forgalmazhat a gyógyszertár?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "minden cikket, amit a betegek, illetve a vásárlók keresnek"
+  }, {
+    "letter" : "B",
+    "text" : "minden cikket, amit a vezető szükségesnek tart"
+  }, {
+    "letter" : "C",
+    "text" : "amit a forgalmazási körről szóló rendelet lehetővé tesz"
+  }, {
+    "letter" : "D",
+    "text" : "amit a területileg illetékes tisztifőgyógyszerész a működési engedélyben meghatároz"
+  }, {
+    "letter" : "E",
+    "text" : "amit az OGYI engedélyez"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "amit a forgalmazási körről szóló rendelet lehetővé tesz"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.17",
+  "text" : "Melyik nem tartozik egy gyógyszertár kötelező szakmai nyilvántartásai közé?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ellenőrzött szer nyilvántartó lap"
+  }, {
+    "letter" : "B",
+    "text" : "jelenléti ív"
+  }, {
+    "letter" : "C",
+    "text" : "laboratóriumi napló"
+  }, {
+    "letter" : "D",
+    "text" : "belső minőségellenőrzési napló"
+  }, {
+    "letter" : "E",
+    "text" : "gyógyszertári manuális"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "jelenléti ív"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.18",
+  "text" : "Ki adja ki a humán klinikai vizsgálatokra az engedélyt?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ÁNTSZ"
+  }, {
+    "letter" : "B",
+    "text" : "MGYT"
+  }, {
+    "letter" : "C",
+    "text" : "OEP"
+  }, {
+    "letter" : "D",
+    "text" : "OGYI"
+  }, {
+    "letter" : "E",
+    "text" : "Egészségbiztosítási Felügyelet"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "OGYI"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.19",
+  "text" : "Válassza ki melyik nem a folyamatvalidálás típusa!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "kalibrálás"
+  }, {
+    "letter" : "B",
+    "text" : "szimultán validálás"
+  }, {
+    "letter" : "C",
+    "text" : "prospektív validálás"
+  }, {
+    "letter" : "D",
+    "text" : "retrospektív validálás"
+  }, {
+    "letter" : "E",
+    "text" : "revalidálás"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "kalibrálás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.20",
+  "text" : "Jelölje meg a helyes állítást!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Az adatkizárólagosság az originátor törzskönyvi anyaga számára biztosít meghatározott ideig kizárólagosságot. Ez idő alatt az EU-ban bioekvivalencián alapuló gyorsított generikus törzskönyvezés nem végezhető el."
+  }, {
+    "letter" : "B",
+    "text" : "Az adatkizárólagosság a generikus gyártó számára versenyhelyzetet teremt azáltal, hogy az originátor törzskönyvi anyaga alapján preklinikai és klinikai vizsgálatok nélkül, a bioekvivalencia bizonyításával forgalomba hozatali engedély szerezhető."
+  }, {
+    "letter" : "C",
+    "text" : "Az adatkizárólagosság az originátor törzskönyvi anyaga számára biztosít meghatározott ideig kizárólagosságot. Ez idő alatt az EU-ban bioekvivalencián alapuló gyorsított generikus törzskönyvezés elvégezhető."
+  }, {
+    "letter" : "D",
+    "text" : "Az adatkizárólagosság a generikus gyártó számára versenyhelyzetet teremt azáltal, hogy az originátor törzskönyvi anyaga alapján preklinikai és klinikai vizsgálatok, valamint a bioekvivalencia bizonyítása nélkül forgalomba hozatali engedély szerezhető."
+  }, {
+    "letter" : "E",
+    "text" : "Az adatkizárólagosság a generikus gyártó számára versenyhelyzetet teremt azáltal, hogy saját preklinikai és klinikai vizsgálatok alapján, a bioekvivalencia bizonyítása nélkül forgalomba hozatali engedély szerezhető."
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Az adatkizárólagosság az originátor törzskönyvi anyaga számára biztosít meghatározott ideig kizárólagosságot. Ez idő alatt az EU-ban bioekvivalencián alapuló gyorsított generikus törzskönyvezés nem végezhető el."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.21",
+  "text" : "<p> Rendezze sorrendbe a kutatás növekvő kockázata szerint az alábbi kutatásokra irányuló tevékenységeket!</p> <p>  </p> <p> 1. új vegyület szisztémás alkalmazásra</p> <p> 2. új indikáció</p> <p> 3. új vegyület külsőleges alkalmazásra</p> <p> 4. új alkalmazási mód</p>",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "1 < 2 < 3 < 4"
+  }, {
+    "letter" : "B",
+    "text" : "4 < 2 < 3 < 1"
+  }, {
+    "letter" : "C",
+    "text" : "4 < 2 < 1 < 3"
+  }, {
+    "letter" : "D",
+    "text" : "2 < 4 < 3 < 1"
+  }, {
+    "letter" : "E",
+    "text" : "2 < 4 < 1 < 3"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "4 < 2 < 3 < 1"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.22",
+  "text" : "A szervezés folyamatának értelmezésében melyik szerző állította vizsgálatának középpontjába a rendszerelméletet (General System Theory)?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Frederich W. Taylor"
+  }, {
+    "letter" : "B",
+    "text" : "Ludwig von Bertalanffy"
+  }, {
+    "letter" : "C",
+    "text" : "Elton Mayo"
+  }, {
+    "letter" : "D",
+    "text" : "Henry Fayol"
+  }, {
+    "letter" : "E",
+    "text" : "Max Weber"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Ludwig von Bertalanffy"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.23",
+  "text" : "Ki volt a Nemzetközi Vöröskereszt megalapításának kezdeményezője?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Svájci állam"
+  }, {
+    "letter" : "B",
+    "text" : "Marshall"
+  }, {
+    "letter" : "C",
+    "text" : "J. H. Dunant"
+  }, {
+    "letter" : "D",
+    "text" : "Európai Államok Közössége"
+  }, {
+    "letter" : "E",
+    "text" : "Egészségügyi Világszervezet"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "J. H. Dunant"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.24",
+  "text" : "Mit jelent a munkahelyi teljesítménynél a Pareto megoszlás?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a teljesítmény 20 %-át a ráfordítások 80 %-a eredményezi"
+  }, {
+    "letter" : "B",
+    "text" : "a teljesítmény nincs összefüggésben a ráfordításokkal"
+  }, {
+    "letter" : "C",
+    "text" : "a munkahelyi teljesítménynél nem beszélhetünk Pareto megoszlásról"
+  }, {
+    "letter" : "D",
+    "text" : "a teljesítmény 80 %-át a ráfordítások 20 %-a eredményezi"
+  }, {
+    "letter" : "E",
+    "text" : "a teljesítményt az erőforrások legalább 80 %-os felhasználása határozza meg"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "a teljesítmény 80 %-át a ráfordítások 20 %-a eredményezi"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.25",
+  "text" : "Melyek a marketing-mix elemei?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "bevételek, kiadások, árrés"
+  }, {
+    "letter" : "B",
+    "text" : "termék, ár, hely, eladásösztönzés"
+  }, {
+    "letter" : "C",
+    "text" : "a gyártó, az eladó, a vevő"
+  }, {
+    "letter" : "D",
+    "text" : "az emberek, az idő, a pénz"
+  }, {
+    "letter" : "E",
+    "text" : "a tervezés, kivitelezés, idő, költségek"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "termék, ár, hely, eladásösztönzés"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.26",
+  "text" : "Melyek a SWOT analízis összetevői?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a piac és a gazdasági környezet"
+  }, {
+    "letter" : "B",
+    "text" : "a konkurens termék minősége és ára"
+  }, {
+    "letter" : "C",
+    "text" : "a vállalkozás vagy termék erőssége, gyengesége, a veszélyek és lehetőségek"
+  }, {
+    "letter" : "D",
+    "text" : "a gazdasági, jogi és politikai környezet"
+  }, {
+    "letter" : "E",
+    "text" : "költségek, ár, profit"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a vállalkozás vagy termék erőssége, gyengesége, a veszélyek és lehetőségek"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.27",
+  "text" : "A vásárlás típusai:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "műszaki cikkek, élelmiszerek"
+  }, {
+    "letter" : "B",
+    "text" : "napi és hosszú távú"
+  }, {
+    "letter" : "C",
+    "text" : "feladatorientált, élményorientált"
+  }, {
+    "letter" : "D",
+    "text" : "funkcionális, szimbolikus"
+  }, {
+    "letter" : "E",
+    "text" : "önmegnyugtató, önkifejező"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "feladatorientált, élményorientált"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.28",
+  "text" : "Mit jelent a FIFO/FEFO-elv?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a gyógyszer-alapanyagokat és -készítményeket az átvételt követően úgy kell tárolni, hogy a legrégebben érkezett alapanyag, illetve a legrövidebb lejárati idővel bíró termék kerüljön először expediálásra"
+  }, {
+    "letter" : "B",
+    "text" : "a gyártási szám és lejárati idő ellenőrzése"
+  }, {
+    "letter" : "C",
+    "text" : "a megfelelő tárolási feltételek biztosítása"
+  }, {
+    "letter" : "D",
+    "text" : "a hőmérséklet és páratartalom biztosítása a gyógyszerek raktározása során"
+  }, {
+    "letter" : "E",
+    "text" : "a gyógyszerek tárolása olyan edényben történjen, amelynek anyaga a gyógyszerekre nézve indifferens, azokat nem szennyezi, minőségét megőrzi"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a gyógyszer-alapanyagokat és -készítményeket az átvételt követően úgy kell tárolni, hogy a legrégebben érkezett alapanyag, illetve a legrövidebb lejárati idővel bíró termék kerüljön először expediálásra"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.29",
+  "text" : "Az intézeti gyógyszerellátás:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "azon gyógyszerellátási és gyógyszer-előállítási szaktevékenységek összessége, amelynek során az intézeti gyógyszertár a fekvőbeteg-intézményben kezelt betegek gyógyszerellátását biztosítja (elkülönített részlegben közforgalmú tevékenység is lebonyolítható)‏"
+  }, {
+    "letter" : "B",
+    "text" : "olyan településen, ahol közforgalmú vagy fiókgyógyszertár nem működik, a lakosság gyógyszerellátását hivatott biztosítani"
+  }, {
+    "letter" : "C",
+    "text" : "engedélyezhető olyan településen, ahol közforgalmú gyógyszertár nem működik"
+  }, {
+    "letter" : "D",
+    "text" : "közvetlenül a lakossági járóbeteg-ellátást hivatott biztosítani"
+  }, {
+    "letter" : "E",
+    "text" : "kézigyógyszertárak gyógyszerrel történő ellátására alapított intézmény"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "azon gyógyszerellátási és gyógyszer-előállítási szaktevékenységek összessége, amelynek során az intézeti gyógyszertár a fekvőbeteg-intézményben kezelt betegek gyógyszerellátását biztosítja (elkülönített részlegben közforgalmú tevékenység is lebonyolítható)‏"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.30",
+  "text" : "Milyen típusú költség a gyógyszer költség?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "direkt egészségügyi költség"
+  }, {
+    "letter" : "B",
+    "text" : "direkt nem egészségügyi költség"
+  }, {
+    "letter" : "C",
+    "text" : "megfoghatatlan költség"
+  }, {
+    "letter" : "D",
+    "text" : "indirekt költség"
+  }, {
+    "letter" : "E",
+    "text" : "indirekt termelési költség"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "direkt egészségügyi költség"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.31",
+  "text" : "Hogyan mérhető egy gyógyszer klinikai hatásossága (efficacy)?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "pénzben"
+  }, {
+    "letter" : "B",
+    "text" : "kizárólag természetes napi gyakorlat során"
+  }, {
+    "letter" : "C",
+    "text" : "szigorú kritériumoknak eleget tevő klinikai körülmények között"
+  }, {
+    "letter" : "D",
+    "text" : "sehogy"
+  }, {
+    "letter" : "E",
+    "text" : "preklinikai laboratóriumi körülmények között"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "szigorú kritériumoknak eleget tevő klinikai körülmények között"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.32",
+  "text" : "Jelölje meg a GDP helyes meghatározását!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Mérőszáma a nemzetgazdaságban előállított anyagi és szellemi javaknak."
+  }, {
+    "letter" : "B",
+    "text" : "Mérőszáma egy bizonyos terület – többnyire ország – gazdasági termelésének adott idő alatt; méri a nemzeti jövedelmet és teljesítményt."
+  }, {
+    "letter" : "C",
+    "text" : "Mérőszáma egy gazdaságban egy év alatt kitermelt jövedelemnek."
+  }, {
+    "letter" : "D",
+    "text" : "Mérőszáma egy adott gazdaságban egy év alatt kivitelezett beruházásoknak."
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Mérőszáma egy bizonyos terület – többnyire ország – gazdasági termelésének adott idő alatt; méri a nemzeti jövedelmet és teljesítményt."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.33",
+  "text" : "Mi tekinthető az optimálisnak az egészségügyre fordított kiadások tekintetében (azaz mikor mondható, hogy a legjobb az elosztás hatékonysága)?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : " Amikor az egészségügyi ráfordítások arányban vannak az adott gazdaság GDP-jével."
+  }, {
+    "letter" : "B",
+    "text" : "Amikor a legnagyobb egészségnyereséget lehet felmutatni."
+  }, {
+    "letter" : "C",
+    "text" : "Amikor a más területektől elvett további erőforrás már nem növeli a társadalmi jólétet."
+  }, {
+    "letter" : "D",
+    "text" : "Amikor a gyógyszertámogatásra fordított ráfordítások már nem növelik tovább a társadalmi jólétet."
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Amikor a más területektől elvett további erőforrás már nem növeli a társadalmi jólétet."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.34",
+  "text" : "Jelölje a generikum helyes meghatározását!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Egy eredeti, szabadalmaztatott készítmény szabadalmi jogának lejárta után gyártott és törzskönyvezett, azonos hatóanyagú, igazoltan eredeti készítménnyel egyenértékű (bioekvivalens) gyógyszer."
+  }, {
+    "letter" : "B",
+    "text" : "Egy eredeti, szabadalmaztatott készítmény szabadalmi jogának lejárta után gyártott és törzskönyvezett, eredetivel azonos hatóanyag-mennyiséget tartalmazó gyógyszer."
+  }, {
+    "letter" : "C",
+    "text" : "Egy törzskönyvezett, szabadalmi védelmet nem kapott gyógyszertermék."
+  }, {
+    "letter" : "D",
+    "text" : "Egy originalitástól csak szabadalmi védelem tekintetében eltérő gyógyszertermék."
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Egy eredeti, szabadalmaztatott készítmény szabadalmi jogának lejárta után gyártott és törzskönyvezett, azonos hatóanyagú, igazoltan eredeti készítménnyel egyenértékű (bioekvivalens) gyógyszer."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.35",
+  "text" : "Jelölje a DDD helyes meghatározását?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Adott gyógyszer gyakorlatból ismert adagolásának átlaga, egy napra vonatkoztatva."
+  }, {
+    "letter" : "B",
+    "text" : "A vizsgált gyógyszer egy napi átlagos felnőtt adagja a fő indikációban."
+  }, {
+    "letter" : "C",
+    "text" : "A vizsgált gyógyszer, egy napra, egy felnőttre számított javasolt adagja (dózisa)."
+  }, {
+    "letter" : "D",
+    "text" : "A vizsgált gyógyszer átlagos napi felhasználása 100 főre vonatkoztatva."
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "A vizsgált gyógyszer egy napi átlagos felnőtt adagja a fő indikációban."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.36",
+  "text" : "Mi a járóbeteg-ellátásban (közforgalomban) a gyógyszer-utilizáció nemzetközi összehasonlításra is már alkalmas mérőszáma?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "DDD / 1.000 beteg / 1 nap"
+  }, {
+    "letter" : "B",
+    "text" : "DDD / 10.000 lakos / 1 nap"
+  }, {
+    "letter" : "C",
+    "text" : "100 DDD / 1.000 beteg / 1 nap"
+  }, {
+    "letter" : "D",
+    "text" : "DDD / 1 lakos / 365 nap"
+  }, {
+    "letter" : "E",
+    "text" : "DDD / 1.000 lakos / 1 nap"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "DDD / 1.000 lakos / 1 nap"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.37",
+  "text" : "Jelölje meg az egészség-gazdaságtan helyes fogalmi meghatározását!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Az egészség-gazdaságtan olyan tudományág, amelynek célja a törvényes forráseloszlás elősegítése az egészségügyi rendszerben."
+  }, {
+    "letter" : "B",
+    "text" : "Az egészség-gazdaságtan az egészségügyi és biztosítói bevételek elemzésével, optimalizálásával foglalkozik."
+  }, {
+    "letter" : "C",
+    "text" : "Az egészség-gazdaságtan a költségvetési források költséghatékony allokálását biztosítja."
+  }, {
+    "letter" : "D",
+    "text" : "Az egészség-gazdaságtan olyan alkalmazott tudományág, amelynek célja a szűkös egészségügyi források mellett azok leghatékonyabb felhasználása, az optimális forráseloszlás elősegítése az egészségügyi rendszerben."
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Az egészség-gazdaságtan olyan alkalmazott tudományág, amelynek célja a szűkös egészségügyi források mellett azok leghatékonyabb felhasználása, az optimális forráseloszlás elősegítése az egészségügyi rendszerben."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.38",
+  "text" : "Jelölje az „információs aszimmetria” helyes meghatározását!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "A tranzakcióban résztvevő felek közül az egyik kevesebb információval rendelkezik, és így lehetősége van előnyre szert tenni."
+  }, {
+    "letter" : "B",
+    "text" : "A tranzakcióban résztvevő felek közül az egyik több információval rendelkezik, és így lehetősége van előnyre szert tenni."
+  }, {
+    "letter" : "C",
+    "text" : "A tranzakcióban résztvevő felek közül a végső döntés joga minden esetben a kevesebb információval rendelkező egyénnél marad."
+  }, {
+    "letter" : "D",
+    "text" : "A tranzakcióban résztvevő felek közül az egyik képzettsége révén több jogosítvánnyal rendelkezik."
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "A tranzakcióban résztvevő felek közül az egyik több információval rendelkezik, és így lehetősége van előnyre szert tenni."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.39",
+  "text" : "A gyógyszerek védjegy életgörbéjén általában melyik időszakra esik az úgynevezett „Rx OTC” áttérés?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szabadalmaztatást megelőző időszak"
+  }, {
+    "letter" : "B",
+    "text" : "szabadalom lejárta előtt"
+  }, {
+    "letter" : "C",
+    "text" : "forgalomba kerülés előtt közvetlenül"
+  }, {
+    "letter" : "D",
+    "text" : "szabadalom lejárta után"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "szabadalom lejárta után"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.40",
+  "text" : "Jelölje a reprezentatív minta helyes meghatározását!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "A populációból meghatározott beválogatási szempontok alapján kiválasztott egészséges önkéntesek (minta), mely azt szolgálja, hogy a tanulmányozott mintán észlelt eredmények akár az egész egészséges populációra is érvényesíthetők legyenek."
+  }, {
+    "letter" : "B",
+    "text" : "A betegpopulációból meghatározott beválogatási szempontok alapján kiválasztott részpopuláció (minta), mely azt szolgálja, hogy a tanulmányozott mintán észlelt eredmények az összes hasonló betegre érvényesíthetők legyenek."
+  }, {
+    "letter" : "C",
+    "text" : "A populációból meghatározott beválogatási szempontok alapján kiválasztott részpopuláció (minta), mely azt szolgálja, hogy a tanulmányozott mintán észlelt eredmények akár az egész populációra is érvényesíthetők legyenek."
+  }, {
+    "letter" : "D",
+    "text" : "A populációból véletlenszerűen kiválasztott részpopuláció (minta), ahol ez azt szolgálja, hogy a tanulmányozott mintán észlelt eredmények akár az egész populációra is érvényesíthetők legyenek."
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "A populációból véletlenszerűen kiválasztott részpopuláció (minta), ahol ez azt szolgálja, hogy a tanulmányozott mintán észlelt eredmények akár az egész populációra is érvényesíthetők legyenek."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.41",
+  "text" : "Az ún. \"ATC\" csoportosítás/kódolás második szintje jelöli a(z) ...",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "anatómiai csoportot."
+  }, {
+    "letter" : "B",
+    "text" : "terápiás főcsoportot."
+  }, {
+    "letter" : "C",
+    "text" : "kémiai csoportot."
+  }, {
+    "letter" : "D",
+    "text" : "konkrét hatóanyagot."
+  }, {
+    "letter" : "E",
+    "text" : "betegségcsoportot."
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "terápiás főcsoportot."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.42",
+  "text" : "Jelölje meg a hazai egészségügyi ellátásban a háziorvosi ellátás finanszírozásának alapját jelentő tényezőt!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "korcsoportos fejkvóta"
+  }, {
+    "letter" : "B",
+    "text" : "német pontrendszer"
+  }, {
+    "letter" : "C",
+    "text" : "HBCs"
+  }, {
+    "letter" : "D",
+    "text" : "DRG"
+  }, {
+    "letter" : "E",
+    "text" : "HBCs és DRG"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "korcsoportos fejkvóta"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.43",
+  "text" : "Jelölje meg a hazai fekvőbeteg-ellátás finanszírozásának alapját jelentő HBCs helyes meghatározását!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Homogén Beteg Control System. A fekvőbeteg-ellátás finanszírozásában használt betegosztályozási rendszer."
+  }, {
+    "letter" : "B",
+    "text" : "Homogén betegcsoportok. A családorvosi ellátás finanszírozásában használt betegosztályozási rendszer."
+  }, {
+    "letter" : "C",
+    "text" : "Homogén betegcsoportok. A fekvőbeteg-ellátás finanszírozásában használt betegosztályozási rendszer."
+  }, {
+    "letter" : "D",
+    "text" : "A DRG hazai megfelelője. A járóbeteg szakorvosi ellátás finanszírozásában használt betegosztályozási rendszer."
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Homogén betegcsoportok. A fekvőbeteg-ellátás finanszírozásában használt betegosztályozási rendszer."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.44",
+  "text" : "Mi az ún. „posztmodern marketing” megismert lényege?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "A termék kínálatára irányul."
+  }, {
+    "letter" : "B",
+    "text" : "A fogyasztó igényeinek kutatására irányul, mely eredménye alapján építi fel a gyártó a kutatási, eladási terveit."
+  }, {
+    "letter" : "C",
+    "text" : "Az eladók/kereskedők igényeinek vizsgálatára irányul, a fogyasztókét csak a következő lépésben tanulmányozzák."
+  }, {
+    "letter" : "D",
+    "text" : "A potenciális vásárlóra irányul, ráveszi az embereket arra, hogy a vásárlás életcéljukká váljon."
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "A potenciális vásárlóra irányul, ráveszi az embereket arra, hogy a vásárlás életcéljukká váljon."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.45",
+  "text" : "Mit jelent az, hogy ára van egy terméknek? Jelölje a helytelen választ!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Az ár a gazdaságban egy termék, vagy szolgáltatás ellenértékét jelenti, amelyet többnyire pénzben kell megfizetni."
+  }, {
+    "letter" : "B",
+    "text" : "A fogyasztói és termelő árak összege a kereskedelmi árrés."
+  }, {
+    "letter" : "C",
+    "text" : "A fogyasztói és termelő árak különbsége a kereskedelmi árrés."
+  }, {
+    "letter" : "D",
+    "text" : "A fogyasztói ár az az összeg, amit egy meghatározott termékért vagy szolgáltatásért a fogyasztónak kell megfizetni."
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "A fogyasztói és termelő árak összege a kereskedelmi árrés."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.46",
+  "text" : "Milyen arányt jelent a K&F ráfordítás a gyógyszerek átlagos árstruktúrájában?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Kb. 3-6%"
+  }, {
+    "letter" : "B",
+    "text" : "Kb. 40-50%"
+  }, {
+    "letter" : "C",
+    "text" : "Kb. 15-20%"
+  }, {
+    "letter" : "D",
+    "text" : "Kb. 1-2%"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Kb. 15-20%"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.47",
+  "text" : "Mi a gyógyszer-utilizáció helyes meghatározása?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "A gyógyszerek törzskönyvezése és felhasználása, különös hangsúllyal annak orvosi, társadalmi és gazdasági következményeire."
+  }, {
+    "letter" : "B",
+    "text" : "A gyógyszerek forgalomba hozatala, elosztása, rendelése és felhasználása egy adott társadalomban, különös hangsúllyal annak orvosi, társadalmi és gazdasági következményeire."
+  }, {
+    "letter" : "C",
+    "text" : "A gyógyszerek rendelése és felhasználása egy adott társadalomban, különös hangsúllyal annak orvosi, társadalmi és gazdasági következményeire."
+  }, {
+    "letter" : "D",
+    "text" : "Gyógyszer-felhasználások nemzetközileg összehasonlítható kimutatása."
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "A gyógyszerek forgalomba hozatala, elosztása, rendelése és felhasználása egy adott társadalomban, különös hangsúllyal annak orvosi, társadalmi és gazdasági következményeire."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.48",
+  "text" : "Mikor használható általában a placebókontrollált vizsgálat a Helsinki Nyilatkozat szerint?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak akkor használható, ha nincs bizonyított terápiás eljárás."
+  }, {
+    "letter" : "B",
+    "text" : "Csak akkor használható, ha van bizonyított terápiás eljárás."
+  }, {
+    "letter" : "C",
+    "text" : "Csak akkor használható, ha a terápiás eljárás vitatott."
+  }, {
+    "letter" : "D",
+    "text" : "Csak akkor használható, ha a bizonyított terápiás eljárással szemben a tervezett vizsgálat preklinikai eredmények alapján ígéretesebb."
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak akkor használható, ha nincs bizonyított terápiás eljárás."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.49",
+  "text" : "Mit jelent a compliance vagy más szóval adherence kifejezés?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "A vizsgálatokban részt vevő betegek hozzájárulása a beavatkozásokhoz."
+  }, {
+    "letter" : "B",
+    "text" : "Egy pilot klinikai vizsgálat végeredményének és a betegek életminőségének kapcsolata."
+  }, {
+    "letter" : "C",
+    "text" : "Az egyén egészségügyi szakemberrel egyeztetett ajánlásoknak megfelelő viselkedése a gyógyszerszedés, diéta és életmód változtatás területén."
+  }, {
+    "letter" : "D",
+    "text" : "Az orvosok együttműködő készsége a vizsgálatba bevont betegek igényeivel szemben."
+  }, {
+    "letter" : "E",
+    "text" : "A legolcsóbb terápiás lehetőség kiválasztásának lehetősége."
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Az egyén egészségügyi szakemberrel egyeztetett ajánlásoknak megfelelő viselkedése a gyógyszerszedés, diéta és életmód változtatás területén."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.50",
+  "text" : "Mely állítás nem jellemző az egészségügy piacára?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "származtatott kereslet"
+  }, {
+    "letter" : "B",
+    "text" : "információs aszimmetria"
+  }, {
+    "letter" : "C",
+    "text" : "bizonytalanság a szükséglet és hatékonyság tekintetében"
+  }, {
+    "letter" : "D",
+    "text" : "heterogenitás"
+  }, {
+    "letter" : "E",
+    "text" : "vállalkozások egyedüli célja a profit maximalizálása"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "vállalkozások egyedüli célja a profit maximalizálása"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.51",
+  "text" : "A felsoroltak közül melyek a Maslow szerinti legalapvetőbb emberi szükségletek?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "önmegvalósítás, céltudatosság"
+  }, {
+    "letter" : "B",
+    "text" : "szeretet, összetartozás"
+  }, {
+    "letter" : "C",
+    "text" : "levegő, egészség, alvás, élelem, víz"
+  }, {
+    "letter" : "D",
+    "text" : "önbecsülés"
+  }, {
+    "letter" : "E",
+    "text" : "biztonság és védelem"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "levegő, egészség, alvás, élelem, víz"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.52",
+  "text" : "Legmagasabb szintű jogszabály a …",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "bírósági határozat."
+  }, {
+    "letter" : "B",
+    "text" : "törvény."
+  }, {
+    "letter" : "C",
+    "text" : "miniszteri rendelet."
+  }, {
+    "letter" : "D",
+    "text" : "végrehajtási rendelet."
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "törvény."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.53",
+  "text" : "Jelölje meg a gyógyszerészeti államigazgatási szervet!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ÁNTSZ"
+  }, {
+    "letter" : "B",
+    "text" : "OEP"
+  }, {
+    "letter" : "C",
+    "text" : "Egészségügyért felelős minisztérium"
+  }, {
+    "letter" : "D",
+    "text" : "OGYI"
+  }, {
+    "letter" : "E",
+    "text" : "EMEA / EMA"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "OGYI"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.54",
+  "text" : "Jelölje meg az egészségügyi államigazgatási szervet!",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ANTSZ"
+  }, {
+    "letter" : "B",
+    "text" : "OEP"
+  }, {
+    "letter" : "C",
+    "text" : "OKI"
+  }, {
+    "letter" : "D",
+    "text" : "OGYI"
+  }, {
+    "letter" : "E",
+    "text" : "EMEA / EMA"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "ANTSZ"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.55",
+  "text" : "Melyik GxP tartalmazza a gyógyszerészi gondozás alapjait?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "GPP"
+  }, {
+    "letter" : "B",
+    "text" : "GCP"
+  }, {
+    "letter" : "C",
+    "text" : "GLP"
+  }, {
+    "letter" : "D",
+    "text" : "GQP"
+  }, {
+    "letter" : "E",
+    "text" : "GLPP"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "GPP"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.56",
+  "text" : "Mi nem tartozik az expediálás minimumkövetelményei közé?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "A gyógyszer hangos megnevezése."
+  }, {
+    "letter" : "B",
+    "text" : "A beteg anamnézisének felvétele."
+  }, {
+    "letter" : "C",
+    "text" : "A gyógyszer helyes adagolásának érthető elmondása."
+  }, {
+    "letter" : "D",
+    "text" : "A tiltó és óvatossági utasítások felsorolása."
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "A beteg anamnézisének felvétele."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.57",
+  "text" : "Melyik hibás elv a következők közül?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Lex posterior derogat prior"
+  }, {
+    "letter" : "B",
+    "text" : "Lex generalis derogat specialis"
+  }, {
+    "letter" : "C",
+    "text" : "Lex specialis derogat generalis"
+  }, {
+    "letter" : "D",
+    "text" : "Lex superior derogat inferior"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Lex generalis derogat specialis"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.58",
+  "text" : "Ki definiálta a gyógyszerészi gondozást elsőként a ma is használt formájában?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "II. Frigyes"
+  }, {
+    "letter" : "B",
+    "text" : "Hepler"
+  }, {
+    "letter" : "C",
+    "text" : "Raeven"
+  }, {
+    "letter" : "D",
+    "text" : "Barton"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Hepler"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.59",
+  "text" : "<p> Jelölje a helytelen választ!</p> <p> Beavatkozással nem járó vizsgálat, amelyben …</p>",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a forgalomba hozatalra engedélyezett gyógyszer rendelése nem a vizsgálat céljából történik."
+  }, {
+    "letter" : "B",
+    "text" : "a gyógyszert a klinikai gyakorlatban szokásos módon, a forgalomba hozatali engedély feltételeinek megfelelően rendelik."
+  }, {
+    "letter" : "C",
+    "text" : "a betegnek egy adott kezelési stratégiába való bevonását nem határozzák meg előzetesen egy vizsgálati tervben, hanem a gyógyszert az aktuális klinikai gyakorlatnak megfelelő módon rendelik és annak rendelése világosan elválik a betegnek a vizsgálatba való bevonására vonatkozó döntéstől."
+  }, {
+    "letter" : "D",
+    "text" : "a betegen a szokásos klinikai gyakorlaton túlmenően kiegészítő diagnosztikai vagy monitoring eljárást nem alkalmaznak.."
+  }, {
+    "letter" : "E",
+    "text" : "az összegyűjtött adatok elemzésére kizárólag farmakokinetikai analíziseket alkalmaznak."
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "az összegyűjtött adatok elemzésére kizárólag farmakokinetikai analíziseket alkalmaznak."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.60",
+  "text" : "Mit jelent, ill. jelöl a CE jelölés?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Confidence of Europe"
+  }, {
+    "letter" : "B",
+    "text" : "Certificate of Europe"
+  }, {
+    "letter" : "C",
+    "text" : "Conformité Européenne"
+  }, {
+    "letter" : "D",
+    "text" : "Central European Quality"
+  }, {
+    "letter" : "E",
+    "text" : "Centrum of Europe"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Conformité Européenne"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.61",
+  "text" : "Válassza ki a Gyógyszerkönyvre érvényes megállapításokat!",
+  "moreText" : [ "1)     hivatalos kiadvány", "2)     a gyógyszerkészítés, - minőség, -ellenőrzés és - minősítés általános szabályait tartalmazza", "3)     egyes gyógyszerek minőségi követelményeit tartalmazza", "4)     a forgalomba hozatalra engedélyezett gyógyszerek összetételét tartalmazza" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.62",
+  "text" : "Melyik gyógyszert nevezik „blockbuster”-nek a nemzetközi szakirodalomban?",
+  "moreText" : [ "1)     A 100 millió dollár éves forgalmat elérő gyógyszereket.", "2)     Azokat a gyógyszereket, amelyek csekély forgalmat generálnak.", "3)     Azokat a gyógyszereket, amelyeknek jelentős gasztrointesztinális mellékhatásai vannak.", "4)     Az 1 milliárd dollár feletti éves forgalmat elérő gyógyszereket." ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.63",
+  "text" : "Válassza ki az egészségügy nemzetközi szervezeteit!",
+  "moreText" : [ "1)     OGYI", "2)     WHO", "3)     ENSZ", "4)     FIP" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.64",
+  "text" : "Hogyan célszerű bánni a dühös beteggel a gyógyszertárban?",
+  "moreText" : [ "1)     Türelmesen hallgassuk meg.", "2)     Ha úgy érezzük nincs igaza, szálljunk vele vitába.", "3)     Vegyük komolyan.", "4)     Ne szolgáljuk ki azonnal, mert szokássá válnak dühkitörései." ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.65",
+  "text" : "Válassza ki, hogy a vény alaki kellékei közül melyiket nem pótolhatja a gyógyszertár?",
+  "moreText" : [ "1)     orvos aláírása", "2)     TAJ szám", "3)     orvosi bélyegző", "4)     a beteg születési éve" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.66",
+  "text" : "TB-támogatás nem számolható el …",
+  "moreText" : [ "1)     ha a gyógyszert nem az erre a célra rendszeresített vényen rendelték.", "2)     egyes magisztrális alapanyagoknál.", "3)     OTC-készítmények esetén.", "4)     ha a beteg lakcíme nincs rajta a vényen." ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.67",
+  "text" : "Mi a Vöröskereszt jelképe?",
+  "moreText" : [ "1)     vörös kereszt", "2)     vörös félhold", "3)     vörös kristály", "4)     csak a vörös kereszt" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.68",
+  "text" : "Melyek a Nemzetközi Gyógyszerész Szövetség (FIP) feladatai?",
+  "moreText" : [ "1)     a gyógyszerészeti tudomány és gyakorlat fejlesztése", "2)     nemzetközi kongresszusok szervezése", "3)     a gyógyszerészképzés egységesítése", "4)     a kábítószer-felhasználás nemzetközi szintű ellenőrzése" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.69",
+  "text" : "Melyek a szervezés-vezetés tudomány irányzatai?",
+  "moreText" : [ "1)     Technológiai-fiziológiai irányzat", "2)     Igazgatástudományi irányzat", "3)     Humán relations irányzat", "4)     „Management science” irányzat" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : " Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : " Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : " Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : " Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.70",
+  "text" : "A felsoroltak közül mi nem szerepel az orvosi bélyegzőn?",
+  "moreText" : [ "1)     személyazonosító kód", "2)     az orvos családi és utóneve", "3)     az \"orvos\" szó", "4)     munkahely" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.71",
+  "text" : "Orvosnak, gyógyszerésznek vény nélkül, teljes áron kiadható:",
+  "moreText" : [ "1)     pszichotróp anyag", "2)     több mint 90 napra elegendő vényköteles gyógyszer", "3)     FoNo dosim mennyiségnél nagyobb mennyiségű gyógyszeranyag önmagában ", "4)     csak orvos által felírható gyógyszer (kábítószer és pszichotróp anyag kivételével)" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.72",
+  "text" : "Válassza ki az alábbiak közül a csak gyógyszerész által végezhető tevékenységeket!",
+  "moreText" : [ "1)     gyógyszeralapanyagok bevizsgálása", "2)     expediálás", "3)     kiszerelés", "4)     gyógyszerkészítés" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.73",
+  "text" : "A felsoroltak közül válassza ki a jogforrásokat!",
+  "moreText" : [ "1)     Egészségügyi Közlöny", "2)     Alkotmány", "3)     Magyar Közlöny", "4)     Miniszteri rendelet" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.74",
+  "text" : "Válassza ki a helyes állítást!",
+  "moreText" : [ "1)     A Ph. Eur. megadja a gyógyszerkönyvi alapanyagok felhasználhatósági időtartamát.", "2)     A Ph. Hg. VIII. megadja a gyógyszerkönyvi készítmények felhasználhatósági időtartamát.", "3)     A Ph. Eur. megadja a forgalomba hozatalra engedélyezett készítmények felhasználhatósági időtartamát.", "4)     A Ph. Eur. szerint a gyógyszeranyag addig használható fel, ameddig megfelel az egyedi, és a vonatkozó általános cikkely követelményeinek." ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.75",
+  "text" : "Válassza ki, mely esetekben kell az egyedi cikkelyeknek való megfelelést az általános cikkellyel együtt értékelni!",
+  "moreText" : [ "1)     ha a gyógyszeranyag fertőző spongiform encephalopathiára természetes körülmények között is fogékony állatfajokból származik", "2)     ha a gyógyszeranyag fermentációs eljárásból származik", "3)     ha a gyógyszeranyag előállítása során szerves oldószereket alkalmaznak", "4)     minden esetben elég az egyedi cikkelynek való megfelelés" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.76",
+  "text" : "Milyen alapanyagból készíthető gyógyszer?",
+  "moreText" : [ "1)     a Ph. Hg. VIII.-ban hivatalos anyagból", "2)     élelmiszerek bevizsgált állagjavítóiból", "3)     külföldi gyógyszerkönyvben szereplő anyagból, ha az OGYI arra konkrét engedélyt adott", "4)     kozmetikai segédanyagokból" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.77",
+  "text" : "Melyek a gyógyszerügy szakterületein alkalmazott szervezési formák?",
+  "moreText" : [ "1)     államigazgatási szervezés", "2)     tudományos-műszaki szervezés", "3)     közgazdasági-üzemgazdasági szervezés", "4)     gyógyszerészeti közgazdaságtan " ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.78",
+  "text" : "A gyógyszerügyi szervezés gyakorlatában nem alkalmazott módszerek:",
+  "moreText" : [ "1)     matematikai statisztikai módszer", "2)     egészségnevelés", "3)     hálódiagramos módszer", "4)     gyógyszerismertetés" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.79",
+  "text" : "Az alábbi tényezők közül a WHO szerint mi befolyásolja legjobban az egészségi állapotot?",
+  "moreText" : [ "1)     környezeti hatás ", "2)     egészségügyi ellátás", "3)     genetikai tényezők", "4)     életmód" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Minden válasz helyes "
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.80",
+  "text" : "A gyógyszer forgalomba hozatali engedélyezése során igazolandó peremfeltétel(ek):",
+  "moreText" : [ "1)     minőség", "2)     relatív ártalmatlanság", "3)     hatékonyság", "4)     költséghatékonyság" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.81",
+  "text" : "Válassza ki, melyik nem tartozik a gyógyszerügy szakterületéhez!",
+  "moreText" : [ "1)     gyógyszerkutatás (K+F) és gyógyszergyártás ", "2)     minőségbiztosítás (GMP, GCP, GLP) ", "3)     gyógyszerelosztás (Distributio)", "4)     vertikális kommunikáció" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.82",
+  "text" : "A felsoroltak közül válassza ki a lakosság egészségi állapotát jellemző statisztikai jellemzőket!",
+  "moreText" : [ "1)     stomatometria", "2)     epidemiológia", "3)     szociológia", "4)     szomatometria" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.83",
+  "text" : "Válassza ki a szabályozott terület jellemzőit!",
+  "moreText" : [ "1)     piaci szabályozás érvényesül", "2)     hatósági szabályozás van", "3)     előállítói tanúsítások jellemzik", "4)     hatósági inspekció van" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.84",
+  "text" : "Milyen eljárással lehet a generikumokat forgalomba hozatalra engedélyezni?",
+  "moreText" : [ "1)     nemzeti eljárás", "2)     elegendő az originális készítmény forgalomba hozatali engedélye", "3)     kölcsönös elismerésen alapuló eljárás", "4)     különleges eljárás" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.85",
+  "text" : "Ki a finanszírozó az ún. Beveridge modellnél?",
+  "moreText" : [ "1)     a társadalombiztosítás", "2)     a privát szféra", "3)     magánbiztosító", "4)     az állam" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Minden válasz helyes "
+  }, {
+    "letter" : "C",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.86",
+  "text" : "Válassza ki a helytelen állításokat! Az ISO minőségi rendszer:",
+  "moreText" : [ "1)     csak a gyógyszeriparra kiterjedő szabványrendszer", "2)     csak a gyártó tevékenységre kiterjedő szabványrendszer", "3)     a GMP szabályozások és az ISO szabályozások között nincs közös elem", "4)     minden gyártó tevékenységre kiterjedő szabványrendszer" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.87",
+  "text" : "Mely készítményekre nem terjed ki az OGYI hatósági jogköre a forgalomba hozatali engedély kiadásával kapcsolatban?",
+  "moreText" : [ "1)     oltóanyagok, bakteriális toxinok és allergének", "2)     orvosi műszerek", "3)     gyógyszerek", "4)     élelmiszerek" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.88",
+  "text" : "Mi a különbség az eljárási és a termékszabadalom között?",
+  "moreText" : [ "1)     Az eljárási szabadalom elnevezést a hazai jogrendszer szabályozza a nemzetközi jog alapján.", "2)     Nincs közöttük különbség, mert mindkettő iparjogi védelmet jelent. ", "3)     Az eljárási szabadalom elnevezést a nemzetközi jog, a termékszabadalomét pedig hazai jogrendszer szabályozza.", "4)     <p class=\"MsoNormal\">Az eljárási szabadalom egy adott gyógyszer előállításának technológiájára, a termékszabadalom pedig az előállított molekulára vonatkozik.</p>" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.89",
+  "text" : "Melyek az egészségügyi finanszírozási háromszög résztvevői?",
+  "moreText" : [ "1)     beteg", "2)     egészségügyi szolgáltató ", "3)     szolgáltatást vásárló harmadik fél (finanszírozó)", "4)     ÁNTSZ" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.90",
+  "text" : "Melyek a GLP hatásterületei?",
+  "moreText" : [ "1)     toxikológia", "2)     metabolizmus, toxikokinetika", "3)     biztonsági farmakológia", "4)     gyógyszerforma vizsgálat" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.91",
+  "text" : "Melyik kérdés tartozik az ún. zárt kérdések közé?",
+  "moreText" : [ "1)     Hogyan?", "2)     Miért?", "3)     Mi újság?", "4)     Van?" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.92",
+  "text" : "Melyik szabvány alapú minőségbiztosítási rendszer?",
+  "moreText" : [ "1)     ISO 9002", "2)     GLP", "3)     ISO 9000", "4)     GPP" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.93",
+  "text" : "A parametrikus felszabadítás alkalmazható:",
+  "moreText" : [ "1)     minden gyógyszerformára, ha a gyógyszer tíz egymást követő tétele minden szempontból megfelelt, és attól kezdve nem kell ellenőrizni a végterméket.", "2)     ha a gyógyszergyártás GMP szerint történik", "3)     ha a gyógyszer gyártási folyamatát validálták, akkor nem kell vizsgálni a végterméket.", "4)     ha a steril végtermék minden vizsgálatát elvégezték, kivéve a mikrobiológiai sterilitásvizsgálatot, mert a sterilezési folyamat helyességét jól dokumentált adatokkal lehet igazolni." ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.94",
+  "text" : "Mit nem jelent a tervezési kvalifikálás?",
+  "moreText" : [ "1)     a tervezőiroda magas szintű munkájának az igazolása", "2)     a kivitelező magas szintű munkájának igazolása", "3)     a felépítendő üzem vagy a telepítendő berendezés megvalósításához tervezett anyagok jó minőségének igazolása", "4)     az építkezés vagy a berendezés beszerelése előtt a tervek GMP megfelelőségének az igazolása" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.95",
+  "text" : "Mi a karbantartás fő célja a GMP értelmezésében?",
+  "moreText" : [ "1)     a hibák kijavítása", "2)     a hibák kijavítása és dokumentálása", "3)     a hibák dokumentálása", "4)     a hibák elkerülése" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYÜSZT - 9.96",
+  "text" : "<p>Párosítsa össze a teljeskörű gazdasági elemzések típusait és a bemeneti paraméterek egységeit!</p> ",
+  "items" : [ {
+    "text" : "költség-hatékonyság elemzés ",
+    "match" : "B"
+  }, {
+    "text" : "költség-hasznosság elemzés",
+    "match" : "D"
+  }, {
+    "text" : "költség-minimalizációs elemzés ",
+    "match" : "C"
+  }, {
+    "text" : "költség-haszon elemzés",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "költség: forintban, eredményesség: forintban"
+  }, {
+    "letter" : "B",
+    "text" : "költség: forintban, eredményesség: természetes egységben, pl. vérnyomáscsökkenés Hgmm-ben"
+  }, {
+    "letter" : "C",
+    "text" : "költség: forintban, eredményesség: feltétel szerint egyforma"
+  }, {
+    "letter" : "D",
+    "text" : "költség: forintban, eredményesség: életminőséggel korrigált életévben (QALY)"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYÜSZT - 9.97",
+  "text" : "<p>Rendelje hozzá az adott területhez az azt jellemző fogalmakat!</p> ",
+  "items" : [ {
+    "text" : "szabályozott ",
+    "match" : "E"
+  }, {
+    "text" : "szabályozott ",
+    "match" : "D"
+  }, {
+    "text" : "szabványosított ",
+    "match" : "C"
+  }, {
+    "text" : "szabványosított ",
+    "match" : "B"
+  }, {
+    "text" : "szabványosított ",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "piaci szabályozás"
+  }, {
+    "letter" : "B",
+    "text" : "megállapodás"
+  }, {
+    "letter" : "C",
+    "text" : "előállítói tanúsítás "
+  }, {
+    "letter" : "D",
+    "text" : "rendelet, előírás"
+  }, {
+    "letter" : "E",
+    "text" : "hatósági inspekció"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYÜSZT - 9.98",
+  "text" : "Kapcsolja össze az intézeti gyógyszertárak szakmai munkáját és az annak rögzítésére szolgáló nyilvántartásokat! ",
+  "items" : [ {
+    "text" : "Laboratóriumi napló",
+    "match" : "B"
+  }, {
+    "text" : "Impleálási napló",
+    "match" : "D"
+  }, {
+    "text" : "Vizsgálati napló",
+    "match" : "A"
+  }, {
+    "text" : "Sterilezési napló",
+    "match" : "C"
+  }, {
+    "text" : "Gyógyszertári manuális",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "tájékoztató gyorsvizsgálat"
+  }, {
+    "letter" : "B",
+    "text" : "receptúrai készítmények"
+  }, {
+    "letter" : "C",
+    "text" : "infúziós üvegek töltésre való előkészítése"
+  }, {
+    "letter" : "D",
+    "text" : "laboratórium feltöltése raktárból"
+  }, {
+    "letter" : "E",
+    "text" : "gyógyszertárban gyakran alkalmazott magisztrális leiratok"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYÜSZT - 9.99",
+  "text" : "<p>Párosítsa az engedélyhez kötött tevékenységet a vonatkozó szabállyal!</p> ",
+  "items" : [ {
+    "text" : "gyógyszergyártási engedély feltétele ",
+    "match" : "C"
+  }, {
+    "text" : "a preklinikai vizsgálat elfogadásának feltétele",
+    "match" : "A"
+  }, {
+    "text" : "a humán vizsgálat engedélyezésének feltétele",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "GLP"
+  }, {
+    "letter" : "B",
+    "text" : "GCP"
+  }, {
+    "letter" : "C",
+    "text" : "GMP"
+  }, {
+    "letter" : "D",
+    "text" : "GDP"
+  }, {
+    "letter" : "E",
+    "text" : "GPP"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYÜSZT - 9.100",
+  "text" : "Párosítsa a megfelelő klinikai vizsgálatokat a vizsgálat céljával! ",
+  "items" : [ {
+    "text" : "Fázis I.",
+    "match" : "C"
+  }, {
+    "text" : "Fázis II.",
+    "match" : "B"
+  }, {
+    "text" : "Fázis III.",
+    "match" : "A"
+  }, {
+    "text" : "Fázis IV.",
+    "match" : "D"
+  }, {
+    "text" : "Bioekvivalencia",
+    "match" : "E"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "kedvező klinikai hatások, mellékhatás gyakoriság bizonyítása"
+  }, {
+    "letter" : "B",
+    "text" : "hatásosság, optimális dózis, mellékhatás feltárása"
+  }, {
+    "letter" : "C",
+    "text" : "farmakológiai hatások, tolerancia (legnagyobb dózis), felszívódás, eloszlás, kiválasztás vizsgálata"
+  }, {
+    "letter" : "D",
+    "text" : "több információ szerzése (mellékhatás-figyelés, mortalitás, morbiditás), alkalmazhatóság, promóció"
+  }, {
+    "letter" : "E",
+    "text" : "generikus vs. originális készítmény (farmakokinetika)"
+  } ],
+  "type" : "ASSOCIATION"
+} ]

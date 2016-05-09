@@ -2,15 +2,15 @@
 
   <md-card>
     <md-card-subtitle>{{ task.id }}</md-card-subtitle>
-    <md-card-title>{{ task.text }}</md-card-title>
+    <md-card-title [innerHTML]="task.text"></md-card-title>
 
     <md-card-content>
 
       <table>
         <tr *ngFor="#item of task.items;#itemIndex = index">
-          <td>{{item.text}}</td>
+          <td [innerHTML]="item.text"></td>
 
-          <td>
+          <td [width]="task.legends.length * 65 + 'px'">
             <md-radio-group [(ngModel)]="options[itemIndex]" [disabled]="chosen">
               <md-radio-button *ngFor="#option of task.legends" [value]="option.letter" class="md-primary"
                                [ngClass]="{
@@ -23,9 +23,7 @@
             </md-radio-group>
           </td>
 
-          <td *ngIf="chosen">
-            {{legendFor(item.match)}}
-          </td>
+          <td *ngIf="chosen" [innerHTML]="legendFor(item.match)"></td>
 
         </tr>
       </table>
@@ -37,7 +35,7 @@
     <md-card-subtitle>Jelmagyarázat</md-card-subtitle>
     <md-card-content>
       <p *ngFor="#option of task.legends">
-        <b>{{option.letter}})</b> {{option.text}}
+        <b>{{option.letter}})</b> <span [innerHTML]="option.text"></span>
       </p>
 
     </md-card-content>

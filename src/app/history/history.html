@@ -1,5 +1,5 @@
 <md-toolbar color="primary">
-  <span>Tesztelő / Megoldottak</span>
+  <span>Tesztelő / Megoldottak ({{appState.solvedTasks.length}} db.)</span>
 
   <span class="fill-remaining"></span>
 
@@ -23,9 +23,9 @@
   </md-card>
 
   <!--<div *ngFor="#answer of appState.solvedTasks">-->
-    <!--<question-card *ngIf="isQuestion(answer)" [question]="answer.task" [chosen]="answer.answerLetter"></question-card>-->
-    <!--<association-card *ngIf="isAssociation(answer)" [task]="answer.task"-->
-                      <!--[chosen]="answer.answerLetters"></association-card>-->
+  <!--<question-card *ngIf="isQuestion(answer)" [question]="answer.task" [chosen]="answer.answerLetter"></question-card>-->
+  <!--<association-card *ngIf="isAssociation(answer)" [task]="answer.task"-->
+  <!--[chosen]="answer.answerLetters"></association-card>-->
   <!--</div>-->
 
 </div>

@@ -1,0 +1,3817 @@
+[ {
+  "id" : "GYMB - 8.1",
+  "text" : "A betegséget követően krónikus kórokozóhordozás fordulhat elő:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "campylobacteriosis"
+  }, {
+    "letter" : "B",
+    "text" : "dyspepsia coli"
+  }, {
+    "letter" : "C",
+    "text" : "hepatitis A"
+  }, {
+    "letter" : "D",
+    "text" : "typhus abdominalis"
+  }, {
+    "letter" : "E",
+    "text" : "yersiniosis"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "typhus abdominalis"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.2",
+  "text" : "A magas hőmérséklethez való adaptáció következtében nem alakul ki:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "fokozott verejtékelválasztás"
+  }, {
+    "letter" : "B",
+    "text" : "verejték csökkenő sótartalma"
+  }, {
+    "letter" : "C",
+    "text" : "keringés redisztribúciója"
+  }, {
+    "letter" : "D",
+    "text" : "verőtérfogat növekedése"
+  }, {
+    "letter" : "E",
+    "text" : "magasabb pulzusszám"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "magasabb pulzusszám"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.3",
+  "text" : "A celluláris immunvédettséget mutatja ki:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Dick-próba"
+  }, {
+    "letter" : "B",
+    "text" : "Schick-próba"
+  }, {
+    "letter" : "C",
+    "text" : "Wright-reakció"
+  }, {
+    "letter" : "D",
+    "text" : "Tuberculin-teszt"
+  }, {
+    "letter" : "E",
+    "text" : "Widal-reakció"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Tuberculin-teszt"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.4",
+  "text" : "Kórokozója geohelmint:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ascariasis"
+  }, {
+    "letter" : "B",
+    "text" : "echinococcosis"
+  }, {
+    "letter" : "C",
+    "text" : "enterobiasis"
+  }, {
+    "letter" : "D",
+    "text" : "taeniasis"
+  }, {
+    "letter" : "E",
+    "text" : "trichinellosis"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "ascariasis"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.5",
+  "text" : "Égetéssel nem kezelhető hulladék:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szerves oldószerek"
+  }, {
+    "letter" : "B",
+    "text" : "magas halogéntartalmú polimerek"
+  }, {
+    "letter" : "C",
+    "text" : "kommunális hulladék"
+  }, {
+    "letter" : "D",
+    "text" : "olajjal és olajtermékekkel szennyezett hulladékok"
+  }, {
+    "letter" : "E",
+    "text" : "fel nem használt peszticidek"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "magas halogéntartalmú polimerek"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.6",
+  "text" : "Tokkal rendelkező baktérium:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Clostridium tetani"
+  }, {
+    "letter" : "B",
+    "text" : "Haemophilus influenzae"
+  }, {
+    "letter" : "C",
+    "text" : "Proteus vulgaris"
+  }, {
+    "letter" : "D",
+    "text" : "Salmonella typhi"
+  }, {
+    "letter" : "E",
+    "text" : "Shigella dysenteriae"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Haemophilus influenzae"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.7",
+  "text" : "Élő, attenuált baktériumot tartalmaz:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "BCG"
+  }, {
+    "letter" : "B",
+    "text" : "Pertussis vakcina"
+  }, {
+    "letter" : "C",
+    "text" : "Salk-vakcina"
+  }, {
+    "letter" : "D",
+    "text" : "IPV"
+  }, {
+    "letter" : "E",
+    "text" : "Tetanus vakcina"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "BCG"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.8",
+  "text" : "A tuberculin teszt:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "túlérzékenységi reakción alapul"
+  }, {
+    "letter" : "B",
+    "text" : "neutralizációs reakció"
+  }, {
+    "letter" : "C",
+    "text" : "csak élő mikroorganizmussal váltható ki"
+  }, {
+    "letter" : "D",
+    "text" : "eredménye 12 óra után olvasható le"
+  }, {
+    "letter" : "E",
+    "text" : "eredményét fertőző betegségek nem befolyásolják"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "túlérzékenységi reakción alapul"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.9",
+  "text" : "A betegséget exotoxin okozta:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "neisseria okozta meningitis"
+  }, {
+    "letter" : "B",
+    "text" : "typhus abdominalis"
+  }, {
+    "letter" : "C",
+    "text" : "staphylococcus-ételmérgezés"
+  }, {
+    "letter" : "D",
+    "text" : "brucellosis"
+  }, {
+    "letter" : "E",
+    "text" : "tularaemia"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "staphylococcus-ételmérgezés"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.10",
+  "text" : "Az interferon:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "fehérje indukción keresztül gátolja a vírusspecifikus mRNS transzlációját"
+  }, {
+    "letter" : "B",
+    "text" : "gátolja a vírus sejtbe történő bejutását"
+  }, {
+    "letter" : "C",
+    "text" : "akadályozza a vírusspecifikus mRNS transzlációját"
+  }, {
+    "letter" : "D",
+    "text" : "a sejt RNS-e indukcióján keresztül kiváltja a vírusgenom hidrolízisét"
+  }, {
+    "letter" : "E",
+    "text" : "megakadályozza a vírus sejtmembránhoz való kapcsolódását"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "akadályozza a vírusspecifikus mRNS transzlációját"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.11",
+  "text" : "A túlsúly az alábbi betegségek közül melyikre nézve protektív faktor?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "caries"
+  }, {
+    "letter" : "B",
+    "text" : "cirrhosis"
+  }, {
+    "letter" : "C",
+    "text" : "diabetes mellitus"
+  }, {
+    "letter" : "D",
+    "text" : "hypertonia"
+  }, {
+    "letter" : "E",
+    "text" : "osteoporosis"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "osteoporosis"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.12",
+  "text" : "Korhoz kötött kötelező, aktív védőoltás:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "kullancsencephalitis"
+  }, {
+    "letter" : "B",
+    "text" : "lyssa"
+  }, {
+    "letter" : "C",
+    "text" : "meningitis epidemica"
+  }, {
+    "letter" : "D",
+    "text" : "MMR"
+  }, {
+    "letter" : "E",
+    "text" : "typhus abdominalis"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "MMR"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.13",
+  "text" : "<p> Ha a várandós nő fertőzött, a szülés folyamata során az újszülött infekciója lehetséges,</p> <p> kivéve:</p>",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "gonorrhoea"
+  }, {
+    "letter" : "B",
+    "text" : "hepatitis B"
+  }, {
+    "letter" : "C",
+    "text" : "herpes simplex"
+  }, {
+    "letter" : "D",
+    "text" : "HIV"
+  }, {
+    "letter" : "E",
+    "text" : "tetanus"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "tetanus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.14",
+  "text" : "A korspecifikus halálozás jelzi:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "egy korosztály és az össznépesség egy adott betegségre vonatkozó halálozási arányát"
+  }, {
+    "letter" : "B",
+    "text" : "az 1 év alatti korosztály halálozását"
+  }, {
+    "letter" : "C",
+    "text" : "egy adott korosztály halálozásának mértékét"
+  }, {
+    "letter" : "D",
+    "text" : "a lakosság aktív részének halálozását"
+  }, {
+    "letter" : "E",
+    "text" : "a lakosságnak egy adott betegségre vonatkoztatott halálozását"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "egy adott korosztály halálozásának mértékét"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.15",
+  "text" : "A HIV jellemzői:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a humán B-sejteket fertőzi meg"
+  }, {
+    "letter" : "B",
+    "text" : "citolitikus hatású"
+  }, {
+    "letter" : "C",
+    "text" : "defektív vírus"
+  }, {
+    "letter" : "D",
+    "text" : "pozitív egyszálú RNS-t tartalmaz"
+  }, {
+    "letter" : "E",
+    "text" : "daganatkeltő hatású"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "defektív vírus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.16",
+  "text" : "A kémiai biztonsági előírások szerint az anyagok csomagolásán nem kell feltüntetni:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "név"
+  }, {
+    "letter" : "B",
+    "text" : "veszély szimbólum"
+  }, {
+    "letter" : "C",
+    "text" : "képlet"
+  }, {
+    "letter" : "D",
+    "text" : "R-mondat"
+  }, {
+    "letter" : "E",
+    "text" : "S-mondat"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "képlet"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.17",
+  "text" : "Melyik betegségben nincs lehetőség passzív immunizálást alkalmazni?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "scarlatina"
+  }, {
+    "letter" : "B",
+    "text" : "diphtheria"
+  }, {
+    "letter" : "C",
+    "text" : "rubeola"
+  }, {
+    "letter" : "D",
+    "text" : "varicella"
+  }, {
+    "letter" : "E",
+    "text" : "morbilli"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "scarlatina"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.18",
+  "text" : "A vírusok osztályozásának nem képezi alapját:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a virion nukleinsav-szerkezete"
+  }, {
+    "letter" : "B",
+    "text" : "a nukleokapszid szimmetriatípusa"
+  }, {
+    "letter" : "C",
+    "text" : "peplon megléte vagy hiánya"
+  }, {
+    "letter" : "D",
+    "text" : "helikális vírusoknál a nukleokapszid átmérője"
+  }, {
+    "letter" : "E",
+    "text" : "helikális vírusoknál a kapszomérek száma"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "helikális vírusoknál a kapszomérek száma"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.19",
+  "text" : "Nasopharyngeális carcinomát okozó vírus:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "HPV"
+  }, {
+    "letter" : "B",
+    "text" : "HIV"
+  }, {
+    "letter" : "C",
+    "text" : "Epstein-Barr vírus"
+  }, {
+    "letter" : "D",
+    "text" : "CMV"
+  }, {
+    "letter" : "E",
+    "text" : "VZV"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Epstein-Barr vírus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.20",
+  "text" : "Savas esőt okozó légszennyező anyag:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "NOx"
+  }, {
+    "letter" : "B",
+    "text" : "peroxi-acetil-nitrát"
+  }, {
+    "letter" : "C",
+    "text" : "NH3"
+  }, {
+    "letter" : "D",
+    "text" : "PCB"
+  }, {
+    "letter" : "E",
+    "text" : "kénhidrogén"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "NOx"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.21",
+  "text" : "Obligát intracelluláris baktérium:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Chlamydia"
+  }, {
+    "letter" : "B",
+    "text" : "Borrelia"
+  }, {
+    "letter" : "C",
+    "text" : "Leptospira"
+  }, {
+    "letter" : "D",
+    "text" : "Mycobacterium"
+  }, {
+    "letter" : "E",
+    "text" : "Treponema"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Chlamydia"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.22",
+  "text" : "Magasabb CO2 szint elősegíti a növekedését:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Corynebacterium"
+  }, {
+    "letter" : "B",
+    "text" : "Haemophilus"
+  }, {
+    "letter" : "C",
+    "text" : "Leptospira"
+  }, {
+    "letter" : "D",
+    "text" : "Neisseria"
+  }, {
+    "letter" : "E",
+    "text" : "Salmonella"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Neisseria"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.23",
+  "text" : "HIV-hez kapcsolódóan nem hoz létre opportunista fertőzést:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Candida albicans"
+  }, {
+    "letter" : "B",
+    "text" : "Mycobacterium tuberculosis"
+  }, {
+    "letter" : "C",
+    "text" : "Pseudocystis carinii"
+  }, {
+    "letter" : "D",
+    "text" : "Salmonella typhi"
+  }, {
+    "letter" : "E",
+    "text" : "Toxoplasma gondii"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Salmonella typhi"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.24",
+  "text" : "Melyik féregnek a köztigazdája az ember?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Ancylostoma duodenale"
+  }, {
+    "letter" : "B",
+    "text" : "Enterobius vermicularis"
+  }, {
+    "letter" : "C",
+    "text" : "Echinococcus granulosus"
+  }, {
+    "letter" : "D",
+    "text" : "Fasciola hepatica"
+  }, {
+    "letter" : "E",
+    "text" : "Schistosoma haematobium"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Echinococcus granulosus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.25",
+  "text" : "A dolgozók leggyakoribb nosocomialis fertőződési módja a gyógyszertárban:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "enteralis"
+  }, {
+    "letter" : "B",
+    "text" : "aerogen"
+  }, {
+    "letter" : "C",
+    "text" : "haematogen"
+  }, {
+    "letter" : "D",
+    "text" : "kültakarón keresztüli"
+  }, {
+    "letter" : "E",
+    "text" : "vektor általi"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "aerogen"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.26",
+  "text" : "Az obligát anaerob baktériumok:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "magas oxigéntenzió esetén szaporodnak"
+  }, {
+    "letter" : "B",
+    "text" : "kizárólag alacsony oxigéntenzió mellett szaporodnak"
+  }, {
+    "letter" : "C",
+    "text" : "csak oxigénmentes környezetben szaporodnak"
+  }, {
+    "letter" : "D",
+    "text" : "jól szaporodnak oxigénmentes környezetben és oxigén jelenlétében is"
+  }, {
+    "letter" : "E",
+    "text" : "oxigén jelenlétében gyorsabban szaporodnak"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "csak oxigénmentes környezetben szaporodnak"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.27",
+  "text" : "A caries prevencióhoz az ivóvíz optimális fluoridtartalma:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "0,4-0,5 mg/l"
+  }, {
+    "letter" : "B",
+    "text" : "0,6-0,8 mg/l"
+  }, {
+    "letter" : "C",
+    "text" : "0,9-1,0 mg/l"
+  }, {
+    "letter" : "D",
+    "text" : "1,2-1,4 mg/l"
+  }, {
+    "letter" : "E",
+    "text" : "1,5-1,8 mg/l"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "0,9-1,0 mg/l"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.28",
+  "text" : "A klinikai tüneteket mutató lyssa letalitása:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "50–60%"
+  }, {
+    "letter" : "B",
+    "text" : "70–80%"
+  }, {
+    "letter" : "C",
+    "text" : "30–40%"
+  }, {
+    "letter" : "D",
+    "text" : "80–90%"
+  }, {
+    "letter" : "E",
+    "text" : "100%"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "100%"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.29",
+  "text" : "Vivipar féreg:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Ancylostoma duodenale"
+  }, {
+    "letter" : "B",
+    "text" : "Ascaris lumbricoides"
+  }, {
+    "letter" : "C",
+    "text" : "Echinococcus granulosus"
+  }, {
+    "letter" : "D",
+    "text" : "Enterobius vermicularis"
+  }, {
+    "letter" : "E",
+    "text" : "Trichinella spiralis"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Trichinella spiralis"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.30",
+  "text" : "A Weil-Felix reakcióval mutatható ki:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "brucellosis"
+  }, {
+    "letter" : "B",
+    "text" : "leptospirosis"
+  }, {
+    "letter" : "C",
+    "text" : "lyme borreliosis"
+  }, {
+    "letter" : "D",
+    "text" : "tularaemia"
+  }, {
+    "letter" : "E",
+    "text" : "typhus exanthematicus"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "typhus exanthematicus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.31",
+  "text" : "Peplonnal rendelkező kubikális DNS vírus:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Adenovírus"
+  }, {
+    "letter" : "B",
+    "text" : "Flavivírus"
+  }, {
+    "letter" : "C",
+    "text" : "Herpesvírus"
+  }, {
+    "letter" : "D",
+    "text" : "Orthomyxovírus"
+  }, {
+    "letter" : "E",
+    "text" : "Retrovírus"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Herpesvírus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.32",
+  "text" : "A scarlatina prevenciójában nem alkalmazzák:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "beteg bejelentése"
+  }, {
+    "letter" : "B",
+    "text" : "beteg elkülönítése"
+  }, {
+    "letter" : "C",
+    "text" : "fertőtlenítés"
+  }, {
+    "letter" : "D",
+    "text" : "kemoprofilaxis"
+  }, {
+    "letter" : "E",
+    "text" : "aktív immunizálás"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "aktív immunizálás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.33",
+  "text" : "Autoreinfekcióval is fennmaradó betegség:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ascariasis"
+  }, {
+    "letter" : "B",
+    "text" : "echinococcosis"
+  }, {
+    "letter" : "C",
+    "text" : "oxyuriasis"
+  }, {
+    "letter" : "D",
+    "text" : "taeniasis"
+  }, {
+    "letter" : "E",
+    "text" : "trichinellosis"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "oxyuriasis"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.34",
+  "text" : "HIV-pozitivitás esetén elvégzendő teendők, kivéve:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "bejelentés"
+  }, {
+    "letter" : "B",
+    "text" : "verifikáló laboratóriumi vizsgálat"
+  }, {
+    "letter" : "C",
+    "text" : "anyatej adásának megtiltása"
+  }, {
+    "letter" : "D",
+    "text" : "az összes egészségügyi foglalkozásból való kitiltás"
+  }, {
+    "letter" : "E",
+    "text" : "nosocomialis fertőződéskor azonnali antiretrovirális kezelés elkezdése"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "az összes egészségügyi foglalkozásból való kitiltás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.35",
+  "text" : "A klórtartalmú dezinficiensek:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "fehérjékben diszulfidkötést hoznak létre"
+  }, {
+    "letter" : "B",
+    "text" : "alkilálószerek"
+  }, {
+    "letter" : "C",
+    "text" : "csökkentik a felületi feszültséget"
+  }, {
+    "letter" : "D",
+    "text" : "erős oxidálószerek"
+  }, {
+    "letter" : "E",
+    "text" : "károsítják a sejtmagot"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "erős oxidálószerek"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.36",
+  "text" : "Krónikus expozíciója perifériás idegrendszeri bénulást okoz:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "higany"
+  }, {
+    "letter" : "B",
+    "text" : "mangán"
+  }, {
+    "letter" : "C",
+    "text" : "arzén"
+  }, {
+    "letter" : "D",
+    "text" : "ólom"
+  }, {
+    "letter" : "E",
+    "text" : "kadmium"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "ólom"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.37",
+  "text" : "A nyálkahártyák védelmében szerepet játszó immunglobulin:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "IgA"
+  }, {
+    "letter" : "B",
+    "text" : "IgD"
+  }, {
+    "letter" : "C",
+    "text" : "IgE"
+  }, {
+    "letter" : "D",
+    "text" : "IgG"
+  }, {
+    "letter" : "E",
+    "text" : "IgM"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "IgA"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.38",
+  "text" : "A normál BMI értéke:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "10-12 kg/m2"
+  }, {
+    "letter" : "B",
+    "text" : "15-17 kg/m2"
+  }, {
+    "letter" : "C",
+    "text" : "18,5-24,9 kg/m2"
+  }, {
+    "letter" : "D",
+    "text" : "26-30 kg/m2"
+  }, {
+    "letter" : "E",
+    "text" : "30-33 kg/m2"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "18,5-24,9 kg/m2"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.39",
+  "text" : "Gyógyszertár kialakításakor nem alkalmazzák:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "falak fertőtleníthető festése/burkolása"
+  }, {
+    "letter" : "B",
+    "text" : "csúszásmentes, fertőtleníthető padoz"
+  }, {
+    "letter" : "C",
+    "text" : "padlófűtés"
+  }, {
+    "letter" : "D",
+    "text" : "megfelelő intenzitású és arányú természetes/mesterséges világítás"
+  }, {
+    "letter" : "E",
+    "text" : "20-22 ºC hőmérséklet, 40-70% relatív páratartalom"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "padlófűtés"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.40",
+  "text" : "Akut szerves foszforsavészter peszticid intoxikáció nem muszkarinerg tünete:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a verejtékezés"
+  }, {
+    "letter" : "B",
+    "text" : "fokozott szekréció"
+  }, {
+    "letter" : "C",
+    "text" : "bradycardia"
+  }, {
+    "letter" : "D",
+    "text" : "izomfibrilláció"
+  }, {
+    "letter" : "E",
+    "text" : "bronchusgörcs"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "izomfibrilláció"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.41",
+  "text" : "A 2-es típusú diabétesz nem jellemző sajátossága:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a mozgásszegény életmód fokozza a gyakoriságát"
+  }, {
+    "letter" : "B",
+    "text" : "a kalóriagazdag táplálkozás növeli az incidenciáját"
+  }, {
+    "letter" : "C",
+    "text" : "fertőzést követő autoimmun folyamat hozza létre"
+  }, {
+    "letter" : "D",
+    "text" : "az életkorral nő a prevalenciája"
+  }, {
+    "letter" : "E",
+    "text" : "folyamatos gondozást igényel"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "fertőzést követő autoimmun folyamat hozza létre"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.42",
+  "text" : "Csillós baktérium:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Brucella abortus"
+  }, {
+    "letter" : "B",
+    "text" : "Corynebacterium diphtheriae"
+  }, {
+    "letter" : "C",
+    "text" : "Neisseria meningitidis"
+  }, {
+    "letter" : "D",
+    "text" : "Salmonella typhi"
+  }, {
+    "letter" : "E",
+    "text" : "Streptococcus pyogenes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Salmonella typhi"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.43",
+  "text" : "Késői típusú allergiát okozó mikroorganizmus:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Mycobacterium leprae"
+  }, {
+    "letter" : "B",
+    "text" : "Streptococcus pyogenes"
+  }, {
+    "letter" : "C",
+    "text" : "Plasmodium malariae"
+  }, {
+    "letter" : "D",
+    "text" : "Toxoplasma gondii"
+  }, {
+    "letter" : "E",
+    "text" : "Treponema pallidum"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Mycobacterium leprae"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.44",
+  "text" : "Bizonyítottan humán karcinogén szerves oldószer:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "xilol"
+  }, {
+    "letter" : "B",
+    "text" : "etilén-glikol"
+  }, {
+    "letter" : "C",
+    "text" : "toluol"
+  }, {
+    "letter" : "D",
+    "text" : "n-hexán"
+  }, {
+    "letter" : "E",
+    "text" : "benzol"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "benzol"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.45",
+  "text" : "Pneumonitist okozó foglalkozási expozíció:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "szénpor"
+  }, {
+    "letter" : "B",
+    "text" : "cementpor"
+  }, {
+    "letter" : "C",
+    "text" : "fapor"
+  }, {
+    "letter" : "D",
+    "text" : "kadmium"
+  }, {
+    "letter" : "E",
+    "text" : "azbeszt"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "kadmium"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.46",
+  "text" : "Meningitis epidemica esetén nem elvégzendő járványügyi feladat:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "beteg bejelentése"
+  }, {
+    "letter" : "B",
+    "text" : "beteg elkülönítése"
+  }, {
+    "letter" : "C",
+    "text" : "fertőtlenítés"
+  }, {
+    "letter" : "D",
+    "text" : "beteg kontaktjainak kemoprofilaxisa"
+  }, {
+    "letter" : "E",
+    "text" : "beteg kontaktjainak aktív immunizálása"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "beteg kontaktjainak aktív immunizálása"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.47",
+  "text" : "Az ételminta vételekor nem kell rögzíteni:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "az étel elkészítője"
+  }, {
+    "letter" : "B",
+    "text" : "az étel típusa"
+  }, {
+    "letter" : "C",
+    "text" : "az étel elkészítésének ideje"
+  }, {
+    "letter" : "D",
+    "text" : "a mintavevő személye"
+  }, {
+    "letter" : "E",
+    "text" : "a mintavétel időpontja"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "az étel elkészítője"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.48",
+  "text" : "Nem humán karcinogén kórokozó:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Epstein-Barr vírus"
+  }, {
+    "letter" : "B",
+    "text" : "Hepatitis A vírus"
+  }, {
+    "letter" : "C",
+    "text" : "Hepatitis B vírus"
+  }, {
+    "letter" : "D",
+    "text" : "Herpes simplex 2 vírus"
+  }, {
+    "letter" : "E",
+    "text" : "HPV"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Hepatitis A vírus"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.49",
+  "text" : "Sporocid vegyület:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "etilalkohol"
+  }, {
+    "letter" : "B",
+    "text" : "glutáraldehid"
+  }, {
+    "letter" : "C",
+    "text" : "hidrogén-peroxid"
+  }, {
+    "letter" : "D",
+    "text" : "jód"
+  }, {
+    "letter" : "E",
+    "text" : "kálium-permanganát"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "glutáraldehid"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.50",
+  "text" : "Az ionizáló sugárzás effektív dózisának mértékegysége:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Gray (Gy)"
+  }, {
+    "letter" : "B",
+    "text" : "Sievert (Sv)"
+  }, {
+    "letter" : "C",
+    "text" : "Gray/perc (Gy/perc)"
+  }, {
+    "letter" : "D",
+    "text" : "Sievert/év (Sv/év)"
+  }, {
+    "letter" : "E",
+    "text" : "Becquerel (Bq)"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Sievert (Sv)"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.51",
+  "text" : "A HIV nem terjed:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "anyatejjel"
+  }, {
+    "letter" : "B",
+    "text" : "szexuális kontaktussal"
+  }, {
+    "letter" : "C",
+    "text" : "vektor közvetítésével"
+  }, {
+    "letter" : "D",
+    "text" : "vérrel"
+  }, {
+    "letter" : "E",
+    "text" : "transzplacentárisan"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "vektor közvetítésével"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.52",
+  "text" : "A  zajártalom kialakulását nem befolyásolja:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "intenzitása"
+  }, {
+    "letter" : "B",
+    "text" : "időtartama"
+  }, {
+    "letter" : "C",
+    "text" : "jellege"
+  }, {
+    "letter" : "D",
+    "text" : "frekvenciája"
+  }, {
+    "letter" : "E",
+    "text" : "szubjektív hatása"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "szubjektív hatása"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.53",
+  "text" : "Az eset-kontroll vizsgálatra nem jellemző:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "egy beteg- és egy kontrollcsoportot vizsgál"
+  }, {
+    "letter" : "B",
+    "text" : "retrospektív"
+  }, {
+    "letter" : "C",
+    "text" : "relatív kockázat megállapítását teszi lehetővé"
+  }, {
+    "letter" : "D",
+    "text" : "többnyire alacsony a költségigénye"
+  }, {
+    "letter" : "E",
+    "text" : "ritka betegségek esetén is alkalmazható"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "relatív kockázat megállapítását teszi lehetővé"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.54",
+  "text" : "Az emlőráknak nem rizikótényezője:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "korai menarche"
+  }, {
+    "letter" : "B",
+    "text" : "gyermektelenség"
+  }, {
+    "letter" : "C",
+    "text" : "dohányzás"
+  }, {
+    "letter" : "D",
+    "text" : "késői menopauza"
+  }, {
+    "letter" : "E",
+    "text" : "promiszkuitás"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "promiszkuitás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.55",
+  "text" : "Hőérzékeny anyagok sterilizálására alkalmas módszer:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "autoklávozás"
+  }, {
+    "letter" : "B",
+    "text" : "hőlégsterilizálás"
+  }, {
+    "letter" : "C",
+    "text" : "mélyhűtés"
+  }, {
+    "letter" : "D",
+    "text" : "pasztörizálás"
+  }, {
+    "letter" : "E",
+    "text" : "plazmasterilizálás"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "plazmasterilizálás"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.56",
+  "text" : "Az immisszió egysége:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "g/óra"
+  }, {
+    "letter" : "B",
+    "text" : "kg/nap"
+  }, {
+    "letter" : "C",
+    "text" : "g/m3"
+  }, {
+    "letter" : "D",
+    "text" : "mg/m3"
+  }, {
+    "letter" : "E",
+    "text" : "mg/m3/óra"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "mg/m3"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.57",
+  "text" : "A kontagiozitási index megmutatja, hogy …",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a kórokozó a vele kapcsolatba került egyének hány százalékában telepszik meg."
+  }, {
+    "letter" : "B",
+    "text" : "a fertőzést követően a betegségben az érintettek hány százaléka hal meg."
+  }, {
+    "letter" : "C",
+    "text" : "száz fogékony, a fertőzésnek kitett egyén közül a tipikus tünetekkel hányan betegszenek meg."
+  }, {
+    "letter" : "D",
+    "text" : "a megbetegedettek közül hányan lesznek a fertőzés forrásai."
+  }, {
+    "letter" : "E",
+    "text" : "a fertőzöttek közül hány százalék lesz krónikus kórokozó-hordozó."
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "száz fogékony, a fertőzésnek kitett egyén közül a tipikus tünetekkel hányan betegszenek meg."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.58",
+  "text" : "Az alábbi állítások közül melyik a helyes?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "korai halálozás alatt a halál bekövetkezte miatt elveszített potenciális életéveket értjük"
+  }, {
+    "letter" : "B",
+    "text" : "korai halálozás alatt az 1-64 éves népesség körében bekövetkezett halálozást értik"
+  }, {
+    "letter" : "C",
+    "text" : "korai halálozás alatt a magzati halálozást értjük"
+  }, {
+    "letter" : "D",
+    "text" : "a korai halálozás alatt a csecsemőhalálozást értjük"
+  }, {
+    "letter" : "E",
+    "text" : "a korai halálozást a szűrővizsgálatok nem csökkentik"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "korai halálozás alatt az 1-64 éves népesség körében bekövetkezett halálozást értik"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.59",
+  "text" : "A prevalencia:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a betegség súlyosságáról ad felvilágosítást"
+  }, {
+    "letter" : "B",
+    "text" : "az új megbetegedések számát jelenti egy időtartamra vonatkozóan"
+  }, {
+    "letter" : "C",
+    "text" : "a betegség gyakoriságát jelzi egy meghatározott időpontban"
+  }, {
+    "letter" : "D",
+    "text" : "értéke független a halálozások számától"
+  }, {
+    "letter" : "E",
+    "text" : "jellemzi a betegség lefolyásának időtartamát"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "a betegség gyakoriságát jelzi egy meghatározott időpontban"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.60",
+  "text" : "Az alábbiak közül egy kórkép vektor közvetítésével terjed:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ascariasis"
+  }, {
+    "letter" : "B",
+    "text" : "botulismus"
+  }, {
+    "letter" : "C",
+    "text" : "lyme-kór"
+  }, {
+    "letter" : "D",
+    "text" : "legionellosis"
+  }, {
+    "letter" : "E",
+    "text" : "toxoplasmosis"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "lyme-kór"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.61",
+  "text" : "A sterilizálás célja:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a humán patogén kórokozók számának lehető legalacsonyabb szintre történő csökkentése"
+  }, {
+    "letter" : "B",
+    "text" : "valamennyi mikroorganizmus elpusztítása, beleértve a spórákat is"
+  }, {
+    "letter" : "C",
+    "text" : "a humán patogén baktériumok elpusztítása"
+  }, {
+    "letter" : "D",
+    "text" : "a magas virulenciájú kórokozók elpusztítása"
+  }, {
+    "letter" : "E",
+    "text" : "az eszközök kórokozó-mentesítése"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "valamennyi mikroorganizmus elpusztítása, beleértve a spórákat is"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.62",
+  "text" : "Melyik betegség jellemző tünete az erythema chronicum migrans?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Lyme-kór"
+  }, {
+    "letter" : "B",
+    "text" : "listeriosis"
+  }, {
+    "letter" : "C",
+    "text" : "malária"
+  }, {
+    "letter" : "D",
+    "text" : "meningitis epidemica"
+  }, {
+    "letter" : "E",
+    "text" : "ornithosis"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Lyme-kór"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.63",
+  "text" : "A kórforma endémiás …",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "ha a betegség nagyobb kiterjedésű járványokat képes okozni."
+  }, {
+    "letter" : "B",
+    "text" : "ha a betegség egy területen legalább évente járványt okoz."
+  }, {
+    "letter" : "C",
+    "text" : "ha az azonos betegségi esetek között semmilyen kapcsolat nem áll fenn."
+  }, {
+    "letter" : "D",
+    "text" : "ha egyes fertőző betegségek egy adott földrajzi területen tartósan, állandóan jelen vannak."
+  }, {
+    "letter" : "E",
+    "text" : "ha a betegség forrását jelentő állatok egy része folyamatosan fertőzött."
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "ha egyes fertőző betegségek egy adott földrajzi területen tartósan, állandóan jelen vannak."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.64",
+  "text" : "A fokozott benzol expozíció melyik daganat kialakulásában játszik szerepet:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "bőrrák"
+  }, {
+    "letter" : "B",
+    "text" : "húgyhólyagrák"
+  }, {
+    "letter" : "C",
+    "text" : "leukaemia"
+  }, {
+    "letter" : "D",
+    "text" : "májrák"
+  }, {
+    "letter" : "E",
+    "text" : "prosztatarák"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "leukaemia"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.65",
+  "text" : "A Staphylococcus okozta ételmérgezés lappangási ideje:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "2-6 óra"
+  }, {
+    "letter" : "B",
+    "text" : "12-48 óra"
+  }, {
+    "letter" : "C",
+    "text" : "2-3 nap"
+  }, {
+    "letter" : "D",
+    "text" : "3-4 nap"
+  }, {
+    "letter" : "E",
+    "text" : "5-6 nap"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "2-6 óra"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.66",
+  "text" : "A kohorsz vizsgálatra jellemző, kivéve:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a vizsgált betegség - az okozat - már a tanulmányozás kezdetén fennáll"
+  }, {
+    "letter" : "B",
+    "text" : "prospektív vizsgálat"
+  }, {
+    "letter" : "C",
+    "text" : "idő- és költségigényes"
+  }, {
+    "letter" : "D",
+    "text" : "elsősorban a gyakoribb betegségek elemzésére alkalmas"
+  }, {
+    "letter" : "E",
+    "text" : "az incidencia megállapítását is lehetővé teszi"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "a vizsgált betegség - az okozat - már a tanulmányozás kezdetén fennáll"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.67",
+  "text" : "A rejtett morbiditás feltárására alkalmas módszer:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "randomizált klinikai vizsgálatok"
+  }, {
+    "letter" : "B",
+    "text" : "kohorsz vizsgálatok"
+  }, {
+    "letter" : "C",
+    "text" : "területi intervenciós vizsgálatok"
+  }, {
+    "letter" : "D",
+    "text" : "szűrővizsgálatok"
+  }, {
+    "letter" : "E",
+    "text" : "eset-kontroll vizsgálatok"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "szűrővizsgálatok"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.68",
+  "text" : "Melyik állítás nem igaz?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "A közúti balesetek fele hétvégén történik."
+  }, {
+    "letter" : "B",
+    "text" : "Magyarországon a halálos kimenetelű öngyilkosságok leggyakoribb elkövetési módja a mérgezés."
+  }, {
+    "letter" : "C",
+    "text" : "Az otthoni balesetek elszenvedői főként a gyerekek és az idősek."
+  }, {
+    "letter" : "D",
+    "text" : "Magyarországon több férfi követ el öngyilkosságot, mint nő."
+  }, {
+    "letter" : "E",
+    "text" : "Magyarországon az utóbbi években csökkent az öngyilkosok száma."
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Magyarországon a halálos kimenetelű öngyilkosságok leggyakoribb elkövetési módja a mérgezés."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.69",
+  "text" : "A prion betegségek kiváltó ágensére jellemző:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "a lassú vírusok közé tartozik"
+  }, {
+    "letter" : "B",
+    "text" : "speciális szerkezetű protein"
+  }, {
+    "letter" : "C",
+    "text" : "cseppfertőzéssel képes terjedni"
+  }, {
+    "letter" : "D",
+    "text" : "csak állatról terjed emberre"
+  }, {
+    "letter" : "E",
+    "text" : "vektorok is közvetítik"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "speciális szerkezetű protein"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.70",
+  "text" : "Az „ablak-periódus” alatt a HIV-fertőzött személy vére:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "még teljesen veszélytelen"
+  }, {
+    "letter" : "B",
+    "text" : "vírusokat már tartalmaz, de a fertőzést nem közvetíti"
+  }, {
+    "letter" : "C",
+    "text" : "vírusokat már tartalmaz, de a szerológiai próba még negatív"
+  }, {
+    "letter" : "D",
+    "text" : "még nem tartalmaz vírusokat, de a szerológiai próba már pozitív"
+  }, {
+    "letter" : "E",
+    "text" : "már tartalmaz vírusokat és a szerológiai próba is pozitív"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "vírusokat már tartalmaz, de a szerológiai próba még negatív"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.71",
+  "text" : "Prionnal szennyezett felületek fertőtlenítésére alkalmazott kémiai anyag:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "aldehid (glutáraldehid)"
+  }, {
+    "letter" : "B",
+    "text" : "guanidinszármazék (klórhexidin)"
+  }, {
+    "letter" : "C",
+    "text" : "lúg (NaOH)"
+  }, {
+    "letter" : "D",
+    "text" : "fenolszármazék (krezol)"
+  }, {
+    "letter" : "E",
+    "text" : "hidrogén-peroxid"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "lúg (NaOH)"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.72",
+  "text" : "Bizonyos élelmiszerekben természetes tartalomként jelenlévő toxikus anyag, kivéve:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "tetrodotoxin"
+  }, {
+    "letter" : "B",
+    "text" : "cianid"
+  }, {
+    "letter" : "C",
+    "text" : "oxálsav"
+  }, {
+    "letter" : "D",
+    "text" : "szolanin"
+  }, {
+    "letter" : "E",
+    "text" : "PCB"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "PCB"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.73",
+  "text" : "Az alábbiak közül melyik az igaz állítás?",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "A perinatális időszak a magzat/újszülött életben maradása szempontjából az élet legkritikusabb szakasza."
+  }, {
+    "letter" : "B",
+    "text" : "A csecsemő halálesetek legalább 80%-a a posztneonatális időszakban történik."
+  }, {
+    "letter" : "C",
+    "text" : "A perinatális halálozás értékét százalékban fejezik ki."
+  }, {
+    "letter" : "D",
+    "text" : "A perinatális halálozás kiszámításakor csak a halvaszületettek évi számára történik a vonatkoztatás."
+  }, {
+    "letter" : "E",
+    "text" : "Magyarországon a perinatális halálozás az utóbbi években fokozatosan nőtt."
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "A perinatális időszak a magzat/újszülött életben maradása szempontjából az élet legkritikusabb szakasza."
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.74",
+  "text" : "Várandós, illetve szoptató nő esetében a naponta elfogyasztandó fehérje mennyisége:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "0,5 g/ttkg"
+  }, {
+    "letter" : "B",
+    "text" : "1,0 g/ttkg"
+  }, {
+    "letter" : "C",
+    "text" : "1,5 g/ttkg"
+  }, {
+    "letter" : "D",
+    "text" : "2,0 g/ttkg"
+  }, {
+    "letter" : "E",
+    "text" : "2,5 g/ttkg"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "2,0 g/ttkg"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.75",
+  "text" : "Teratogén hatással nem rendelkező fertőző betegség:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "hepatitis B"
+  }, {
+    "letter" : "B",
+    "text" : "listeriosis"
+  }, {
+    "letter" : "C",
+    "text" : "syphilis"
+  }, {
+    "letter" : "D",
+    "text" : "toxoplasmosis"
+  }, {
+    "letter" : "E",
+    "text" : "varicella"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "hepatitis B"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.76",
+  "text" : "Megbetegedési veszély megelőzése céljából sem használnak ellene aktív immunizációt:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "salmonellosis"
+  }, {
+    "letter" : "B",
+    "text" : "diphtheria"
+  }, {
+    "letter" : "C",
+    "text" : "hepatitis A"
+  }, {
+    "letter" : "D",
+    "text" : "pneumococcus meningitis"
+  }, {
+    "letter" : "E",
+    "text" : "tetanus"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "salmonellosis"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.77",
+  "text" : "Obligát emberi kórokozó:",
+  "moreText" : [ ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Brucella abortus"
+  }, {
+    "letter" : "B",
+    "text" : "Haemophilus influenzae"
+  }, {
+    "letter" : "C",
+    "text" : "Leptospira ichterohaemorrhagiae"
+  }, {
+    "letter" : "D",
+    "text" : "Listeria monocytogenes"
+  }, {
+    "letter" : "E",
+    "text" : "Yersinia pestis"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Haemophilus influenzae"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.78",
+  "text" : "Fungicid hatású fertőtlenítőszer:",
+  "moreText" : [ "1)     hidrogén-peroxid", "2)     jodofórok", "3)     fenol", "4)     klóramin-B" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.79",
+  "text" : "Strumigén anyagokat tartalmazó élelmiszer alapanyag",
+  "moreText" : [ "1)     zöldbab", "2)     spenót", "3)     tök", "4)     kelkáposzta" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.80",
+  "text" : "A súlyosabb kimenetelű nosocomiális fertőzésekben gyakran előforduló kórokozó:",
+  "moreText" : [ "1)     MRSA", "2)     Clostridium tetani", "3)     Pseudomonas aeruginosa", "4)     Haemophilus influenzae" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.81",
+  "text" : "Staphylococcus aureus által termelt exotoxin:",
+  "moreText" : [ "1)     α-toxin", "2)     enterotoxin", "3)     erythrogen toxin", "4)     toxikus shock szindróma toxin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.82",
+  "text" : "Megelőzéséhez foglalkozáshoz kötött kötelező aktív immunizálást alkalmaznak:",
+  "moreText" : [ "1)     botulismus", "2)     leptospirosis", "3)     listeriosis", "4)     lyssa" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.83",
+  "text" : "Hüvelyesek fogyasztásával felvehető vitamin:",
+  "moreText" : [ "1)     B2-vitamin", "2)     niacin", "3)     pantoténsav", "4)     K-vitamin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.84",
+  "text" : "A Borreliák okozta fertőzéseket közvetítő vektor:",
+  "moreText" : [ "1)     szúnyog", "2)     ruhatetű", "3)     atka", "4)     kullancs" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.85",
+  "text" : "Az alábbiak közül DNS- vírusok:",
+  "moreText" : [ "1)     Adenovírusok", "2)     Paramyxovírusok", "3)     Herpesvírusok", "4)     Reovírusok" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.86",
+  "text" : "RNS-vírus okozta megbetegedés:",
+  "moreText" : [ "1)     mononucleosis infectiosa", "2)     hepatitis B", "3)     varicella", "4)     morbilli" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.87",
+  "text" : "Elfogyasztása szerves higany expozícióval járhat:",
+  "moreText" : [ "1)     sertéshús", "2)     marhahús", "3)     birkahús", "4)     tengeri hal" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.88",
+  "text" : "A kórokozónak a szervezetben vándorlási ciklusa van:",
+  "moreText" : [ "1)     Trichinella spiralis", "2)     Enterobius vermicularis", "3)     Echinococcus granulatus", "4)     Ascaris lumbricoides" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.89",
+  "text" : "Prevenciójában a passzív immunizálást is alkalmazzák:",
+  "moreText" : [ "1)     cholera", "2)     diphtheria", "3)     salmonellosis", "4)     tetanus" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.90",
+  "text" : "A természetes népmozgalom adatai közé tartozik:",
+  "moreText" : [ "1)     korspecifikus halálozási arányszám", "2)     nyers élveszületési arányszám", "3)     általános termékenységi arányszám", "4)     nyers halálozási arányszám" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.91",
+  "text" : "Kifejezett környezeti perzisztenciával rendelkező peszticidek:",
+  "moreText" : [ "1)     klórozott szénhidrogének", "2)     szerves foszforsavészterek", "3)     PCB-k", "4)     piretroidok" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.92",
+  "text" : "Szelektív, nem differenciáló táptalaj:",
+  "moreText" : [ "1)     eozin metilénkék", "2)     brillantzöld táptalaj", "3)     Endo agar", "4)     TCBS táptalaj" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.93",
+  "text" : "Nem minősül veszélyes hulladéknak:",
+  "moreText" : [ "1)     kórházi hulladék", "2)     galvanizáló üzemek szennyvize", "3)     gyógyszergyári hulladék", "4)     a kommunális hulladék" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.94",
+  "text" : "Élelmiszeriparban nem felhasználható tartósítószerek: ",
+  "moreText" : [ "1)     szalicilát", "2)     benzoesav", "3)     nitrát- és nitrittartalmú pácok", "4)     antioxidánsok" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.95",
+  "text" : "Csirkeembrióban előállított vakcina:",
+  "moreText" : [ "1)     hepatitis A", "2)     morbilli", "3)     IPV", "4)     mumpsz" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.96",
+  "text" : "A májban daganatot létrehozó anyag:",
+  "moreText" : [ "1)     króm ", "2)     szén-tetraklorid", "3)     azbeszt", "4)     aflatoxin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.97",
+  "text" : "A fertőzött, illetve a betegségben szenvedő nő nem adhat anyatejet:",
+  "moreText" : [ "1)     morbilli", "2)     botulizmus", "3)     varicella", "4)     HBV" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.98",
+  "text" : "Gram-pozitív baktériumok:",
+  "moreText" : [ "1)     Streptococcus pyogenes", "2)     Bordetella pertussis", "3)     Clostridium tetani", "4)     Haemophilus influenzae" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.99",
+  "text" : "Anaerob spórás baktériumok:",
+  "moreText" : [ "1)     Bacillus cereus", "2)     Bacillus anthracis", "3)     Bacteroides fragilis", "4)     Clostridium tetani" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.100",
+  "text" : "Az endotoxinok jellemző sajátosságai:",
+  "moreText" : [ "1)     inkubációs idő után hatnak", "2)     nem alakíthatók toxoiddá", "3)     hatásuk toxinspecifikus", "4)     antigenitásuk gyenge" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Minden válasz helyes "
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak a 4. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.101",
+  "text" : "Korhoz kötött kötelező védőoltás:",
+  "moreText" : [ "1)     MMR", "2)     varicella", "3)     DTPa", "4)     hepatitis A" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.102",
+  "text" : "A betegségnek csak a sertés a fertőző forrása:",
+  "moreText" : [ "1)     ascariasis", "2)     enterobiasis", "3)     giardiasis", "4)     trichinellosis" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes "
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak a 4. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.103",
+  "text" : "A szűrővizsgálat validitásának megállapítására használt mutató:",
+  "moreText" : [ "1)     specificitás", "2)     pozitív prediktív érték", "3)     szenzitivitás", "4)     negatív prediktív érték" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.104",
+  "text" : "A betegség megelőzésében kemoprofilaxist is alkalmaznak:",
+  "moreText" : [ "1)     varicella", "2)     meningitis epidemica", "3)     mononucleosis infectiosa", "4)     scarlatina" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.105",
+  "text" : "Tüdődaganatot okozó fém:",
+  "moreText" : [ "1)     higany", "2)     ólom", "3)     mangán", "4)     arzén" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.106",
+  "text" : "Nagy dózisú akut szerves foszforsavészter mérgezéskor észlelhető tünet:",
+  "moreText" : [ "1)     fokozott nyálfolyás", "2)     igen szűk pupilla", "3)     bradycardia", "4)     izomfibrilláció" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.107",
+  "text" : "A Los Angeles-i típusú szmogban szerepet játszó tényezők:",
+  "moreText" : [ "1)     freonok", "2)     kismolekulájú szénhidrogének", "3)     SOx", "4)     UV sugárzás" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Minden válasz helyes "
+  }, {
+    "letter" : "C",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.108",
+  "text" : "Az eset-kontroll vizsgálat sajátossága:",
+  "moreText" : [ "1)     prospektív vizsgálat", "2)     retrospektív vizsgálat", "3)     nagy a költsége", "4)     esélyhányados számítható ki" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.109",
+  "text" : "Bizonyítottan humán karcinogén anyag:",
+  "moreText" : [ "1)     etilén-glikol", "2)     kadmium", "3)     higany", "4)     benzol" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes "
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.110",
+  "text" : "A klasszikus CJD-től eltérő, a vCJD-re jellemző sajátosság:",
+  "moreText" : [ "1)     bejelentésre kötelezett ", "2)     letális kimenetelű", "3)     tünetek lassabban progrediálnak", "4)     fiatalabb életkorban kezdődik" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.111",
+  "text" : "Vibrációs expozícióval járó munkakörben nem dolgozhatnak: ",
+  "moreText" : [ "1)     ízületi betegek", "2)     vérképzőszervi betegségben szenvedők", "3)     perifériás keringési betegek", "4)     magas BMI-vel rendelkező személyek " ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "E",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.112",
+  "text" : "Az üvegházhatás kialakulásában szerepet játszó vegyületek:",
+  "moreText" : [ "1)     O3", "2)     metán", "3)     SOx", "4)     CO2" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Minden válasz helyes "
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.113",
+  "text" : "A beltéri légszennyezők közül daganatkeltő hatása van:",
+  "moreText" : [ "1)     PAN-ok", "2)     PAH-ok", "3)     foszgén", "4)     formaldehid" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.114",
+  "text" : "Varicella előfordulása esetén nem elvégzendő járványügyi teendő:",
+  "moreText" : [ "1)     kontaktok kemoprofilaxisa", "2)     kötelező laborvizsgálat", "3)     kontaktok aktív immunizálása", "4)     elkülönítés" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.115",
+  "text" : "18 hónapos életkorban egyes fertőző betegségek ellen korhoz kötött kötelező immunizálás történik:",
+  "moreText" : [ "1)     mumpsz", "2)     diphtheria", "3)     morbilli", "4)     varicella" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Minden válasz helyes "
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.116",
+  "text" : "Hiánya idegrendszeri tünetek kialakulásához vezet:",
+  "moreText" : [ "1)     niacin", "2)     B2-vitamin", "3)     B12-vitamin", "4)     B1-vitamin" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Minden válasz helyes "
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.117",
+  "text" : "Magas koncentrációban belélegezve tüdőödémát okoz:",
+  "moreText" : [ "1)     triklóretilén", "2)     akrilnitril", "3)     akrilamid", "4)     foszgén" ],
+  "answers" : [ {
+    "letter" : "A",
+    "text" : "Csak a 2. és 4. válasz helyes"
+  }, {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  }, {
+    "letter" : "C",
+    "text" : "Minden válasz helyes"
+  }, {
+    "letter" : "D",
+    "text" : "Csak az 1. és 3. válasz helyes"
+  }, {
+    "letter" : "E",
+    "text" : "Csak az 1., 2. és 3. válasz helyes"
+  } ],
+  "solution" : {
+    "letter" : "B",
+    "text" : "Csak a 4. válasz helyes"
+  },
+  "type" : "QUESTION"
+}, {
+  "id" : "GYMB - 8.118",
+  "text" : "<p>Csoportosítsa a két típusra jellemző információkat!</p> ",
+  "items" : [ {
+    "text" : "az intrauterin élet során IgG-ellenanyag jut a magzatba",
+    "match" : "A"
+  }, {
+    "text" : "kevert humán plazma kellhet hozzá",
+    "match" : "B"
+  }, {
+    "text" : "szoptatás során IgA képezi az alapját",
+    "match" : "A"
+  }, {
+    "text" : "fertőzésen átesettek vérét is felhasználja",
+    "match" : "B"
+  }, {
+    "text" : "esetenként túlérzékenységi próbát kell végezni",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "természetes passzív immunitás"
+  }, {
+    "letter" : "B",
+    "text" : "mesterséges passzív immunitás"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.119",
+  "text" : "<p>Csoportosítsa a két módszerhez tartozó állításokat!</p> ",
+  "items" : [ {
+    "text" : "effektivitását B. stearothermophilus-szal is lehet ellenőrizni",
+    "match" : "A"
+  }, {
+    "text" : "textília sterilizálására nem alkalmas",
+    "match" : "B"
+  }, {
+    "text" : "magasabb nyomáson működik",
+    "match" : "A"
+  }, {
+    "text" : "bizonyos anyagokból készült eszközökhöz nem megfelelő",
+    "match" : "B"
+  }, {
+    "text" : "a kórokozók víztartalmának elvonásán alapuló módszer",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "autokláv"
+  }, {
+    "letter" : "B",
+    "text" : "hőlégsterilizáló"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.120",
+  "text" : "Tulajdonsága alapján sorolja be a baktériumokat!  ",
+  "items" : [ {
+    "text" : "Staphylococcus",
+    "match" : "A"
+  }, {
+    "text" : "Helicobacter",
+    "match" : "B"
+  }, {
+    "text" : "Corynebacterium",
+    "match" : "A"
+  }, {
+    "text" : "Campylobacter",
+    "match" : "B"
+  }, {
+    "text" : "Brucella",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Gram-pozitív"
+  }, {
+    "letter" : "B",
+    "text" : "Gram-negatív"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.121",
+  "text" : "Az egyes sugárzások által létrehozott tünetek: ",
+  "items" : [ {
+    "text" : "fokozott pigmentáció",
+    "match" : "A"
+  }, {
+    "text" : "electroophtalmia",
+    "match" : "A"
+  }, {
+    "text" : "keratitis",
+    "match" : "A"
+  }, {
+    "text" : "bőr atrophia",
+    "match" : "B"
+  }, {
+    "text" : "termális hatás",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "ultraibolya sugárzás"
+  }, {
+    "letter" : "B",
+    "text" : "infravörös sugárzás"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.122",
+  "text" : "Sorolja be krónikus kórokozó-hordozás szerint a betegségeket! ",
+  "items" : [ {
+    "text" : "hepatitis A",
+    "match" : "B"
+  }, {
+    "text" : "hepatitis B",
+    "match" : "A"
+  }, {
+    "text" : "hepatitis C",
+    "match" : "A"
+  }, {
+    "text" : "HIV",
+    "match" : "A"
+  }, {
+    "text" : "varicella",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "van krónikus hordozás"
+  }, {
+    "letter" : "B",
+    "text" : "nincs krónikus hordozás"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.123",
+  "text" : "<p class=\"MsoNormal\">A felsorolt epidemiológiai tulajdonságok melyik kórformához kapcsolódnak?</p> ",
+  "items" : [ {
+    "text" : "a vírus átjut a placenta barrieren",
+    "match" : "B"
+  }, {
+    "text" : "hosszabb a lappangási ideje",
+    "match" : "B"
+  }, {
+    "text" : "lehetséges a krónikus vírushordozás",
+    "match" : "B"
+  }, {
+    "text" : "korhoz kötött kötelező védőoltása van",
+    "match" : "B"
+  }, {
+    "text" : "gyermekkori fertőződéskor sokszor enyhe formában zajlik le",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "hepatitis A"
+  }, {
+    "letter" : "B",
+    "text" : "hepatitis B"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.124",
+  "text" : "<p class=\"MsoNormal\">A nem megfelelő táplálkozás melyik formája segíti elő az alábbi daganatok kialakulását?</p> ",
+  "items" : [ {
+    "text" : "primer májrák",
+    "match" : "B"
+  }, {
+    "text" : "vastagbélrák",
+    "match" : "A"
+  }, {
+    "text" : "méhtestrák",
+    "match" : "A"
+  }, {
+    "text" : "emlőrák",
+    "match" : "A"
+  }, {
+    "text" : "végbélrák",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "állati fehérje és telített zsírdús táplálkozás"
+  }, {
+    "letter" : "B",
+    "text" : "fehérjeszegény táplálkozás"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.125",
+  "text" : "Határozza meg az egyes szmogok kialakulásában szerepet játszó tényezőket! ",
+  "items" : [ {
+    "text" : "UV-sugárzás hatására alakul ki",
+    "match" : "B"
+  }, {
+    "text" : "redukáló jellegű",
+    "match" : "A"
+  }, {
+    "text" : "PAN anyagok mutathatók ki",
+    "match" : "B"
+  }, {
+    "text" : "magasabb SOx koncentráció hozza létre",
+    "match" : "A"
+  }, {
+    "text" : "fokozott közúti közlekedéshez kapcsolódik",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "London-i típusú szmog"
+  }, {
+    "letter" : "B",
+    "text" : "Los Angeles-i típusú szmog"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.126",
+  "text" : "Csoportosítsa az oltóanyagokra vonatkozó állításokat! ",
+  "items" : [ {
+    "text" : "elölt vírust tartalmaz",
+    "match" : "A"
+  }, {
+    "text" : "attenuált vírust tartalmaz",
+    "match" : "B"
+  }, {
+    "text" : "IgA-típusú lokális immunválaszt vált ki",
+    "match" : "B"
+  }, {
+    "text" : "Magyarországon jelenleg használatos vakcina",
+    "match" : "A"
+  }, {
+    "text" : "közismert neve - Salk- vakcina",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "IPV"
+  }, {
+    "letter" : "B",
+    "text" : "OPV"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.127",
+  "text" : "Csoportosítsa a táptalajokat az alábbiak szerint! ",
+  "items" : [ {
+    "text" : "brillantzöld táptalaj ",
+    "match" : "A"
+  }, {
+    "text" : "eozin-metilénkék táptalaj",
+    "match" : "B"
+  }, {
+    "text" : "TCBS",
+    "match" : "A"
+  }, {
+    "text" : "Endo táptalaj",
+    "match" : "B"
+  }, {
+    "text" : "DC agar táptalaj",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "szelektív táptalaj"
+  }, {
+    "letter" : "B",
+    "text" : "szelektív-differenciáló táptalaj"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.128",
+  "text" : "<p>Az egyes betegségek sajátosságai:</p> ",
+  "items" : [ {
+    "text" : "a fertőző forrás szárnyas is lehet",
+    "match" : "B"
+  }, {
+    "text" : "teratogén hatású fertőzés",
+    "match" : "B"
+  }, {
+    "text" : "magas letalitású lehet",
+    "match" : "A"
+  }, {
+    "text" : "protozoon okozza",
+    "match" : "B"
+  }, {
+    "text" : "a beteget kórházban kell elkülöníteni",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "anthrax"
+  }, {
+    "letter" : "B",
+    "text" : "toxoplasmosis"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.129",
+  "text" : "<p class=\"MsoNormal\">A két kullancs terjesztette betegség közti különbségek:</p> ",
+  "items" : [ {
+    "text" : "bejelentendő, de csak szövődmény kialakulása, vagy letális kimenetelkor kell kijelenteni",
+    "match" : "A"
+  }, {
+    "text" : "kórokozója transzovariálisan átjut a következő kullancsgenerációba",
+    "match" : "B"
+  }, {
+    "text" : "aktív immunizálással meg lehet előzni",
+    "match" : "B"
+  }, {
+    "text" : "kezeletlen kecsketej is terjesztheti",
+    "match" : "B"
+  }, {
+    "text" : "jellegzetes tünete az erythema chronicum migrans",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Lyme-kór"
+  }, {
+    "letter" : "B",
+    "text" : "kullancsencephalitis"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.130",
+  "text" : "A diabétesz két fő formája közti eltérések: ",
+  "items" : [ {
+    "text" : "fiatal korban kezdődik",
+    "match" : "A"
+  }, {
+    "text" : "genetikai okok is jelentős szerepet játszanak a kialakulásában",
+    "match" : "B"
+  }, {
+    "text" : "autoimmun folyamat következménye",
+    "match" : "A"
+  }, {
+    "text" : "magasabb kockázatú csoportját szűrni lehetséges",
+    "match" : "B"
+  }, {
+    "text" : "a folyamat romlását a nem megfelelő táplálkozás gyorsítja",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "1-es típusú diabétesz"
+  }, {
+    "letter" : "B",
+    "text" : "2-es típusú diabétesz"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.131",
+  "text" : "A két nemi úton terjedő betegség közötti eltérések:  ",
+  "items" : [ {
+    "text" : "az infekciót követően 5 év a fertőzőképesség időtartama",
+    "match" : "A"
+  }, {
+    "text" : "mivel ellene nem alakul ki tartós immunitás, újrafertőződés lehetséges",
+    "match" : "B"
+  }, {
+    "text" : "teratogén hatása miatt a terhes nőket szűrni kell",
+    "match" : "A"
+  }, {
+    "text" : "a szülőcsatornában bekövetkező, vakságot okozó fertőződés ellen az újszülöttet kezelni kell",
+    "match" : "B"
+  }, {
+    "text" : "egyes foglalkozásokban történő alkalmazás előtt kötelező a laboratóriumi vizsgálata",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "syphilis"
+  }, {
+    "letter" : "B",
+    "text" : "gonorrhoea"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.132",
+  "text" : "<p>Sorolja be a két sugárzásfajta baktericid hatásának mechanizmusát! </p> ",
+  "items" : [ {
+    "text" : "citozin fotohidratációja",
+    "match" : "B"
+  }, {
+    "text" : "timin és uracil fotodimerizációja",
+    "match" : "B"
+  }, {
+    "text" : "hidroxidionok keletkezése",
+    "match" : "A"
+  }, {
+    "text" : "szabad hidrogéngyökök kialakulása",
+    "match" : "A"
+  }, {
+    "text" : "szabad hidroxilgyök keletkezése",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "gammasugárzás"
+  }, {
+    "letter" : "B",
+    "text" : "ultraibolya sugárzás"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.133",
+  "text" : "Szezonalitásuk alapján – aktív immunizálás nélkül – mikor gyakoriak az alábbi betegségek? ",
+  "items" : [ {
+    "text" : "hepatitis A",
+    "match" : "A"
+  }, {
+    "text" : "kiütéses typhus",
+    "match" : "B"
+  }, {
+    "text" : "rubeola",
+    "match" : "B"
+  }, {
+    "text" : "typhus abdominalis",
+    "match" : "A"
+  }, {
+    "text" : "dysenteria",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "nyári-kora őszi előfordulás"
+  }, {
+    "letter" : "B",
+    "text" : "téli-kora tavaszi előfordulás"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.134",
+  "text" : "<p>Rendelje a vizsgálatokhoz azok célját!</p> ",
+  "items" : [ {
+    "text" : "adott életkorú nők mammográfiás vizsgálatra történő behívása",
+    "match" : "A"
+  }, {
+    "text" : "a légúti panaszok miatt orvoshoz fordulók röntgen vizsgálata",
+    "match" : "B"
+  }, {
+    "text" : "hajléktalanok szájüregi vizsgálata",
+    "match" : "A"
+  }, {
+    "text" : "iskoláskorúak fogorvosi vizsgálata",
+    "match" : "A"
+  }, {
+    "text" : "a csecsemők csípőízületi vizsgálata",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "szűrés"
+  }, {
+    "letter" : "B",
+    "text" : "korai diagnózis"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.135",
+  "text" : "<p>Csoportosítsa a két hepatitis vírus sajátosságait!</p> ",
+  "items" : [ {
+    "text" : "RNS-vírus",
+    "match" : "A"
+  }, {
+    "text" : "az infekció regenerálódó májsejtkárosodást okoz",
+    "match" : "A"
+  }, {
+    "text" : "hatását az alkohol, egyes kémiai anyagok súlyosbítják",
+    "match" : "B"
+  }, {
+    "text" : "a folyamat kezdetekor az IgM növekedése, majd az IgG emelkedése észlelhető",
+    "match" : "A"
+  }, {
+    "text" : "DNS-vírus",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Hepatitis A vírus"
+  }, {
+    "letter" : "B",
+    "text" : "Hepatitis B vírus"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.136",
+  "text" : "<p>Határozza meg a két protozoon tulajdonságait!</p> ",
+  "items" : [ {
+    "text" : "ostoros képlet",
+    "match" : "B"
+  }, {
+    "text" : "a cisztás formájának ürülése intermittáló",
+    "match" : "A"
+  }, {
+    "text" : "az ivóvíz klórozása a cisztás formáját nem pusztítja el",
+    "match" : "B"
+  }, {
+    "text" : "a tünetmentes egyénekben a szerológiai vizsgálatok negatívak lehetnek",
+    "match" : "A"
+  }, {
+    "text" : "a kiváltott kóros folyamat halálos kimenetelű is lehet",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Entamoeba histolytica"
+  }, {
+    "letter" : "B",
+    "text" : "Giardia lamblia"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.137",
+  "text" : "Határozza meg az egyes életkorokban eltérő gyakoriságú daganatokat! ",
+  "items" : [ {
+    "text" : "szájüregi rák",
+    "match" : "B"
+  }, {
+    "text" : "Burkitt lymphoma",
+    "match" : "A"
+  }, {
+    "text" : "vesetumor",
+    "match" : "A"
+  }, {
+    "text" : "csontsarcoma",
+    "match" : "A"
+  }, {
+    "text" : "ajakrák",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "gyermekkor"
+  }, {
+    "letter" : "B",
+    "text" : "időskor"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.138",
+  "text" : "<p>Az alábbi krónikus hatások közül melyikkel hozhatók kapcsolatba:</p> <p> </p> ",
+  "items" : [ {
+    "text" : "férfi potenciazavarok",
+    "match" : "B"
+  }, {
+    "text" : "női tüdő daganatok incidenciájának növekedése",
+    "match" : "A"
+  }, {
+    "text" : "alsó végtag érszűkületének kialakulása",
+    "match" : "A"
+  }, {
+    "text" : "alacsonyabb születési testtömeg",
+    "match" : "A"
+  }, {
+    "text" : "az öngyilkossági gyakoriság emelkedése",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "dohányzás"
+  }, {
+    "letter" : "B",
+    "text" : "alkoholfogyasztás"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.139",
+  "text" : "<p>Válassza ki a kórokozóra jellemző sajátosságot!</p> ",
+  "items" : [ {
+    "text" : "toxinja gátolja az acetilkolin lebomlást",
+    "match" : "A"
+  }, {
+    "text" : "toxinja magas hőmérséklet hatására lebomlik",
+    "match" : "B"
+  }, {
+    "text" : "a betegség megelőzésére aktív immunizálást használnak",
+    "match" : "A"
+  }, {
+    "text" : "toxinja gátolja az acetilkolin felszabadulást",
+    "match" : "B"
+  }, {
+    "text" : "a megbetegedéskor polivalens antitoxint használnak",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "Clostridium tetani"
+  }, {
+    "letter" : "B",
+    "text" : "Clostridium botulinum"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.140",
+  "text" : "<p>Az öngyilkossággal kapcsolatos epidemiológiai helyzet sajátosságai:</p> ",
+  "items" : [ {
+    "text" : "a nők nagyobb számban érintettek",
+    "match" : "A"
+  }, {
+    "text" : "kisebb településeken gyakoribb",
+    "match" : "B"
+  }, {
+    "text" : "fiatal és tizenéves korban többen követik el",
+    "match" : "A"
+  }, {
+    "text" : "gyakoribb a középkorú és idős férfiak körében",
+    "match" : "B"
+  }, {
+    "text" : "hazánkban a leggyakoribb elkövetési mód az önakasztás",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "öngyilkossági kísérlet"
+  }, {
+    "letter" : "B",
+    "text" : "befejezett öngyilkosság"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.141",
+  "text" : "<p class=\"MsoNormal\">Az ionizáló sugárzás effektusa szerint:</p> ",
+  "items" : [ {
+    "text" : "vörös csontvelő",
+    "match" : "A"
+  }, {
+    "text" : "vékonybél nyálkahártya ",
+    "match" : "A"
+  }, {
+    "text" : "bőr",
+    "match" : "A"
+  }, {
+    "text" : "máj",
+    "match" : "B"
+  }, {
+    "text" : "idegrendszer",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "sugárérzékeny szövet, illetve szerv"
+  }, {
+    "letter" : "B",
+    "text" : "kevésbé sugárérzékeny szövet, illetve szerv"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.142",
+  "text" : "Jellege szerint az adott munkafolyamatot „A” vagy „B” tisztasági osztályú helyiségekben kell végezni? ",
+  "items" : [ {
+    "text" : "ampullák zárása",
+    "match" : "A"
+  }, {
+    "text" : "fehér mosogatás",
+    "match" : "B"
+  }, {
+    "text" : "desztillálás",
+    "match" : "B"
+  }, {
+    "text" : "infúziók készítése",
+    "match" : "A"
+  }, {
+    "text" : "<p>ampullák töltése</p> <p> </p>",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "„A” tisztasági osztály"
+  }, {
+    "letter" : "B",
+    "text" : "„B” tisztasági osztály"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.143",
+  "text" : "Az alábbi fertőző ágensek közül melyiknek van, és melyiknek nincs teratogén hatása? ",
+  "items" : [ {
+    "text" : "Francisella tularensis",
+    "match" : "B"
+  }, {
+    "text" : "Rubeola vírus",
+    "match" : "A"
+  }, {
+    "text" : "Toxoplasma gondii",
+    "match" : "A"
+  }, {
+    "text" : "Poliovírus hominis",
+    "match" : "B"
+  }, {
+    "text" : "Treponema pallidum",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "teratogén hatás van"
+  }, {
+    "letter" : "B",
+    "text" : "teratogén hatás nincs"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.144",
+  "text" : "Az egyes anyagoknak az élelmiszerben történő előfordulása: ",
+  "items" : [ {
+    "text" : "PCB",
+    "match" : "B"
+  }, {
+    "text" : "vicin",
+    "match" : "A"
+  }, {
+    "text" : "szolanin",
+    "match" : "A"
+  }, {
+    "text" : "nitrozamin",
+    "match" : "B"
+  }, {
+    "text" : "falloidin",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "természetes eredetű"
+  }, {
+    "letter" : "B",
+    "text" : "mesterséges eredetű"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.145",
+  "text" : "<p>A betegség fertőző forrása lehet:</p> ",
+  "items" : [ {
+    "text" : "ascariasis",
+    "match" : "A"
+  }, {
+    "text" : "campylobacteriosis",
+    "match" : "B"
+  }, {
+    "text" : "meningitis epidemica",
+    "match" : "A"
+  }, {
+    "text" : "typhus abdominalis",
+    "match" : "A"
+  }, {
+    "text" : "yersiniosis",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "csak az ember"
+  }, {
+    "letter" : "B",
+    "text" : "az ember és állatok is"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.146",
+  "text" : "<p class=\"MsoNormal\">A kardiovaskuláris rizikótényezők közül válassza ki a megfelelőt!</p> ",
+  "items" : [ {
+    "text" : "nem",
+    "match" : "B"
+  }, {
+    "text" : "hipertónia",
+    "match" : "A"
+  }, {
+    "text" : "diabétesz",
+    "match" : "A"
+  }, {
+    "text" : "A” típusú személyiség",
+    "match" : "B"
+  }, {
+    "text" : "hyperlipoproteinaemia",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "befolyásolható"
+  }, {
+    "letter" : "B",
+    "text" : "<p>nem befolyásolható</p> <p> </p>"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.147",
+  "text" : "<p>Az egyes fertőző betegségek megelőzésében alkalmazható védőoltások: </p> <p> </p> ",
+  "items" : [ {
+    "text" : "tetanus",
+    "match" : "B"
+  }, {
+    "text" : "meningitis epidemica",
+    "match" : "A"
+  }, {
+    "text" : "pertussis",
+    "match" : "A"
+  }, {
+    "text" : "Haemophilus influenzae meningitis",
+    "match" : "A"
+  }, {
+    "text" : "varicella",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "csak aktív immunizálás alkalmazható"
+  }, {
+    "letter" : "B",
+    "text" : "<p class=\"MsoNormal\">aktív és passzív immunizálás alkalmazható</p> <p class=\"MsoNormal\"> </p>"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.148",
+  "text" : "Állapítsa meg az egyes vizsgálattípusokra jellemző sajátosságokat! ",
+  "items" : [ {
+    "text" : "retrospektív",
+    "match" : "A"
+  }, {
+    "text" : "exponált és nem exponált csoportot vizsgál",
+    "match" : "B"
+  }, {
+    "text" : "egy beteg és egy egészséges csoportot vizsgál",
+    "match" : "A"
+  }, {
+    "text" : "hosszabb idejű",
+    "match" : "B"
+  }, {
+    "text" : "megállapítható a relatív kockázat",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "eset-kontroll vizsgálat"
+  }, {
+    "letter" : "B",
+    "text" : "kohorsz vizsgálat"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.149",
+  "text" : "<p>Határozza meg az egyes betegségekhez tartozó jellemzőket!</p> ",
+  "items" : [ {
+    "text" : "hazánkban ma is endémiás kórforma",
+    "match" : "A"
+  }, {
+    "text" : "nincs ellene aktív immunizálás",
+    "match" : "A"
+  }, {
+    "text" : "járványveszély esetén javasolt az ismételt aktív immunizálás",
+    "match" : "B"
+  }, {
+    "text" : "a beteg környezetében a kórokozó hordozók száma jelentősen megnő",
+    "match" : "A"
+  }, {
+    "text" : "a beteggel közvetlen kontaktusban levő személy nem kezelhet tejet",
+    "match" : "B"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "scarlatina "
+  }, {
+    "letter" : "B",
+    "text" : "diphtheria"
+  } ],
+  "type" : "ASSOCIATION"
+}, {
+  "id" : "GYMB - 8.150",
+  "text" : "<p>Határozza meg a két toxikoinfekció folyamatának különbségeit!</p> ",
+  "items" : [ {
+    "text" : "a lappangási ideje rövidebb",
+    "match" : "B"
+  }, {
+    "text" : "a folyamat generalizálódása miatt letális is lehet",
+    "match" : "A"
+  }, {
+    "text" : "a laboratóriumi vizsgálat csak esetenként, pl. a fertőző forrás megtalálásához kötelező ",
+    "match" : "B"
+  }, {
+    "text" : "a kialakuló járványos folyamatnak két fázisa van",
+    "match" : "A"
+  }, {
+    "text" : "a betegség következtében típusspecifikus immunitás jön létre ",
+    "match" : "A"
+  } ],
+  "legends" : [ {
+    "letter" : "A",
+    "text" : "salmonellosis"
+  }, {
+    "letter" : "B",
+    "text" : "Staphylococcus toxikoinfekció"
+  } ],
+  "type" : "ASSOCIATION"
+} ]

@@ -2,12 +2,12 @@
 
   <md-card *ngIf="question">
     <md-card-subtitle>{{ question.id }}</md-card-subtitle>
-    <md-card-title>{{ question.text }}</md-card-title>
+    <md-card-title [innerHTML]="question.text"></md-card-title>
 
     <md-card-content>
 
       <p *ngFor="#moreText of question.moreText">
-        {{moreText}}
+        <span [innerHTML]="moreText"></span>
       </p>
 
       <md-radio-group [(ngModel)]="solution">
@@ -17,7 +17,7 @@
                            good: chosen && answer.letter == question.solution.letter,
                            bad: chosen && answer.letter != question.solution.letter && answer.letter == chosen,
                            off: chosen && answer.letter != question.solution.letter && answer.letter != chosen}">
-            <b>{{answer.letter}})</b> {{answer.text}}
+            <b>{{answer.letter}})</b>  <span [innerHTML]="answer.text"></span>
           </md-radio-button>
         </div>
       </md-radio-group>
