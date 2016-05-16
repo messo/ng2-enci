@@ -57,6 +57,11 @@ export class AssociationCard {
 
   submitAnswer() {
     this.answer.emit(new AnsweredAssocation(this.task, this.options));
+    this.reset();
+  }
+  
+  reset() {
+    this._chosen = null;
   }
 
 }

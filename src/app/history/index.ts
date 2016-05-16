@@ -1,2 +1,2 @@
 export * from './history.component';
-export * from './recent.component';
+export * from './mistakes.component';

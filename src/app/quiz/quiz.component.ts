@@ -1,8 +1,10 @@
 import {Component} from 'angular2/core';
 import {AppState} from '../app.service';
-import {QuestionCard, AnsweredQuestion} from '../question';
-import {AssociationCard, AnsweredAssocation} from '../association';
+import {QuestionCard} from '../question';
+import {AssociationCard} from '../association';
 import {RouterActive} from "../router-active/router-active.directive";
+import {Router} from "angular2/router";
+import {AnsweredTask} from "./answered-task";
 
 @Component({
   selector: 'quiz',
@@ -13,7 +15,7 @@ import {RouterActive} from "../router-active/router-active.directive";
 })
 export class Quiz {
 
-  constructor(public appState:AppState) {
+  constructor(public appState:AppState, public router:Router) {
 
   }
 
@@ -25,24 +27,28 @@ export class Quiz {
     return this.appState.currentTask && this.appState.currentTask.type == 'ASSOCIATION';
   }
 
-  onQuestionAnswer(answer:AnsweredQuestion) {
-    if (AppState.isCorrect(answer)) {
-      this.appState.solvedTasks.push(answer);
+  checkQuestion(card:QuestionCard) {
+    card.chosen = card.solution;
+  }
+
+  checkAssociation(card:AssociationCard) {
+    card.chosen = card.options;
+  }
+
+  onAnswer(answeredTask:AnsweredTask) {
+    if (AppState.isCorrect(answeredTask)) {
+      this.appState.solvedTasks.push(answeredTask);
     } else {
-      this.appState.solvedTasks.unshift(answer);
+      this.appState.solvedTasks.unshift(answeredTask);
     }
-    this.appState.recentlySolvedTasks.push(answer);
+
     this.appState.nextTask();
   }
 
-  onAssociation(association:AnsweredAssocation) {
-    if (AppState.isCorrect(association)) {
-      this.appState.solvedTasks.push(association);
-    } else {
-      this.appState.solvedTasks.unshift(association);
-    }
-    this.appState.recentlySolvedTasks.push(association);
+  putBack() {
+    const task = this.appState.currentTask;
     this.appState.nextTask();
+    this.appState.remainingTasks.unshift(task);
   }
 
 }

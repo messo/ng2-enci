@@ -1,11 +1,10 @@
 import {Component, ViewEncapsulation} from 'angular2/core';
 import {RouteConfig} from 'angular2/router';
 import {AppState} from './app.service';
-import {RouterActive} from './router-active';
 import {Database} from './database';
 import {Quiz} from './quiz';
 import {LocalStorageService} from 'angular2-localstorage/LocalStorageEmitter';
-import {History, Recent} from "./history";
+import {History, Mistakes} from "./history";
 
 @Component({
   selector: 'app',
@@ -22,7 +21,7 @@ import {History, Recent} from "./history";
 @RouteConfig([
   {path: '/', name: 'Quiz', component: Quiz, useAsDefault: true},
   {path: '/history', name: 'History', component: History},
-  {path: '/recent', name: 'Recent', component: Recent}
+  {path: '/mistakes', name: 'Mistakes', component: Mistakes}
 ])
 export class App {
   angularclassLogo = 'assets/img/angularclass-avatar.png';
@@ -36,9 +35,9 @@ export class App {
     const currentVersions = {
       'biof': 1,
       'gyhat': 1,
-      'gykem': 1,
+      'gykem': 2,
       'gymb': 1,
-      'gynd': 2,
+      'gynd': 3,
       'gytech': 1,
       'gytort': 1,
       'gyuszt': 2,
@@ -47,7 +46,9 @@ export class App {
 
     const changes = {
       'gynd/2': ['GYND - 6.155'],
-      'gyuszt/2': ['GYÜSZT - 9.21']
+      'gyuszt/2': ['GYÜSZT - 9.21'],
+      'gykem/2': ['GYKÉM - 3.290'],
+      'gynd/3': ['GYND - 6.165']
     };
 
     let toLoad = 9;
@@ -92,7 +93,7 @@ export class App {
                   console.log('Updating ' + taskId + ' with ', newTask);
                   let updated = false;
                   for (let j = 0; j < this.appState.remainingTasks.length; j++) {
-                    if (this.appState.remainingTasks[j].id == newTask.id) {
+                    if (this.appState.remainingTasks[j].id == newTask.id || this.appState.remainingTasks[j].id == null) {
                       console.log("remaining update: " + newTask.id);
                       this.appState.remainingTasks[j] = newTask;
                       updated = true;
@@ -105,7 +106,7 @@ export class App {
                   }
 
                   for (let j = 0; j < this.appState.solvedTasks.length; j++) {
-                    if (this.appState.solvedTasks[j].task.id == newTask.id) {
+                    if (this.appState.solvedTasks[j].task.id == newTask.id || this.appState.solvedTasks[j].task.id == null) {
                       console.log("solved update: " + newTask.id);
                       this.appState.solvedTasks.splice(j, 1);
                       this.appState.remainingTasks.unshift(newTask);

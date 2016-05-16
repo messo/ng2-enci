@@ -3,16 +3,55 @@
 
   <span class="fill-remaining"></span>
 
-  <button md-raised-button="" [routerLink]=" ['History'] ">Összes</button>
+  <button md-raised-button="" [routerLink]=" ['History'] ">Megoldottak</button>
 
-  <button md-raised-button="" [routerLink]=" ['Recent'] " color="warn">Legutóbbiak</button>
+  <button md-raised-button="" [routerLink]=" ['Mistakes'] " color="warn">Hibásak</button>
+
 </md-toolbar>
 
 <div class="md-content">
-  <question-card *ngIf="currentTaskIsQuestion" [question]="appState.currentTask"
-                 (answer)="onQuestionAnswer($event)"></question-card>
+  <question-card #questionCard
+                 *ngIf="currentTaskIsQuestion"
+                 [question]="appState.currentTask"
+                 (answer)="onAnswer($event)">
+    <button md-raised-button color="accent"
+            [disabled]="!questionCard.solution"
+            (click)="checkQuestion(questionCard)"
+            *ngIf="!questionCard.chosen">
+      Ellenőrzés
+    </button>
+    <button md-raised-button color="primary"
+            (click)="questionCard.submitAnswer()"
+            *ngIf="questionCard.chosen">
+      Következő
+    </button>
+    <button md-raised-button
+            (click)="questionCard.reset(); putBack()"
+            *ngIf="questionCard.chosen">
+      Újra
+    </button>
+  </question-card>
 
-  <association-card *ngIf="currentTaskIsAssociation" [task]="appState.currentTask"
-                    (answer)="onAssociation($event)"></association-card>
+  <association-card #associationCard
+                    *ngIf="currentTaskIsAssociation"
+                    [task]="appState.currentTask"
+                    (answer)="onAnswer($event)">
+    <button md-raised-button color="accent"
+            [disabled]="!associationCard.allOptionSelected"
+            (click)="checkAssociation(associationCard)"
+            *ngIf="!associationCard.chosen">
+      Ellenőrzés
+    </button>
+    <button md-raised-button color="primary"
+            (click)="associationCard.submitAnswer()"
+            *ngIf="associationCard.chosen">
+      Következő
+    </button>
+    <button md-raised-button
+            (click)="associationCard.reset(); putBack()"
+            *ngIf="associationCard.chosen">
+      Újra
+    </button>
+  </association-card>
 
 </div>

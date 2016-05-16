@@ -31,7 +31,12 @@ export class QuestionCard {
 
   submitAnswer() {
     this.answer.emit(new AnsweredQuestion(this.question, this.solution));
+    this.reset();
+  }
+
+  reset() {
     this.solution = null;
+    this._chosen = null;
   }
 
 }

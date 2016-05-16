@@ -1,0 +1,28 @@
+<md-toolbar color="primary">
+  <span>Tesztelő / Hibásak</span>
+
+  <span class="fill-remaining"></span>
+
+  <button md-raised-button="" [routerLink]=" ['Quiz'] ">Folytatás</button>
+</md-toolbar>
+
+<div class="md-content">
+  <div *ngFor="#answer of tasks;#index = index" style="margin-top: 15px">
+    <question-card *ngIf="AppState.isQuestion(answer)"
+                   [question]="answer.task"
+                   [chosen]="answer.answerLetter">
+      <button md-raised-button (click)="moveItBack(index)" color="accent">
+        Újra
+      </button>
+    </question-card>
+
+    <association-card *ngIf="AppState.isAssociation(answer)"
+                      [task]="answer.task"
+                      [chosen]="answer.answerLetters">
+      <button md-raised-button (click)="moveItBack(index)" color="accent">
+        Újra
+      </button>
+    </association-card>
+  </div>
+
+</div>
