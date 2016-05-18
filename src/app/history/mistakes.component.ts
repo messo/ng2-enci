@@ -23,10 +23,14 @@ export class Mistakes {
   }
 
   private fillTasks():void {
-    var mistakes = this.appState.solvedTasks.filter((value, index, array) => {
+    var mistakes = this.mistakes;
+    this.tasks = mistakes.slice(0, Math.min(10, mistakes.length));
+  }
+
+  get mistakes():Array {
+    return this.appState.solvedTasks.filter((value, index, array) => {
       return !AppState.isCorrect(value);
     });
-    this.tasks = mistakes.slice(0, Math.min(10, mistakes.length));
   }
 
   moveItBack(index:number):void {

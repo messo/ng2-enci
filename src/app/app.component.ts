@@ -35,7 +35,7 @@ export class App {
     const currentVersions = {
       'biof': 1,
       'gyhat': 1,
-      'gykem': 2,
+      'gykem': 3,
       'gymb': 1,
       'gynd': 3,
       'gytech': 1,
@@ -48,7 +48,8 @@ export class App {
       'gynd/2': ['GYND - 6.155'],
       'gyuszt/2': ['GYÜSZT - 9.21'],
       'gykem/2': ['GYKÉM - 3.290'],
-      'gynd/3': ['GYND - 6.165']
+      'gynd/3': ['GYND - 6.165'],
+      'gykem/3': ['GYKÉM - 3.73']
     };
 
     let toLoad = 9;
