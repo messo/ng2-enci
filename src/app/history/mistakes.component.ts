@@ -27,7 +27,7 @@ export class Mistakes {
     this.tasks = mistakes.slice(0, Math.min(10, mistakes.length));
   }
 
-  get mistakes():Array {
+  get mistakes():Array<AnsweredTask> {
     return this.appState.solvedTasks.filter((value, index, array) => {
       return !AppState.isCorrect(value);
     });
