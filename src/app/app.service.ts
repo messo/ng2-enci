@@ -1,34 +1,32 @@
-import {Injectable} from 'angular2/core';
-import {Task} from './model';
-import {LocalStorage} from 'angular2-localstorage/WebStorage';
-import {AnsweredTask} from "./quiz/answered-task";
-import {AnsweredQuestion} from "./question/answered-question";
-import {AnsweredAssocation} from "./association/answered-association";
+import { Injectable } from 'angular2/core';
+import { Task } from './model';
+import { LocalStorage } from 'angular2-localstorage/WebStorage';
+import { AnsweredTask } from "./quiz/answered-task";
+import { AnsweredQuestion } from "./question/answered-question";
+import { AnsweredAssocation } from "./association/answered-association";
 
 @Injectable()
 export class AppState {
-  public loading:Boolean = true;
+  public loading: Boolean = true;
 
   @LocalStorage()
   public versions = {};
 
   @LocalStorage()
-  public currentTask = null;
+  public currentTask: Task = null;
 
   @LocalStorage()
-  public remainingTasks:Array<Task> = [];
+  public remainingTasks: Array<Task> = [];
 
   @LocalStorage()
-  public solvedTasks:Array<AnsweredTask> = [];
-
-  public recentlySolvedTasks:Array<AnsweredTask> = [];
+  public solvedTasks: Array<AnsweredTask> = [];
 
 
   constructor() {
 
   }
 
-  nextTask():void {
+  nextTask(): void {
     if (this.remainingTasks.length == 0) {
       this.currentTask = null;
     } else {
@@ -37,16 +35,16 @@ export class AppState {
     }
   }
 
-  get remainingCount():number {
+  get remainingCount(): number {
     return this.remainingTasks.length;
   }
 
-  static isCorrect(answer:AnsweredTask):boolean {
+  static isCorrect(answer: AnsweredTask): boolean {
     if (this.isQuestion(answer)) {
-      const answeredQuestion:AnsweredQuestion = <AnsweredQuestion>answer;
+      const answeredQuestion: AnsweredQuestion = <AnsweredQuestion>answer;
       return answeredQuestion.answer.letter == answeredQuestion.task.solution.letter
     } else if (this.isAssociation(answer)) {
-      const answeredAssociation:AnsweredAssocation = <AnsweredAssocation>answer;
+      const answeredAssociation: AnsweredAssocation = <AnsweredAssocation>answer;
       for (let i = 0; i < answeredAssociation.task.items.length; i++) {
         if (answeredAssociation.task.items[i].match != answeredAssociation.answerLetters[i]) {
           return false;
@@ -57,11 +55,11 @@ export class AppState {
     }
   }
 
-  static isQuestion(answer:AnsweredTask):boolean {
+  static isQuestion(answer: AnsweredTask): boolean {
     return answer.task.type == 'QUESTION';
   }
 
-  static isAssociation(answer:AnsweredTask):boolean {
+  static isAssociation(answer: AnsweredTask): boolean {
     return answer.task.type == 'ASSOCIATION';
   }
 }

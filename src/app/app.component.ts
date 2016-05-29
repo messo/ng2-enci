@@ -1,10 +1,11 @@
-import {Component, ViewEncapsulation} from 'angular2/core';
-import {RouteConfig} from 'angular2/router';
-import {AppState} from './app.service';
-import {Database} from './database';
-import {Quiz} from './quiz';
-import {LocalStorageService} from 'angular2-localstorage/LocalStorageEmitter';
-import {History, Mistakes} from "./history";
+import { Component, ViewEncapsulation } from 'angular2/core';
+import { RouteConfig } from 'angular2/router';
+import { AppState } from './app.service';
+import { Database } from './database';
+import { Quiz, AnsweredTask } from './quiz';
+import { LocalStorageService } from 'angular2-localstorage/LocalStorageEmitter';
+import { History, Mistakes } from './history';
+import { Task } from './model';
 
 @Component({
   selector: 'app',
@@ -27,23 +28,22 @@ export class App {
   angularclassLogo = 'assets/img/angularclass-avatar.png';
   name = 'Angular 2 Webpack Starter';
   url = 'https://twitter.com/AngularClass';
+  currentVersions = {
+    'biof': 1,
+    'gyhat': 1,
+    'gykem': 3,
+    'gymb': 1,
+    'gynd': 3,
+    'gytech': 1,
+    'gytort': 1,
+    'gyuszt': 2,
+    'tgk': 1
+  };
 
-  constructor(public appState:AppState, public database:Database, storageService:LocalStorageService) {
+  constructor(public appState: AppState, public database: Database, storageService: LocalStorageService) {
   }
 
   ngOnInit() {
-    const currentVersions = {
-      'biof': 1,
-      'gyhat': 1,
-      'gykem': 3,
-      'gymb': 1,
-      'gynd': 3,
-      'gytech': 1,
-      'gytort': 1,
-      'gyuszt': 2,
-      'tgk': 1
-    };
-
     const changes = {
       'gynd/2': ['GYND - 6.155'],
       'gyuszt/2': ['GYÜSZT - 9.21'],
@@ -56,26 +56,26 @@ export class App {
 
     console.log("size of database before: " + this.appState.remainingTasks.length);
 
-    for (const group in currentVersions) {
-      if (!currentVersions.hasOwnProperty(group)) {
+    for (const group in this.currentVersions) {
+      if (!this.currentVersions.hasOwnProperty(group)) {
         continue;
       }
 
-      if (currentVersions[group] > this.appState.versions[group] || (typeof this.appState.versions[group] === 'undefined')) {
+      if (this.currentVersions[group] > this.appState.versions[group] || (typeof this.appState.versions[group] === 'undefined')) {
         if (typeof this.appState.versions[group] === 'undefined') {
           this.appState.versions[group] = 0;
         }
 
-        this.database.getData(group, this.appState.versions[group] + 1)
+        this.database.getData(group, (this.appState.versions[group] == 0) ? (this.currentVersions[group]) : (this.appState.versions[group] + 1))
           .subscribe(
             data => {
               toLoad--;
               if (this.appState.versions[group] == 0) {
                 console.log(group + ": " + data.length);
                 this.appState.remainingTasks = this.appState.remainingTasks.concat(data);
-                this.appState.versions[group] = 1;
-              } else if (this.appState.versions[group] + 1 == currentVersions[group]) {
-                const upgrades = changes[group + '/' + currentVersions[group]];
+                this.appState.versions[group] = this.currentVersions[group];
+              } else if (this.appState.versions[group] + 1 == this.currentVersions[group]) {
+                const upgrades = changes[group + '/' + this.currentVersions[group]];
                 for (let i = 0; i < upgrades.length; i++) {
                   const taskId = upgrades[i];
                   let newTask = null;
@@ -137,6 +137,8 @@ export class App {
     if (toLoad == 0) {
       this.onLoadFinished();
     }
+
+    this.doCheck();
   }
 
   onLoadFinished() {
@@ -147,4 +149,46 @@ export class App {
     }
   }
 
+  private doCheck() {
+    const taskIdSet = {};
+    let toLoad = 9;
+
+    if (this.appState.currentTask != null) {
+      taskIdSet[this.appState.currentTask.id] = true;
+    }
+    this.appState.remainingTasks.forEach(function (value: Task, index, array) {
+      taskIdSet[value.id] = true;
+    });
+    this.appState.solvedTasks.forEach(function (value: AnsweredTask, index, array) {
+      taskIdSet[value.task.id] = true;
+    });
+
+    const missing = {};
+
+    console.log(Object.keys(taskIdSet).length);
+
+    for (const group in this.currentVersions) {
+      if (!this.currentVersions.hasOwnProperty(group)) {
+        continue;
+      }
+
+      this.database.getData(group, this.currentVersions[group])
+        .subscribe(
+          (data:Task[]) => {
+            toLoad--;
+            data.forEach(function(value:Task, index, array) {
+              if(!taskIdSet.hasOwnProperty(value.id)) {
+                missing[value.id] = true;
+              }
+            });
+
+            if (toLoad == 0) {
+              alert(JSON.stringify(Object.keys(missing)));
+            }
+          }
+        );
+    }
+
+
+  }
 }
