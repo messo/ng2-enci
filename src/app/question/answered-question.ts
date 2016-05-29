@@ -4,6 +4,7 @@ import {AnsweredTask} from '../quiz/answered-task';
 export class AnsweredQuestion implements AnsweredTask {
 
   public answer: Answer;
+  public examId: string;
 
   constructor(public task: Question, private answerLetter: string) {
     this.answer = task.answers.find((item: Answer, index: number, array: Array<Answer>) => {

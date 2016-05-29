@@ -1,0 +1,63 @@
+<md-toolbar color="primary">
+  <span>Vizsga - Hátra van: {{ remaining }}, Idő: {{ time }}</span>
+
+  <span class="fill-remaining"></span>
+
+  <button md-raised-button="" (click)="finish()">Befejez</button>
+
+</md-toolbar>
+
+<div class="md-content">
+  <question-card #questionCard
+                 *ngIf="currentTaskIsQuestion"
+                 [question]="appState.currentTask"
+                 (answer)="onAnswer($event)">
+    <button md-raised-button color="accent"
+            [disabled]="!questionCard.solution"
+            (click)="questionCard.submitAnswer()">
+      Következő
+    </button>
+  </question-card>
+
+  <association-card #associationCard
+                    *ngIf="currentTaskIsAssociation"
+                    [task]="appState.currentTask"
+                    (answer)="onAnswer($event)">
+    <button md-raised-button color="accent"
+            [disabled]="!associationCard.allOptionSelected"
+            (click)="associationCard.submitAnswer()">
+      Következő
+    </button>
+  </association-card>
+
+  <div *ngIf="remaining === 0">
+
+    <md-card>
+      <md-card-title>Összegzés</md-card-title>
+
+      <md-card-content>
+        Jó: {{ good }}<br>
+        Rossz: {{ bad }}<br>
+        Összes: {{good + bad}}<br>
+        <b>Százalék: {{ good / (good+bad) | percent : '1.0-2'}}</b>
+      </md-card-content>
+
+    </md-card>
+
+    <div class="md-content">
+      <div *ngFor="#answer of wrongAnswers;#index = index" style="margin-top: 15px">
+        <question-card *ngIf="AppState.isQuestion(answer)"
+                       [question]="answer.task"
+                       [chosen]="answer.answerLetter">
+        </question-card>
+
+        <association-card *ngIf="AppState.isAssociation(answer)"
+                          [task]="answer.task"
+                          [chosen]="answer.answerLetters">
+        </association-card>
+      </div>
+
+    </div>
+
+  </div>
+</div>

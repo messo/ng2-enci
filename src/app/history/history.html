@@ -1,5 +1,5 @@
 <md-toolbar color="primary">
-  <span>Tesztelő / Megoldottak ({{appState.solvedTasks.length}} db.)</span>
+  <span>Tesztelő / Megoldottak ({{appState.solvedTasks.length}} db. - Ebből jó: {{appState.goodOnes.length}} db. <b>{{appState.goodOnes.length / appState.solvedTasks.length | percent : '1.0-2'}}</b>)</span>
 
   <span class="fill-remaining"></span>
 

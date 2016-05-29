@@ -35,8 +35,37 @@ export class AppState {
     }
   }
 
+  nextTaskWithError(examId: string): void {
+    let match = -1;
+    let i = 0;
+    while (i < this.solvedTasks.length && !AppState.isCorrect(this.solvedTasks[i])) {
+      if (!this.solvedTasks[i].hasOwnProperty('examId') || this.solvedTasks[i].examId != examId) {
+        match = i;
+        break;
+      }
+      i++;
+    }
+
+
+    // we have error as well!
+    if (Math.random() <= 0.3 && match != -1) {
+      console.log("Error!");
+      this.currentTask = this.solvedTasks.splice(match, 1)[0].task;
+      return;
+    }
+
+    console.log("Sima!");
+    this.nextTask();
+  }
+
   get remainingCount(): number {
     return this.remainingTasks.length;
+  }
+
+  get goodOnes(): AnsweredTask[] {
+    return this.solvedTasks.filter((value, index, array) => {
+      return AppState.isCorrect(value);
+    });
   }
 
   static isCorrect(answer: AnsweredTask): boolean {

@@ -3,6 +3,7 @@ import { RouteConfig } from 'angular2/router';
 import { AppState } from './app.service';
 import { Database } from './database';
 import { Quiz, AnsweredTask } from './quiz';
+import { Exam } from './exam';
 import { LocalStorageService } from 'angular2-localstorage/LocalStorageEmitter';
 import { History, Mistakes } from './history';
 import { Task } from './model';
@@ -22,7 +23,8 @@ import { Task } from './model';
 @RouteConfig([
   {path: '/', name: 'Quiz', component: Quiz, useAsDefault: true},
   {path: '/history', name: 'History', component: History},
-  {path: '/mistakes', name: 'Mistakes', component: Mistakes}
+  {path: '/mistakes', name: 'Mistakes', component: Mistakes},
+  {path: '/exam', name: 'Exam', component: Exam}
 ])
 export class App {
   angularclassLogo = 'assets/img/angularclass-avatar.png';
@@ -138,7 +140,7 @@ export class App {
       this.onLoadFinished();
     }
 
-    this.doCheck();
+    // this.doCheck();
   }
 
   onLoadFinished() {
@@ -163,6 +165,7 @@ export class App {
       taskIdSet[value.task.id] = true;
     });
 
+    const supplement = [];
     const missing = {};
 
     console.log(Object.keys(taskIdSet).length);
@@ -174,11 +177,16 @@ export class App {
 
       this.database.getData(group, this.currentVersions[group])
         .subscribe(
-          (data:Task[]) => {
+          (data: Task[]) => {
             toLoad--;
-            data.forEach(function(value:Task, index, array) {
-              if(!taskIdSet.hasOwnProperty(value.id)) {
-                missing[value.id] = true;
+            data.forEach((value: Task, index, array) => {
+              if (!taskIdSet.hasOwnProperty(value.id)) {
+                if (supplement.indexOf(value.id) != -1) {
+                  // we have it!
+                  this.appState.remainingTasks.unshift(value);
+                } else {
+                  missing[value.id] = true;
+                }
               }
             });
 
