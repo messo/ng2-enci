@@ -1,0 +1,16 @@
+<div class="md-content">
+  <div *ngFor="#question of getAllAnswersAreTrue" style="margin-top: 15px">
+    <md-card>
+      <md-card-subtitle>{{ question.id }}</md-card-subtitle>
+      <md-card-title [innerHTML]="question.text"></md-card-title>
+
+      <md-card-content>
+
+        <p *ngFor="#moreText of question.moreText">
+          <span [innerHTML]="moreText"></span>
+        </p>
+
+      </md-card-content>
+    </md-card>
+  </div>
+</div>

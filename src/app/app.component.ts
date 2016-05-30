@@ -7,6 +7,8 @@ import { Exam } from './exam';
 import { LocalStorageService } from 'angular2-localstorage/LocalStorageEmitter';
 import { History, Mistakes } from './history';
 import { Task } from './model';
+import { Question } from './model/question';
+import { AllTrue } from './quiz/all_true.component';
 
 @Component({
   selector: 'app',
@@ -24,7 +26,8 @@ import { Task } from './model';
   {path: '/', name: 'Quiz', component: Quiz, useAsDefault: true},
   {path: '/history', name: 'History', component: History},
   {path: '/mistakes', name: 'Mistakes', component: Mistakes},
-  {path: '/exam', name: 'Exam', component: Exam}
+  {path: '/exam', name: 'Exam', component: Exam},
+  {path: '/trues', name: 'AllTrue', component: AllTrue}
 ])
 export class App {
   angularclassLogo = 'assets/img/angularclass-avatar.png';
